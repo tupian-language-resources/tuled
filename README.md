@@ -3,7 +3,7 @@
 
 Cite the source dataset as
 
-> +++ Ferraz Gerardi, F., Reichert, S. (2020) TuLeD: Tupían lexical database. Version 0.8. Tübingen: Eberhard-Karls University. +++
+> Ferraz Gerardi, F., Reichert, S. (2020) TuLeD: Tupían lexical database. Version 0.8. Tübingen: Eberhard-Karls University.
 
 This dataset is licensed under a CCBY-NC license
 
