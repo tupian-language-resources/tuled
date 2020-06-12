@@ -1,9 +1,9 @@
-ID	Subfamily	ISO-Code	ID	Glottolog	Longitude	Latitude
+	Subfamily	ISO-Code	ID	Glottolog	Longitude	Latitude
 Xipaya	Juruna	xiy	xiy	xipa1240	-49.948	-4.133
 Juruna	Juruna	jur	jur	juru1256	-53.3472	-10.9354
 Karo (Arara)	Ramarana-Purubora	arr	arr	karo1305	-61.5691	-10.3342
 Puruborá	Ramarana-Purubora	pur	pur	puru1264	-62.4358	-11.4226
-Ntogapíd	Ramarana-Purubora	##?	nto	???	-61.66003	-9.452133
+Ntogapíd (Itogapúk)	Ramarana-Purubora	##?	nto	???	-61.66003	-10.452133
 Ramarama	Ramarana-Purubora	#??	rm	???	-63	-10.4
 Makurap	Tuparí	mpu	mpu	maku1278	-64.3201	-11.8701
 Wayoró	Tuparí	wyr	wyr	wayo1238	-61.3064	-12.6945
@@ -38,16 +38,18 @@ Tenharim	Tupí-Guaraní	xyz	xyz	??????	-61.8972	-8.32882
 Jiahoi	Tupí-Guaraní	???	???	diah1239	-62.27	-8.04
 Juma	Tupí-Guaraní	jua	jua	juma1249	-64.1	-7.28
 Urueuwauwau	Tupí-Guaraní	urz	urz	urue1240	-63.8086	-10.9176
-Tupi do Machado (Wirafed)	Tupí-Guaraní	###	wir	?????	-61.358125	-11.523397
+Tupi do Machado (Wirafed)	Tupí-Guaraní	###	wir	?????	-61.358125	-12.523397
 Kayabí	Tupí-Guaraní	kyz	kyz	kaya1329	-55.5479	-11.2747
 Araweté	Tupí-Guaraní	awt	awt	araw1273	-52.5001	-4.90246
 Anambé of Ehrenreich	Tupí-Guaraní	??#	??#	anam1251	-50.5	-4.5
 Guajá	Tupí-Guaraní	gvj	gvj	guaj1256	-46.3683	-3.93574
+Amanaye	Tupí-Guaraní	ama	ama	aman1266	-48.66	-3.8
 Emerillon (Tekó)	Tupí-Guaraní	eme	eme	emer1243	-52.3699	3.23694
 Wayampí	Tupí-Guaraní	oym	oym	waya1270	-52.6887	1.73817
 Zo'e	Tupí-Guaraní	pto	pto	zoee1240	-55.51	-1.77
 (Urubu) Ka'apor	Tupí-Guaraní	urb	urb	urub1250	-46.2204	-2.46455
 Anambé	Tupí-Guaraní	aan	aan	anam1249	-49.303	-2.71119
+Turiwara	Tupí-Guaraní	twt	twt	turi1247	-49.5	-2
 Kamayura	Tupí-Guaraní	kay	kay	kama1373	-53.4651	-12.2661
 Asurini do Xingu	Tupí-Guaraní	asn	asn	xing1248	-52.321	-4.13463
 Avá-Canoeiro	Tupí-Guaraní	avv	avv	avac1239	-48.1336	-13.6081
