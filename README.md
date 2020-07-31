@@ -20,6 +20,7 @@ Available online at http://www.tuled.org
 
 Name | GitHub user | Description | Role
 --- | --- | --- | ---
-Ferraz Gerardi, F. | | Data Collector | Author
+Ferraz Gerardi, F. |@LanguageStructure | Data Collector | Author
 Reichert, S. | | Data Collector | Author
+Wientzek, T. | | Data Collector | Author
 Mattis-List, J. | |  | 
