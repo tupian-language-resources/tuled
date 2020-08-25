@@ -1,798 +1,400 @@
-Concept	Semantic Field (WOLD)	Portuguese	Concepticon	EOL
-ABOVE	Spatial relations	em cima (de)	1741	
-
-AFTER	Spatial relations	depois (de)	1685	
-
-AGOUTI / PACA	Animals	cutia	313	42029
-
-ALL	Quantity	todos / tudo	98	
-
-ALONE	Quantity	só / sozinho	1964	
-
-ANACONDA	Animals	sucuri	896	794661
-
-ANATTO	Agriculture and vegetation	urucu		584439
-
-ANT	Animals	formiga	587	
-
-ANTEATER	Animals	tamanduá	181	1661
-
-MOUNTAIN SOURSOP 	Food and drink	araticum / jaca de pobre		1054865
-
-ARM	Body	braço	1673	
-
-ARMADILLO	Animals	tatu	1885	
-
-ARRIVE	motion	chegar	1387	
-
-ARROW	Warfare and hunting	flecha	977	
-
-ASH	physical world	cinza(s)	646	
-
-AVENGE	emotions and values	vingar(-se)	495	
-
-AXE	warfare and hunting	machado	677	
-
-AÇAÍ PALM	Agriculture and vegetation	açaí	2437	1100375
-
-BACK	Body	costas	1291	
-
-BABAÇU	Agriculture and vegetation	babaçu		1131651
-
-BAD / EVIL	emotions and values	mau / mal / ruim	3764	
-
-BAMBOO	Agriculture and vegetation	taquara / bambu	1827	
-
-BANANA	Food and drink	banana	868	44527
-
-BASKET	Basic actions and technology	Cesto / cesta	1539	
-
-BAT	Animals	morcego	1793	7631
-
-BATHE	Body	banhar-se	138	
-
-BEADS	"Clothing and grooming	"	miçangas / contas	1860	
-
-BE WRONG	emotions and values	errar / estar errado	1390	
-
-BEANS	Food and drink	feijão	2574	4277
-
-BEARD	Body	barba	678	
-
-BEAUTIFUL	Emotions and values	bonito	1427	
-
-BEE	Animals	abelha	665	
-
-BELLY	Body	umbigo	1251	
-
-BELLYBUTTON	Body	umbigo	3715	
-
-BELOW	Spatial relations	em baixo de / abaixo	1485	
-
-BENCH	Basic actions and technology	banco	2584	
-
-BIG	Spatial relations	grande	1202	
-
-BIRD	Animals	pássaro	937	
-
-BITE	Body	morder	1403	
-
-BLACK	Sense perception	preto	163	
-
-BLOOD	Body	sangue	946	
-
-BLOW	motion	soprar	176	
-
-BLUE	Sense perception	azul	837	
-
-BONE	Body	osso	1394	
-
-BOW	"Warfare and hunting	"	arco	994	
-
-BOY	kinship	menino	1366	
-
-BRANCH	Agriculture and vegetation	galho	1531	
-
-BRAZIL NUT	Food and drink	castanha do Pará		321258
-
-BREAK	Basic actions and technology	quebrar / romper	3020	
-
-BREAST	Body	seio	1402	
-
-BREATHE	Body	respirar	1407	
-
-BROTHER	kinship	irmão	1262	
-
-BROTHER (y of m)	kinship	irmão		
-
-BROTHER (o of m)	kinship	irmão		
-
-BROTHER (y of w)	kinship	irmão		
-
-BROTHER (o of w)	kinship	irmão		
-
-BURN (intr)	physical world	queimar	2102	
-
-BURN (tr)	physical world	queimar	141	
-
-BURY	Body	enterrar	1719	
-
-BUTTOCKS	Body	nádegas	834	
-
-SLASH / GARDEN	Agriculture and vegetation	roça	201	
-
-BUTTERFLY	Animals	borboleta	1791	854
-
-CALABASH / GOURD	Agriculture and vegetation	cabaça, cuia	411	578228
-
-CANOE	Motion	canoa	1970	
-
-CAPUCHIN MONKEY	Animals	macaco prego		28561340
-
-CAPYBARA	Animals	capivara	314	326517
-
-CARÁ ROOT / YAM	Agriculture and vegetation	inhame	410	8214
-
-CHIEF / MASTER / OWNER	"Social and political relations	"	chefe / cacique	2394	
-
-CASHEW	Food and drink	caju	2441	71147
-
-CHILD	kinship	criança	2099	
-
-CICADA	Animals	cigarra	2353	2645413
-
-CLAW	Body	garra	2128	
-
-CLAY / MUD	Basic actions and technology / The physical world	barro / argila	1399 / 640	
-
-CLOUD	physical world	nuvem	1489	
-
-COATI	Animals	quati	2389	328601
-
-COCKROACH	Animals	barata	1575	413
-
-COCOA	Agriculture and vegetation	cacau	2442	484592
-
-COLD	Sense perception	frio	1287	
-
-COME	motion	vir	1446	
-
-COMB	clothing and grooming	pente	1475	
-
-CORN / MAIZE	Agriculture and vegetation	milho	3686	1115259
-
-COTTON	clothing and grooming	algodão	1850	47124114
-
-CRAB	Animals	carangueijo	2348	
-
-CRICKET (zool)	Animals	grilo	2354	996
-
-CRY	emotions and values	chorar	1839	
-
-CURASSOW	Animals	mutum	315	45512062
-
-CUT	Basic actions and technology	cortar	1432	
-
-DANCE	motion	dançar	1579	
-
-DAUGHTER OF WOMAN	kinship	filha de mulher	1357	
-
-DAUGHTER OF MAN	kinship	filha de homem	1357	
-
-DAY	time	dia	1260	
-
-DEER	Animals	veado	1936	
-
-DEFECATE	Body	defecar	676	
-
-DIE	Body	morrer	1494	
-
-DIG	"Agriculture and vegetation	"	cavar	1418	
-
-DIGGING STICK	"Agriculture and vegetation	"	vara de escavação	339	
-
-DIRTY	sense perception	sujo	1230	
-
-DO / MAKE	basic actions and technology	fazer	813	
-
-DOG	Animals	cachorro / cão	2009	
-
-DOOR	The house	porta	1567	
-
-DRAW / PAINT	Basic actions and technology	pintar / desenhar	3122	
-
-DRESS UP	clothing and grooming	vestir(-se)	814	
-
-DRINK (v)	Food and drink	beber	1401	
-
-DRY	Basic actions and technology	secar	1786	
-
-DRY (state)	Sense perception	seco	1398	
-
-EARTH / LAND	physical world	terra / país	3603	
-
-EAR	Body	orelha	1247	
-
-EAT (intr.)	Food and drink	comer	1336	
-
-EAT (tr.)	Food and drinkFood and drink	comer	1336	
-
-EGG	Food and drink	ovo	744	
-
-Cecropia (Gen.)	Agriculture and vegetation	embaúba / imbaúba		61334
-
-ELECTRIC EEL	Animals	enguia / peixe elétrico / poraquê	2443	206595
-
-ENTER	motion	entrar	749	
-
-EYE	Body	olho	1248	
-
-FACE	Body	cara / rosto / face	1560	
-
-FALL	motion	cair	1280	
-
-FAR	Spatial relations	longe	1406	
-
-FAT / GREASE	Food and drink	gordura / banha	1282	
-
-FATHER	kinship	pai	1217	
-
-FEAR / BE AFRAID	emotions and values	temer / ter medo	1419	
-
-FEATHER	Body	pena / pluma	1201	
-
-FINGER	Body	dedo	1303	
-
-FIRE	physical world	fogo	221	
-
-FIREFLY / GLOWWORM	Animals	vagalume / pirilampo	206	7487
-
-FIREWOOD	physical world	lenha	10	
-
-FISH	Animals	peixe	227	
-
-FISHHOOK	Warfare and hunting	anzol	1074	
-
-FLAT	Spatial relations	plano / liso	1633	
-
-FLEA / CHIGGER	Animals	pulga	232	3197988
-
-FLESH / MEAT	Food and drink	carne	2615	
-
-FLOUR	Food and drink	farinha	1594	
-
-FLOWER	Agriculture and vegetation	flor	239	
-
-FLY	motion	voar	1441	
-
-FLY (insect)	Animals	mosca	1504	421
-
-FOOD	Food and drink	comida	256	
-
-FOOT	Body	pé	1301	
-
-FORGET	Cognition	esquecer	1523	
-
-FOUR	Quantity	quatro	1500	
-
-FROG / TOAD	Animals	sapo	503	1553
-
-FRUIT	Food and drink	fruta	1507	
-
-FULL	Quantity	cheio	1429	
-
-GATHER	Spatial relations	(a)juntar / recolher	7	
-
-GENIPA	Agriculture and vegetation	jenipapo / genipa		23769802
-
-GIRL	kinship	menina	1646	
-
-GIVE	possession	dar	1447	
-
-GNAT / PIUM	Animals	mutum dikʔa		49316918
-
-GO	motion	ir	695	
-
-GO UP	motion	subir	705	
-
-GOOD / WELL	emotions and values	bom / bem	1035	
-
-GRANDFATHER	kinship	avô	1383	
-
-GRASS	Agriculture and vegetation	grama	606	
-
-GREEN	Sense perception	verde	1425 / 2382	
-
-GROW	Spatial relations	crescer	479	
-
-GREEN IGUANA	Animals	camaleão	1578	793235
-
-GUAN / JACU	Animals	jacú	437	45508953
-
-HAIR	Body	cabelo	2648	
-
-HAMMOCK	house	rede	2019	
-
-HAND	Body	mão	1277	
-
-HAPPY	emotions and values	feliz / contente	1495	
-
-HAWK	Animals	Gavião	307	
-
-HEAD	Body	cabeça	1256	
-
-HEAL	Body	curar / sarar	499	
-
-HEAR / LISTEN	Sense perception	escutar / ouvir	1408 / 1608	
-
-HEART	Body	coração	1223	
-
-HEAVY	Sense perception	pesado	1210	
-
-HEDGEHOG	Animals	ouriço / porco-espinho	1797	327162
-
-HELP	Social and political relations	ajudar	1897	
-
-HEN / CHICKEN	Animals	galinha	1318	49953003
-
-HERE	"Miscellaneous function words	"	aqui	136	
-
-HIDE	Spatial relations	esconder	2486	
-
-HIT	Basic actions and technology	bater	1433	
-
-HOLE	spatial relations	buraco	1667	
-
-HONEY	Food and drink	mel	942	
-
-HORN	Body	chifre	1393	
-
-HOT	Sense perception	quente	1286	
-
-HOUSE	house	casa	1252	
-
-HOWLER MONKEY	Animals	(macaco) bugio / guariba	433	41553
-
-HUMMINGBIRD	Animals	beija-flor / colibri	1589	8021
-
-HUNT	Warfare and hunting	caçar	1435	
-
-HUSBAND	Kinship	marido	1200	
-
-I	Miscellaneous function word	eu	1209	
-
-INGA	Food and drink	ingá		47114559
-
-INSIDE	Function word	dentro (de)	1606	
-
-JACARÉ / CAIMAN / CROCODILE	Animals	jacaré	1857	2820255
-
-JAGUAR	Animals	onça	1250	328606
-
-JUMP	Motion	saltar	1829	
-
-KILL	Body	matar	1417	
-
-KING FISHER	Animals	Guarda-rios / martim-pescador		7975
-
-KNEE	Body	joelho	1371	
-
-KNIFE	Basic actions and technology	faca	1352	
-
-KNOW	cognition	saber	3626	
-
-LAKE	physical world	lago / lagoa	624	
-
-LARGE ANT / BULLET ANT	Animals	tocandira / tucandeira		403327
-
-LARGE MANDI FISH	Animals	bagre / mandi / surubim-bagre		46582210
-
-LAUGH	emotions and values	rir	1355	
-
-LEAF	Agriculture and vegetation	folha	628	
-
-LEARN	cognition	aprender	504	
-
-LEAVE / GO OUT	motion	sair	1752	
-
-LEG	Body	perna	1297	
-
-LAY (DOWN)	Spatial relations	deitar(-se)	2071	
-
-LIVER	Body	fígado	1224	
-
-LIZARD	Animals	lagarto / calango	632	
-
-LONG / TALL	patialrelations	comprido / longo / alto	1203 / 2143	
-
-LOOK AT	sense  and perception	olhar	1819	
-
-GETLOST / LOOSEoneS	sense and perception	perder-se	423	
-
-LOUSE	Animals	piolho	1392	1002
-
-MACAW	Animals	arara	1630	1177964
-
-MAGGOT / LARVA	Animals	larva	/ 2640	
-
-MAN	kinship	homem	1554	
-
-MANIOC	Agriculture and vegetation	madioca	927	1154718
-
-MANY	Quantity	muitos	1198	
-
-MEDICINE	Body	remédio	1372	
-
-MILK	Food and drink	leite	635	
-
-MONKEY	Animals	macaco	1350	
-
-MOON	physical world	lua	1313	
-
-MORNING	Time	manhã	1339	
-
-MOUNTAIN / HILL	physical world	montanha / monte / morro	639 / 2118	
-
-MOSQUITO	Animals	pernilongo / muriçoca / carapanã	1509	473
-
-MOTHER	kinship	MOTHER	1216	
-
-MOTHER-IN-LAW (of men)	kinship	sogra(de homem)	2257	
-
-MOTHER-IN-LAW (of woman)	kinship	sogra(de mulher)	2256	
-
-MOULD	physical world	mofo		
-
-MOUSTACHE	Body	bigode	1165	
-
-MOUTH	Body	boca	674	
-
-NAIL / CLAW	Body	unha / garra	2128	
-
-NAME	speech and language	nome	1405	
-
-NECK	Body	pescoço	1333	
-
-NEST	Animals	ninho	539	
-
-NEW	time	novo	1231	
-
-NIGHT	time	noite	1233	
-
-NOSE	Body	nariz	1221	
-
-NOW	Time	agora	1376	
-
-OAR	Motion	remo	3137	
-
-OLD (adj)	Time	velho	1229	
-
-ONE	Quantity	um	1493	
-
-OPEN	Spatial relations	abrir	1156	
-
-OPOSSUM / SKUNK	Animals	gambá	309	328504
-
-OTHER / SOME	miscellaneous function words	outro / algum	197 /1241	
-
-OWL	Animals	coruja	735	696
-
-PACA	Animals	paca	316	326582
-
-PACU FISH	Animals	pacu		215393
-
-PAIN / HURT	emotions and values	dor / machucado	1783 / 2561	
-
-PAN	Food and drink	panela	31	
-
-PAPAYA	Agriculture and vegetation	mamão	2445	585682
-
-PARROT	Animals	papagaio	882	1591
-
-PATH / WAY	motion	caminho	2252	
-
-PEACH PALM	Agriculture and vegetation	pupunha		1130861
-
-PEANUT	Agriculture and vegetation	amendoim	2364	641309
-
-PECCARY (collared)	Animals	porco do mato / caititu / caitetu	435	1037712
-
-PECCARY (white-lipped)	Animals	queixada	436	357663
-
-PENIS	Body	pênis	1222	
-
-PEPPER	Food and drink	pimenta	1385	
-
-PERSON / HB / SOMEONE	kinship	pessoa / serhumano / alguém	683	
-
-PESTLE	"Food and drink	"	pilão	225	
-
-PESTLE (verb)	Basic actions and technology	pilar		
-
-PIERCE	Basic actions and technology	furar / espetar	398	
-
-PINEAPPLE	Food and drink	abacaxi	2440	1126520
-
-PIRANHA	Animals	piranha	317	
-
-PLAY	emotions and values	brincar	1413	
-
-PLAY (2) (CAUSE TO JUMP)	emotions and values	brincar (2)		
-
-PORRIDGE	Food and drink	mingau		
-
-PUMPKIN	Food and drink	abóbora / moranga /	864	
-
-PUT	Spatial relations	pôr / colocar	998	
-
-RAIN	physical world	chuva	658	
-
-RAT	Animals	rato	1490	
-
-RAW	Food and drink	cru	1959	
-
-RED	Sense perception	vermelho	156	
-
-REMEMBER	Cognition	lembrar(-se)	707	
-
-RESIN	The physical world	resina	664	
-
-RETURN / COME BACK	motion	virar / voltar	581	
-
-RIPE	Food and drink	maduro	178	
-
-RIVER	physical world	rio	666	
-
-ROAST	"Food and drink	"	assar	1962	
-
-ROOT	Agriculture and vegetation	raíz	670	
-
-ROPE	Basic actions and technology	corda	1218	
-
-ROUND	Spatial relations	redondo	1395	
-
-ROW	Motion	remar	1849	
-
-RUN	motion	correr	1519	
-
-SAD(NESS)	emotions and values	triste(za)	699	
-
-SALIVA	Body	saliva	1503	
-
-SALT	Food and drink	sal	1274	
-
-SAND	physical world	areia	1127	
-
-SAY	speech and language	dizer	1458	
-
-SCARE	emotions and values	assustar / amedrontar	252	
-
-SCORPION	Animals	escorpião	1538	
-
-SEE	Sense perception	ver	1409	
-
-SEED	Agriculture and vegetation	semente	714	
-
-SEEK / LOOK FOR / SEARCH	possession	buscar / procurar	1468	
-
-SEND	motion	enviar	1127	
-
-SHAMAN	Relegion and belief	pajé	394	
-
-SHARPEN	Sense perception	afiar	251	
-
-SHELL / BARK	Agriculture and vegetation	casca / pele	1204 / 2127	
-
-SHELL	Animals	concha	598	
-
-SHORT	Spatial relations	curto	1645	
-
-SICK / ILL	Body	doente	1847	
-
-SING	Speech and language	cantar	1261	
-
-SISTER	kinship	irmã	1263	
-
-SISTER, younger	kinship	irmã		
-
-SISTER, older	kinship	irmã		
-
-SISTER, of m	kinship	irmã		
-
-SIT	Spatial relations	sentar(-se)	1416	
-
-SKIN	Body	pele	763	
-
-SKY	physical world	céu	1732	
-
-SLEEP	Body	dormir	1585	
-
-SLOTH	Animals	bicho preguiça	2446	
-
-SMALL	Spatial relations	pequeno	1246	
-
-SMOKE (n)	physical world	fumaça	778	
-
-SNAIL	Animals	caracol / lesma	1543	
-
-SNAKE	Animals	cobra	730	
-
-SNORE	Body	roncar	1983	
-
-SON OF WOMAN	kinship	filho de mulher	1620	
-
-SON OF MAN	kinship	filho de homen	1620	
-
-SOUR / ACID /BITTER	Sense perception	azedo / amargo	1906	
-
-SPEAK	speech and language	falar	1623	
-
-SPIDER	Animals	aranha	843	166
-
-SPIDER MONKEY /	Animals	macaco preto / macaco aranha / coatá	434	41555
-
-SPROUT	"Basic actions and technology	"	brotar / germinar	2076	
-
-SQUIRREL	Animals	esquilo	1628	2846690
-
-STAND	Body	estar de / em pé / levantar	1442	
-
-STAR	physical world	estrela	1430	
-
-STINGRAY	Animals	arraia	1910	46560356
-
-STOMACH	Body	estômago	819	
-
-STONE	physical world	pedra	857	
-
-STRONG	Body	forte	785	
-
-SUCK	Food and drink	sugar / chupar	1421	
-
-SUN	physical world	sol	1343	
-
-SURUBIM_FISH	Animals	pintado / bagre (?)		356148
-
-SWEEP	Basic actions and technology	varrer	230	
-
-SWEET	Sense perception	doce	717	
-
-SWEET POTATO	Food and drink	batat-doce	159	580962
-
-SWIM	motion	nadar	1439	
-
-TAIL	Body	rabo / cauda	1220	
-
-TAPIR	Animals	anta	312	
-
-TAYRA	Animals	Irara		328036
-
-TEACH	cognition	ensinar	709	
-
-TELL / NARRATE	speech and language	contar	1711	
-
-TERMINATE / FINISH	time	acabar / terminar	1766	
-
-TERMITE	Animals	cupim	883	
-
-TESTICLES	Body	testículos	797	
-
-THAT	miscellaneous function words	aquele / aquilo	78	
-
-THICK	"Spatial relations	"	grosso	1244	
-
-THING	possession	coisa	738	
-
-THIS	miscellaneous function words	este	1214	
-
-THREE	Quantity	três	492	
-
-THORN	Agriculture and vegetation	espinho	124	
-
-THUNDER	physical world	trovão	1150	
-
-THROAT	Body	garganta	1346	
-
-TICK	Animals	carrapato	1527	
-
-TIE	Basic actions and technology	atar / amarrar	1917	
-
-TIMBO LIANA	Agriculture and vegetation	timbó	2388	
-
-TINAMOU	Animals	inhambu / nambu / perdiz / xororó		8669
-
-TIRED	Body	cansado	1757	
-
-TOBACCO	Agriculture and vegetation	fumo / tabaco	974	38459
-
-TODAY	Time	hoje	1283	
-
-TOMORROW	Time	amanhã	1329	
-
-TONGUE	Body	língua	1205	
-
-TOOTH	Body	dente	1380	
-
-TOUCAN	Animals	tucano	308	1593
-
-TRAHIRA FISH	Animals	traíra		6903
-
-TREE	Agriculture and vegetation	árvore	906	
-
-TUCUMA_PALM / AWARA	Agriculture and vegetation	tucumã	2439	29370
-
-TURTLE	Animals	tartaruga / jaboti / jabuti	112	794307
-
-TWO	Quantity	dois / duas	1498	
-
-UGLY	emotions and values	feio	1548	
-
-UNCLE (MoBr)	kinship	tio (materno)	2692	
-
-UNTIE	Basic actions and technology	desatar / desamarrar / soltar	352	
-
-URINATE	Body	urinar		
-
-VEIN	Body	veia	1924	
-
-VILLAGE	"social and political relations	"	aldeia	930	
-
-VILLAGE SQUARE	"social and political relations	"	pátio /praça		
-
-VOMIT	Body	vomitar	1278	
-
-VULTURE	Animals	urubú	1185	2922049
-
-WAKE UP	The body	acordar	1602	
-
-WALK	motion	andar / caminhar	1443	
-
-WANT	emotions and values	querer	1784	
-
-WASH	Basic actions and technology	lavar	1453	
-
-WASP	Animals	vespa	1517	
-
-WATER	physical world	água	948	
-
-WAX	Animals	cera		
-
-WE (EXCL)	kinship	nós	1130	
-
-WE (INCL)	kinship	nós	1131	
-
-WEAVE	"Basic actions and technology	"	tecer	133	
-
-WET	Sense perception	molhado	1726	
-
-WHAT (?)	miscellaneous function words	oquê	1236	
-
-WHITE	Sense perception	branco	1335	
-
-WHO (?)	miscellaneous function words	quem	1235	
-
-WIFE	kinship	esposa	1199	
-
-WILD CAT	Animals	gato do mato	2241	311661
-
-WILD DOG	Animals	cachorro do mato	2448	328685
-
-WIND	physical world	vento	960	
-
-WING	Body	asa	1257	
-
-WING(2)	Body	asa	1257	
-
-WOODPECKER	Animals	pica-pau	2447	1595
-
-WOMAN	kinship	mulher	962	
-
-WORM (EARTH)	Animals	verme / minhoca	2350	
-
-WOUND	The body	ferida	1109	
-
-YELLOW	Sense perception	amarelo	1424	
-
-YOU (sg)	kinship	você / tu	1213	
-
-YOU (pl)	kinship	vocês / vós	1213	
+ENGLISH	PORTUGUESE	CONCEPTICON_ID	EOL
+ABOVE	em cima (de)	1741	
+AFTER	depois (de)	1685	
+AGOUTI / PACA	cutia	313	42029
+ALL	todos / tudo	98	
+ALONE	só / sozinho	1964	
+ANACONDA	sucuri	896	794661
+ANATTO	urucu		584439
+ANT	formiga	587	
+ANTEATER	tamanduá	181	1661
+ARM	braço	1673	
+ARMADILLO	tatu	1885	
+ARRIVE	chegar	1387	
+ARROW	flecha	977	
+ASH	cinza(s)	646	
+AVENGE	vingar(-se)	495	
+AXE	machado	677	
+AÇAÍ PALM	açaí	2437	1100375
+BABAÇU	babaçu		1131651
+BACK	costas	1291	
+BAD / EVIL	mau / mal / ruim	3764	
+BAMBOO	taquara / bambu	1827	
+BANANA	banana	868	44527
+BASKET	Cesto / cesta	1539	
+BAT	morcego	1793	7631
+BATHE	banhar-se	138	
+BE WRONG	errar / estar errado	1390	
+BEADS	miçangas / contas	1860	
+BEANS	feijão	2574	4277
+BEARD	barba	678	
+BEAUTIFUL	bonito	1427	
+BEE	abelha	665	
+BELLY	umbigo	1251	
+BELLYBUTTON	umbigo	3715	
+BELOW	em baixo de / abaixo	1485	
+BENCH	banco	2584	
+BIG	grande	1202	
+BIRD	pássaro	937	
+BITE	morder	1403	
+BLACK	preto	163	
+BLOOD	sangue	946	
+BLOW	soprar	176	
+BLUE	azul	837	
+BONE	osso	1394	
+BOW	arco	994	
+BOY	menino	1366	
+BRANCH	galho	1531	
+BRAZIL NUT	castanha do Pará		321258
+BREAK	quebrar / romper	3020	
+BREAST	seio	1402	
+BREATHE	respirar	1407	
+BROTHER	irmão	1262	
+BROTHER (o of m)	irmão		
+BROTHER (o of w)	irmão		
+BROTHER (y of m)	irmão		
+BROTHER (y of w)	irmão		
+BURN (intr)	queimar	2102	
+BURN (tr)	queimar	141	
+BURY	enterrar	1719	
+BUTTERFLY	borboleta	1791	854
+BUTTOCKS	nádegas	834	
+CALABASH / GOURD	cabaça, cuia	411	578228
+CANOE	canoa	1970	
+CAPUCHIN MONKEY	macaco prego		28561340
+CAPYBARA	capivara	314	326517
+CARÁ ROOT / YAM	inhame	410	8214
+CASHEW	caju	2441	71147
+CHIEF / MASTER / OWNER	chefe / cacique	2394	
+CHILD	criança	2099	
+CICADA	cigarra	2353	2645413
+CLAW	garra	2128	
+CLAY / MUD	barro / argila	1399 / 640	
+CLOUD	nuvem	1489	
+COATI	quati	2389	328601
+COCKROACH	barata	1575	413
+COCOA	cacau	2442	484592
+COLD	frio	1287	
+COMB	pente	1475	
+COME	vir	1446	
+CORN / MAIZE	milho	3686	1115259
+COTTON	algodão	1850	47124114
+CRAB	carangueijo	2348	
+CRICKET (zool)	grilo	2354	996
+CRY	chorar	1839	
+CURASSOW	mutum	315	45512062
+CUT	cortar	1432	
+Cecropia (Gen.)	embaúba / imbaúba		61334
+DANCE	dançar	1579	
+DAUGHTER OF MAN	filha de homem	1357	
+DAUGHTER OF WOMAN	filha de mulher	1357	
+DAY	dia	1260	
+DEER	veado	1936	
+DEFECATE	defecar	676	
+DIE	morrer	1494	
+DIG	cavar	1418	
+DIGGING STICK	vara de escavação	339	
+DIRTY	sujo	1230	
+DO / MAKE	fazer	813	
+DOG	cachorro / cão	2009	
+DOOR	porta	1567	
+DRAW / PAINT	pintar / desenhar	3122	
+DRESS UP	vestir(-se)	814	
+DRINK (v)	beber	1401	
+DRY	secar	1786	
+DRY (state)	seco	1398	
+EAR	orelha	1247	
+EARTH / LAND	terra / país	3603	
+EAT (intr.)	comer	1336	
+EAT (tr.)	comer	1336	
+EGG	ovo	744	
+ELECTRIC EEL	enguia / peixe elétrico / poraquê	2443	206595
+ENTER	entrar	749	
+EYE	olho	1248	
+FACE	cara / rosto / face	1560	
+FALL	cair	1280	
+FAR	longe	1406	
+FAT / GREASE	gordura / banha	1282	
+FATHER	pai	1217	
+FEAR / BE AFRAID	temer / ter medo	1419	
+FEATHER	pena / pluma	1201	
+FINGER	dedo	1303	
+FIRE	fogo	221	
+FIREFLY / GLOWWORM	vagalume / pirilampo	206	7487
+FIREWOOD	lenha	10	
+FISH	peixe	227	
+FISHHOOK	anzol	1074	
+FLAT	plano / liso	1633	
+FLEA / CHIGGER	pulga	232	3197988
+FLESH / MEAT	carne	2615	
+FLOUR	farinha	1594	
+FLOWER	flor	239	
+FLY	voar	1441	
+FLY (insect)	mosca	1504	421
+FOOD	comida	256	
+FOOT	pé	1301	
+FORGET	esquecer	1523	
+FOUR	quatro	1500	
+FROG / TOAD	sapo	503	1553
+FRUIT	fruta	1507	
+FULL	cheio	1429	
+GATHER	(a)juntar / recolher	7	
+GENIPA	jenipapo / genipa		23769802
+GETLOST / LOOSEoneS	perder-se	423	
+GIRL	menina	1646	
+GIVE	dar	1447	
+GNAT / PIUM	mutum dikʔa		49316918
+GO	ir	695	
+GO UP	subir	705	
+GOOD / WELL	bom / bem	1035	
+GRANDFATHER	avô	1383	
+GRASS	grama	606	
+GREEN	verde	1425	
+GREEN IGUANA	camaleão	1578	793235
+GROW	crescer	479	
+GUAN / JACU	jacú	437	45508953
+HAIR	cabelo	2648	
+HAMMOCK	rede	2019	
+HAND	mão	1277	
+HAPPY	feliz / contente	1495	
+HAWK	Gavião	307	
+HEAD	cabeça	1256	
+HEAL	curar / sarar	499	
+HEAR / LISTEN	escutar / ouvir	1408	
+HEART	coração	1223	
+HEAVY	pesado	1210	
+HEDGEHOG	ouriço / porco-espinho	1797	327162
+HELP	ajudar	1897	
+HEN / CHICKEN	galinha	1318	49953003
+HERE	aqui	136	
+HIDE	esconder	2486	
+HIT	bater	1433	
+HOLE	buraco	1667	
+HONEY	mel	942	
+HORN	chifre	1393	
+HOT	quente	1286	
+HOUSE	casa	1252	
+HOWLER MONKEY	(macaco) bugio / guariba	433	41553
+HUMMINGBIRD	beija-flor / colibri	1589	8021
+HUNT	caçar	1435	
+HUSBAND	marido	1200	
+I	eu	1209	
+INGA	ingá		47114559
+INSIDE	dentro (de)	1606	
+JACARÉ / CAIMAN / CROCODILE	jacaré	1857	2820255
+JAGUAR	onça	1250	328606
+JUMP	saltar	1829	
+KILL	matar	1417	
+KING FISHER	Guarda-rios / martim-pescador		7975
+KNEE	joelho	1371	
+KNIFE	faca	1352	
+KNOW	saber	3626	
+LAKE	lago / lagoa	624	
+LARGE ANT / BULLET ANT	tocandira / tucandeira		403327
+LARGE MANDI FISH	bagre / mandi / surubim-bagre		46582210
+LAUGH	rir	1355	
+LAY (DOWN)	deitar(-se)	2071	
+LEAF	folha	628	
+LEARN	aprender	504	
+LEAVE / GO OUT	sair	1752	
+LEG	perna	1297	
+LIVER	fígado	1224	
+LIZARD	lagarto / calango	632	
+LONG / TALL	comprido / longo / alto	1203	
+LOOK AT	olhar	1819	
+LOUSE	piolho	1392	1002
+MACAW	arara	1630	1177964
+MAGGOT / LARVA	larva	2640	
+MAN	homem	1554	
+MANIOC	madioca	927	1154718
+MANY	muitos	1198	
+MEDICINE	remédio	1372	
+MILK	leite	635	
+MONKEY	macaco	1350	
+MOON	lua	1313	
+MORNING	manhã	1339	
+MOSQUITO	pernilongo / muriçoca / carapanã	1509	473
+MOTHER	MOTHER	1216	
+MOTHER-IN-LAW (of men)	sogra(de homem)	2257	
+MOTHER-IN-LAW (of woman)	sogra(de mulher)	2256	
+MOULD	mofo		
+MOUNTAIN / HILL	montanha / monte / morro	639	
+MOUNTAIN SOURSOP 	araticum / jaca de pobre		1054865
+MOUSTACHE	bigode	1165	
+MOUTH	boca	674	
+NAIL / CLAW	unha / garra	2128	
+NAME	nome	1405	
+NECK	pescoço	1333	
+NEST	ninho	539	
+NEW	novo	1231	
+NIGHT	noite	1233	
+NOSE	nariz	1221	
+NOW	agora	1376	
+OAR	remo	3137	
+OLD (adj)	velho	1229	
+ONE	um	1493	
+OPEN	abrir	1156	
+OPOSSUM / SKUNK	gambá	309	328504
+OTHER / SOME	outro / algum	197	
+OWL	coruja	735	696
+PACA	paca	316	326582
+PACU FISH	pacu		215393
+PAIN / HURT	dor / machucado	1783	
+PAN	panela	31	
+PAPAYA	mamão	2445	585682
+PARROT	papagaio	882	1591
+PATH / WAY	caminho	2252	
+PEACH PALM	pupunha		1130861
+PEANUT	amendoim	2364	641309
+PECCARY (collared)	porco do mato / caititu / caitetu	435	1037712
+PECCARY (white-lipped)	queixada	436	357663
+PENIS	pênis	1222	
+PEPPER	pimenta	1385	
+PERSON / HB / SOMEONE	pessoa / serhumano / alguém	683	
+PESTLE	pilão	225	
+PESTLE (verb)	pilar		
+PIERCE	furar / espetar	398	
+PINEAPPLE	abacaxi	2440	1126520
+PIRANHA	piranha	317	
+PLAY	brincar	1413	
+PLAY (2) (CAUSE TO JUMP)	brincar (2)		
+PORRIDGE	mingau		
+PUMPKIN	abóbora / moranga /	864	
+PUT	pôr / colocar	998	
+RAIN	chuva	658	
+RAT	rato	1490	
+RAW	cru	1959	
+RED	vermelho	156	
+REMEMBER	lembrar(-se)	707	
+RESIN	resina	664	
+RETURN / COME BACK	virar / voltar	581	
+RIPE	maduro	178	
+RIVER	rio	666	
+ROAST	assar	1962	
+ROOT	raíz	670	
+ROPE	corda	1218	
+ROUND	redondo	1395	
+ROW	remar	1849	
+RUN	correr	1519	
+SAD(NESS)	triste(za)	699	
+SALIVA	saliva	1503	
+SALT	sal	1274	
+SAND	areia	1127	
+SAY	dizer	1458	
+SCARE	assustar / amedrontar	252	
+SCORPION	escorpião	1538	
+SEE	ver	1409	
+SEED	semente	714	
+SEEK / LOOK FOR / SEARCH	buscar / procurar	1468	
+SEND	enviar	1127	
+SHAMAN	pajé	394	
+SHARPEN	afiar	251	
+SHELL	concha	598	
+SHELL / BARK	casca / pele	1204	
+SHORT	curto	1645	
+SICK / ILL	doente	1847	
+SING	cantar	1261	
+SISTER	irmã	1263	
+SISTER, of m	irmã		
+SISTER, older	irmã		
+SISTER, younger	irmã		
+SIT	sentar(-se)	1416	
+SKIN	pele	763	
+SKY	céu	1732	
+SLASH / GARDEN	roça	201	
+SLEEP	dormir	1585	
+SLOTH	bicho preguiça	2446	
+SMALL	pequeno	1246	
+SMOKE (n)	fumaça	778	
+SNAIL	caracol / lesma	1543	
+SNAKE	cobra	730	
+SNORE	roncar	1983	
+SON OF MAN	filho de homen	1620	
+SON OF WOMAN	filho de mulher	1620	
+SOUR / ACID /BITTER	azedo / amargo	1906	
+SPEAK	falar	1623	
+SPIDER	aranha	843	166
+SPIDER MONKEY /	macaco preto / macaco aranha / coatá	434	41555
+SPROUT	brotar / germinar	2076	
+SQUIRREL	esquilo	1628	2846690
+STAND	estar de / em pé / levantar	1442	
+STAR	estrela	1430	
+STINGRAY	arraia	1910	46560356
+STOMACH	estômago	819	
+STONE	pedra	857	
+STRONG	forte	785	
+SUCK	sugar / chupar	1421	
+SUN	sol	1343	
+SURUBIM_FISH	pintado / bagre (?)		356148
+SWEEP	varrer	230	
+SWEET	doce	717	
+SWEET POTATO	batat-doce	159	580962
+SWIM	nadar	1439	
+TAIL	rabo / cauda	1220	
+TAPIR	anta	312	
+TAYRA	Irara		328036
+TEACH	ensinar	709	
+TELL / NARRATE	contar	1711	
+TERMINATE / FINISH	acabar / terminar	1766	
+TERMITE	cupim	883	
+TESTICLES	testículos	797	
+THAT	aquele / aquilo	78	
+THICK	grosso	1244	
+THING	coisa	738	
+THIS	este	1214	
+THORN	espinho	124	
+THREE	três	492	
+THROAT	garganta	1346	
+THUNDER	trovão	1150	
+TICK	carrapato	1527	
+TIE	atar / amarrar	1917	
+TIMBO LIANA	timbó	2388	
+TINAMOU	inhambu / nambu / perdiz / xororó		8669
+TIRED	cansado	1757	
+TOBACCO	fumo / tabaco	974	38459
+TODAY	hoje	1283	
+TOMORROW	amanhã	1329	
+TONGUE	língua	1205	
+TOOTH	dente	1380	
+TOUCAN	tucano	308	1593
+TRAHIRA FISH	traíra		6903
+TREE	árvore	906	
+TUCUMA_PALM / AWARA	tucumã	2439	29370
+TURTLE	tartaruga / jaboti / jabuti	112	794307
+TWO	dois / duas	1498	
+UGLY	feio	1548	
+UNCLE (MoBr)	tio (materno)	2692	
+UNTIE	desatar / desamarrar / soltar	352	
+URINATE	urinar		
+VEIN	veia	1924	
+VILLAGE	aldeia	930	
+VILLAGE SQUARE	pátio /praça		
+VOMIT	vomitar	1278	
+VULTURE	urubú	1185	2922049
+WAKE UP	acordar	1602	
+WALK	andar / caminhar	1443	
+WANT	querer	1784	
+WASH	lavar	1453	
+WASP	vespa	1517	
+WATER	água	948	
+WAX	cera		
+WE (EXCL)	nós	1130	
+WE (INCL)	nós	1131	
+WEAVE	tecer	133	
+WET	molhado	1726	
+WHAT (?)	oquê	1236	
+WHITE	branco	1335	
+WHO (?)	quem	1235	
+WIFE	esposa	1199	
+WILD CAT	gato do mato	2241	311661
+WILD DOG	cachorro do mato	2448	328685
+WIND	vento	960	
+WING	asa	1257	
+WING(2)	asa	1257	
+WOMAN	mulher	962	
+WOODPECKER	pica-pau	2447	1595
+WORM (EARTH)	verme / minhoca	2350	
+WOUND	ferida	1109	
+YELLOW	amarelo	1424	
+YOU (pl)	vocês / vós	1213	
+YOU (sg)	você / tu	1213	
