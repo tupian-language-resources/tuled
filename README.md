@@ -2,7 +2,7 @@
 
 Cite the source dataset as
 
-> Ferraz Gerardi, Fabrício and Reichert, Stanislav (2020) TuLeD: Tupían lexical database. Version 0.8. Tübingen: Eberhard-Karls University
+> Fabrício Ferraz Gerardi, Stanislav Reichert, Tim Wientzek, Verena Blaschke, Eric de Mattos, Zhuge Gao, … Nianheng wu. (2020). LanguageStructure/TuLeD: Pre-release (version 0.9). Tübingen: Eberhard-Karls University. [![DOI](https://zenodo.org/badge/263996134.svg)](https://zenodo.org/badge/latestdoi/263996134)
 
 This dataset is licensed under a CCBY license
 
