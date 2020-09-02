@@ -1,0 +1,666 @@
+Grapheme	IPA	EXAMPLES	LANGUAGES	FREQUENCY	CODEPOINTS
+^	NULL				
+$	NULL				
+a	a	kaʔaʔaʔ, tsaragaʔ	Karo (Arara)	100	U+0061
+a$	a	berwa, napia	Puruborá, Karo (Arara)	100	U+0061 U+0024
+r	r	weri weri, ɲoron ɲoron	Karo (Arara), Puruborá	100	U+0072
+i	i	miʃirik, tik	Puruborá, Karo (Arara)	100	U+0069
+u	u	tutukujũm, tutukuju	Puruborá, Karo (Arara), Makurap, Ramarama, Ntogapíd (Itogapúk), Wayoró	100	U+0075
+e	e	pereʔtep, eperetete	Karo (Arara), Puruborá	100	U+0065
+ɨ	ɨ	kɨt, kɨrɨʔkãj	Makurap, Karo (Arara), Puruborá, Wayoró, Ntogapíd (Itogapúk)	100	U+0268
+o	o	ɲoron ɲoron, ʃoʃotka	Karo (Arara), Puruborá	100	U+006f
+k	k	nakõm, ameko	Puruborá, Karo (Arara), Ntogapíd (Itogapúk)	100	U+006b
+t	t	atota*, iʔtə	Karo (Arara), Puruborá, Ramarama, Ntogapíd (Itogapúk), Makurap	100	U+0074
+^k	k	kɨt, kap	Makurap, Karo (Arara), Puruborá, Ramarama, Ntogapíd (Itogapúk), Wayoró	100	U+005e U+006b
+^a	a	ameko, at	Puruborá, Makurap, Karo (Arara), Ramarama, Ntogapíd (Itogapúk)	100	U+005e U+0061
+p	p	ʃapepuɲ, upepirete	Karo (Arara), Puruborá, Makurap, Ramarama, Ntogapíd (Itogapúk)	100	U+0070
+^p	p	paj, pewit	Karo (Arara), Makurap, Ramarama, Puruborá, Ntogapíd (Itogapúk)	100	U+005e U+0070
+ʔ	ʔ	iʔtə, kaʔaʔaʔ	Karo (Arara), Tuparí, Puruborá, Makurap, Ntogapíd (Itogapúk), Wayoró, Ramarama	100	U+0294
+^m	m	mãkaiã, mãn	Karo (Arara), Puruborá, Ramarama, Ntogapíd (Itogapúk), Makurap	100	U+005e U+006d
+n	n	ijanonoŋ, anana	Karo (Arara), Makurap, Ntogapíd (Itogapúk), Puruborá, Ramarama, Wayoró	100	U+006e
+i$	i	ati, mi	Makurap, Tuparí, Akuntsú, Wayoró, Karo (Arara), Puruborá, Ntogapíd (Itogapúk), Ramarama	100	U+0069 U+0024
+m	m	ameko, amẽko	Karo (Arara), Makurap, Wayoró, Puruborá, Ramarama, Ntogapíd (Itogapúk), Tuparí	100	U+006d
+e$	e	pe, jate	Tuparí, Makurap, Karo (Arara), Wayoró, Puruborá, Ntogapíd (Itogapúk), Ramarama	100	U+0065 U+0024
+u$	u	ju, papu	Xipaya, Arikem, Karo (Arara), Mekens (Sakurabiat), Ramarama, Ntogapíd (Itogapúk), Puruborá, Cinta-Larga, Mondé, Akuntsú, Gavião (Ikólóéhj), Tuparí, Wayoró, Aruá, Karitiana, Aruáshi, Suruí-Paiter, Kabanae	100	U+0075 U+0024
+w	w	awaw tit, pewit	Makurap, Tuparí, Puruborá, Karo (Arara), Akuntsú, Ntogapíd (Itogapúk), Ramarama, Wayoró	100	U+0077
+^t	t	tik, tet	Puruborá, Karo (Arara), Makurap, Wayoró, Ntogapíd (Itogapúk), Ramarama, Tuparí	100	U+005e U+0074
+ɨ$	ɨ	ɨkɨ, eɨ	Karitiana, Akuntsú, Tuparí, Mekens (Sakurabiat), Wayoró, Karo (Arara), Makurap, Puruborá, Xipaya, Arikem, Kabanae, Mondé, Gavião (Ikólóéhj), Zoró, Suruí-Paiter	100	U+0268 U+0024
+j	j	jajo, ijá	Karo (Arara), Puruborá, Ramarama, Ntogapíd (Itogapúk), Makurap	100	U+006a
+o$	o	ameko, βo	Wayoró, Makurap, Karo (Arara), Puruborá, Ramarama, Ntogapíd (Itogapúk), Tuparí	100	U+006f U+0024
+b	b	mbogop, mberãmbera	Puruborá, Wayoró, Makurap, Karo (Arara), Ntogapíd (Itogapúk), Ramarama, Akuntsú, Tuparí	100	U+0062
+^j	j	jãj, jam	Karo (Arara), Akuntsú, Tuparí, Gavião (Ikólóéhj), Aruá, Makurap, Puruborá, Ramarama, Wayoró, Ntogapíd (Itogapúk), Mondé, Mekens (Sakurabiat)	100	U+005e U+006a
+h	h	kahɨt, duháhé	Gavião (Ikólóéhj), Juruna, Xipaya, Karitiana, Suruí-Paiter, Karo (Arara), Puruborá, Tuparí, Arikem, Matanau, Makurap, Ramarama, Akuntsú, Kabanae, Mekens (Sakurabiat)	100	U+0068
+ã	ã	nãp, kãri nãn	Karo (Arara), Makurap, Ramarama, Puruborá, Ntogapíd (Itogapúk), Wayoró	100	U+00e3
+ã$	ã	tʃigã, mãkaiã	Makurap, Tuparí, Wayoró, Puruborá, Akuntsú, Mekens (Sakurabiat), Karo (Arara), Ramarama, Cinta-Larga, Ntogapíd (Itogapúk)	100	U+00e3 U+0024
+^i	i	iko, ike	Karo (Arara), Ntogapíd (Itogapúk), Gavião (Ikólóéhj), Akuntsú, Cinta-Larga, Mekens (Sakurabiat), Ramarama, Tuparí, Wayoró, Makurap, Puruborá	100	U+005e U+0069
+t$	t	kɨt, tet	Karo (Arara), Makurap, Puruborá, Ramarama	100	U+0074 U+0024
+p$	p	nãp, kap	Karo (Arara), Puruborá, Makurap, Ramarama, Ntogapíd (Itogapúk)	100	U+0070 U+0024
+^e	e	en, et	Tuparí, Akuntsú, Wayoró, Makurap, Mekens (Sakurabiat), Karo (Arara), Puruborá, Ramarama, Ntogapíd (Itogapúk)	100	U+005e U+0065
+j$	j	jãj, mãj	Karo (Arara), Makurap, Akuntsú, Puruborá, Tuparí, Wayoró, Mekens (Sakurabiat), Ntogapíd (Itogapúk), Ramarama	100	U+006a U+0024
+s	s	pasã́, aso	Tuparí, Mekens (Sakurabiat), Gavião (Ikólóéhj), Karitiana, Cinta-Larga, Mondé, Suruí-Paiter, Zoró, Aruá, Ramarama, Karo (Arara), Matanau	100	U+0073
+r$	r	màpir, ʃíʃìr	Suruí-Paiter, Parakanã, Gavião (Ikólóéhj), Cinta-Larga, Makurap, Mekens (Sakurabiat), Mondé, Awetí, Matanau, Tuparí, Arikem, Karo (Arara), Ntogapíd (Itogapúk), Puruborá	100	U+0072 U+0024
+^ɨ	ɨ	ɨʔ, ɨeko	Sateré-Mawé, Akuntsú, Makurap, Wayoró, Awetí, Arikem, Mekens (Sakurabiat), Karitiana, Puruborá, Tuparí, Parakanã, Karo (Arara), Ntogapíd (Itogapúk)	100	U+005e U+0268
+^w	w	wirik, wajo	Karo (Arara), Tuparí, Makurap, Puruborá, Cinta-Larga, Ntogapíd (Itogapúk), Ramarama, Mekens (Sakurabiat), Wayoró, Mondé, Gavião (Ikólóéhj), Akuntsú	100	U+005e U+0077
+d	d	adadaat, rudede	Wayoró, Gavião (Ikólóéhj), Puruborá, Makurap, Mondé, Akuntsú, Cinta-Larga, Aruá, Karo (Arara), Ramarama	100	U+0064
+^s	s	sap, sɨt	Tuparí, Mekens (Sakurabiat), Gavião (Ikólóéhj), Mondé, Zoró, Cinta-Larga, Ramarama, Matanau, Suruí-Paiter, Aruá, Makurap, Wayoró	100	U+005e U+0073
+n$	n	õn, pagon	Karo (Arara), Wayoró, Makurap, Tuparí, Ramarama, Ntogapíd (Itogapúk), Puruborá	100	U+006e U+0024
+k$	k	tik, wirik	Karo (Arara), Tuparí, Makurap, Wayoró, Akuntsú, Puruborá, Ramarama	100	U+006b U+0024
+^u	u	un, up	Juruna, Sateré-Mawé, Arikem, Xipaya, Ramarama, Mondé, Cinta-Larga, Mekens (Sakurabiat), Kabanae, Puruborá, Kuruaya, Matanau, Karo (Arara), Wayoró, Mundurukú, Karitiana, Tuparí, Ntogapíd (Itogapúk), Akuntsú, Makurap, Zoró	100	U+005e U+0075
+m$	m	kem, jam	Karo (Arara), Akuntsú, Tuparí, Makurap, Wayoró, Ramarama, Ntogapíd (Itogapúk), Puruborá, Mekens (Sakurabiat), Mondé, Cinta-Larga	100	U+006d U+0024
+^n	n	nãp, nakõm	Karo (Arara), Wayoró, Ntogapíd (Itogapúk), Makurap, Ramarama, Puruborá	100	U+005e U+006e
+tʃ	tʃ	atʃi, pitʃa	Makurap, Akuntsú, Karo (Arara), Ntogapíd (Itogapúk), Juruna, Mondé, Gavião (Ikólóéhj), Zoró, Arikem, Wayoró, Suruí-Paiter, Matanau, Karitiana, Xipaya, Ramarama	100	U+0074 U+0283
+β	β	βaβo, aβɨβɨβa	Gavião (Ikólóéhj), Mondé, Wayoró, Makurap, Puruborá, Zoró, Ntogapíd (Itogapúk), Aruá, Cinta-Larga, Arikem	100	U+03b2
+^o	o	ororo, oj	Tuparí, Karitiana, Karo (Arara), Wayoró, Makurap, Akuntsú, Suruí-Paiter, Mekens (Sakurabiat), Mondé, Cinta-Larga, Gavião (Ikólóéhj), Ramarama, Aruá, Ntogapíd (Itogapúk), Zoró, Puruborá, Kabanae	100	U+005e U+006f
+^h	h	hit, hure	Sateré-Mawé, Tuparí, Suruí-Paiter, Karitiana, Xipaya, Juruna, Puruborá, Arikem, Kuruaya, Ramarama, Akuntsú	100	U+005e U+0068
+^ʔ	ʔ	ʔa, ʔat	Awetí, Juruna, Mundurukú, Tuparí, Karo (Arara), Sateré-Mawé, Karitiana, Kuruaya, Puruborá, Makurap, Wayoró, Cinta-Larga	100	U+005e U+0294
+g	g	mbogop, tʃigamóga	Karo (Arara), Wayoró, Makurap, Ramarama, Ntogapíd (Itogapúk), Puruborá	100	U+0067
+^tʃ	tʃ	tʃop, tʃap	Makurap, Karo (Arara), Akuntsú, Ntogapíd (Itogapúk), Ramarama, Mondé, Wayoró, Cinta-Larga, Gavião (Ikólóéhj)	100	U+005e U+0074 U+0283
+õ	õ	nakõm, dzõlõmpʔa	Karo (Arara), Makurap, Mondé, Akuntsú, Aruá, Tuparí, Mekens (Sakurabiat), Wayoró, Puruborá, Gavião (Ikólóéhj)	100	U+00f5
+^b	b	be, berwa	Gavião (Ikólóéhj), Puruborá, Mondé, Akuntsú, Cinta-Larga, Makurap, Ntogapíd (Itogapúk), Aruá, Karo (Arara), Ramarama	100	U+005e U+0062
+ŋ$	ŋ	niŋ, tiŋ	Sateré-Mawé, Mundurukú, Awetí, Wayoró, Makurap, Kuruaya, Ramarama, Asurini do Tocantins, Suruí-Paiter, Tuparí, Karo (Arara), Karitiana, Akuntsú, Mekens (Sakurabiat), Cinta-Larga, Mondé, Zoró	100	U+014b U+0024
+ĩ$	ĩ	tʃuʔĩ, eretʃãŋahĩ	Juruna, Parintintin, Araweté, Xipaya, Urueuwauwau, Tenharim, Karitiana, Awetí, Gavião (Ikólóéhj), Amondawa, Makurap, Sateré-Mawé, Kuruaya, Jiahoi, Tapirapé (Apyãwa), Tupi do Machado (Wirafed), Karo (Arara), Kayabí, Suruí-Paiter, Aruá, Zoró, Mundurukú, Apiaká, Cinta-Larga, Juma, Mekens (Sakurabiat), Mondé, Ntogapíd (Itogapúk)	100	U+0129 U+0024
+^kʷ	kʷ	kʷar, kʷati	Mekens (Sakurabiat), Akuntsú, Parintintin, Parakanã, Guajajara, Tembé, Suruí (Aikewara), Apiaká, Asurini do Tocantins, Awetí, Arikem, Tapirapé (Apyãwa), Tuparí, Sateré-Mawé, Wayoró, Juruna, Xipaya	100	U+005e U+006b U+02b7
+_	_	piito erom karat, pò íʃo mága	Akuntsú, Karo (Arara), Gavião (Ikólóéhj), Wayoró, Tuparí, Mekens (Sakurabiat), Makurap, Puruborá, Ntogapíd (Itogapúk)	100	U+005f
+á	á	padá mán βáh, kápkáβá	Gavião (Ikólóéhj), Ntogapíd (Itogapúk), Puruborá, Cinta-Larga, Karo (Arara), Ramarama, Mekens (Sakurabiat)	100	U+00e1
+l	l	alimé, ala	Gavião (Ikólóéhj), Aruá, Mondé, Cinta-Larga, Makurap, Matanau, Wayoró	100	U+006c
+á$	á	ijá, iʃá	Gavião (Ikólóéhj), Ramarama, Puruborá, Mondé, Ntogapíd (Itogapúk), Suruí-Paiter, Cinta-Larga, Arikem, Aruá, Matanau, Zoró, Kabanae, Makurap, Aruáshi, Tuparí, Xipaya, Mekens (Sakurabiat)	100	U+00e1 U+0024
+ʃ	ʃ	aʃã, tuʃi	Puruborá, Xipaya, Suruí-Paiter, Gavião (Ikólóéhj), Juruna, Karo (Arara), Mondé, Cinta-Larga, Matanau, Zoró, Ntogapíd (Itogapúk), Makurap	100	U+0283
+ĩ	ĩ	iimadĩ ĩt, kĩrĩjã	Wayoró, Karitiana, Karo (Arara), Mondé, Puruborá, Suruí-Paiter, Mekens (Sakurabiat), Makurap, Aruá, Matanau, Zoró, Tuparí, Akuntsú, Gavião (Ikólóéhj), Cinta-Larga, Kabanae	100	U+0129
+^dʒ	dʒ	dʒakare, dʒawewɨr	Amondawa, Mundurukú, Tenharim, Gavião (Ikólóéhj), Emerillon (Tekó), Jiahoi, Parintintin, Aruá, Kuruaya, Mondé, Xipaya, Makurap, Arikem, Juruna, Urueuwauwau, Araweté, Zoró, Wayoró, Karitiana, Cinta-Larga, Kayabí, Parakanã	100	U+005e U+0064 U+0292
+ŋ	ŋ	tʃõŋtʃõŋʔa, patŋa	Mundurukú, Suruí-Paiter, Wayoró, Kuruaya, Makurap, Sateré-Mawé, Suruí (Aikewara), Karo (Arara), Gavião (Ikólóéhj), Arikem, Asurini do Tocantins, Karitiana, Awetí, Aruá, Tuparí, Puruborá, Ramarama, Mekens (Sakurabiat), Cinta-Larga, Juruna, Tembé, Zoró	100	U+014b
+^ɲ	ɲ	ɲan, ɲande	Parintintin, Makurap, Amondawa, Karitiana, Wayoró, Tenharim, Apiaká, Arikem, Karo (Arara), Aruá, Sateré-Mawé, Mondé, Xipaya, Suruí-Paiter, Mekens (Sakurabiat), Cinta-Larga, Ntogapíd (Itogapúk), Juruna, Puruborá	100	U+005e U+0272
+ẽ$	ẽ	maʔẽ, eʔẽ	Wayampí, Araweté, Tuparí, Guajá, Akuntsú, Tapirapé (Apyãwa), Mundurukú, Emerillon (Tekó), Kayabí, Parintintin, Sateré-Mawé, Kuruaya, Mekens (Sakurabiat), Amondawa, Tenharim, Apiaká, Xipaya, Awetí, Suruí-Paiter, Jiahoi, Amanaye, Parakanã, Juruna, Anambé of Ehrenreich, Tembé, Urueuwauwau, Juma, Puruborá, Ramarama, Mondé, Wayoró	100	U+1ebd U+0024
+w$	w	aw, kaw	Tembé, Suruí (Aikewara), Parakanã, Akuntsú, Karo (Arara), Asurini do Tocantins, Guajajara, Tapirapé (Apyãwa), Mekens (Sakurabiat), Mundurukú, Awetí, Puruborá, Mondé, Aruá, Kuruaya, Xipaya, Sateré-Mawé, Wayoró	100	U+0077 U+0024
+ẽ	ẽ	amẽko, mẽpit	Makurap, Tuparí, Wayoró, Karo (Arara), Mekens (Sakurabiat), Puruborá, Suruí-Paiter, Karitiana, Mondé, Mundurukú, Aruá, Akuntsú, Xipaya, Gavião (Ikólóéhj), Ntogapíd (Itogapúk), Matanau, Zoró, Ramarama, Kabanae	100	U+1ebd
+ts	ts	βetsoa, gooptsiit	Mekens (Sakurabiat), Aruá, Gavião (Ikólóéhj), Karo (Arara), Awetí, Asurini do Tocantins, Zoró, Tembé, Mondé, Kayabí, Araweté, Sateré-Mawé, Cinta-Larga, Mundurukú, Matanau, Apiaká, Tuparí, Ramarama	100	U+0074 U+0073
+kʷ	kʷ	takʷar, akʷara	Wayoró, Mekens (Sakurabiat), Emerillon (Tekó), Guajá, Akuntsú, Ka'apor (Urubu), Amondawa, Tenharim, Suruí (Aikewara), Wayampí, Parakanã, Kamayura, Parintintin, Avá-Canoeiro, Tembé, Urueuwauwau, Apiaká, Kayabí, Anambé, Guajajara, Makurap, Sateré-Mawé, Tupi do Machado (Wirafed), Awetí, Asurini do Xingu, Kuruaya, Zo'e	100	U+006b U+02b7
+ũ$	ũ	ĩnãmũ, ranuhũ	Wayampí, Guajá, Araweté, Tenharim, Kayabí, Parintintin, Juruna, Sateré-Mawé, Xipaya, Urueuwauwau, Amondawa, Apiaká, Awetí, Anambé of Ehrenreich, Zo'e, Mundurukú, Tupi do Machado (Wirafed), Arikem, Parakanã, Puruborá, Jiahoi, Makurap, Wayoró	100	U+0169 U+0024
+^ʃ	ʃ	ʃiʃi, ʃia	Puruborá, Karo (Arara), Suruí-Paiter, Gavião (Ikólóéhj), Xipaya, Mundurukú, Cinta-Larga, Mondé, Juruna, Mekens (Sakurabiat), Ramarama, Zoró	100	U+005e U+0283
+^β	β	βa, βo	Gavião (Ikólóéhj), Mondé, Aruá, Makurap, Puruborá, Wayoró, Cinta-Larga, Tuparí	100	U+005e U+03b2
+g$	g	tug, mbag	Parakanã, Guajajara, Suruí (Aikewara), Karitiana, Suruí-Paiter, Tapirapé (Apyãwa), Apiaká, Wayoró, Mondé, Ntogapíd (Itogapúk), Awetí, Gavião (Ikólóéhj), Kuruaya, Karo (Arara), Mundurukú, Aruá	100	U+0067 U+0024
+-	<?>	-tʃ-oa-t, -sa	Suruí-Paiter, Sateré-Mawé, Mundurukú, Zoró, Karo (Arara), Makurap, Kuruaya, Xipaya, Aruá, Gavião (Ikólóéhj), Mekens (Sakurabiat), Juruna, Tuparí, Wayoró, Arikem	100	U+002d
+β$	β	paβ, ʔaβ	Gavião (Ikólóéhj), Parintintin, Parakanã, Amondawa, Tenharim, Apiaká, Suruí (Aikewara), Asurini do Tocantins, Mondé, Jiahoi	100	U+03b2 U+0024
+ɲ	ɲ	kaʔɲɨm, piraɲuhũ	Karitiana, Wayoró, Apiaká, Urueuwauwau, Mundurukú, Parintintin, Makurap, Tenharim, Karo (Arara), Suruí-Paiter, Amondawa, Arikem, Puruborá, Mekens (Sakurabiat), Emerillon (Tekó), Cinta-Larga, Aruá, Kuruaya, Matanau, Sateré-Mawé, Tupi do Machado (Wirafed), Xipaya, Kayabí, Anambé, Amanaye, Tuparí, Parakanã, Anambé of Ehrenreich, Ramarama, Araweté, Zo'e, Ntogapíd (Itogapúk), Turiwara, Akuntsú, Kabanae	100	U+0272
+dʒ	dʒ	mbarakadʒaʔi, aŋudʒa	Mundurukú, Xipaya, Kuruaya, Juruna, Wayoró, Tenharim, Arikem, Gavião (Ikólóéhj), Amondawa, Emerillon (Tekó), Parintintin, Araweté, Jiahoi, Aruá, Kabanae, Suruí (Aikewara), Parakanã, Suruí-Paiter, Urueuwauwau, Mondé, Makurap	100	U+0064 U+0292
+ə	ə	məmbət, məpərək	Mundurukú, Karo (Arara), Puruborá, Arikem, Makurap, Ramarama, Zoró, Mekens (Sakurabiat)	100	U+0259
+^r	r	re, rẽm	Língua Geral Paulista (Tupi austral), Araweté, Zo'e, Parintintin, Anambé, Yuki, Mundurukú, Tenharim, Apiaká, Tembé, Urueuwauwau, Amondawa, Tupinambá, Ka'apor (Urubu), Nheengatu, Kuruaya, Cinta-Larga, Avá-Canoeiro, Parakanã, Tapirapé (Apyãwa), Asurini do Tocantins, Emerillon (Tekó), Suruí (Aikewara), Sateré-Mawé, Wayampí, Kayabí, Amanaye, Guajá, Puruborá, Asurini do Xingu, Turiwara, Kamayura	100	U+005e U+0072
+õ$	õ	amõ, kõ	Tapirapé (Apyãwa), Karo (Arara), Guajá, Emerillon (Tekó), Karitiana, Makurap, Ka'apor (Urubu), Kuruaya, Wayoró, Mundurukú, Kamayura, Araweté, Tenharim, Sateré-Mawé, Wayampí, Awetí, Gavião (Ikólóéhj), Suruí-Paiter, Urueuwauwau, Juma, Zo'e, Amondawa, Parintintin, Apiaká, Tuparí, Parakanã, Aruá, Puruborá, Jiahoi, Mondé, Akuntsú, Tupinambá, Zoró	100	U+00f5 U+0024
+z	z	ãza, pɨza	Awetí, Tembé, Xipaya, Gavião (Ikólóéhj), Mondé, Aruá, Cinta-Larga, Zoró, Juruna, Kabanae, Makurap, Matanau, Puruborá, Sateré-Mawé, Mekens (Sakurabiat)	100	U+007a
+^d	d	do, da	Mundurukú, Gavião (Ikólóéhj), Kuruaya, Xipaya, Mondé, Aruá, Puruborá, Zoró, Juruna, Matanau, Cinta-Larga, Arikem, Ntogapíd (Itogapúk), Parintintin, Akuntsú, Kabanae, Mekens (Sakurabiat), Wayoró	100	U+005e U+0064
+gʷ	gʷ	karugʷaruhu, ugʷɨ	Mbyá, Yuki, Wayoró, Guarayo, Parintintin, Tupinambá, Chiriguano, Tenharim, Urueuwauwau, Amondawa, Língua Geral Paulista (Tupi austral), Guarani Paraguay, Kayabí, Apiaká, Sirionó	100	U+0067 U+02b7
+v	v	ovɨ, huruvi	Mbyá, Chiriguano, Língua Geral Paulista (Tupi austral), Guarani Paraguay, Parintintin, Asurini do Xingu, Tenharim, Cinta-Larga, Guarayo, Amondawa, Apiaká, Nheengatu, Urueuwauwau, Matanau, Zoró, Arikem, Kayabí, Gavião (Ikólóéhj), Sirionó, Anambé of Ehrenreich, Guajá, Jiahoi	100	U+0076
+^ts	ts	tsep, tsɨ	Karo (Arara), Aruá, Asurini do Tocantins, Gavião (Ikólóéhj), Kamayura, Mekens (Sakurabiat), Guarayo, Arikem, Cocama-Cocamilla, Emerillon (Tekó), Mondé, Omagua, Chiripá (Ñandeva / Avá-Guarani), Awetí, Guajajara, Makurap, Zoró, Kabanae, Apiaká, Nheengatu, Tembé, Yuki, Warazu (Pauserna), Guajá, Ramarama, Araweté, Old Guaraní	100	U+005e U+0074 U+0073
+^z	z	zawar, zaku	Tembé, Guajajara, Mondé, Gavião (Ikólóéhj), Matanau, Xipaya, Kabanae, Aruá, Zoró, Juruna, Cinta-Larga, Awetí, Kuruaya, Puruborá	100	U+005e U+007a
+í	í	tírí, ʃíníníhβ	Gavião (Ikólóéhj), Kuruaya, Mundurukú, Ntogapíd (Itogapúk), Juruna, Mondé, Xipaya, Cinta-Larga, Suruí-Paiter, Karo (Arara), Puruborá, Zoró, Tupi do Machado (Wirafed), Aruá, Mekens (Sakurabiat)	100	U+00ed
+^g	g	gati, gat	Gavião (Ikólóéhj), Mondé, Aruá, Karitiana, Zoró, Matanau, Makurap, Puruborá, Suruí-Paiter, Kabanae, Cinta-Larga, Arikem, Ntogapíd (Itogapúk), Apiaká, Wayoró	100	U+005e U+0067
+ũ	ũ	ɨpɨtũnã, amũj	Xipaya, Juruna, Tenharim, Araweté, Urueuwauwau, Amondawa, Sateré-Mawé, Ka'apor (Urubu), Awetí, Asurini do Xingu, Wayoró, Mundurukú, Nheengatu, Kayabí, Yuki, Puruborá, Jiahoi, Guarayo, Parintintin, Apiaká, Wayampí, Kuruaya, Makurap, Emerillon (Tekó), Arikem, Anambé, Chiriguano, Guajá, Mondé, Zo'e, Zoró	100	U+0169
+^ã	ã	ãj, ãmãnã	Tapirapé (Apyãwa), Wayampí, Mekens (Sakurabiat), Mondé, Wayoró, Ka'apor (Urubu), Suruí-Paiter, Chiriguano, Guarayo, Akuntsú, Tuparí, Sirionó, Urueuwauwau, Tenharim, Parintintin, Nheengatu, Yuki, Aruá, Jiahoi, Amondawa, Makurap, Karitiana, Apiaká, Cinta-Larga, Awetí, Gavião (Ikólóéhj), Anambé of Ehrenreich, Juma, Kuruaya, Tupinambá, Zoró	100	U+005e U+00e3
+ʔ$	ʔ	ɨʔ, kakeʔ	Makurap, Arikem, Karo (Arara), Wayoró, Tuparí, Zoró, Cinta-Larga, Gavião (Ikólóéhj), Juruna, Puruborá, Xipaya, Suruí-Paiter, Mekens (Sakurabiat)	100	U+0294 U+0024
+ɨ̃	ɨ̃	aʔɨ̃j, mɨ̃tu	Guarayo, Amondawa, Tenharim, Karitiana, Awetí, Kayabí, Chiriguano, Tapirapé (Apyãwa), Parintintin, Urueuwauwau, Kamayura, Guajá, Asurini do Xingu, Jiahoi, Mekens (Sakurabiat), Emerillon (Tekó), Wayampí, Avá-Canoeiro, Puruborá, Zo'e, Makurap, Asurini do Tocantins, Mundurukú, Suruí (Aikewara), Apiaká, Xipaya, Mbyá, Sateré-Mawé, Anambé, Suruí-Paiter, Tembé, Aruá, Juma, Araweté, Mondé, Tupinambá, Wayoró	100	U+0268 U+0303
+aa	aː	jaat, paraat	Gavião (Ikólóéhj), Mekens (Sakurabiat), Zoró, Suruí-Paiter, Makurap, Tapirapé (Apyãwa), Mondé, Tuparí, Parakanã, Sirionó, Cinta-Larga, Arikem, Wayampí, Kayabí, Aruá, Ramarama, Sateré-Mawé, Wayoró, Karitiana, Xipaya, Língua Geral Paulista (Tupi austral), Nheengatu, Karo (Arara), Juruna, Yuki, Puruborá, Asurini do Xingu, Araweté, Ntogapíd (Itogapúk), Tupinambá, Asurini do Tocantins	100	U+0061 U+0061
+*$	<?>	tɨ̃ʔĩ*, tajasu*	Puruborá, Mekens (Sakurabiat), Old Guaraní, Tupinambá, Arikem, Nheengatu, Jorá, Gavião (Ikólóéhj), Mondé, Parakanã, Sirionó, Asurini do Xingu, Makurap, Mundurukú, Xetá, Emerillon (Tekó), Cinta-Larga, Tuparí, Aruá, Guarayo, Amondawa, Tenharim, Suruí (Aikewara), Xipaya, Língua Geral Paulista (Tupi austral), Guarani Paraguay, Suruí-Paiter, Chiriguano, Kaiowá, Guajá, Kuruaya, Jiahoi, Zo'e, Turiwara, Kabanae, Wayoró	100	U+002a U+0024
+^ŋ	ŋ	ŋap, ŋɨp	Wayoró, Suruí-Paiter, Makurap, Mundurukú, Arikem, Sateré-Mawé, Karitiana, Cinta-Larga, Guarayo, Aruá, Mondé, Karo (Arara), Jorá, Amondawa, Apiaká, Sirionó, Zoró, Asurini do Tocantins	99	U+005e U+014b
+é$	é	riré, pajé	Tupi do Machado (Wirafed), Amanaye, Ramarama, Língua Geral Paulista (Tupi austral), Matanau, Mundurukú, Gavião (Ikólóéhj), Tupinambá, Tembé, Turiwara, Xetá, Nheengatu, Kaiowá, Ntogapíd (Itogapúk), Old Guaraní, Cinta-Larga, Guarani Paraguay, Parakanã, Juruna, Puruborá, Apiaká, Omagua, Wayampí, Karo (Arara), Suruí-Paiter, Tapiete, Aruá, Araweté, Mondé, Zo'e, Kamayura, Kabanae	98	U+00e9 U+0024
+ó	ó	póróg pórógá, gólóá	Gavião (Ikólóéhj), Ntogapíd (Itogapúk), Suruí-Paiter, Mundurukú, Tupi do Machado (Wirafed), Cinta-Larga, Aruá, Kuruaya, Mondé, Turiwara, Matanau, Amanaye, Ramarama, Mekens (Sakurabiat), Apapokuva of Nimuendajú, Karo (Arara), Chiriguano, Kaiowá, Tapiete, Warazu (Pauserna), Puruborá, Tupinambá, Zoró	90	U+00f3
+ɨ̃$	ɨ̃	petɨ̃, mɨnɨhɨ̃	Anambé, Guajá, Wayampí, Sirionó, Asurini do Xingu, Araweté, Old Guaraní, Tapirapé (Apyãwa), Suruí (Aikewara), Karitiana, Mbyá, Guarani Paraguay, Tuparí, Zo'e, Mundurukú, Emerillon (Tekó), Ka'apor (Urubu), Apapokuva of Nimuendajú, Chiripá (Ñandeva / Avá-Guarani), Amanaye, Avá-Canoeiro, Kaiowá, Urueuwauwau, Amondawa, Matanau, Asurini do Tocantins	82	U+0268 U+0303 U+0024
+ə$	ə	bə, kə	Mundurukú, Warazu (Pauserna), Tembé, Guajá, Araweté, Arikem, Karo (Arara), Emerillon (Tekó), Tenharim, Amondawa, Urueuwauwau, Makurap, Puruborá, Guajajara	78	U+0259 U+0024
+aa$	aː	kaa, kʷaa	Suruí-Paiter, Zoró, Gavião (Ikólóéhj), Matanau, Yuki, Aruá, Wayoró, Wayampí, Guarani Paraguay, Sirionó, Chiriguano, Kaiowá, Mondé, Makurap, Old Guaraní, Xetá, Língua Geral Paulista (Tupi austral), Cinta-Larga, Nheengatu, Tuparí, Guayaki (Aché), Araweté, Mekens (Sakurabiat), Guarayo, Ntogapíd (Itogapúk), Kabanae	74	U+0061 U+0061 U+0024
+b$	b	ib, jab	Suruí-Paiter, Tupi do Machado (Wirafed), Ntogapíd (Itogapúk), Mondé, Gavião (Ikólóéhj), Matanau, Kuruaya, Língua Geral Paulista (Tupi austral), Kabanae, Cinta-Larga, Tembé, Aruá, Makurap, Aruáshi, Puruborá, Mekens (Sakurabiat)	73	U+0062 U+0024
+í$	í	tírí, ití	Juruna, Gavião (Ikólóéhj), Tupi do Machado (Wirafed), Mundurukú, Xipaya, Ntogapíd (Itogapúk), Arikem, Nheengatu, Língua Geral Paulista (Tupi austral), Cinta-Larga, Amanaye, Tapiete, Aruá, Puruborá, Tupinambá, Kayabí, Jorá, Suruí-Paiter, Tembé, Guajá, Ramarama, Kuruaya, Mekens (Sakurabiat), Guarayo, Turiwara, Zoró, Kabanae, Old Guaraní	72	U+00ed U+0024
+oo	oː	βoop, pooj	Gavião (Ikólóéhj), Suruí-Paiter, Zoró, Aruá, Wayoró, Mondé, Karitiana, Asurini do Tocantins, Língua Geral Paulista (Tupi austral), Tapirapé (Apyãwa), Tuparí, Mekens (Sakurabiat), Sateré-Mawé, Makurap	71	U+006f U+006f
+^gʷ	gʷ	gʷɨra, gʷata	Mbyá, Guarani Paraguay, Tupinambá, Old Guaraní, Parintintin, Língua Geral Paulista (Tupi austral), Kaiowá, Chiriguano, Chiripá (Ñandeva / Avá-Guarani), Apapokuva of Nimuendajú, Yuki, Guarayo, Xetá, Emerillon (Tekó), Tenharim, Omagua, Sirionó, Urueuwauwau, Guayaki (Aché), Jiahoi, Amondawa	70	U+005e U+0067 U+02b7
+ú$	ú	mombeú, katú	Juruna, Tupi do Machado (Wirafed), Xipaya, Jorá, Apapokuva of Nimuendajú, Língua Geral Paulista (Tupi austral), Amanaye, Matanau, Mondé, Xetá, Parintintin, Arikem, Nheengatu, Karo (Arara), Kaiowá, Warazu (Pauserna), Kuruaya, Araweté, Ntogapíd (Itogapúk), Turiwara, Asurini do Tocantins, Old Guaraní	68	U+00fa U+0024
+é	é	béréaβ, bébékót	Gavião (Ikólóéhj), Matanau, Warazu (Pauserna), Mundurukú, Xipaya, Cinta-Larga, Suruí-Paiter, Ramarama, Guarani Paraguay, Yuki, Kuruaya, Ntogapíd (Itogapúk), Tupi do Machado (Wirafed), Karo (Arara), Sirionó, Chiriguano, Juruna, Kaiowá, Tapiete, Guajá, Puruborá, Kabanae, Old Guaraní	66	U+00e9
+ú	ú	palabút, húru-húru	Juruna, Xipaya, Jorá, Gavião (Ikólóéhj), Warazu (Pauserna), Mondé, Chiriguano, Tupi do Machado (Wirafed), Ntogapíd (Itogapúk), Apapokuva of Nimuendajú, Língua Geral Paulista (Tupi austral), Arikem, Nheengatu, Guarani Paraguay, Anambé of Ehrenreich, Kaiowá, Tapiete, Yuki, Cocama-Cocamilla, Mekens (Sakurabiat), Turiwara, Old Guaraní	61	U+00fa
+ii	iː	kiit, gooptsiit	Mondé, Wayoró, Suruí-Paiter, Zoró, Aruá, Gavião (Ikólóéhj), Mekens (Sakurabiat), Nheengatu, Makurap, Karitiana, Cinta-Larga, Karo (Arara), Guarayo, Tupi do Machado (Wirafed), Língua Geral Paulista (Tupi austral), Matanau, Tuparí, Puruborá, Sirionó	57	U+0069 U+0069
+ó$	ó	totó, apó	Gavião (Ikólóéhj), Ramarama, Mundurukú, Amanaye, Língua Geral Paulista (Tupi austral), Cinta-Larga, Suruí-Paiter, Tembé, Guajá, Puruborá, Kuruaya, Ntogapíd (Itogapúk), Tupinambá, Matanau, Kabanae, Old Guaraní, Tupi do Machado (Wirafed), Sirionó, Aruá, Mekens (Sakurabiat), Zo'e	53	U+00f3 U+0024
+y	y	epkyjymy, sypo	Karitiana, Wayampí, Mundurukú, Omagua, Tembé, Arikem, Tapiete, Suruí (Aikewara), Guajá, Xipaya, Kuruaya	48	U+0079
+^õ	õ	õn, õĩ	Karitiana, Tuparí, Akuntsú, Makurap, Mekens (Sakurabiat), Wayampí, Zo'e, Kuruaya, Wayoró, Mondé, Mundurukú, Kayabí, Xetá, Apiaká, Tapirapé (Apyãwa), Puruborá, Sirionó, Suruí-Paiter	45	U+005e U+00f5
+ɨɨ	ɨː	kokɨɨp, jakɨɨp	Karitiana, Zoró, Wayoró, Gavião (Ikólóéhj), Sirionó, Mekens (Sakurabiat), Tapirapé (Apyãwa), Suruí-Paiter, Aruá, Mondé, Makurap, Suruí (Aikewara), Cinta-Larga, Karo (Arara), Kayabí, Parakanã, Juruna, Puruborá, Asurini do Xingu, Guayaki (Aché), Matanau, Asurini do Tocantins	44	U+0268 U+0268
+^ʒ	ʒ	ʒip, ʒi	Língua Geral Paulista (Tupi austral), Tapiete, Avá-Canoeiro, Puruborá, Xetá, Cinta-Larga, Mondé, Nheengatu, Awetí, Makurap, Asurini do Xingu, Araweté	42	U+005e U+0292
+^u$	u	u	Wayampí, Sirionó, Yuki, Apapokuva of Nimuendajú, Chiriguano, Warazu (Pauserna), Guajá, Guayaki (Aché), Araweté, Emerillon (Tekó), Tupi do Machado (Wirafed), Tenharim, Ka'apor (Urubu), Mbyá, Arikem, Nheengatu, Anambé, Guarani Paraguay, Avá-Canoeiro, Kaiowá, Tembé, Guajajara, Ramarama, Jiahoi, Guarayo, Zo'e, Amondawa	39	U+005e U+0075 U+0024
+^l	l	lõŋ, lit	Kuruaya, Suruí-Paiter, Wayampí, Emerillon (Tekó), Cocama-Cocamilla, Juruna, Kaiowá	39	U+005e U+006c
+d$	d	wáid, ipud	Suruí-Paiter, Ntogapíd (Itogapúk), Kuruaya, Jorá, Mondé, Cinta-Larga, Arikem, Guarayo, Aruá, Makurap, Gavião (Ikólóéhj)	38	U+0064 U+0024
+^ð	ð	ðãnɨ, ðia	Warazu (Pauserna), Kuruaya	37	U+005e U+00f0
+ʒ	ʒ	aʒuru, aʒɨ	Tapiete, Língua Geral Paulista (Tupi austral), Xetá, Tenharim, Urueuwauwau, Puruborá, Asurini do Xingu, Sateré-Mawé, Zoró, Mekens (Sakurabiat)	33	U+0292
+kw	kʷ	ekwajakwĩn, aikwesa	Akuntsú, Tapiete, Mondé, Xetá, Guajajara, Mekens (Sakurabiat), Tembé, Wayampí, Zo'e, Jorá, Tenharim, Suruí (Aikewara), Amondawa, Omagua, Mbyá, Cocama-Cocamilla, Kabanae, Old Guaraní, Wayoró	33	U+006b U+0077
+ɲ$	ɲ	kɨʔɨɲ, akʷaɲ	Karitiana, Emerillon (Tekó), Karo (Arara), Parintintin, Cinta-Larga, Tenharim, Urueuwauwau, Kayabí, Amondawa, Tupinambá, Wayoró	32	U+0272 U+0024
+^ẽ	ẽ	ẽn, ẽnu	Mekens (Sakurabiat), Mundurukú, Tenharim, Sateré-Mawé, Awetí, Tuparí, Guayaki (Aché), Wayoró, Parintintin, Mbyá, Wayampí, Karo (Arara), Kayabí, Suruí-Paiter, Juruna, Yuki, Urueuwauwau, Puruborá, Kuruaya, Guarayo, Mondé, Amondawa, Tapirapé (Apyãwa)	32	U+005e U+1ebd
+^kw	kʷ	kwɨβɨ, kwaẽ	Akuntsú, Mekens (Sakurabiat), Old Guaraní, Wayampí, Tupinambá, Mondé, Nheengatu, Awetí, Omagua, Turiwara, Amanaye, Apapokuva of Nimuendajú	32	U+005e U+006b U+0077
+ə̃	ə̃	hajkə̃ tʃə̃ʃə̃aj*, tʃekə̃rə̃rəkpə	Mundurukú, Xetá, Makurap, Puruborá, Karo (Arara), Apiaká, Avá-Canoeiro	31	U+0259 U+0303
+^a$	a	a	Ka'apor (Urubu), Apapokuva of Nimuendajú, Wayampí, Guarani Paraguay, Juruna, Guayaki (Aché), Guarayo, Mundurukú, Xetá, Emerillon (Tekó), Suruí (Aikewara), Apiaká, Arikem, Chiripá (Ñandeva / Avá-Guarani), Amanaye, Avá-Canoeiro, Sirionó, Chiriguano, Yuki, Warazu (Pauserna), Guajá, Kamayura, Akuntsú, Old Guaraní	31	U+005e U+0061 U+0024
+l$	l	sal, mebɨl	Emerillon (Tekó), Mondé, Gavião (Ikólóéhj), Cinta-Larga, Yuki, Zoró, Juruna	30	U+006c U+0024
+ð	ð	biðab, ðekabiðoðon	Warazu (Pauserna), Kuruaya	30	U+00f0
+^ɨ$	ɨ	ɨ	Wayampí, Amanaye, Guarani Paraguay, Avá-Canoeiro, Guarayo, Emerillon (Tekó), Tenharim, Ka'apor (Urubu), Parintintin, Apapokuva of Nimuendajú, Mbyá, Karo (Arara), Kayabí, Anambé, Tuparí, Sirionó, Anambé of Ehrenreich, Kaiowá, Tapiete, Tupinambá, Kamayura, Tapirapé (Apyãwa), Akuntsú, Old Guaraní	29	U+005e U+0268 U+0024
+^ĩ	ĩ	ĩnãmũ, ĩka	Xetá, Aruá, Cinta-Larga, Mondé, Karitiana, Suruí-Paiter, Omagua, Mundurukú, Guarayo, Tenharim, Amondawa, Urueuwauwau, Parintintin, Gavião (Ikólóéhj), Juruna, Apiaká, Puruborá, Kuruaya, Sateré-Mawé, Wayoró	29	U+005e U+0129
+ee	eː	peep, ɲeeŋ	Suruí-Paiter, Mondé, Karitiana, Zoró, Gavião (Ikólóéhj), Língua Geral Paulista (Tupi austral), Cinta-Larga, Kayabí, Tupinambá, Aruá, Makurap, Mekens (Sakurabiat)	29	U+0065 U+0065
+oo$	oː	adoo, soo	Gavião (Ikólóéhj), Zoró, Suruí-Paiter, Wayoró, Yuki, Aruá, Língua Geral Paulista (Tupi austral), Makurap, Mekens (Sakurabiat)	28	U+006f U+006f U+0024
+ii$	iː	kupii, amii	Mondé, Aruá, Zoró, Chiriguano, Cinta-Larga, Guarayo, Gavião (Ikólóéhj), Wayampí, Nheengatu, Emerillon (Tekó), Língua Geral Paulista (Tupi austral), Guajá, Sirionó, Old Guaraní, Wayoró	26	U+0069 U+0069 U+0024
+^ə	ə	əkɨm, əkə	Warazu (Pauserna), Tembé, Mundurukú, Guajajara, Arikem, Makurap, Puruborá	24	U+005e U+0259
+^o$	o	o	Wayampí, Yuki, Sirionó, Guayaki (Aché), Old Guaraní, Guarayo, Zo'e, Emerillon (Tekó), Ka'apor (Urubu), Urueuwauwau, Warazu (Pauserna), Avá-Canoeiro, Guajá, Kamayura, Tapirapé (Apyãwa), Chiriguano, Araweté	23	U+005e U+006f U+0024
+ŋʷ	ŋʷ	aŋʷamo, kaŋʷe	Parintintin, Tenharim, Língua Geral Paulista (Tupi austral), Wayampí, Guarayo, Chiripá (Ñandeva / Avá-Guarani), Xetá, Suruí (Aikewara), Amondawa, Urueuwauwau, Ka'apor (Urubu), Mbyá, Guarani Paraguay, Mekens (Sakurabiat), Wayoró	21	U+014b U+02b7
+^ii	iː	iit, iip	Gavião (Ikólóéhj), Aruá, Suruí-Paiter, Zoró, Matanau, Mondé, Sirionó	21	U+005e U+0069 U+0069
+y$	y	kãkãy, malay	Wayampí, Karitiana, Cinta-Larga, Mundurukú, Karo (Arara), Yuki, Suruí-Paiter, Kuruaya, Omagua	20	U+0079 U+0024
+^á	á	áso, árimo	Kuruaya, Gavião (Ikólóéhj), Tapiete, Chiriguano, Kaiowá, Tupi do Machado (Wirafed), Jorá, Guarani Paraguay, Asurini do Xingu, Old Guaraní	20	U+005e U+00e1
+​	<?>	βa​zer ​o​β, ʃihj​ĩ̀​jka	Gavião (Ikólóéhj), Aruá	20	U+200b
+z$	z	zemaraz, ʔaz	Guajajara, Tembé	20	U+007a U+0024
+ps	ps	dopsa, epsika	Tuparí, Mundurukú, Mekens (Sakurabiat)	19	U+0070 U+0073
+^y	y	yau, ya	Wayampí, Xipaya, Juruna, Karo (Arara), Omagua	18	U+005e U+0079
+ãã$	ãː	gerepãã, kãgãã	Zoró, Gavião (Ikólóéhj), Suruí-Paiter, Yuki, Aruá, Tapiete, Mondé	18	U+00e3 U+00e3 U+0024
+ãã	ãː	jokããt, kããj	Zoró, Aruá, Gavião (Ikólóéhj), Suruí-Paiter, Sateré-Mawé	18	U+00e3 U+00e3
+^i$	i	i	Sirionó, Warazu (Pauserna), Araweté, Tembé, Yuki, Língua Geral Paulista (Tupi austral), Aruá, Kuruaya, Gavião (Ikólóéhj), Aruáshi, Xipaya, Apapokuva of Nimuendajú, Zoró	17	U+005e U+0069 U+0024
+^pʷ	pʷ	pʷã, pʷihi	Anambé, Tupinambá, Avá-Canoeiro, Wayampí, Awetí, Omagua, Amondawa, Parintintin, Cocama-Cocamilla, Tuparí, Guajajara, Guayaki (Aché), Araweté	16	U+005e U+0070 U+02b7
+à	à	màpir, kàràkàʃihu	Gavião (Ikólóéhj), Guajajara, Juruna	16	U+00e0
+tt	tt	muttot, nopəttem	Karo (Arara), Matanau, Cinta-Larga, Tuparí, Makurap, Karitiana, Puruborá, Zoró, Wayoró	15	U+0074 U+0074
+gw	gw	ʔaragwer, jagwasatigwasu	Tupinambá, Xetá, Wayoró, Mondé, Tenharim, Amondawa, Parintintin, Mbyá, Chiriguano, Old Guaraní	15	U+0067 U+0077
+ee$	eː	pee, ʃee	Aruá, Gavião (Ikólóéhj), Parakanã, Sirionó, Zoró, Wayampí, Mundurukú, Tupinambá, Mbyá, Tuparí	15	U+0065 U+0065 U+0024
+h$	h	βaβáh, patíh	Gavião (Ikólóéhj), Suruí-Paiter, Karitiana	15	U+0068 U+0024
+ã́$	ã́	pasã́, tʃigã́	Gavião (Ikólóéhj), Juruna, Suruí-Paiter, Mondé, Karo (Arara), Mundurukú, Ntogapíd (Itogapúk)	14	U+00e3 U+0301 U+0024
+ẽẽ	ẽː	jẽẽj, kɨɲẽẽn	Zoró, Aruá, Gavião (Ikólóéhj), Mekens (Sakurabiat), Makurap, Karitiana, Tuparí, Wayoró	13	U+1ebd U+1ebd
+^ŋʷ	ŋʷ	ŋʷi, ŋʷaraj	Wayoró, Xetá, Urueuwauwau, Tenharim, Amondawa, Parintintin, Mekens (Sakurabiat)	13	U+005e U+014b U+02b7
+à$	à	akooβʔà, paβóʔà	Gavião (Ikólóéhj)	13	U+00e0 U+0024
+ò	ò	ʃíbòjk​ò​hβ, móòj	Gavião (Ikólóéhj), Zoró	13	U+00f2
+ʤ	dʒ	teʤu, hemeʤo	Emerillon (Tekó), Xetá, Akuntsú, Mundurukú	12	U+02a4
+^v	v	vahi, veve	Língua Geral Paulista (Tupi austral), Guarani Paraguay, Mbyá, Apiaká, Guayaki (Aché), Asurini do Xingu, Zoró, Chiriguano	12	U+005e U+0076
+uu$	uː	suu, juu	Yuki, Sateré-Mawé, Chiriguano, Nheengatu, Kayabí, Guayaki (Aché), Asurini do Xingu, Língua Geral Paulista (Tupi austral), Old Guaraní	12	U+0075 U+0075 U+0024
+ṍ	ṍ	ikṍlṍ, tʃṍabe	Mundurukú, Gavião (Ikólóéhj), Karo (Arara), Aruá, Zoró	11	U+1e4d
+õõ	õ	mããlõõj, kõõzerap	Zoró, Gavião (Ikólóéhj), Aruá, Wayoró	11	U+00f5 U+00f5
+ms	ms	mẽmsit, omsain pot	Tuparí, Apiaká	11	U+006d U+0073
+s$	s	was, aoros	Suruí (Aikewara), Asurini do Tocantins, Jorá, Matanau, Apiaká, Tuparí	11	U+0073 U+0024
+^e$	e	e	Tembé, Tapiete, Wayampí, Mundurukú, Zo'e, Warazu (Pauserna), Karitiana, Avá-Canoeiro, Sirionó, Kuruaya, Old Guaraní	11	U+005e U+0065 U+0024
+ɨ́	ɨ́	akɨ́la, pɨ́pɨ	Juruna, Kaiowá, Karo (Arara), Xipaya, Suruí-Paiter, Kuruaya	10	U+0268 U+0301
+ʔw	ʔw	naʔwəj, ʔõʔwẽ	Karo (Arara), Kayabí, Xetá, Awetí	10	U+0294 U+0077
+ə̃$	ə̃	nə̃, ejrakə̃	Mundurukú, Puruborá, Xetá	10	U+0259 U+0303 U+0024
+ɨɨ$	ɨː	mɨɨ, ɨtɨɨ	Karitiana, Wayampí, Matanau, Tuparí, Sirionó, Sateré-Mawé, Mekens (Sakurabiat), Old Guaraní, Wayoró	10	U+0268 U+0268 U+0024
+j̃$	j̃	mudʒepej̃, raaj̃	Araweté, Tapiete, Mundurukú, Karo (Arara), Zo'e, Yuki, Asurini do Xingu, Mbyá	9	U+006a U+0303 U+0024
+^ó	ó	óropo, ópa	Tapiete, Karo (Arara), Gavião (Ikólóéhj), Apapokuva of Nimuendajú, Suruí-Paiter, Kuruaya, Chiriguano, Kaiowá	9	U+005e U+00f3
+ns	ns	hunse, manset	Tapiete, Tuparí, Tembé, Karitiana, Aruáshi, Old Guaraní	9	U+006e U+0073
+^í	í	íkini, íkõ	Kuruaya, Gavião (Ikólóéhj), Mondé, Mundurukú, Warazu (Pauserna), Suruí-Paiter	9	U+005e U+00ed
+ỹ	ỹ	mỹnhỹm, otannỹmỹn	Karitiana	9	U+1ef9
+**$	<?>	sene**, sanapi**	Xipaya, Kuruaya, Arikem	9	U+002a U+002a U+0024
+dw	dw	mendwir, tamandwa	Nheengatu, Tupinambá, Apiaká, Tapiete, Zo'e, Anambé of Ehrenreich	9	U+0064 U+0077
+ì	ì	ʃíʃìr, bìriʃa	Gavião (Ikólóéhj), Karo (Arara)	8	U+00ec
+jʃ	jʃ	tɨrajʃo, ajʃo	Mundurukú, Tapiete, Tupinambá, Cocama-Cocamilla, Puruborá, Mbyá, Kaiowá	8	U+006a U+0283
+ɾ	ɾ	tɨɾɨg, akaɾinǝ̃ʔ	Suruí (Aikewara), Makurap, Emerillon (Tekó)	8	U+027e
+ǝ̃	ə̃	kǝ̃j, õǝ̃ʔ	Makurap	8	U+01dd U+0303
+ĩĩ	ĩː	sĩĩt, ameko tsĩĩt	Makurap, Wayoró, Aruá, Tuparí, Suruí-Paiter, Mekens (Sakurabiat)	8	U+0129 U+0129
+ɨ̃ɨ̃	ɨ̃	kiirɨ̃ɨ̃n, pinɨ̃ɨ̃t	Zoró, Gavião (Ikólóéhj), Aruá, Suruí-Paiter, Mekens (Sakurabiat)	8	U+0268 U+0303 U+0268 U+0303
+lʒ	lʒ	kabilʒolʒo, hulʒa	Kuruaya, Juruna	8	U+006c U+0292
+jw	jw	dʒebəjwan, wajwaj	Mundurukú, Awetí, Suruí (Aikewara), Tuparí, Suruí-Paiter, Omagua	7	U+006a U+0077
+ə́	ə́	kosə́da, dárə́k	Mundurukú	7	U+0259 U+0301
+^bw	bw	bwaʔa, bwãʔã	Guayaki (Aché), Yuki	7	U+005e U+0062 U+0077
+ĩĩ$	ĩː	βakĩĩ, kããlĩĩ	Aruá, Gavião (Ikólóéhj), Puruborá, Suruí-Paiter, Zoró	6	U+0129 U+0129 U+0024
+.	<?>	o.ẽn, ãmãn.nã	Makurap, Suruí-Paiter, Puruborá, Wayoró	6	U+002e
+rw	rw	berwa, mukuy amo nairwi	Puruborá, Tembé, Suruí-Paiter, Cocama-Cocamilla	6	U+0072 U+0077
+^mw	mw	mwã, mweto	Arikem, Nheengatu, Ntogapíd (Itogapúk), Cocama-Cocamilla, Mbyá, Old Guaraní	6	U+005e U+006d U+0077
+^ii$	iː	ii	Mondé, Cinta-Larga, Aruá, Matanau, Ramarama	6	U+005e U+0069 U+0069 U+0024
+tʃ$	tʃ	katʃ, kitʃ	Asurini do Tocantins, Nheengatu, Parakanã, Makurap	6	U+0074 U+0283 U+0024
+è	è	nètoβ, pèe βe màló	Gavião (Ikólóéhj)	6	U+00e8
+éh	éh	meméhinaku, kamadéhú	Gavião (Ikólóéhj), Juruna, Xipaya	6	U+00e9 U+0068
+ù	ù	pabùga, bùgu	Gavião (Ikólóéhj), Juruna	6	U+00f9
+^x	x	xiraa, xiʔã̀	Yuki, Gavião (Ikólóéhj)	6	U+005e U+0078
+óó	óó	panóój, adóóp	Mondé, Aruá, Gavião (Ikólóéhj), Suruí-Paiter, Zoró	6	U+00f3 U+00f3
+^gw	gw	gwaɲumĩ, gwɨra	Old Guaraní, Tupinambá, Kabanae, Matanau	6	U+005e U+0067 U+0077
+nʃ	nʃ	sanʃa kabɨ ɨɨt, minʃi	Tapiete, Anambé, Kabanae, Matanau	6	U+006e U+0283
+ɨ́$	ɨ́	ɨwɨ́, ɨkeɨ́	Amanaye, Juruna, Tupi do Machado (Wirafed)	6	U+0268 U+0301 U+0024
+^oo$	oː	oo	Chiriguano, Yuki, Tembé, Sirionó	6	U+005e U+006f U+006f U+0024
+^ú	ú	úpá, úrahu	Juruna, Suruí-Paiter, Xipaya, Ntogapíd (Itogapúk)	5	U+005e U+00fa
+ŋw	ŋw	pãŋwa, wiŋwi	Ramarama, Wayoró	5	U+014b U+0077
+dʒ$	dʒ	apidʒ, modʒ	Arikem, Emerillon (Tekó), Amondawa, Makurap, Asurini do Xingu	5	U+0064 U+0292 U+0024
+kk	kk	kokkok, nhɨkkɨjɨ̃mõ	Mundurukú, Aruá, Karitiana, Tuparí, Suruí-Paiter	5	U+006b U+006b
+^ee	eː	eet, eemɨk	Karitiana, Mekens (Sakurabiat), Amanaye, Aruá	5	U+005e U+0065 U+0065
+'ʔ	ʔ	tasa'ʔɛ, saʔi'ʔum	Suruí (Aikewara), Gavião (Ikólóéhj)	5	U+0027 U+0294
+ã́	ã́	kítã́p, pasã́ʔáp	Mondé, Mundurukú, Aruá, Gavião (Ikólóéhj), Juruna	5	U+00e3 U+0301
+pw	pw	itapwã, inapwa	Nheengatu, Xetá, Tupinambá, Aruá, Old Guaraní	5	U+0070 U+0077
+õõ$	õ	nõõ, jõõ	Yuki, Aruá, Sirionó, Suruí-Paiter, Zoró	5	U+00f5 U+00f5 U+0024
+ṍ$	ṍ	ikṍlṍ, kṍ	Mundurukú, Zoró, Aruá, Kuruaya	5	U+1e4d U+0024
+^aa	aː	aat, aawob	Suruí-Paiter, Zoró, Wayampí, Aruá	5	U+005e U+0061 U+0061
+^é	é	éna, érɨ	Warazu (Pauserna), Kuruaya, Xipaya, Kaiowá	5	U+005e U+00e9
+ə̃́$	ə̃́	kopsə̃́, ŋásə̃́	Mundurukú	5	U+0259 U+0303 U+0301 U+0024
+j̃	j̃	pij̃ũ, muʔuj̃aʔape	Sateré-Mawé, Apiaká, Wayampí, Araweté	5	U+006a U+0303
+v$	v	uv, ziuwav	Asurini do Xingu, Apiaká, Guayaki (Aché), Guarani Paraguay	5	U+0076 U+0024
+éw	éw	mutéwi, ðéwi	Warazu (Pauserna), Apiaká, Chiriguano	5	U+00e9 U+0077
+c	c	macaco, maracaja	Nheengatu, Língua Geral Paulista (Tupi austral), Emerillon (Tekó)	5	U+0063
+^ã$	ã	ã	Tapiete, Wayampí, Guarayo, Sirionó, Guayaki (Aché)	5	U+005e U+00e3 U+0024
+^f	f	feʃãw, futuka	Asurini do Xingu, Kaiowá, Chiripá (Ñandeva / Avá-Guarani)	5	U+005e U+0066
+ʔʃ	ʔʃ	koroʔʃit, maʔʃun	Karo (Arara)	4	U+0294 U+0283
+^ũ	ũ	ũbatʃi, ũn	Chiripá (Ñandeva / Avá-Guarani), Makurap, Juruna, Kayabí	4	U+005e U+0169
+nh	nh	ahunhɨʔa, mỹnhỹm	Karitiana, Makurap	4	U+006e U+0068
+js	js	kajser, kɨjse	Apiaká, Arikem, Omagua, Makurap	4	U+006a U+0073
+okʷa (f)	<???>	okʷa (f)	Akuntsú, Mekens (Sakurabiat), Tuparí, Wayoró	4	U+006f U+006b U+02b7 U+0061 U+0020 U+0028 U+0066 U+0029
+ñ	ɲ	tjehamiñãn, uʔuaña	Matanau, Mekens (Sakurabiat), Juruna	4	U+00f1
+pʃ	pʃ	kipʃĩ, ʃepʃep	Cinta-Larga, Zoró, Mundurukú	4	U+0070 U+0283
+^oo	oː	oop, ooj	Gavião (Ikólóéhj), Cinta-Larga, Suruí-Paiter	4	U+005e U+006f U+006f
+​h	<?>	ʃíbòjk​ò​hβ, bolig​ó​hβ	Gavião (Ikólóéhj)	4	U+200b U+0068
+^õõ	õ	õõt, õõĩ	Suruí-Paiter, Zoró, Aruá, Gavião (Ikólóéhj)	4	U+005e U+00f5 U+00f5
+rr	rr	ikerr tajãn, inerr tajãn	Matanau, Kabanae, Gavião (Ikólóéhj)	4	U+0072 U+0072
+íí	íí	tíít, síítak	Suruí-Paiter, Mondé	4	U+00ed U+00ed
+uu	uː	hanuun, muuʔe	Sateré-Mawé, Suruí-Paiter, Xipaya	4	U+0075 U+0075
+jh	jh	bijhaj, pujhɨ	Xetá, Tembé, Amondawa	4	U+006a U+0068
+ekiʔɨra (of m)	<???>	ekiʔɨra (of m)	Tenharim, Amondawa, Urueuwauwau, Parintintin	4	U+0065 U+006b U+0069 U+0294 U+0268 U+0072 U+0061 U+0020 U+0028 U+006f U+0066 U+0020 U+006d U+0029
+f	f	afuáb, kanafũ	Kayabí, Tupi do Machado (Wirafed), Asurini do Xingu	4	U+0066
+pʷ	pʷ	tʃapʷa, ĩpʷape	Xetá, Língua Geral Paulista (Tupi austral), Kayabí	4	U+0070 U+02b7
+^sw	sw	swasu, swindara	Tupinambá, Tapiete, Língua Geral Paulista (Tupi austral)	4	U+005e U+0073 U+0077
+^ũ$	ũ	ũ	Mbyá, Guarayo, Chiripá (Ñandeva / Avá-Guarani), Warazu (Pauserna)	4	U+005e U+0169 U+0024
+^ñ	ɲ	ñumumba, ñẽe	Chiriguano, Sirionó	4	U+005e U+00f1
+nn	nn	ãmãn.nã, tõn-nem	Karitiana, Karo (Arara), Makurap	3	U+006e U+006e
+éw$	éw	mundéw, daʃéw	Nheengatu, Puruborá, Mundurukú	3	U+00e9 U+0077 U+0024
+^uu$	uː	uu	Língua Geral Paulista (Tupi austral), Puruborá, Sirionó	3	U+005e U+0075 U+0075 U+0024
+tw	tw	epatwat, kitwat	Tuparí, Makurap	3	U+0074 U+0077
+jã (voc)	<???>	jã (voc)	Tuparí, Makurap, Wayoró	3	U+006a U+00e3 U+0020 U+0028 U+0076 U+006f U+0063 U+0029
+ike (o of m)	<???>	ike (o of m)	Akuntsú, Mekens (Sakurabiat), Wayoró	3	U+0069 U+006b U+0065 U+0020 U+0028 U+006f U+0020 U+006f U+0066 U+0020 U+006d U+0029
+kip (y of m)	<???>	kip (y of m)	Mekens (Sakurabiat), Tuparí, Wayoró	3	U+006b U+0069 U+0070 U+0020 U+0028 U+0079 U+0020 U+006f U+0066 U+0020 U+006d U+0029
+kɨpi (y)	<???>	kɨpi (y)	Akuntsú, Mekens (Sakurabiat), Wayoró	3	U+006b U+0268 U+0070 U+0069 U+0020 U+0028 U+0079 U+0029
+pp	pp	epparako, peteppa	Karitiana, Tuparí	3	U+0070 U+0070
+th	tʰ	hithit, ĩtha	Cinta-Larga, Tuparí, Karitiana	3	U+0074 U+0068
+^õ$	õ	õ	Akuntsú, Mekens (Sakurabiat)	3	U+005e U+00f5 U+0024
+^ʧ	tʃ	ʧəp, ʧɨp	Cinta-Larga, Kuruaya, Mundurukú	3	U+005e U+02a7
+éh$	éh	soraléh, bàrpéh	Gavião (Ikólóéhj)	3	U+00e9 U+0068 U+0024
+ós	ós	kósila, lósire	Kuruaya, Gavião (Ikólóéhj)	3	U+00f3 U+0073
+óh	óh	iʃóhkáli, wóhp	Gavião (Ikólóéhj)	3	U+00f3 U+0068
+ẽẽ$	ẽː	ijesẽẽ, hẽẽ	Yuki, Old Guaraní, Gavião (Ikólóéhj)	3	U+1ebd U+1ebd U+0024
+^à	à	à​sáno pír, à​ ká	Gavião (Ikólóéhj)	3	U+005e U+00e0
+àh	àh	ìkàhr, páràhù	Gavião (Ikólóéhj), Juruna	3	U+00e0 U+0068
+ṍṍ	ṍṍ	mṍṍt, ikṍṍr	Suruí-Paiter, Mondé, Aruá	3	U+1e4d U+1e4d
+ds	ds	ondsajti, ndsbate	Mondé	3	U+0064 U+0073
+^ãã$	ãː	ãã	Suruí-Paiter, Zoró, Aruá	3	U+005e U+00e3 U+00e3 U+0024
+^ẽẽ	ẽː	ẽẽt, ẽẽm	Zoró, Aruá, Karitiana	3	U+005e U+1ebd U+1ebd
+'o	o	ge'op, ɲõpi'op	Karitiana	3	U+0027 U+006f
+nh$	nh	pisokõnh, ĩnh	Karitiana	3	U+006e U+0068 U+0024
+^ɨ̃	ɨ̃	ɨ̃n, ɨ̃j	Tapirapé (Apyãwa), Asurini do Xingu, Karitiana	3	U+005e U+0268 U+0303
+^lʒ	lʒ	lʒe-jʔo, lʒahu	Kuruaya, Juruna	3	U+005e U+006c U+0292
+ə̃́	ə̃́	nasə̃́ŋ-pə, posə̃́ŋ	Mundurukú	3	U+0259 U+0303 U+0301
+ə́$	ə́	tabə́, mə́wə́	Mundurukú	3	U+0259 U+0301 U+0024
+^tw	tw	twitʃá, twiβaʔe	Tupinambá, Amanaye, Awetí	3	U+005e U+0074 U+0077
+ɾ$	ɾ	tɨkadɨɾ, seʔeŋaɾ	Suruí (Aikewara), Emerillon (Tekó)	3	U+027e U+0024
+^ɑ̃	ɑ̃	ɑ̃wɨiʃe, ɑ̃ip	Tapirapé (Apyãwa)	3	U+005e U+0251 U+0303
+nw	nw	maʔanwat, maʔanwar	Kamayura, Tembé	3	U+006e U+0077
+aŋia (of w)	<???>	aŋia (of w)	Tenharim, Parintintin, Kayabí	3	U+0061 U+014b U+0069 U+0061 U+0020 U+0028 U+006f U+0066 U+0020 U+0077 U+0029
+(ahe)kɨw	<???>	(ahe)kɨw	Tenharim, Amondawa, Jiahoi	3	U+0028 U+0061 U+0068 U+0065 U+0029 U+006b U+0268 U+0077
+pe(h)	<???>	pe(h)	Tenharim, Amondawa, Jiahoi	3	U+0070 U+0065 U+0028 U+0068 U+0029
+mw	mw	mamwa, dʒɨmwe	Tupinambá, Araweté	3	U+006d U+0077
+^ʤ	dʒ	ʤukuʔar, ʤɨʔɨ	Emerillon (Tekó), Xetá	3	U+005e U+02a4
+^hʷ	hʷ	hʷa, hʷãʔi	Kamayura	3	U+005e U+0068 U+02b7
+χ	χ	χoχo, esuχĩ	Yuki	3	U+03c7
+e͂$	e͂	poape͂, ape͂	Guarayo, Sirionó, Guarani Paraguay	3	U+0065 U+0342 U+0024
+ì$	ì	kírì, jaʔmì	Mondé, Karo (Arara)	2	U+00ec U+0024
+ów	ów	mbokówewá, pakówa	Turiwara, Puruborá	2	U+00f3 U+0077
+r̃	r̃	kãr̃aŋ, ɲiõr̃owĩ	Apiaká, Makurap	2	U+0072 U+0303
+^ɨɨ	ɨː	ɨɨa, ɨɨrap	Guarani Paraguay, Wayoró	2	U+005e U+0268 U+0268
+kojtpet (m)	<???>	kojtpet (m)	Mekens (Sakurabiat), Wayoró	2	U+006b U+006f U+006a U+0074 U+0070 U+0065 U+0074 U+0020 U+0028 U+006d U+0029
+ikej (o)	<???>	ikej (o)	Mekens (Sakurabiat), Tuparí	2	U+0069 U+006b U+0065 U+006a U+0020 U+0028 U+006f U+0029
+ã̃$	ã	jã̃, ĩnĩpɨʔã̃	Apiaká, Akuntsú	2	U+00e3 U+0303 U+0024
+azir (?)	<???>	azir (?)	Mekens (Sakurabiat)	2	U+0061 U+007a U+0069 U+0072 U+0020 U+0028 U+003f U+0029
+â	â	gojâna, kâàj	Cinta-Larga, Gavião (Ikólóéhj)	2	U+00e2
+(bas)ep	<???>	(bas)ep	Cinta-Larga, Mondé	2	U+0028 U+0062 U+0061 U+0073 U+0029 U+0065 U+0070
+^ṍ	ṍ	ṍbi, ṍn	Mundurukú, Gavião (Ikólóéhj)	2	U+005e U+1e4d
+è$	è	kerè, bolirápè	Gavião (Ikólóéhj)	2	U+00e8 U+0024
+ĩ́	ĩ́	apĩ́n, paβír ʃiʔ​íĩ́β gaβ	Mundurukú, Gavião (Ikólóéhj)	2	U+0129 U+0301
+^ee$	eː	ee	Chiriguano, Gavião (Ikólóéhj)	2	U+005e U+0065 U+0065 U+0024
+ʧ	tʃ	maʧu, daʤekʧó	Mondé, Mundurukú	2	U+02a7
+ks	ks	kuksa, aksɨa	Omagua, Mondé	2	U+006b U+0073
+ɨ̃ɨ̃$	ɨ̃	amɨ̃ɨ̃, pɨ̃tɨ̃vɨ̃ɨ̃	Guajá, Aruá	2	U+0268 U+0303 U+0268 U+0303 U+0024
+ss	ss	jassi, kassala	Kuruaya, Matanau	2	U+0073 U+0073
+tt$	tt	gatt	Matanau	2	U+0074 U+0074 U+0024
+óʃ	óʃ	póʃɨ, góʃer	Chiriguano, Matanau	2	U+00f3 U+0283
+'õ	õ	nẽ'õm, ke'õn	Karitiana	2	U+0027 U+00f5
+mh	mh	hɨmhɨmã, humhai	Xetá, Karitiana	2	U+006d U+0068
+'ĩ	ĩ	eje'ĩn, my'ĩnã	Karitiana	2	U+0027 U+0129
+'e	e	sa'ewotyt, sa'ep	Karitiana	2	U+0027 U+0065
+(s)ere	<???>	(s)ere	Arikem	2	U+0028 U+0073 U+0029 U+0065 U+0072 U+0065
+^ə̃	ə̃	ə̃m, ə̃ŋʷaj	Mundurukú, Xetá	2	U+005e U+0259 U+0303
+^ẽ$	ẽ	ẽ	Sateré-Mawé, Mbyá	2	U+005e U+1ebd U+0024
+^j̃	j̃	j̃uʔi, j̃epẽi	Sateré-Mawé, Guarayo	2	U+005e U+006a U+0303
+kɨwɨr (of w)	<???>	kɨwɨr (of w)	Guajajara, Parakanã	2	U+006b U+0268 U+0077 U+0268 U+0072 U+0020 U+0028 U+006f U+0066 U+0020 U+0077 U+0029
+ɑ̃	ɑ̃	hɑ̃wɑ̃ʃi	Tapirapé (Apyãwa)	2	U+0251 U+0303
+hw	hw	jakupemuhwã, tsĩhwrap	Amondawa, Kamayura	2	U+0068 U+0077
+^ɨɨ$	ɨː	ɨɨ	Tupi do Machado (Wirafed), Chiriguano	2	U+005e U+0268 U+0268 U+0024
+^ĩ$	ĩ	ĩ	Araweté, Amanaye	2	U+005e U+0129 U+0024
+ɨkeɨ́ (o)	<???>	ɨkeɨ́ (o)	Amanaye	2	U+0268 U+006b U+0065 U+0268 U+0301 U+0020 U+0028 U+006f U+0029
+ʤ$	dʒ	eharaʤ, pukuʤ	Emerillon (Tekó)	2	U+02a4 U+0024
+^kʲ	kʲ	kʲa	Sirionó, Zo'e	2	U+005e U+006b U+02b2
+^hw	hw	hwaratã, hwape	Kamayura	2	U+005e U+0068 U+0077
+^ɤ	ɤ	ɤaʒo, ɤow	Avá-Canoeiro, Xetá	2	U+005e U+0264
+ra(g)íra	<???>	ra(g)íra	Língua Geral Paulista (Tupi austral)	2	U+0072 U+0061 U+0028 U+0067 U+0029 U+00ed U+0072 U+0061
+^χ	χ	χa, χoχo	Yuki	2	U+005e U+03c7
+^aa$	aː	aa	Mbyá, Sirionó	2	U+005e U+0061 U+0061 U+0024
+ʝ	ʝ	aɨʝe, maniʝu	Warazu (Pauserna)	2	U+029d
+kɨvɨ (of w)	<???>	kɨvɨ (of w)	Mbyá, Guarani Paraguay	2	U+006b U+0268 U+0076 U+0268 U+0020 U+0028 U+006f U+0066 U+0020 U+0077 U+0029
+ë$	ë	kë, ɲajtë	Xetá	2	U+00eb U+0024
+tigwa (child)	<???>	tigwa (child)	Xetá	2	U+0074 U+0069 U+0067 U+0077 U+0061 U+0020 U+0028 U+0063 U+0068 U+0069 U+006c U+0064 U+0029
+timémo (teenager)	<???>	timémo (teenager)	Xetá	2	U+0074 U+0069 U+006d U+00e9 U+006d U+006f U+0020 U+0028 U+0074 U+0065 U+0065 U+006e U+0061 U+0067 U+0065 U+0072 U+0029
+ww	ww	wawwaw	Karo (Arara)	1	U+0077 U+0077
+tʃə̃p (pɨʔ)	<???>	tʃə̃p (pɨʔ)	Karo (Arara)	1	U+0074 U+0283 U+0259 U+0303 U+0070 U+0020 U+0028 U+0070 U+0268 U+0294 U+0029
+wĩ(ŋ)	<???>	wĩ(ŋ)	Puruborá	1	U+0077 U+0129 U+0028 U+014b U+0029
+^ʃs	ʃs	ʃsakakɨj	Puruborá	1	U+005e U+0283 U+0073
+(m)ãm(p)ka	<???>	(m)ãm(p)ka	Puruborá	1	U+0028 U+006d U+0029 U+00e3 U+006d U+0028 U+0070 U+0029 U+006b U+0061
+biá(d)	<???>	biá(d)	Puruborá	1	U+0062 U+0069 U+00e1 U+0028 U+0064 U+0029
+wapita(j)*	<???>	wapita(j)*	Puruborá	1	U+0077 U+0061 U+0070 U+0069 U+0074 U+0061 U+0028 U+006a U+0029 U+002a
+kú(d)	<???>	kú(d)	Puruborá	1	U+006b U+00fa U+0028 U+0064 U+0029
+baʃa(re)	<???>	baʃa(re)	Puruborá	1	U+0062 U+0061 U+0283 U+0061 U+0028 U+0072 U+0065 U+0029
+mihõrã(ɲ)*	<???>	mihõrã(ɲ)*	Puruborá	1	U+006d U+0069 U+0068 U+00f5 U+0072 U+00e3 U+0028 U+0272 U+0029 U+002a
+(h)opá	<???>	(h)opá	Puruborá	1	U+0028 U+0068 U+0029 U+006f U+0070 U+00e1
+kɨmeʃa(n)	<???>	kɨmeʃa(n)	Puruborá	1	U+006b U+0268 U+006d U+0065 U+0283 U+0061 U+0028 U+006e U+0029
+(m)bia	<???>	(m)bia	Puruborá	1	U+0028 U+006d U+0029 U+0062 U+0069 U+0061
+wabe(j)	<???>	wabe(j)	Puruborá	1	U+0077 U+0061 U+0062 U+0065 U+0028 U+006a U+0029
+boba(b)*	<???>	boba(b)*	Puruborá	1	U+0062 U+006f U+0062 U+0061 U+0028 U+0062 U+0029 U+002a
+(ii)jaw	<???>	(ii)jaw	Puruborá	1	U+0028 U+0069 U+0069 U+0029 U+006a U+0061 U+0077
+uuju murũm(p)	<???>	uuju murũm(p)	Puruborá	1	U+0075 U+0075 U+006a U+0075 U+0020 U+006d U+0075 U+0072 U+0169 U+006d U+0028 U+0070 U+0029
+iwá(ga)	<???>	iwá(ga)	Ntogapíd (Itogapúk)	1	U+0069 U+0077 U+00e1 U+0028 U+0067 U+0061 U+0029
+^ĩ̄	ĩ̄	ĩ̄ja	Ntogapíd (Itogapúk)	1	U+005e U+0129 U+0304
+wen(a)	<???>	wen(a)	Ntogapíd (Itogapúk)	1	U+0077 U+0065 U+006e U+0028 U+0061 U+0029
+ph	pʰ	kaphá	Ramarama	1	U+0070 U+0068
+t(ʃ)eɨ	<???>	t(ʃ)eɨ	Makurap	1	U+0074 U+0028 U+0283 U+0029 U+0065 U+0268
+ɛ	ɛ	wɛtok	Makurap	1	U+025b
+aβa (voc)	<???>	aβa (voc)	Makurap	1	U+0061 U+03b2 U+0061 U+0020 U+0028 U+0076 U+006f U+0063 U+0029
+(mẽpit tʃop)	<???>	(mẽpit tʃop)	Makurap	1	U+0028 U+006d U+1ebd U+0070 U+0069 U+0074 U+0020 U+0074 U+0283 U+006f U+0070 U+0029
+(tʃ)ep	<???>	(tʃ)ep	Makurap	1	U+0028 U+0074 U+0283 U+0029 U+0065 U+0070
+t(ʃ)et	<???>	t(ʃ)et	Makurap	1	U+0074 U+0028 U+0283 U+0029 U+0065 U+0074
+to(-aʔ)	<???>	to(-aʔ)	Makurap	1	U+0074 U+006f U+0028 U+002d U+0061 U+0294 U+0029
+(ha)poɲǝ̃ʔ	<???>	(ha)poɲǝ̃ʔ	Makurap	1	U+0028 U+0068 U+0061 U+0029 U+0070 U+006f U+0272 U+01dd U+0303 U+0294
+mõj(ẽtem)	<???>	mõj(ẽtem)	Makurap	1	U+006d U+00f5 U+006a U+0028 U+1ebd U+0074 U+0065 U+006d U+0029
+(ɲẽn-)tʃoaj	<???>	(ɲẽn-)tʃoaj	Makurap	1	U+0028 U+0272 U+1ebd U+006e U+002d U+0029 U+0074 U+0283 U+006f U+0061 U+006a
+ateɾ(-aʔ)	<???>	ateɾ(-aʔ)	Makurap	1	U+0061 U+0074 U+0065 U+027e U+0028 U+002d U+0061 U+0294 U+0029
+ǝ̃$	ə̃	ərəpijǝ̃	Makurap	1	U+01dd U+0303 U+0024
+(n)detpe	<???>	(n)detpe	Wayoró	1	U+0028 U+006e U+0029 U+0064 U+0065 U+0074 U+0070 U+0065
+aβi (voc)	<???>	aβi (voc)	Wayoró	1	U+0061 U+03b2 U+0069 U+0020 U+0028 U+0076 U+006f U+0063 U+0029
+aβat (voc)	<???>	aβat (voc)	Wayoró	1	U+0061 U+03b2 U+0061 U+0074 U+0020 U+0028 U+0076 U+006f U+0063 U+0029
+au(wa)	<???>	au(wa)	Wayoró	1	U+0061 U+0075 U+0028 U+0077 U+0061 U+0029
+(tʃu)mukura	<???>	(tʃu)mukura	Wayoró	1	U+0028 U+0074 U+0283 U+0075 U+0029 U+006d U+0075 U+006b U+0075 U+0072 U+0061
+^ŋʷw	ŋʷw	ŋʷwrã	Wayoró	1	U+005e U+014b U+02b7 U+0077
+aote(nã)	<???>	aote(nã)	Wayoró	1	U+0061 U+006f U+0074 U+0065 U+0028 U+006e U+00e3 U+0029
+akej (o)	<???>	akej (o)	Wayoró	1	U+0061 U+006b U+0065 U+006a U+0020 U+0028 U+006f U+0029
+^ẽẽ$	ẽː	ẽẽ	Wayoró	1	U+005e U+1ebd U+1ebd U+0024
+aindi; (ndaɨp	<???>	aindi; (ndaɨp	Wayoró	1	U+0061 U+0069 U+006e U+0064 U+0069 U+003b U+0020 U+0028 U+006e U+0064 U+0061 U+0268 U+0070
+tak ti)	<???>	tak ti)	Wayoró	1	U+0074 U+0061 U+006b U+0020 U+0074 U+0069 U+0029
+asa, ike (o of m)	<???>	asa, ike (o of m)	Tuparí	1	U+0061 U+0073 U+0061 U+002c U+0020 U+0069 U+006b U+0065 U+0020 U+0028 U+006f U+0020 U+006f U+0066 U+0020 U+006d U+0029
+(h)op	<???>	(h)op	Tuparí	1	U+0028 U+0068 U+0029 U+006f U+0070
+apsi (voc)	<???>	apsi (voc)	Tuparí	1	U+0061 U+0070 U+0073 U+0069 U+0020 U+0028 U+0076 U+006f U+0063 U+0029
+ws	ws	awsa	Tuparí	1	U+0077 U+0073
+kɨpsiʔi (y)	<???>	kɨpsiʔi (y)	Tuparí	1	U+006b U+0268 U+0070 U+0073 U+0069 U+0294 U+0069 U+0020 U+0028 U+0079 U+0029
+koj (m)	<???>	koj (m)	Tuparí	1	U+006b U+006f U+006a U+0020 U+0028 U+006d U+0029
+(h)aʔɨp	<???>	(h)aʔɨp	Tuparí	1	U+0028 U+0068 U+0029 U+0061 U+0294 U+0268 U+0070
+(b)õ	<???>	(b)õ	Akuntsú	1	U+0028 U+0062 U+0029 U+00f5
+abi (voc)	<???>	abi (voc)	Akuntsú	1	U+0061 U+0062 U+0069 U+0020 U+0028 U+0076 U+006f U+0063 U+0029
+kojtpet (o)	<???>	kojtpet (o)	Akuntsú	1	U+006b U+006f U+006a U+0074 U+0070 U+0065 U+0074 U+0020 U+0028 U+006f U+0029
+õkɨra(sĩn)	<???>	õkɨra(sĩn)	Mekens (Sakurabiat)	1	U+00f5 U+006b U+0268 U+0072 U+0061 U+0028 U+0073 U+0129 U+006e U+0029
+tak (of w)	<???>	tak (of w)	Mekens (Sakurabiat)	1	U+0074 U+0061 U+006b U+0020 U+0028 U+006f U+0066 U+0020 U+0077 U+0029
+(ape)ka	<???>	(ape)ka	Mekens (Sakurabiat)	1	U+0028 U+0061 U+0070 U+0065 U+0029 U+006b U+0061
+abi(top) (voc)	<???>	abi(top) (voc)	Mekens (Sakurabiat)	1	U+0061 U+0062 U+0069 U+0028 U+0074 U+006f U+0070 U+0029 U+0020 U+0028 U+0076 U+006f U+0063 U+0029
+to(a)p	<???>	to(a)p	Mekens (Sakurabiat)	1	U+0074 U+006f U+0028 U+0061 U+0029 U+0070
+po(pi)	<???>	po(pi)	Mekens (Sakurabiat)	1	U+0070 U+006f U+0028 U+0070 U+0069 U+0029
+(s)õpaa	<???>	(s)õpaa	Mekens (Sakurabiat)	1	U+0028 U+0073 U+0029 U+00f5 U+0070 U+0061 U+0061
+pɨ(kaat)	<???>	pɨ(kaat)	Mekens (Sakurabiat)	1	U+0070 U+0268 U+0028 U+006b U+0061 U+0061 U+0074 U+0029
+pi(tʃ)a	<???>	pi(tʃ)a	Mekens (Sakurabiat)	1	U+0070 U+0069 U+0028 U+0074 U+0283 U+0029 U+0061
+ãtsi (voc)	<???>	ãtsi (voc)	Mekens (Sakurabiat)	1	U+00e3 U+0074 U+0073 U+0069 U+0020 U+0028 U+0076 U+006f U+0063 U+0029
+(po)ape	<???>	(po)ape	Mekens (Sakurabiat)	1	U+0028 U+0070 U+006f U+0029 U+0061 U+0070 U+0065
+api(ts)a	<???>	api(ts)a	Mekens (Sakurabiat)	1	U+0061 U+0070 U+0069 U+0028 U+0074 U+0073 U+0029 U+0061
+juj(kááp)	<???>	juj(kááp)	Mekens (Sakurabiat)	1	U+006a U+0075 U+006a U+0028 U+006b U+00e1 U+00e1 U+0070 U+0029
+tɨrɨ(ẽp)	<???>	tɨrɨ(ẽp)	Mekens (Sakurabiat)	1	U+0074 U+0268 U+0072 U+0268 U+0028 U+1ebd U+0070 U+0029
+^js	js	jsej	Mekens (Sakurabiat)	1	U+005e U+006a U+0073
+(ji)kʷara	<???>	(ji)kʷara	Mekens (Sakurabiat)	1	U+0028 U+006a U+0069 U+0029 U+006b U+02b7 U+0061 U+0072 U+0061
+kitse(jat)	<???>	kitse(jat)	Mekens (Sakurabiat)	1	U+006b U+0069 U+0074 U+0073 U+0065 U+0028 U+006a U+0061 U+0074 U+0029
+(pe)saro	<???>	(pe)saro	Mekens (Sakurabiat)	1	U+0028 U+0070 U+0065 U+0029 U+0073 U+0061 U+0072 U+006f
+û	û	ŋgûj	Cinta-Larga	1	U+00fb
+(ne)va	<???>	(ne)va	Cinta-Larga	1	U+0028 U+006e U+0065 U+0029 U+0076 U+0061
+gati(kúhv)	<???>	gati(kúhv)	Cinta-Larga	1	U+0067 U+0061 U+0074 U+0069 U+0028 U+006b U+00fa U+0068 U+0076 U+0029
+^ⁿdʒ	ⁿdʒ	ⁿdʒoitkap	Cinta-Larga	1	U+005e U+207f U+0064 U+0292
+maʃu(kũ')	<???>	maʃu(kũ')	Cinta-Larga	1	U+006d U+0061 U+0283 U+0075 U+0028 U+006b U+0169 U+0027 U+0029
+ùh	ùh	parùhr	Gavião (Ikólóéhj)	1	U+00f9 U+0068
+^ìh	ìh	ìhβ népo	Gavião (Ikólóéhj)	1	U+005e U+00ec U+0068
+aaa	aːa	katkaraaap	Gavião (Ikólóéhj)	1	U+0061 U+0061 U+0061
+í̜í (ʔí)	<???>	í̜í (ʔí)	Gavião (Ikólóéhj)	1	U+00ed U+031c U+00ed U+0020 U+0028 U+0294 U+00ed U+0029
+òh	òh	jòhβ	Gavião (Ikólóéhj)	1	U+00f2 U+0068
+ìh	ìh	paβóa ʃìhr	Gavião (Ikólóéhj)	1	U+00ec U+0068
+​s	<?>	à​sáno pír	Gavião (Ikólóéhj)	1	U+200b U+0073
+^á$	á	á	Gavião (Ikólóéhj)	1	U+005e U+00e1 U+0024
+õʒuβ (p)	<???>	õʒuβ (p)	Gavião (Ikólóéhj)	1	U+00f5 U+0292 U+0075 U+03b2 U+0020 U+0028 U+0070 U+0029
+boja* (m)	<???>	boja* (m)	Gavião (Ikólóéhj)	1	U+0062 U+006f U+006a U+0061 U+002a U+0020 U+0028 U+006d U+0029
+^ì	ì	ìkàhr	Gavião (Ikólóéhj)	1	U+005e U+00ec
+(badʒ)ep	<???>	(badʒ)ep	Gavião (Ikólóéhj)	1	U+0028 U+0062 U+0061 U+0064 U+0292 U+0029 U+0065 U+0070
+^òh	òh	òhj ​o​β	Gavião (Ikólóéhj)	1	U+005e U+00f2 U+0068
+bitʃaŋ(i)	<???>	bitʃaŋ(i)	Gavião (Ikólóéhj)	1	U+0062 U+0069 U+0074 U+0283 U+0061 U+014b U+0028 U+0069 U+0029
+õ̀	õ̀	nékó ʃõ̀hn	Gavião (Ikólóéhj)	1	U+00f5 U+0300
+àh$	àh	ibógàh	Gavião (Ikólóéhj)	1	U+00e0 U+0068 U+0024
+óh$	óh	tapóh	Gavião (Ikólóéhj)	1	U+00f3 U+0068 U+0024
+ʃ$	ʃ	pagó iʃ	Gavião (Ikólóéhj)	1	U+0283 U+0024
+ĩ̀	ĩ̀	ʃihj​ĩ̀​jka	Gavião (Ikólóéhj)	1	U+0129 U+0300
+paàt (of m)	<???>	paàt (of m)	Gavião (Ikólóéhj)	1	U+0070 U+0061 U+00e0 U+0074 U+0020 U+0028 U+006f U+0066 U+0020 U+006d U+0029
+ombara (y)	<???>	ombara (y)	Gavião (Ikólóéhj)	1	U+006f U+006d U+0062 U+0061 U+0072 U+0061 U+0020 U+0028 U+0079 U+0029
+ómbara (o)	<???>	ómbara (o)	Gavião (Ikólóéhj)	1	U+00f3 U+006d U+0062 U+0061 U+0072 U+0061 U+0020 U+0028 U+006f U+0029
+(po-kãj-)dik	<???>	(po-kãj-)dik	Gavião (Ikólóéhj)	1	U+0028 U+0070 U+006f U+002d U+006b U+00e3 U+006a U+002d U+0029 U+0064 U+0069 U+006b
+èh$	èh	ipèh	Gavião (Ikólóéhj)	1	U+00e8 U+0068 U+0024
+ò$	ò	pò	Gavião (Ikólóéhj)	1	U+00f2 U+0024
+^à$	à	à	Gavião (Ikólóéhj)	1	U+005e U+00e0 U+0024
+^ã̀	ã̀	ã̀sáno ​ṍ​hβ	Gavião (Ikólóéhj)	1	U+005e U+00e3 U+0300
+ĩ́$	ĩ́	sahg​ĩ́	Gavião (Ikólóéhj)	1	U+0129 U+0301 U+0024
+ã̀$	ã̀	xiʔã̀	Gavião (Ikólóéhj)	1	U+00e3 U+0300 U+0024
+ã́ã́	ã́ã́	kã́ã́l	Mondé	1	U+00e3 U+0301 U+00e3 U+0301
+(ne)a	<???>	(ne)a	Mondé	1	U+0028 U+006e U+0065 U+0029 U+0061
+^ã́	ã́	ã́bi	Mondé	1	U+005e U+00e3 U+0301
+ṍṍ$	ṍṍ	geerṍṍ	Mondé	1	U+1e4d U+1e4d U+0024
+úú$	úú	túú	Mondé	1	U+00fa U+00fa U+0024
+bitʃam(i)	<???>	bitʃam(i)	Mondé	1	U+0062 U+0069 U+0074 U+0283 U+0061 U+006d U+0028 U+0069 U+0029
+(tʃagi)kap	<???>	(tʃagi)kap	Mondé	1	U+0028 U+0074 U+0283 U+0061 U+0067 U+0069 U+0029 U+006b U+0061 U+0070
+ãʔai (o)	<???>	ãʔai (o)	Mondé	1	U+00e3 U+0294 U+0061 U+0069 U+0020 U+0028 U+006f U+0029
+ãti (y)	<???>	ãti (y)	Mondé	1	U+00e3 U+0074 U+0069 U+0020 U+0028 U+0079 U+0029
+^ĩĩ	ĩː	ĩĩt	Mondé	1	U+005e U+0129 U+0129
+(ṍ)zíʔáp	<???>	(ṍ)zíʔáp	Mondé	1	U+0028 U+1e4d U+0029 U+007a U+00ed U+0294 U+00e1 U+0070
+î	î	dʒîip	Aruá	1	U+00ee
+ã(d)zá	<???>	ã(d)zá	Aruá	1	U+00e3 U+0028 U+0064 U+0029 U+007a U+00e1
+maloj(ʔa)	<???>	maloj(ʔa)	Aruá	1	U+006d U+0061 U+006c U+006f U+006a U+0028 U+0294 U+0061 U+0029
+ll	ll	kallajde	Matanau	1	U+006c U+006c
+ʃh	ʃh	maʃhãn	Matanau	1	U+0283 U+0068
+rr$	rr	maɨrr	Kabanae	1	U+0072 U+0072 U+0024
+ga(ti)	<???>	ga(ti)	Zoró	1	U+0067 U+0061 U+0028 U+0074 U+0069 U+0029
+mãitʃo(kóm)	<???>	mãitʃo(kóm)	Zoró	1	U+006d U+00e3 U+0069 U+0074 U+0283 U+006f U+0028 U+006b U+00f3 U+006d U+0029
+loboti(it)	<???>	loboti(it)	Suruí-Paiter	1	U+006c U+006f U+0062 U+006f U+0074 U+0069 U+0028 U+0069 U+0074 U+0029
+ŋoob(lir)	<???>	ŋoob(lir)	Suruí-Paiter	1	U+014b U+006f U+006f U+0062 U+0028 U+006c U+0069 U+0072 U+0029
+bh	bh	ibhin	Suruí-Paiter	1	U+0062 U+0068
+áá	áá	mááj	Suruí-Paiter	1	U+00e1 U+00e1
+joku(u)ra	<???>	joku(u)ra	Suruí-Paiter	1	U+006a U+006f U+006b U+0075 U+0028 U+0075 U+0029 U+0072 U+0061
+pad(ofM)	<???>	pad(ofM)	Suruí-Paiter	1	U+0070 U+0061 U+0064 U+0028 U+006f U+0066 U+004d U+0029
+ɬ	ɬ	joɬkap	Suruí-Paiter	1	U+026c
+e(en)	<???>	e(en)	Suruí-Paiter	1	U+0065 U+0028 U+0065 U+006e U+0029
+mm	mm	tãɲ'ommɨ̃	Karitiana	1	U+006d U+006d
+^nh	nh	nhɨkkɨjɨ̃mõ	Karitiana	1	U+005e U+006e U+0068
+^'e	e	'ep	Karitiana	1	U+005e U+0027 U+0065
+ne(nde)	<???>	ne(nde)	Karitiana	1	U+006e U+0065 U+0028 U+006e U+0064 U+0065 U+0029
+ỹ$	ỹ	pisɨpgỹjymỹ	Karitiana	1	U+1ef9 U+0024
+'y$	y	ti'y	Karitiana	1	U+0027 U+0079 U+0024
+'o$	o	kina'o	Karitiana	1	U+0027 U+006f U+0024
+'a$	a	se'a	Karitiana	1	U+0027 U+0061 U+0024
+^'o	o	'op	Karitiana	1	U+005e U+0027 U+006f
+^'a	a	'ap	Karitiana	1	U+005e U+0027 U+0061
+o(ʔ)i	<???>	o(ʔ)i	Karitiana	1	U+006f U+0028 U+0294 U+0029 U+0069
+'ĩ$	ĩ	soko'ĩ	Karitiana	1	U+0027 U+0129 U+0024
+gg	gg	saragga	Karitiana	1	U+0067 U+0067
+'y	y	koromopi'yp	Karitiana	1	U+0027 U+0079
+kaʔa dʒu ze ta (go in the forest)	<???>	kaʔa dʒu ze ta (go in the forest)	Xipaya	1	U+006b U+0061 U+0294 U+0061 U+0020 U+0064 U+0292 U+0075 U+0020 U+007a U+0065 U+0020 U+0074 U+0061 U+0020 U+0028 U+0067 U+006f U+0020 U+0069 U+006e U+0020 U+0074 U+0068 U+0065 U+0020 U+0066 U+006f U+0072 U+0065 U+0073 U+0074 U+0029
+^kʷw	kʷw	kʷwasew	Xipaya	1	U+005e U+006b U+02b7 U+0077
+apɨ(imãmã)	<???>	apɨ(imãmã)	Juruna	1	U+0061 U+0070 U+0268 U+0028 U+0069 U+006d U+00e3 U+006d U+00e3 U+0029
+ù$	ù	páràhù	Juruna	1	U+00f9 U+0024
+apayú(arede)	<???>	apayú(arede)	Juruna	1	U+0061 U+0070 U+0061 U+0079 U+00fa U+0028 U+0061 U+0072 U+0065 U+0064 U+0065 U+0029
+^kʃ	kʃ	kʃabi	Mundurukú	1	U+005e U+006b U+0283
+waŋṍ (o)	<???>	waŋṍ (o)	Mundurukú	1	U+0077 U+0061 U+014b U+1e4d U+0020 U+0028 U+006f U+0029
+kitpit (f)	<???>	kitpit (f)	Mundurukú	1	U+006b U+0069 U+0074 U+0070 U+0069 U+0074 U+0020 U+0028 U+0066 U+0029
+ẽ́	ẽ́	tʃẽ́m	Mundurukú	1	U+1ebd U+0301
+^ps	ps	psa	Mundurukú	1	U+005e U+0070 U+0073
+aĩ́hĩ́ (voc)	<???>	aĩ́hĩ́ (voc)	Mundurukú	1	U+0061 U+0129 U+0301 U+0068 U+0129 U+0301 U+0020 U+0028 U+0076 U+006f U+0063 U+0029
+^é$	é	é	Mundurukú	1	U+005e U+00e9 U+0024
+kibit (y)	<???>	kibit (y)	Mundurukú	1	U+006b U+0069 U+0062 U+0069 U+0074 U+0020 U+0028 U+0079 U+0029
+(dʒe)dat	<???>	(dʒe)dat	Mundurukú	1	U+0028 U+0064 U+0292 U+0065 U+0029 U+0064 U+0061 U+0074
+	<?>	koraʔa	Kuruaya	1	U+0002
+w	<?>	tʃawap	Kuruaya	1	U+0002 U+0077
+(n)õm	<???>	(n)õm	Kuruaya	1	U+0028 U+006e U+0029 U+00f5 U+006d
+wiɲẽm(u)	<???>	wiɲẽm(u)	Kuruaya	1	U+0077 U+0069 U+0272 U+1ebd U+006d U+0028 U+0075 U+0029
+aĩhĩ (voc)	<???>	aĩhĩ (voc)	Kuruaya	1	U+0061 U+0129 U+0068 U+0129 U+0020 U+0028 U+0076 U+006f U+0063 U+0029
+bi(ʔ)	<???>	bi(ʔ)	Kuruaya	1	U+0062 U+0069 U+0028 U+0294 U+0029
+a[nõ]bɨ	<???>	a[nõ]bɨ	Kuruaya	1	U+0061 U+005b U+006e U+00f5 U+005d U+0062 U+0268
+(h)elip	<???>	(h)elip	Kuruaya	1	U+0028 U+0068 U+0029 U+0065 U+006c U+0069 U+0070
+(de)lal	<???>	(de)lal	Kuruaya	1	U+0028 U+0064 U+0065 U+0029 U+006c U+0061 U+006c
+ā	ā	haʔāt	Sateré-Mawé	1	U+0101
+ō	ō	arōt	Sateré-Mawé	1	U+014d
+^uu	uː	uuku	Sateré-Mawé	1	U+005e U+0075 U+0075
+(n)ipiuta	<???>	(n)ipiuta	Sateré-Mawé	1	U+0028 U+006e U+0029 U+0069 U+0070 U+0069 U+0075 U+0074 U+0061
+ʔs	ʔs	kɨʔsat	Sateré-Mawé	1	U+0294 U+0073
+(eti)koho	<???>	(eti)koho	Sateré-Mawé	1	U+0028 U+0065 U+0074 U+0069 U+0029 U+006b U+006f U+0068 U+006f
+’	<?>	tawɨtu’jɨt	Awetí	1	U+2019
+ɨta(ta)p	<???>	ɨta(ta)p	Awetí	1	U+0268 U+0074 U+0061 U+0028 U+0074 U+0061 U+0029 U+0070
+ʔeʔi(pe)	<???>	ʔeʔi(pe)	Awetí	1	U+0294 U+0065 U+0294 U+0069 U+0028 U+0070 U+0065 U+0029
+ekeʔɨr (o)	<???>	ekeʔɨr (o)	Parakanã	1	U+0065 U+006b U+0065 U+0294 U+0268 U+0072 U+0020 U+0028 U+006f U+0029
+memɨra (of w)	<???>	memɨra (of w)	Parakanã	1	U+006d U+0065 U+006d U+0268 U+0072 U+0061 U+0020 U+0028 U+006f U+0066 U+0020 U+0077 U+0029
+(mo)kaʔe	<???>	(mo)kaʔe	Parakanã	1	U+0028 U+006d U+006f U+0029 U+006b U+0061 U+0294 U+0065
+ŋɨkeʔɨŋ (o)	<???>	ŋɨkeʔɨŋ (o)	Asurini do Tocantins	1	U+014b U+0268 U+006b U+0065 U+0294 U+0268 U+014b U+0020 U+0028 U+006f U+0029
+ŋɨwɨŋ (y)	<???>	ŋɨwɨŋ (y)	Asurini do Tocantins	1	U+014b U+0268 U+0077 U+0268 U+014b U+0020 U+0028 U+0079 U+0029
+ts$	ts	karats	Asurini do Tocantins	1	U+0074 U+0073 U+0024
+ɛ$	ɛ	tasa'ʔɛ	Suruí (Aikewara)	1	U+025b U+0024
+tʲ	tʲ	ãtʲĩ	Tapirapé (Apyãwa)	1	U+0074 U+02b2
+^tʲ	tʲ	tʲoro	Tapirapé (Apyãwa)	1	U+005e U+0074 U+02b2
+kɨrer (y)	<???>	kɨrer (y)	Tembé	1	U+006b U+0268 U+0072 U+0065 U+0072 U+0020 U+0028 U+0079 U+0029
+kaʔi (apiteran)	<???>	kaʔi (apiteran)	Tembé	1	U+006b U+0061 U+0294 U+0069 U+0020 U+0028 U+0061 U+0070 U+0069 U+0074 U+0065 U+0072 U+0061 U+006e U+0029
+(warar)uha	<???>	(warar)uha	Tembé	1	U+0028 U+0077 U+0061 U+0072 U+0061 U+0072 U+0029 U+0075 U+0068 U+0061
+(ɨ)wɨrapar	<???>	(ɨ)wɨrapar	Guajajara	1	U+0028 U+0268 U+0029 U+0077 U+0268 U+0072 U+0061 U+0070 U+0061 U+0072
+ɨwɨr (y,of m)	<???>	ɨwɨr (y,of m)	Guajajara	1	U+0268 U+0077 U+0268 U+0072 U+0020 U+0028 U+0079 U+002c U+006f U+0066 U+0020 U+006d U+0029
+ɨkɨʔɨr (o, of m)	<???>	ɨkɨʔɨr (o, of m)	Guajajara	1	U+0268 U+006b U+0268 U+0294 U+0268 U+0072 U+0020 U+0028 U+006f U+002c U+0020 U+006f U+0066 U+0020 U+006d U+0029
+x	x	zawaxi	Guajajara	1	U+0078
+àʃ	àʃ	kàràkàʃihu	Guajajara	1	U+00e0 U+0283
+makaza (?)	<???>	makaza (?)	Guajajara	1	U+006d U+0061 U+006b U+0061 U+007a U+0061 U+0020 U+0028 U+003f U+0029
+^kʷs	kʷs	kʷsi	Apiaká	1	U+005e U+006b U+02b7 U+0073
+ahɨ(β)	<???>	ahɨ(β)	Apiaká	1	U+0061 U+0068 U+0268 U+0028 U+03b2 U+0029
+ɐ$	ɐ	iʃupawɐ	Apiaká	1	U+0250 U+0024
+akoɲa (y)	<???>	akoɲa (y)	Parintintin	1	U+0061 U+006b U+006f U+0272 U+0061 U+0020 U+0028 U+0079 U+0029
+(puã)pẽ	<???>	(puã)pẽ	Parintintin	1	U+0028 U+0070 U+0075 U+00e3 U+0029 U+0070 U+1ebd
+ji(hi)	<???>	ji(hi)	Parintintin	1	U+006a U+0069 U+0028 U+0068 U+0069 U+0029
+ʔh	ʔh	eʔhuj	Parintintin	1	U+0294 U+0068
+ai(ʔ)	<???>	ai(ʔ)	Parintintin	1	U+0061 U+0069 U+0028 U+0294 U+0029
+tʃ̠	tʃ̠	ɲãtʃ̠ĩʔũ	Amondawa	1	U+0074 U+0283 U+0320
+(n)ɨmi	<???>	(n)ɨmi	Urueuwauwau	1	U+0028 U+006e U+0029 U+0268 U+006d U+0069
+poju(ga)	<???>	poju(ga)	Urueuwauwau	1	U+0070 U+006f U+006a U+0075 U+0028 U+0067 U+0061 U+0029
+^ũũ$	ũ	ũũ	Kayabí	1	U+005e U+0169 U+0169 U+0024
+p̃	p̃	irũp̃awẽ	Kayabí	1	U+0070 U+0303
+ʔw$	ʔw	ɨʔw	Kayabí	1	U+0294 U+0077 U+0024
+^fw	fw	fwakar	Kayabí	1	U+005e U+0066 U+0077
+(meʔer)aʔa	<???>	(meʔer)aʔa	Araweté	1	U+0028 U+006d U+0065 U+0294 U+0065 U+0072 U+0029 U+0061 U+0294 U+0061
+(i)puʃi	<???>	(i)puʃi	Anambé of Ehrenreich	1	U+0028 U+0069 U+0029 U+0070 U+0075 U+0283 U+0069
+jakĩ (in)	<???>	jakĩ (in)	Anambé of Ehrenreich	1	U+006a U+0061 U+006b U+0129 U+0020 U+0028 U+0069 U+006e U+0029
+tʃipate, tʃipamɨ̃	<???>	tʃipate, tʃipamɨ̃	Guajá	1	U+0074 U+0283 U+0069 U+0070 U+0061 U+0074 U+0065 U+002c U+0020 U+0074 U+0283 U+0069 U+0070 U+0061 U+006d U+0268 U+0303
+mɨmɨra, taʔira	<???>	mɨmɨra, taʔira	Guajá	1	U+006d U+0268 U+006d U+0268 U+0072 U+0061 U+002c U+0020 U+0074 U+0061 U+0294 U+0069 U+0072 U+0061
+ɨwɨ́ (y)	<???>	ɨwɨ́ (y)	Amanaye	1	U+0268 U+0077 U+0268 U+0301 U+0020 U+0028 U+0079 U+0029
+paʔa (o)	<???>	paʔa (o)	Emerillon (Tekó)	1	U+0070 U+0061 U+0294 U+0061 U+0020 U+0028 U+006f U+0029
+pene(kom)	<???>	pene(kom)	Emerillon (Tekó)	1	U+0070 U+0065 U+006e U+0065 U+0028 U+006b U+006f U+006d U+0029
+kɨʔɨ (o of m)	<???>	kɨʔɨ (o of m)	Wayampí	1	U+006b U+0268 U+0294 U+0268 U+0020 U+0028 U+006f U+0020 U+006f U+0066 U+0020 U+006d U+0029
+kɨwɨ (o of w)	<???>	kɨwɨ (o of w)	Wayampí	1	U+006b U+0268 U+0077 U+0268 U+0020 U+0028 U+006f U+0020 U+006f U+0066 U+0020 U+0077 U+0029
+momĩlĩ (y of m)	<???>	momĩlĩ (y of m)	Wayampí	1	U+006d U+006f U+006d U+0129 U+006c U+0129 U+0020 U+0028 U+0079 U+0020 U+006f U+0066 U+0020 U+006d U+0029
+kɨwɨ (y of w)	<???>	kɨwɨ (y of w)	Wayampí	1	U+006b U+0268 U+0077 U+0268 U+0020 U+0028 U+0079 U+0020 U+006f U+0066 U+0020 U+0077 U+0029
+kãkãy (o)	<???>	kãkãy (o)	Wayampí	1	U+006b U+00e3 U+006b U+00e3 U+0079 U+0020 U+0028 U+006f U+0029
+(pu)pe	<???>	(pu)pe	Wayampí	1	U+0028 U+0070 U+0075 U+0029 U+0070 U+0065
+(te)kɨpot	<???>	(te)kɨpot	Zo'e	1	U+0028 U+0074 U+0065 U+0029 U+006b U+0268 U+0070 U+006f U+0074
+kɨwɨt (of w)	<???>	kɨwɨt (of w)	Zo'e	1	U+006b U+0268 U+0077 U+0268 U+0074 U+0020 U+0028 U+006f U+0066 U+0020 U+0077 U+0029
+(a)hãj	<???>	(a)hãj	Zo'e	1	U+0028 U+0061 U+0029 U+0068 U+00e3 U+006a
+(mu)pinim	<???>	(mu)pinim	Ka'apor (Urubu)	1	U+0028 U+006d U+0075 U+0029 U+0070 U+0069 U+006e U+0069 U+006d
+ma(ha)pɨr	<???>	ma(ha)pɨr	Ka'apor (Urubu)	1	U+006d U+0061 U+0028 U+0068 U+0061 U+0029 U+0070 U+0268 U+0072
+kɨwɨ (of m)	<???>	kɨwɨ (of m)	Anambé	1	U+006b U+0268 U+0077 U+0268 U+0020 U+0028 U+006f U+0066 U+0020 U+006d U+0029
+akɨ̃(wa)	<???>	akɨ̃(wa)	Anambé	1	U+0061 U+006b U+0268 U+0303 U+0028 U+0077 U+0061 U+0029
+^ɨ̃$	ɨ̃	ɨ̃	Anambé	1	U+005e U+0268 U+0303 U+0024
+kɨwɨra (w ?)	<???>	kɨwɨra (w ?)	Turiwara	1	U+006b U+0268 U+0077 U+0268 U+0072 U+0061 U+0020 U+0028 U+0077 U+0020 U+003f U+0029
+ɨkeɨr (o)	<???>	ɨkeɨr (o)	Kamayura	1	U+0268 U+006b U+0065 U+0268 U+0072 U+0020 U+0028 U+006f U+0029
+ɨwɨr (y)	<???>	ɨwɨr (y)	Kamayura	1	U+0268 U+0077 U+0268 U+0072 U+0020 U+0028 U+0079 U+0029
+ãj(het)	<???>	ãj(het)	Kamayura	1	U+00e3 U+006a U+0028 U+0068 U+0065 U+0074 U+0029
+uʰ$	uʰ	dʒuʰ	Asurini do Xingu	1	U+0075 U+02b0 U+0024
+ɤ	ɤ	kaɤakarã	Avá-Canoeiro	1	U+0264
+apɨka(p̠uku)	<???>	apɨka(p̠uku)	Tupinambá	1	U+0061 U+0070 U+0268 U+006b U+0061 U+0028 U+0070 U+0320 U+0075 U+006b U+0075 U+0029
+tɨβɨra (y of m)	<???>	tɨβɨra (y of m)	Tupinambá	1	U+0074 U+0268 U+03b2 U+0268 U+0072 U+0061 U+0020 U+0028 U+0079 U+0020 U+006f U+0066 U+0020 U+006d U+0029
+kɨβɨra (of w)	<???>	kɨβɨra (of w)	Tupinambá	1	U+006b U+0268 U+03b2 U+0268 U+0072 U+0061 U+0020 U+0028 U+006f U+0066 U+0020 U+0077 U+0029
+tɨkeʔɨra (o of m)	<???>	tɨkeʔɨra (o of m)	Tupinambá	1	U+0074 U+0268 U+006b U+0065 U+0294 U+0268 U+0072 U+0061 U+0020 U+0028 U+006f U+0020 U+006f U+0066 U+0020 U+006d U+0029
+(e)kuja	<???>	(e)kuja	Tupinambá	1	U+0028 U+0065 U+0029 U+006b U+0075 U+006a U+0061
+kapi(ʔi)-βara	<???>	kapi(ʔi)-βara	Tupinambá	1	U+006b U+0061 U+0070 U+0069 U+0028 U+0294 U+0069 U+0029 U+002d U+03b2 U+0061 U+0072 U+0061
+(i)ké	<???>	(i)ké	Tupinambá	1	U+0028 U+0069 U+0029 U+006b U+00e9
+kiwira (o of w)	<???>	kiwira (o of w)	Nheengatu	1	U+006b U+0069 U+0077 U+0069 U+0072 U+0061 U+0020 U+0028 U+006f U+0020 U+006f U+0066 U+0020 U+0077 U+0029
+po(o)su*	<???>	po(o)su*	Nheengatu	1	U+0070 U+006f U+0028 U+006f U+0029 U+0073 U+0075 U+002a
+a(h)iva	<???>	a(h)iva	Língua Geral Paulista (Tupi austral)	1	U+0061 U+0028 U+0068 U+0029 U+0069 U+0076 U+0061
+rekej(o)	<???>	rekej(o)	Língua Geral Paulista (Tupi austral)	1	U+0072 U+0065 U+006b U+0065 U+006a U+0028 U+006f U+0029
+(bo)kaj	<???>	(bo)kaj	Língua Geral Paulista (Tupi austral)	1	U+0028 U+0062 U+006f U+0029 U+006b U+0061 U+006a
+amani(u)	<???>	amani(u)	Língua Geral Paulista (Tupi austral)	1	U+0061 U+006d U+0061 U+006e U+0069 U+0028 U+0075 U+0029
+apeb(a)	<???>	apeb(a)	Língua Geral Paulista (Tupi austral)	1	U+0061 U+0070 U+0065 U+0062 U+0028 U+0061 U+0029
+apev(a)	<???>	apev(a)	Língua Geral Paulista (Tupi austral)	1	U+0061 U+0070 U+0065 U+0076 U+0028 U+0061 U+0029
+pi(?)	<???>	pi(?)	Língua Geral Paulista (Tupi austral)	1	U+0070 U+0069 U+0028 U+003f U+0029
+(r)oka	<???>	(r)oka	Língua Geral Paulista (Tupi austral)	1	U+0028 U+0072 U+0029 U+006f U+006b U+0061
+(ʒe)bosaraj	<???>	(ʒe)bosaraj	Língua Geral Paulista (Tupi austral)	1	U+0028 U+0292 U+0065 U+0029 U+0062 U+006f U+0073 U+0061 U+0072 U+0061 U+006a
+miri(m)	<???>	miri(m)	Língua Geral Paulista (Tupi austral)	1	U+006d U+0069 U+0072 U+0069 U+0028 U+006d U+0029
+(imo)ae	<???>	(imo)ae	Língua Geral Paulista (Tupi austral)	1	U+0028 U+0069 U+006d U+006f U+0029 U+0061 U+0065
+urigo (y)	<???>	urigo (y)	Yuki	1	U+0075 U+0072 U+0069 U+0067 U+006f U+0020 U+0028 U+0079 U+0029
+retare (o)	<???>	retare (o)	Yuki	1	U+0072 U+0065 U+0074 U+0061 U+0072 U+0065 U+0020 U+0028 U+006f U+0029
+iki (o)	<???>	iki (o)	Yuki	1	U+0069 U+006b U+0069 U+0020 U+0028 U+006f U+0029
+bĩĩ (y)	<???>	bĩĩ (y)	Yuki	1	U+0062 U+0129 U+0129 U+0020 U+0028 U+0079 U+0029
+(x)isa	<???>	(x)isa	Yuki	1	U+0028 U+0078 U+0029 U+0069 U+0073 U+0061
+kʷw	kʷw	sekʷwabiã	Yuki	1	U+006b U+02b7 U+0077
+és	és	bianési	Yuki	1	U+00e9 U+0073
+(e)rita	<???>	(e)rita	Sirionó	1	U+0028 U+0065 U+0029 U+0072 U+0069 U+0074 U+0061
+(e)rereka	<???>	(e)rereka	Sirionó	1	U+0028 U+0065 U+0029 U+0072 U+0065 U+0072 U+0065 U+006b U+0061
+(t)ʃu	<???>	(t)ʃu	Sirionó	1	U+0028 U+0074 U+0029 U+0283 U+0075
+akanɨ(ndu)	<???>	akanɨ(ndu)	Sirionó	1	U+0061 U+006b U+0061 U+006e U+0268 U+0028 U+006e U+0064 U+0075 U+0029
+(e)rãmbaʃɨ	<???>	(e)rãmbaʃɨ	Sirionó	1	U+0028 U+0065 U+0029 U+0072 U+00e3 U+006d U+0062 U+0061 U+0283 U+0268
+kh	kʰ	ɨkha	Sirionó	1	U+006b U+0068
+tae(tetu)	<???>	tae(tetu)	Sirionó	1	U+0074 U+0061 U+0065 U+0028 U+0074 U+0065 U+0074 U+0075 U+0029
+mbaba(?)	<???>	mbaba(?)	Sirionó	1	U+006d U+0062 U+0061 U+0062 U+0061 U+0028 U+003f U+0029
+j(a)ɨmba*	<???>	j(a)ɨmba*	Chiriguano	1	U+006a U+0028 U+0061 U+0029 U+0268 U+006d U+0062 U+0061 U+002a
+ki(t)sa	<???>	ki(t)sa	Jorá	1	U+006b U+0069 U+0028 U+0074 U+0029 U+0073 U+0061
+ki(d)	<???>	ki(d)	Jorá	1	U+006b U+0069 U+0028 U+0064 U+0029
+tajn (voc)	<???>	tajn (voc)	Jorá	1	U+0074 U+0061 U+006a U+006e U+0020 U+0028 U+0076 U+006f U+0063 U+0029
+nuŋe (= gen)	<???>	nuŋe (= gen)	Jorá	1	U+006e U+0075 U+014b U+0065 U+0020 U+0028 U+003d U+0020 U+0067 U+0065 U+006e U+0029
+ei(ru)	<???>	ei(ru)	Mbyá	1	U+0065 U+0069 U+0028 U+0072 U+0075 U+0029
+ɨkeʔɨ (o)	<???>	ɨkeʔɨ (o)	Mbyá	1	U+0268 U+006b U+0065 U+0294 U+0268 U+0020 U+0028 U+006f U+0029
+ɨvɨ (y of m)	<???>	ɨvɨ (y of m)	Mbyá	1	U+0268 U+0076 U+0268 U+0020 U+0028 U+0079 U+0020 U+006f U+0066 U+0020 U+006d U+0029
+kakaw(?)	<???>	kakaw(?)	Mbyá	1	U+006b U+0061 U+006b U+0061 U+0077 U+0028 U+003f U+0029
+jape(β)uʃa	<???>	jape(β)uʃa	Mbyá	1	U+006a U+0061 U+0070 U+0065 U+0028 U+03b2 U+0029 U+0075 U+0283 U+0061
+(pev)aʔe	<???>	(pev)aʔe	Mbyá	1	U+0028 U+0070 U+0065 U+0076 U+0029 U+0061 U+0294 U+0065
+(i)nambu	<???>	(i)nambu	Mbyá	1	U+0028 U+0069 U+0029 U+006e U+0061 U+006d U+0062 U+0075
+(ɨ)pekũ	<???>	(ɨ)pekũ	Mbyá	1	U+0028 U+0268 U+0029 U+0070 U+0065 U+006b U+0169
+aɲo(nte)	<???>	aɲo(nte)	Guarani Paraguay	1	U+0061 U+0272 U+006f U+0028 U+006e U+0074 U+0065 U+0029
+tɨkeʔɨ (o)	<???>	tɨkeʔɨ (o)	Guarani Paraguay	1	U+0074 U+0268 U+006b U+0065 U+0294 U+0268 U+0020 U+0028 U+006f U+0029
+tɨvɨ(ra) (y)	<???>	tɨvɨ(ra) (y)	Guarani Paraguay	1	U+0074 U+0268 U+0076 U+0268 U+0028 U+0072 U+0061 U+0029 U+0020 U+0028 U+0079 U+0029
+ko(βa)	<???>	ko(βa)	Guarani Paraguay	1	U+006b U+006f U+0028 U+03b2 U+0061 U+0029
+rɨkeɨ (o of m)	<???>	rɨkeɨ (o of m)	Old Guaraní	1	U+0072 U+0268 U+006b U+0065 U+0268 U+0020 U+0028 U+006f U+0020 U+006f U+0066 U+0020 U+006d U+0029
+ahɨgwe (y)	<???>	ahɨgwe (y)	Old Guaraní	1	U+0061 U+0068 U+0268 U+0067 U+0077 U+0065 U+0020 U+0028 U+0079 U+0029
+kwɨβɨ (of w)	<???>	kwɨβɨ (of w)	Old Guaraní	1	U+006b U+0077 U+0268 U+03b2 U+0268 U+0020 U+0028 U+006f U+0066 U+0020 U+0077 U+0029
+kapiɨβa(r)	<???>	kapiɨβa(r)	Old Guaraní	1	U+006b U+0061 U+0070 U+0069 U+0268 U+03b2 U+0061 U+0028 U+0072 U+0029
+mitaŋ(ɨ)	<???>	mitaŋ(ɨ)	Old Guaraní	1	U+006d U+0069 U+0074 U+0061 U+014b U+0028 U+0268 U+0029
+ç	ç	joçó	Old Guaraní	1	U+00e7
+(ɨβɨra) isɨ	<???>	(ɨβɨra) isɨ	Old Guaraní	1	U+0028 U+0268 U+03b2 U+0268 U+0072 U+0061 U+0029 U+0020 U+0069 U+0073 U+0268
+bw	bw	ambwa	Guayaki (Aché)	1	U+0062 U+0077
+^tʃw	tʃw	tʃweʔe	Guayaki (Aché)	1	U+005e U+0074 U+0283 U+0077
+^"	<?>	"ãʔã	Guayaki (Aché)	1	U+005e U+0022
+ë	ë	këdɨ	Xetá	1	U+00eb
+wh	wh	hawhawaj	Xetá	1	U+0077 U+0068
+ëʒ	ëʒ	këʒi	Xetá	1	U+00eb U+0292
+ʊ	ʊ	dʒakʊj	Xetá	1	U+028a
+jʒ	jʒ	hajʒjaj	Xetá	1	U+006a U+0292
+rh	rh	kʷarha	Xetá	1	U+0072 U+0068
+d̥	d̥	mirad̥a	Xetá	1	U+0064 U+0325
+tɨwɨ (y of m)	<???>	tɨwɨ (y of m)	Tapiete	1	U+0074 U+0268 U+0077 U+0268 U+0020 U+0028 U+0079 U+0020 U+006f U+0066 U+0020 U+006d U+0029
+titʃeʔi (o of m)	<???>	titʃeʔi (o of m)	Tapiete	1	U+0074 U+0069 U+0074 U+0283 U+0065 U+0294 U+0069 U+0020 U+0028 U+006f U+0020 U+006f U+0066 U+0020 U+006d U+0029
+iʒukeʔi (of w)	<???>	iʒukeʔi (of w)	Tapiete	1	U+0069 U+0292 U+0075 U+006b U+0065 U+0294 U+0069 U+0020 U+0028 U+006f U+0066 U+0020 U+0077 U+0029
+kɨwɨ (of w)	<???>	kɨwɨ (of w)	Tapiete	1	U+006b U+0268 U+0077 U+0268 U+0020 U+0028 U+006f U+0066 U+0020 U+0077 U+0029
+kʷw$	kʷw	mbaʔekʷw	Tapiete	1	U+006b U+02b7 U+0077 U+0024
+^gʷw	gʷw	gʷwatsu	Chiripá (Ñandeva / Avá-Guarani)	1	U+005e U+0067 U+02b7 U+0077
+(t)soʔo	<???>	(t)soʔo	Chiripá (Ñandeva / Avá-Guarani)	1	U+0028 U+0074 U+0029 U+0073 U+006f U+0294 U+006f
+tʃeʔe ~ tʃe	<???>	tʃeʔe ~ tʃe	Chiripá (Ñandeva / Avá-Guarani)	1	U+0074 U+0283 U+0065 U+0294 U+0065 U+0020 U+007e U+0020 U+0074 U+0283 U+0065
+ɲagʷa(rete)	<???>	ɲagʷa(rete)	Chiripá (Ñandeva / Avá-Guarani)	1	U+0272 U+0061 U+0067 U+02b7 U+0061 U+0028 U+0072 U+0065 U+0074 U+0065 U+0029
+apɨ(ŋgʷa)	<???>	apɨ(ŋgʷa)	Chiripá (Ñandeva / Avá-Guarani)	1	U+0061 U+0070 U+0268 U+0028 U+014b U+0067 U+02b7 U+0061 U+0029
+etsa ~ etʃa	<???>	etsa ~ etʃa	Chiripá (Ñandeva / Avá-Guarani)	1	U+0065 U+0074 U+0073 U+0061 U+0020 U+007e U+0020 U+0065 U+0074 U+0283 U+0061
+kʷara(h)ɨ	<???>	kʷara(h)ɨ	Chiripá (Ñandeva / Avá-Guarani)	1	U+006b U+02b7 U+0061 U+0072 U+0061 U+0028 U+0068 U+0029 U+0268
+ɨʔɨ ~ ʔɨ	<???>	ɨʔɨ ~ ʔɨ	Chiripá (Ñandeva / Avá-Guarani)	1	U+0268 U+0294 U+0268 U+0020 U+007e U+0020 U+0294 U+0268
+(t)suʔu	<???>	(t)suʔu	Apapokuva of Nimuendajú	1	U+0028 U+0074 U+0029 U+0073 U+0075 U+0294 U+0075
+kʷɨvɨ (of w)	<???>	kʷɨvɨ (of w)	Apapokuva of Nimuendajú	1	U+006b U+02b7 U+0268 U+0076 U+0268 U+0020 U+0028 U+006f U+0066 U+0020 U+0077 U+0029
+tɨvɨrɨ (y)	<???>	tɨvɨrɨ (y)	Apapokuva of Nimuendajú	1	U+0074 U+0268 U+0076 U+0268 U+0072 U+0268 U+0020 U+0028 U+0079 U+0029
+ja(t)sɨ	<???>	ja(t)sɨ	Apapokuva of Nimuendajú	1	U+006a U+0061 U+0028 U+0074 U+0029 U+0073 U+0268
+aí (voc.)	<???>	aí (voc.)	Apapokuva of Nimuendajú	1	U+0061 U+00ed U+0020 U+0028 U+0076 U+006f U+0063 U+002e U+0029
+a(t)sɨ	<???>	a(t)sɨ	Apapokuva of Nimuendajú	1	U+0061 U+0028 U+0074 U+0029 U+0073 U+0268
+ɨ(t)sã	<???>	ɨ(t)sã	Apapokuva of Nimuendajú	1	U+0268 U+0028 U+0074 U+0029 U+0073 U+00e3
+wʃ	wʃ	jawʃima	Omagua	1	U+0077 U+0283
+jantsui, yaepetsui	<???>	jantsui, yaepetsui	Cocama-Cocamilla	1	U+006a U+0061 U+006e U+0074 U+0073 U+0075 U+0069 U+002c U+0020 U+0079 U+0061 U+0065 U+0070 U+0065 U+0074 U+0073 U+0075 U+0069
+riantsui, raepetsui	<???>	riantsui, raepetsui	Cocama-Cocamilla	1	U+0072 U+0069 U+0061 U+006e U+0074 U+0073 U+0075 U+0069 U+002c U+0020 U+0072 U+0061 U+0065 U+0070 U+0065 U+0074 U+0073 U+0075 U+0069
+ima (of m)	<???>	ima (of m)	Cocama-Cocamilla	1	U+0069 U+006d U+0061 U+0020 U+0028 U+006f U+0066 U+0020 U+006d U+0029
+kɨhɨra (of w)	<???>	kɨhɨra (of w)	Cocama-Cocamilla	1	U+006b U+0268 U+0068 U+0268 U+0072 U+0061 U+0020 U+0028 U+006f U+0066 U+0020 U+0077 U+0029
+tʃiri(n)	<???>	tʃiri(n)	Cocama-Cocamilla	1	U+0074 U+0283 U+0069 U+0072 U+0069 U+0028 U+006e U+0029
