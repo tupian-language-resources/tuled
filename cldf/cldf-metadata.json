@@ -7,6 +7,7 @@
     "dc:isVersionOf": null,
     "dc:license": "CCBY",
     "dc:related": null,
+    "dc:source": "sources.bib",
     "dc:title": "CLDF dataset derived from Gerardi and Reichert's \"TuLeD: Tup\u00edan lexical database\" from 2020",
     "dcat:accessURL": "https://github.com/LanguageStructure/TuLeD_Data",
     "prov:wasDerivedFrom": [
@@ -14,13 +15,13 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/LanguageStructure/TuLeD_Data",
-            "dc:created": "2733f8d"
+            "dc:created": "1f072eb"
         },
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Glottolog",
             "rdf:about": "https://github.com/glottolog/glottolog",
-            "dc:created": "v4.2.1-7-g35d84acf81"
+            "dc:created": "v4.2.1-7-g35d84ac"
         },
         {
             "rdf:type": "prov:Entity",
@@ -38,7 +39,7 @@
     "prov:wasGeneratedBy": [
         {
             "dc:title": "python",
-            "dc:description": "3.8.5"
+            "dc:description": "3.6.10"
         },
         {
             "dc:title": "python-packages",
@@ -53,7 +54,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:extent": 18077,
+            "dc:extent": 17543,
             "tableSchema": {
                 "columns": [
                     {
@@ -114,6 +115,14 @@
                     {
                         "datatype": "boolean",
                         "name": "Loan"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Graphemes"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Profile"
                     }
                 ],
                 "foreignKeys": [
@@ -148,7 +157,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#LanguageTable",
-            "dc:extent": 71,
+            "dc:extent": 62,
             "tableSchema": {
                 "columns": [
                     {
@@ -222,7 +231,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ParameterTable",
-            "dc:extent": 385,
+            "dc:extent": 384,
             "tableSchema": {
                 "columns": [
                     {
@@ -258,7 +267,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#CognateTable",
-            "dc:extent": 18077,
+            "dc:extent": 17543,
             "tableSchema": {
                 "columns": [
                     {
