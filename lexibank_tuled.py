@@ -33,7 +33,8 @@ class Dataset(BaseDataset):
     form_spec = FormSpec(
             missing_data=("?", ),
             strip_inside_brackets=True,
-            separators = ",/,"
+            separators = ",/",
+            brackets={"{": "}", "(": ")", "[": "]"}
             )
 
     def cmd_makecldf(self, args):
@@ -57,15 +58,17 @@ class Dataset(BaseDataset):
                     )
             languages[row['Language']] = slug(row['Language'])
         
-        data = [row for row in self.raw_dir.read_csv('concepts_cognates.tsv',
+        data = [row for row in self.raw_dir.read_csv('spreadsheet.tsv',
             delimiter='\t', dicts=False)]
-
+        print(len(data))
+        input()
         header = data[2]
         missc, missl = set(), set()
-        for row in data[6:]:
+        for row in data[5:]:
             language = row[0]
             lid = languages.get(language)
             if lid:
+                print(lid)
                 for i in range(7, len(row)-3, 3):
                     if i < len(row)+1:
                         concept=data[1][i]
@@ -88,10 +91,6 @@ class Dataset(BaseDataset):
                             missc.add(concept)
             else:
                 missl.add(language)
-        for c in missc:
-            print('missing concept', c)
-        print('')
-        for c in missl:
-            print('missing language', c)
+
                 
 
