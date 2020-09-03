@@ -1,372 +1,376 @@
-ID,Name,Concepticon_ID,Concepticon_Gloss,Number
-1_above,ABOVE,1741,ABOVE,
-2_after,AFTER,1685,AFTER,
-3_agoutipaca,AGOUTI / PACA,313,AGOUTI,
-4_all,ALL,98,ALL,
-5_alone,ALONE,1964,ALONE,
-6_anaconda,ANACONDA,896,ANACONDA (WATER BOA),
-7_anatto,ANATTO,,,
-8_ant,ANT,587,ANT,
-9_anteater,ANTEATER,181,ANTEATER,
-10_arm,ARM,1673,ARM,
-11_armadillo,ARMADILLO,1885,ARMADILLO,
-12_arrive,ARRIVE,1387,ARRIVE,
-13_arrow,ARROW,977,ARROW,
-16_axe,AXE,677,AXE,
-17_acaipalm,AÇAÍ PALM,2437,ACAI PALM,
-18_babacu,BABAÇU,,,
-19_back,BACK,1291,BACK,
-20_badevil,BAD / EVIL,3764,BAD OR EVIL,
-21_bamboo,BAMBOO,1827,HARVEST CROPS,
-22_banana,BANANA,868,BANANA,
-23_basket,BASKET,1539,BASKET,
-24_bat,BAT,1793,BAT,
-25_bathe,BATHE,138,BATHE,
-26_bewrong,BE WRONG,1390,WRONG,
-27_beads,BEADS,1860,BEAD,
-28_beans,BEANS,2574,BEAN OR PEA,
-29_beard,BEARD,678,BEARD,
-30_beautiful,BEAUTIFUL,1427,BEAUTIFUL,
-31_bee,BEE,665,BEE,
-33_bellybutton,BELLYBUTTON,3715,BELLYBUTTON,
-34_below,BELOW,1485,BELOW OR UNDER,
-35_bench,BENCH,2584,BENCH,
-36_big,BIG,1202,BIG,
-37_bird,BIRD,937,BIRD,
-38_bite,BITE,1403,BITE,
-39_black,BLACK,163,BLACK,
-40_blood,BLOOD,946,BLOOD,
-41_blow,BLOW,176,BLOW (WITH MOUTH),
-42_blue,BLUE,837,BLUE,
-43_bone,BONE,1394,BONE,
-44_bow,BOW,994,BOW,
-45_boy,BOY,1366,BOY,
-46_branch,BRANCH,1531,BRANCH,
-47_brazilnut,BRAZIL NUT,,,
-48_break,BREAK,3020,BREAK (BREAKING),
-49_breast,BREAST,1402,BREAST,
-50_breathe,BREATHE,1407,BREATHE,
-55_brotheryofw,BROTHER (y of w),,,
-57_burntr,BURN (tr),141,BURN (SOMETHING),
-58_bury,BURY,1719,BURY,
-59_butterfly,BUTTERFLY,1791,BUTTERFLY,
-60_buttocks,BUTTOCKS,834,BUTTOCKS,
-61_calabashgourd,CALABASH / GOURD,411,GOURD,
-62_canoe,CANOE,1970,CANOE,
-63_capuchinmonkey,CAPUCHIN MONKEY,,,
-64_capybara,CAPYBARA,314,CAPYBARA,
-65_cararootyam,CARÁ ROOT / YAM,410,YAM,
-66_cashew,CASHEW,2441,CASHEW,
-67_chiefmasterowner,CHIEF / MASTER / OWNER,2394,CHIEF,
-68_child,CHILD,2099,CHILD,
-69_cicada,CICADA,2353,CICADA,
-70_claw,CLAW,2128,CLAW OR NAIL,
-71_claymud,CLAY / MUD,1399,CLAY,
-72_cloud,CLOUD,1489,CLOUD,
-73_coati,COATI,2389,COATI (COATIMUNDI),
-74_cockroach,COCKROACH,1575,COCKROACH,
-75_cocoa,COCOA,2442,COCOA BEAN,
-76_cold,COLD,1287,COLD,
-77_comb,COMB,1475,COMB,
-78_come,COME,1446,COME,
-79_cornmaize,CORN / MAIZE,3686,CORN HUSK,
-80_cotton,COTTON,1850,COTTON,
-81_crab,CRAB,2348,CRAB,
-82_cricketzool,CRICKET (zool),2354,CRICKET,
-83_cry,CRY,1839,CRY,
-84_curassow,CURASSOW,315,CURASSOW,
-85_cut,CUT,1432,CUT,
-86_cecropiagen,Cecropia (Gen.),,,
-87_dance,DANCE,1579,BE,
-88_daughterofman,DAUGHTER OF MAN,1357,DAUGHTER,
-89_daughterofwoman,DAUGHTER OF WOMAN,1357,DAUGHTER,
-90_day,DAY,1260,DAY (24 HOURS),
-91_deer,DEER,1936,DEER,
-92_defecate,DEFECATE,676,SHIT (DEFECATE),
-93_die,DIE,1494,DIE,
-94_dig,DIG,1418,DIG,
-95_diggingstick,DIGGING STICK,339,DIGGING STICK,
-96_dirty,DIRTY,1230,DIRTY,
-97_domake,DO / MAKE,813,DO,
-98_dog,DOG,2009,DOG,
-99_door,DOOR,1567,DOOR,
-100_drawpaint,DRAW / PAINT,3122,PAINT (SOMETHING),
-102_drinkv,DRINK (v),1401,DRINK,
-103_dry,DRY,1786,DRY UP,
-104_drystate,DRY (state),1398,DRY,
-105_ear,EAR,1247,EAR,
-106_earthland,EARTH / LAND,3603,EARTH OR LAND,
-108_eattr,EAT (tr.),1336,EAT,
-109_egg,EGG,744,EGG,
-110_electriceel,ELECTRIC EEL,2443,ELECTRIC EEL,
-111_enter,ENTER,749,ENTER,
-112_eye,EYE,1248,EYE,
-113_face,FACE,1560,FACE,
-114_fall,FALL,1280,FALL,
-115_far,FAR,1406,FAR,
-116_fatgrease,FAT / GREASE,1282,FAT (FROM ANIMALS),
-117_father,FATHER,1217,FATHER,
-118_fearbeafraid,FEAR / BE AFRAID,1419,FEAR (BE AFRAID),
-119_feather,FEATHER,1201,FEATHER,
-120_finger,FINGER,1303,FINGER,
-121_fire,FIRE,221,FIRE,
-122_fireflyglowworm,FIREFLY / GLOWWORM,206,FIREFLY,
-123_firewood,FIREWOOD,10,FIREWOOD,
-124_fish,FISH,227,FISH,
-125_fishhook,FISHHOOK,1074,FISHHOOK,
-126_flat,FLAT,1633,FLAT,
-127_fleachigger,FLEA / CHIGGER,232,FLEA,
-128_fleshmeat,FLESH / MEAT,2615,FLESH OR MEAT,
-129_flour,FLOUR,1594,FLOUR,
-130_flower,FLOWER,239,FLOWER,
-131_fly,FLY,1441,FLY (MOVE THROUGH AIR),
-132_flyinsect,FLY (insect),1504,FLY (INSECT),
-133_food,FOOD,256,FOOD,
-134_foot,FOOT,1301,FOOT,
-135_forget,FORGET,1523,FORGET,
-136_four,FOUR,1500,FOUR,
-137_frogtoad,FROG / TOAD,503,FROG,
-138_fruit,FRUIT,1507,FRUIT,
-139_full,FULL,1429,FULL,
-141_genipa,GENIPA,,,
-142_getlostlooseones,GETLOST / LOOSEoneS,423,GET LOST,
-143_girl,GIRL,1646,GIRL,
-144_give,GIVE,1447,GIVE,
-146_go,GO,695,GO,
-147_goup,GO UP,705,GO UP (ASCEND),
-148_goodwell,GOOD / WELL,1035,GOOD,
-149_grandfather,GRANDFATHER,1383,GRANDFATHER,
-150_grass,GRASS,606,GRASS,
-151_green,GREEN,1425,GREEN,
-152_greeniguana,GREEN IGUANA,1578,IGUANA,
-153_grow,GROW,479,GROW,
-154_guanjacu,GUAN / JACU,437,GUAN,
-155_hair,HAIR,2648,HAIR (HEAD),
-156_hammock,HAMMOCK,2019,HAMMOCK,
-157_hand,HAND,1277,HAND,
-158_happy,HAPPY,1495,HAPPY,
-159_hawk,HAWK,307,HAWK,
-160_head,HEAD,1256,HEAD,
-161_heal,HEAL,499,CURE,
-162_hearlisten,HEAR / LISTEN,1408,HEAR,
-163_heart,HEART,1223,HEART,
-164_heavy,HEAVY,1210,HEAVY,
-165_hedgehog,HEDGEHOG,1797,HEDGEHOG,
-166_help,HELP,1897,HELP,
-167_henchicken,HEN / CHICKEN,1318,CHICKEN,
-168_here,HERE,136,HERE,
-169_hide,HIDE,2486,HIDE,
-170_hit,HIT,1433,HIT,
-171_hole,HOLE,1667,HOLE,
-172_honey,HONEY,942,HONEY,
-173_horn,HORN,1393,HORN (ANATOMY),
-174_hot,HOT,1286,HOT,
-175_house,HOUSE,1252,HOUSE,
-177_hummingbird,HUMMINGBIRD,1589,HUMMINGBIRD,
-178_hunt,HUNT,1435,HUNT,
-179_husband,HUSBAND,1200,HUSBAND,
-180_i,I,1209,I,
-181_inga,INGA,,,
-182_inside,INSIDE,1606,INSIDE,
-183_jacarecaimancrocodile,JACARÉ / CAIMAN / CROCODILE,1857,CROCODILE,
-184_jaguar,JAGUAR,1250,JAGUAR,
-185_jump,JUMP,1829,JUMP,
-186_kill,KILL,1417,KILL,
-187_kingfisher,KING FISHER,,,
-188_knee,KNEE,1371,KNEE,
-189_knife,KNIFE,1352,KNIFE,
-190_know,KNOW,3626,KNOW,
-191_lake,LAKE,624,LAKE,
-192_largeantbulletant,LARGE ANT / BULLET ANT,,,
-193_largemandifish,LARGE MANDI FISH,,,
-194_laugh,LAUGH,1355,LAUGH,
-196_leaf,LEAF,628,LEAF,
-197_learn,LEARN,504,LEARN,
-198_leavegoout,LEAVE / GO OUT,1752,LEAVE,
-199_leg,LEG,1297,LEG,
-200_liver,LIVER,1224,LIVER,
-201_lizard,LIZARD,632,LIZARD,
-202_longtall,LONG / TALL,1203,LONG,
-203_lookat,LOOK AT,1819,LOOK,
-204_louse,LOUSE,1392,LOUSE,
-205_macaw,MACAW,1630,MACAW,
-206_maggotlarva,MAGGOT / LARVA,2640,LARVA,
-207_man,MAN,1554,MAN,
-209_many,MANY,1198,MANY,
-210_medicine,MEDICINE,1372,MEDICINE,
-211_milk,MILK,635,MILK,
-212_monkey,MONKEY,1350,MONKEY,
-213_moon,MOON,1313,MOON,
-214_morning,MORNING,1339,MORNING,
-215_mosquito,MOSQUITO,1509,MOSQUITO,
-216_mother,MOTHER,1216,MOTHER,
-219_mould,MOULD,,,
-220_mountainhill,MOUNTAIN / HILL,639,MOUNTAIN,
-221_mountainsoursop,MOUNTAIN SOURSOP,,,
-222_moustache,MOUSTACHE,1165,MOUSTACHE,
-223_mouth,MOUTH,674,MOUTH,
-224_nailclaw,NAIL / CLAW,2128,CLAW OR NAIL,
-225_name,NAME,1405,NAME,
-226_neck,NECK,1333,NECK,
-227_nest,NEST,539,NEST,
-228_new,NEW,1231,NEW,
-229_night,NIGHT,1233,NIGHT,
-230_nose,NOSE,1221,NOSE,
-231_now,NOW,1376,NOW,
-232_oar,OAR,3137,OAR,
-233_oldadj,OLD (adj),1229,OLD,
-234_one,ONE,1493,ONE,
-235_open,OPEN,1156,OPEN,
-236_opossumskunk,OPOSSUM / SKUNK,309,OPOSSUM,
-237_othersome,OTHER / SOME,197,OTHER,
-238_owl,OWL,735,OWL,
-239_paca,PACA,316,PACA,
-240_pacufish,PACU FISH,,,
-241_painhurt,PAIN / HURT,1783,PAIN,
-242_pan,PAN,31,PAN,
-243_papaya,PAPAYA,2445,PAPAYA,
-244_parrot,PARROT,882,PARROT,
-245_pathway,PATH / WAY,2252,PATH,
-246_peachpalm,PEACH PALM,,,
-247_peanut,PEANUT,2364,PEANUT,
-248_peccarycollared,PECCARY (collared),435,COLLARED PECCARY,
-249_peccarywhitelipped,PECCARY (white-lipped),436,WHITE-LIPPED PECCARY,
-250_penis,PENIS,1222,PENIS,
-251_pepper,PEPPER,1385,PEPPER,
-252_personhbsomeone,PERSON / HB / SOMEONE,683,PERSON,
-253_pestle,PESTLE,225,PESTLE,
-254_pestleverb,PESTLE (verb),,,
-255_pierce,PIERCE,398,PIERCE,
-256_pineapple,PINEAPPLE,2440,PINEAPPLE,
-257_piranha,PIRANHA,317,PIRANHA,
-258_play,PLAY,1413,PLAY,
-259_play2causetojump,PLAY (2) (CAUSE TO JUMP),,,
-260_porridge,PORRIDGE,,,
-262_put,PUT,998,PUT,
-263_rain,RAIN,658,RAIN (PRECIPITATION),
-264_rat,RAT,1490,RAT,
-265_raw,RAW,1959,RAW,
-266_red,RED,156,RED,
-268_resin,RESIN,664,RESIN,
-269_returncomeback,RETURN / COME BACK,581,COME BACK,
-270_ripe,RIPE,178,RIPE,
-271_river,RIVER,666,RIVER,
-272_roast,ROAST,1962,ROAST (SOMETHING),
-273_root,ROOT,670,ROOT,
-274_rope,ROPE,1218,ROPE,
-275_round,ROUND,1395,ROUND,
-276_row,ROW,1849,ROW,
-277_run,RUN,1519,RUN,
-279_saliva,SALIVA,1503,SALIVA,
-280_salt,SALT,1274,SALT,
-281_sand,SAND,1127,SEND,
-282_say,SAY,1458,SAY,
-283_scare,SCARE,252,FRIGHTEN,
-284_scorpion,SCORPION,1538,SCORPION,
-285_see,SEE,1409,SEE,
-286_seed,SEED,714,SEED,
-287_seeklookforsearch,SEEK / LOOK FOR / SEARCH,1468,LOOK FOR,
-288_send,SEND,1127,SEND,
-289_shaman,SHAMAN,394,SHAMAN (FOLK HEALER),
-290_sharpen,SHARPEN,251,SHARPEN (SOMETHING),
-291_shell,SHELL,598,SHELL,
-292_shellbark,SHELL / BARK,1204,BARK,
-293_short,SHORT,1645,SHORT,
-294_sickill,SICK / ILL,1847,SICK,
-295_sing,SING,1261,SING,
-299_sisteryounger,"SISTER, younger",,,
-301_skin,SKIN,763,SKIN,
-302_sky,SKY,1732,SKY,
-303_slashgarden,SLASH / GARDEN,201,FARM,
-304_sleep,SLEEP,1585,SLEEP,
-305_sloth,SLOTH,2446,SLOTH,
-306_small,SMALL,1246,SMALL,
-307_smoken,SMOKE (n),778,SMOKE (EXHAUST),
-308_snail,SNAIL,1543,SNAIL,
-309_snake,SNAKE,730,SNAKE,
-310_snore,SNORE,1983,SNORE,
-311_sonofman,SON OF MAN,1620,SON,
-312_sonofwoman,SON OF WOMAN,1620,SON,
-313_souracidbitter,SOUR / ACID /BITTER,1906,SOUR,
-314_speak,SPEAK,1623,SPEAK,
-315_spider,SPIDER,843,SPIDER,
-316_spidermonkey,SPIDER MONKEY /,434,SPIDER MONKEY,
-317_sprout,SPROUT,2076,SPROUT (VERB),
-319_stand,STAND,1442,STAND,
-320_star,STAR,1430,STAR,
-321_stingray,STINGRAY,1910,STINGRAY,
-322_stomach,STOMACH,819,STOMACH,
-323_stone,STONE,857,STONE,
-324_strong,STRONG,785,STRONG,
-325_suck,SUCK,1421,SUCK,
-326_sun,SUN,1343,SUN,
-328_sweep,SWEEP,230,SWEEP,
-329_sweet,SWEET,717,SWEET,
-330_sweetpotato,SWEET POTATO,159,SWEET POTATO,
-331_swim,SWIM,1439,SWIM,
-332_tail,TAIL,1220,TAIL,
-333_tapir,TAPIR,312,TAPIR,
-334_tayra,TAYRA,,,
-335_teach,TEACH,709,TEACH,
-336_tellnarrate,TELL / NARRATE,1711,TELL,
-337_terminatefinish,TERMINATE / FINISH,1766,FINISH,
-338_termite,TERMITE,883,TERMITE,
-339_testicles,TESTICLES,797,TESTICLES,
-340_that,THAT,78,THAT,
-341_thick,THICK,1244,THICK,
-342_thing,THING,738,THING,
-343_this,THIS,1214,THIS,
-344_thorn,THORN,124,THORN,
-345_three,THREE,492,THREE,
-346_throat,THROAT,1346,THROAT,
-347_thunder,THUNDER,1150,THUNDER,
-348_tick,TICK,1527,TICK,
-349_tie,TIE,1917,TIE,
-350_timboliana,TIMBO LIANA,2388,LIANA,
-351_tinamou,TINAMOU,,,
-352_tired,TIRED,1757,TIRED,
-353_tobacco,TOBACCO,974,TOBACCO,
-354_today,TODAY,1283,TODAY,
-355_tomorrow,TOMORROW,1329,TOMORROW,
-356_tongue,TONGUE,1205,TONGUE,
-357_tooth,TOOTH,1380,TOOTH,
-358_toucan,TOUCAN,308,TOUCAN,
-359_trahirafish,TRAHIRA FISH,,,
-360_tree,TREE,906,TREE,
-361_tucumapalmawara,TUCUMA_PALM / AWARA,2439,TUCUMA PALM,
-362_turtle,TURTLE,112,TURTLE,
-363_two,TWO,1498,TWO,
-364_ugly,UGLY,1548,UGLY,
-365_unclemobr,UNCLE (MoBr),2692,MATERNAL UNCLE (MOTHER'S BROTHER),
-366_untie,UNTIE,352,UNTIE,
-367_urinate,URINATE,,,
-368_vein,VEIN,1924,VEIN,
-369_village,VILLAGE,930,VILLAGE,
-370_villagesquare,VILLAGE SQUARE,,,
-371_vomit,VOMIT,1278,VOMIT,
-372_vulture,VULTURE,1185,VULTURE,
-373_wakeup,WAKE UP,1602,WAKE UP,
-374_walk,WALK,1443,WALK,
-375_want,WANT,1784,WANT,
-376_wash,WASH,1453,WASH,
-377_wasp,WASP,1517,WASP,
-378_water,WATER,948,WATER,
-379_wax,WAX,,,
-381_weincl,WE (INCL),1131,WE (INCLUSIVE),
-382_weave,WEAVE,133,WEAVE,
-383_wet,WET,1726,WET,
-384_what,WHAT (?),1236,WHAT,
-385_white,WHITE,1335,WHITE,
-386_who,WHO (?),1235,WHO,
-387_wife,WIFE,1199,WIFE,
-388_wildcat,WILD CAT,2241,WILD CAT,
-389_wilddog,WILD DOG,2448,WILD DOG,
-390_wind,WIND,960,WIND,
-392_wing2,WING(2),1257,WING,
-393_woman,WOMAN,962,WOMAN,
-394_woodpecker,WOODPECKER,2447,WOODPECKER,
-395_wormearth,WORM (EARTH),2350,EARTHWORM,
-396_wound,WOUND,1109,WOUND,
-397_yellow,YELLOW,1424,YELLOW,
-398_youpl,YOU (pl),1213,YOU,
-399_yousg,YOU (sg),1213,YOU,
+ID,Name,Concepticon_ID,Concepticon_Gloss,Number,Portuguese_Gloss
+3_basket,BASKET,1539,BASKET,,Cesto / cesta
+4_hawk,HAWK,307,HAWK,,Gavião
+5_kingfisher,KING FISHER,,,,Guarda-rios / martim-pescador
+6_tayra,TAYRA,,,,Irara
+7_mother,MOTHER,1216,MOTHER,,MOTHER
+8_pineapple,PINEAPPLE,2440,PINEAPPLE,,abacaxi
+9_bee,BEE,665,BEE,,abelha
+10_open,OPEN,1156,OPEN,,abrir
+11_pumpkin,PUMPKIN,864,PUMPKIN,,abóbora / moranga / jerimun
+12_terminatefinish,TERMINATE / FINISH,1766,FINISH,,acabar / terminar
+13_wakeup,WAKE UP,1602,WAKE UP,,acordar
+14_sharpen,SHARPEN,251,SHARPEN (SOMETHING),,afiar
+15_now,NOW,1376,NOW,,agora
+16_help,HELP,1897,HELP,,ajudar
+17_village,VILLAGE,930,VILLAGE,,aldeia
+18_cotton,COTTON,1850,COTTON,,algodão
+19_tomorrow,TOMORROW,1329,TOMORROW,,amanhã
+20_yellow,YELLOW,1424,YELLOW,,amarelo
+21_peanut,PEANUT,2364,PEANUT,,amendoim
+22_walk,WALK,1443,WALK,,andar / caminhar
+23_tapir,TAPIR,312,TAPIR,,anta
+24_fishhook,FISHHOOK,1074,FISHHOOK,,anzol
+25_learn,LEARN,504,LEARN,,aprender
+26_that,THAT,78,THAT,,aquele / aquilo
+27_here,HERE,136,HERE,,aqui
+28_spider,SPIDER,843,SPIDER,,aranha
+29_macaw,MACAW,1630,MACAW,,arara
+30_mountainsoursop,MOUNTAIN SOURSOP,,,,araticum / jaca de pobre
+31_bow,BOW,994,BOW,,arco
+32_sand,SAND,1127,SEND,,areia
+33_stingray,STINGRAY,1910,STINGRAY,,arraia
+35_wing2,WING(2),1257,WING,,asa
+36_roast,ROAST,1962,ROAST (SOMETHING),,assar
+37_scare,SCARE,252,FRIGHTEN,,assustar / amedrontar
+38_tie,TIE,1917,TIE,,atar / amarrar
+39_grandfather,GRANDFATHER,1383,GRANDFATHER,,avô
+40_souracidbitter,SOUR / ACID /BITTER,1906,SOUR,,azedo / amargo
+41_blue,BLUE,837,BLUE,,azul
+42_acaipalm,AÇAÍ PALM,2437,ACAI PALM,,açaí
+43_babacu,BABAÇU,,,,babaçu
+44_largemandifish,LARGE MANDI FISH,,,,bagre / mandi / surubim-bagre
+45_banana,BANANA,868,BANANA,,banana
+46_bench,BENCH,2584,BENCH,,banco
+47_bathe,BATHE,138,BATHE,,banhar-se
+48_cockroach,COCKROACH,1575,COCKROACH,,barata
+49_beard,BEARD,678,BEARD,,barba
+50_claymud,CLAY / MUD,1399,CLAY,,barro / argila
+51_sweetpotato,SWEET POTATO,159,SWEET POTATO,,batat-doce
+52_hit,HIT,1433,HIT,,bater
+53_drinkv,DRINK (v),1401,DRINK,,beber
+54_hummingbird,HUMMINGBIRD,1589,HUMMINGBIRD,,beija-flor / colibri
+55_sloth,SLOTH,2446,SLOTH,,bicho preguiça
+56_moustache,MOUSTACHE,1165,MOUSTACHE,,bigode
+57_mouth,MOUTH,674,MOUTH,,boca
+58_goodwell,GOOD / WELL,1035,GOOD,,bom / bem
+59_beautiful,BEAUTIFUL,1427,BEAUTIFUL,,bonito
+60_butterfly,BUTTERFLY,1791,BUTTERFLY,,borboleta
+61_white,WHITE,1335,WHITE,,branco
+62_arm,ARM,1673,ARM,,braço
+63_play,PLAY,1413,PLAY,,brincar
+64_play2causetojump,PLAY (2) (CAUSE TO JUMP),,,,brincar (2)
+65_sprout,SPROUT,2076,SPROUT (VERB),,brotar / germinar
+66_hole,HOLE,1667,HOLE,,buraco
+67_seeklookforsearch,SEEK / LOOK FOR / SEARCH,1468,LOOK FOR,,buscar / procurar
+68_calabashgourd,CALABASH / GOURD,411,GOURD,,"cabaça, cuia"
+69_hair,HAIR,2648,HAIR (HEAD),,cabelo
+70_head,HEAD,1256,HEAD,,cabeça
+71_cocoa,COCOA,2442,COCOA BEAN,,cacau
+72_dog,DOG,2009,DOG,,cachorro / cão
+73_wilddog,WILD DOG,2448,WILD DOG,,cachorro do mato
+74_fall,FALL,1280,FALL,,cair
+75_cashew,CASHEW,2441,CASHEW,,caju
+76_greeniguana,GREEN IGUANA,1578,IGUANA,,camaleão
+77_pathway,PATH / WAY,2252,PATH,,caminho
+78_canoe,CANOE,1970,CANOE,,canoa
+79_tired,TIRED,1757,TIRED,,cansado
+80_sing,SING,1261,SING,,cantar
+81_capybara,CAPYBARA,314,CAPYBARA,,capivara
+82_face,FACE,1560,FACE,,cara / rosto / face
+83_snail,SNAIL,1543,SNAIL,,caracol / lesma
+84_crab,CRAB,2348,CRAB,,carangueijo
+85_fleshmeat,FLESH / MEAT,2615,FLESH OR MEAT,,carne
+86_tick,TICK,1527,TICK,,carrapato
+87_house,HOUSE,1252,HOUSE,,casa
+88_shellbark,SHELL / BARK,1204,BARK,,casca / pele
+89_brazilnut,BRAZIL NUT,,,,castanha do Pará
+90_dig,DIG,1418,DIG,,cavar
+91_hunt,HUNT,1435,HUNT,,caçar
+92_wax,WAX,,,,cera
+93_chiefmasterowner,CHIEF / MASTER / OWNER,2394,CHIEF,,chefe / cacique
+94_arrive,ARRIVE,1387,ARRIVE,,chegar
+95_full,FULL,1429,FULL,,cheio
+96_horn,HORN,1393,HORN (ANATOMY),,chifre
+97_cry,CRY,1839,CRY,,chorar
+98_rain,RAIN,658,RAIN (PRECIPITATION),,chuva
+99_cicada,CICADA,2353,CICADA,,cigarra
+101_snake,SNAKE,730,SNAKE,,cobra
+102_thing,THING,738,THING,,coisa
+104_eattr,EAT (tr.),1336,EAT,,comer
+105_food,FOOD,256,FOOD,,comida
+106_longtall,LONG / TALL,1203,LONG,,comprido / longo / alto
+107_shell,SHELL,598,SHELL,,concha
+108_tellnarrate,TELL / NARRATE,1711,TELL,,contar
+109_heart,HEART,1223,HEART,,coração
+110_rope,ROPE,1218,ROPE,,corda
+111_run,RUN,1519,RUN,,correr
+112_cut,CUT,1432,CUT,,cortar
+113_owl,OWL,735,OWL,,coruja
+114_back,BACK,1291,BACK,,costas
+115_grow,GROW,479,GROW,,crescer
+116_child,CHILD,2099,CHILD,,criança
+117_raw,RAW,1959,RAW,,cru
+118_termite,TERMITE,883,TERMITE,,cupim
+119_heal,HEAL,499,CURE,,curar / sarar
+120_short,SHORT,1645,SHORT,,curto
+121_agouti,AGOUTI,313,AGOUTI,,cutia
+122_sky,SKY,1732,SKY,,céu
+123_dance,DANCE,1579,BE,,dançar
+124_give,GIVE,1447,GIVE,,dar
+125_finger,FINGER,1303,FINGER,,dedo
+126_defecate,DEFECATE,676,SHIT (DEFECATE),,defecar
+128_tooth,TOOTH,1380,TOOTH,,dente
+129_inside,INSIDE,1606,INSIDE,,dentro (de)
+130_after,AFTER,1685,AFTER,,depois (de)
+131_untie,UNTIE,352,UNTIE,,desatar / desamarrar / soltar
+132_day,DAY,1260,DAY (24 HOURS),,dia
+133_say,SAY,1458,SAY,,dizer
+134_sweet,SWEET,717,SWEET,,doce
+135_sickill,SICK / ILL,1847,SICK,,doente
+136_two,TWO,1498,TWO,,dois / duas
+137_painhurt,PAIN / HURT,1783,PAIN,,dor / machucado
+138_sleep,SLEEP,1585,SLEEP,,dormir
+139_below,BELOW,1485,BELOW OR UNDER,,em baixo de / abaixo
+140_above,ABOVE,1741,ABOVE,,em cima (de)
+141_cecropia,CECROPIA,,,,embaúba / imbaúba
+142_electriceel,ELECTRIC EEL,2443,ELECTRIC EEL,,enguia / peixe elétrico / poraquê
+143_teach,TEACH,709,TEACH,,ensinar
+144_bury,BURY,1719,BURY,,enterrar
+145_enter,ENTER,749,ENTER,,entrar
+146_send,SEND,1127,SEND,,enviar
+147_bewrong,BE WRONG,1390,WRONG,,errar / estar errado
+148_hide,HIDE,2486,HIDE,,esconder
+149_scorpion,SCORPION,1538,SCORPION,,escorpião
+150_hearlisten,HEAR / LISTEN,1408,HEAR,,escutar / ouvir
+151_thorn,THORN,124,THORN,,espinho
+152_wife,WIFE,1199,WIFE,,esposa
+153_forget,FORGET,1523,FORGET,,esquecer
+154_squirrel,SQUIRREL,1628,SQUIRREL,,esquilo / caxinguelê/ quatimirim / quatipuru / serelepe
+155_stand,STAND,1442,STAND,,estar de / em pé / levantar
+156_this,THIS,1214,THIS,,este
+157_star,STAR,1430,STAR,,estrela
+158_stomach,STOMACH,819,STOMACH,,estômago
+159_i,I,1209,I,,eu
+160_knife,KNIFE,1352,KNIFE,,faca
+161_speak,SPEAK,1623,SPEAK,,falar
+162_flour,FLOUR,1594,FLOUR,,farinha
+163_domake,DO / MAKE,813,DO,,fazer
+164_beans,BEANS,2574,BEAN OR PEA,,feijão
+165_ugly,UGLY,1548,UGLY,,feio
+166_happy,HAPPY,1495,HAPPY,,feliz / contente
+167_wound,WOUND,1109,WOUND,,ferida
+168_daughterofman,DAUGHTER OF MAN,1357,DAUGHTER,,filha de homem
+169_daughterofwoman,DAUGHTER OF WOMAN,1357,DAUGHTER,,filha de mulher
+170_sonofman,SON OF MAN,1620,SON,,filho de homen
+171_sonofwoman,SON OF WOMAN,1620,SON,,filho de mulher
+172_arrow,ARROW,977,ARROW,,flecha
+173_flower,FLOWER,239,FLOWER,,flor
+174_fire,FIRE,221,FIRE,,fogo
+175_leaf,LEAF,628,LEAF,,folha
+176_ant,ANT,587,ANT,,formiga
+177_strong,STRONG,785,STRONG,,forte
+178_cold,COLD,1287,COLD,,frio
+179_fruit,FRUIT,1507,FRUIT,,fruta
+180_smoken,SMOKE (n),778,SMOKE (EXHAUST),,fumaça
+181_tobacco,TOBACCO,974,TOBACCO,,fumo / tabaco
+182_pierce,PIERCE,398,PIERCE,,furar / espetar
+183_liver,LIVER,1224,LIVER,,fígado
+184_branch,BRANCH,1531,BRANCH,,galho
+185_henchicken,HEN / CHICKEN,1318,CHICKEN,,galinha
+186_opossumskunk,OPOSSUM / SKUNK,309,OPOSSUM,,gambá
+187_throat,THROAT,1346,THROAT,,garganta
+188_claw,CLAW,2128,CLAW OR NAIL,,garra
+189_wildcat,WILD CAT,2241,WILD CAT,,gato do mato
+190_fatgrease,FAT / GREASE,1282,FAT (FROM ANIMALS),,gordura / banha
+191_grass,GRASS,606,GRASS,,grama
+192_big,BIG,1202,BIG,,grande
+193_cricketzool,CRICKET (zool),2354,CRICKET,,grilo
+194_thick,THICK,1244,THICK,,grosso
+195_today,TODAY,1283,TODAY,,hoje
+196_man,MAN,1554,MAN,,homem
+197_inga,INGA,,,,ingá
+198_tinamou,TINAMOU,,,,inhambu / nambu / perdiz / xororó
+199_cararootyam,CARÁ ROOT / YAM,410,YAM,,inhame
+200_go,GO,695,GO,,ir
+204_sisterofm,"SISTER, of m",,,,irmã
+209_brotheryofw,BROTHER (y of w),,,,irmão
+210_jacarecaimancrocodile,JACARÉ / CAIMAN / CROCODILE,1857,CROCODILE,,jacaré
+211_guanjacu,GUAN / JACU,437,GUAN,,jacú
+212_genipa,GENIPA,,,,jenipapo / genipa
+213_knee,KNEE,1371,KNEE,,joelho
+214_lizard,LIZARD,632,LIZARD,,lagarto / calango
+215_lake,LAKE,624,LAKE,,lago / lagoa
+216_maggotlarva,MAGGOT / LARVA,2640,LARVA,,larva
+217_wash,WASH,1453,WASH,,lavar
+218_milk,MILK,635,MILK,,leite
+220_firewood,FIREWOOD,10,FIREWOOD,,lenha
+221_far,FAR,1406,FAR,,longe
+222_moon,MOON,1313,MOON,,lua
+223_tongue,TONGUE,1205,TONGUE,,língua
+224_monkey,MONKEY,1350,MONKEY,,macaco
+225_capuchinmonkey,CAPUCHIN MONKEY,,,,macaco prego
+226_spidermonkey,SPIDER MONKEY /,434,SPIDER MONKEY,,macaco preto / macaco aranha / coatá
+227_axe,AXE,677,AXE,,machado
+229_ripe,RIPE,178,RIPE,,maduro
+230_papaya,PAPAYA,2445,PAPAYA,,mamão
+231_morning,MORNING,1339,MORNING,,manhã
+232_husband,HUSBAND,1200,HUSBAND,,marido
+233_kill,KILL,1417,KILL,,matar
+234_badevil,BAD / EVIL,3764,BAD OR EVIL,,mau / mal / ruim
+235_honey,HONEY,942,HONEY,,mel
+236_girl,GIRL,1646,GIRL,,menina
+237_boy,BOY,1366,BOY,,menino
+238_cornmaize,CORN / MAIZE,3686,CORN HUSK,,milho
+239_porridge,PORRIDGE,,,,mingau
+240_beads,BEADS,1860,BEAD,,miçangas / contas
+241_mould,MOULD,,,,mofo
+242_wet,WET,1726,WET,,molhado
+243_mountainhill,MOUNTAIN / HILL,639,MOUNTAIN,,montanha / monte / morro
+244_bat,BAT,1793,BAT,,morcego
+245_bite,BITE,1403,BITE,,morder
+246_die,DIE,1494,DIE,,morrer
+247_flyinsect,FLY (insect),1504,FLY (INSECT),,mosca
+248_many,MANY,1198,MANY,,muitos
+249_woman,WOMAN,962,WOMAN,,mulher
+251_gnatpium,GNAT / PIUM,,,,mutum
+252_hand,HAND,1277,HAND,,mão
+253_swim,SWIM,1439,SWIM,,nadar
+254_nose,NOSE,1221,NOSE,,nariz
+255_nest,NEST,539,NEST,,ninho
+256_night,NIGHT,1233,NIGHT,,noite
+257_name,NAME,1405,NAME,,nome
+258_new,NEW,1231,NEW,,novo
+259_cloud,CLOUD,1489,CLOUD,,nuvem
+260_buttocks,BUTTOCKS,834,BUTTOCKS,,nádegas
+262_weincl,WE (INCL),1131,WE (INCLUSIVE),,nós
+263_lookat,LOOK AT,1819,LOOK,,olhar
+264_eye,EYE,1248,EYE,,olho
+265_yesterday,YESTERDAY,1174,YESTERDAY,,ontem
+266_jaguar,JAGUAR,1250,JAGUAR,,onça
+267_what,WHAT ,1236,WHAT,,oquê
+268_ear,EAR,1247,EAR,,orelha
+269_bone,BONE,1394,BONE,,osso
+270_hedgehog,HEDGEHOG,1797,HEDGEHOG,,ouriço / porco-espinho
+271_othersome,OTHER / SOME,197,OTHER,,outro / algum
+272_egg,EGG,744,EGG,,ovo
+273_paca,PACA,316,PACA,,paca
+274_pacufish,PACU FISH,,,,pacu
+275_father,FATHER,1217,FATHER,,pai
+276_shaman,SHAMAN,394,SHAMAN (FOLK HEALER),,pajé
+277_pan,PAN,31,PAN,,panela
+278_parrot,PARROT,882,PARROT,,papagaio
+279_stone,STONE,857,STONE,,pedra
+280_fish,FISH,227,FISH,,peixe
+281_skin,SKIN,763,SKIN,,pele
+282_feather,FEATHER,1201,FEATHER,,pena / pluma
+283_comb,COMB,1475,COMB,,pente
+284_small,SMALL,1246,SMALL,,pequeno
+285_getlostlooseones,GETLOST / LOOSEoneS,423,GET LOST,,perder-se
+286_leg,LEG,1297,LEG,,perna
+287_mosquito,MOSQUITO,1509,MOSQUITO,,pernilongo / muriçoca / carapanã
+288_heavy,HEAVY,1210,HEAVY,,pesado
+289_neck,NECK,1333,NECK,,pescoço
+290_personhbsomeone,PERSON / HB / SOMEONE,683,PERSON,,pessoa / serhumano / alguém
+291_woodpecker,WOODPECKER,2447,WOODPECKER,,pica-pau
+292_pestleverb,PESTLE (verb),,,,pilar
+293_pestle,PESTLE,225,PESTLE,,pilão
+294_pepper,PEPPER,1385,PEPPER,,pimenta
+295_surubimfish,SURUBIM_FISH,,,,pintado / bagre 
+296_drawpaint,DRAW / PAINT,3122,PAINT (SOMETHING),,pintar / desenhar
+297_louse,LOUSE,1392,LOUSE,,piolho
+298_piranha,PIRANHA,317,PIRANHA,,piranha
+299_flat,FLAT,1633,FLAT,,plano / liso
+300_peccarycollared,PECCARY (collared),435,COLLARED PECCARY,,porco do mato / caititu / caitetu
+301_door,DOOR,1567,DOOR,,porta
+302_black,BLACK,163,BLACK,,preto
+303_fleachigger,FLEA / CHIGGER,232,FLEA,,pulga
+304_peachpalm,PEACH PALM,,,,pupunha
+305_bird,BIRD,937,BIRD,,pássaro
+306_villagesquare,VILLAGE SQUARE,,,,pátio /praça
+307_foot,FOOT,1301,FOOT,,pé
+308_penis,PENIS,1222,PENIS,,pênis
+309_put,PUT,998,PUT,,pôr / colocar
+310_coati,COATI,2389,COATI (COATIMUNDI),,quati
+311_four,FOUR,1500,FOUR,,quatro
+312_break,BREAK,3020,BREAK (BREAKING),,quebrar / romper
+314_burntr,BURN (tr),141,BURN (SOMETHING),,queimar
+315_peccarywhitelipped,PECCARY (white-lipped),436,WHITE-LIPPED PECCARY,,queixada
+316_who,WHO ,1235,WHO,,quem
+317_hot,HOT,1286,HOT,,quente
+318_want,WANT,1784,WANT,,querer
+319_tail,TAIL,1220,TAIL,,rabo / cauda
+320_rat,RAT,1490,RAT,,rato
+321_root,ROOT,670,ROOT,,raíz
+322_hammock,HAMMOCK,2019,HAMMOCK,,rede
+323_round,ROUND,1395,ROUND,,redondo
+324_rowpaddle,ROW / PADDLE,1849,ROW,,remar
+325_oar,OAR,3137,OAR,,remo
+326_medicine,MEDICINE,1372,MEDICINE,,remédio
+327_resin,RESIN,664,RESIN,,resina
+328_breathe,BREATHE,1407,BREATHE,,respirar
+329_river,RIVER,666,RIVER,,rio
+330_laugh,LAUGH,1355,LAUGH,,rir
+331_snore,SNORE,1983,SNORE,,roncar
+332_slashgarden,SLASH / GARDEN,201,FARM,,roça
+333_know,KNOW,3626,KNOW,,saber
+334_leavegoout,LEAVE / GO OUT,1752,LEAVE,,sair
+335_salt,SALT,1274,SALT,,sal
+336_saliva,SALIVA,1503,SALIVA,,saliva
+337_jump,JUMP,1829,JUMP,,saltar
+338_blood,BLOOD,946,BLOOD,,sangue
+339_frogtoad,FROG / TOAD,503,FROG,,sapo
+340_dry,DRY,1786,DRY UP,,secar
+341_drystate,DRY (state),1398,DRY,,seco
+342_breast,BREAST,1402,BREAST,,seio
+343_seed,SEED,714,SEED,,semente
+347_sun,SUN,1343,SUN,,sol
+348_blow,BLOW,176,BLOW (WITH MOUTH),,soprar
+349_goup,GO UP,705,GO UP (ASCEND),,subir
+350_anaconda,ANACONDA,896,ANACONDA (WATER BOA),,sucuri
+351_suck,SUCK,1421,SUCK,,sugar / chupar
+352_dirty,DIRTY,1230,DIRTY,,sujo
+353_alone,ALONE,1964,ALONE,,só / sozinho
+354_anteater,ANTEATER,181,ANTEATER,,tamanduá
+355_bamboo,BAMBOO,1827,HARVEST CROPS,,taquara / bambu
+356_turtle,TURTLE,112,TURTLE,,tartaruga / jaboti / jabuti
+357_armadillo,ARMADILLO,1885,ARMADILLO,,tatu
+358_weave,WEAVE,133,WEAVE,,tecer
+359_fearbeafraid,FEAR / BE AFRAID,1419,FEAR (BE AFRAID),,temer / ter medo
+360_earthland,EARTH / LAND,3603,EARTH OR LAND,,terra / país
+361_testicles,TESTICLES,797,TESTICLES,,testículos
+362_timboliana,TIMBO LIANA,2388,LIANA,,timbó
+363_unclemobr,UNCLE (MoBr),2692,MATERNAL UNCLE (MOTHER'S BROTHER),,tio (materno)
+364_largeantbulletant,LARGE ANT / BULLET ANT,,,,tocandira / tucandeira
+365_all,ALL,98,ALL,,todos / tudo
+366_trahirafish,TRAHIRA FISH,,,,traíra
+368_thunder,THUNDER,1150,THUNDER,,trovão
+369_three,THREE,492,THREE,,três
+370_toucan,TOUCAN,308,TOUCAN,,tucano
+371_tucumapalmawara,TUCUMA_PALM / AWARA,2439,TUCUMA PALM,,tucumã
+372_one,ONE,1493,ONE,,um
+374_bellybutton,BELLYBUTTON,3715,BELLYBUTTON,,umbigo
+375_nailclaw,NAIL / CLAW,2128,CLAW OR NAIL,,unha / garra
+376_urinate,URINATE,,,,urinar
+377_vulture,VULTURE,1185,VULTURE,,urubú
+378_anatto,ANATTO,,,,urucu
+379_fireflyglowworm,FIREFLY / GLOWWORM,206,FIREFLY,,vagalume / pirilampo
+380_diggingstick,DIGGING STICK,339,DIGGING STICK,,vara de escavação
+381_sweep,SWEEP,230,SWEEP,,varrer
+382_deer,DEER,1936,DEER,,veado
+383_vein,VEIN,1924,VEIN,,veia
+384_oldadj,OLD (adj),1229,OLD,,velho
+385_wind,WIND,960,WIND,,vento
+386_see,SEE,1409,SEE,,ver
+387_green,GREEN,1425,GREEN,,verde
+388_wormearth,WORM (EARTH),2350,EARTHWORM,,verme / minhoca
+389_red,RED,156,RED,,vermelho
+390_wasp,WASP,1517,WASP,,vespa
+393_come,COME,1446,COME,,vir
+394_returncomeback,RETURN / COME BACK,581,COME BACK,,virar / voltar
+395_fly,FLY,1441,FLY (MOVE THROUGH AIR),,voar
+396_yousg,YOU (sg),1213,YOU,,você / tu
+397_youpl,YOU (pl),1213,YOU,,vocês / vós
+398_vomit,VOMIT,1278,VOMIT,,vomitar
+399_water,WATER,948,WATER,,água
+400_tree,TREE,906,TREE,,árvore

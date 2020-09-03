@@ -15,7 +15,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/LanguageStructure/TuLeD_Data",
-            "dc:created": "699d4cd"
+            "dc:created": "31bcb43"
         },
         {
             "rdf:type": "prov:Entity",
@@ -54,7 +54,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:extent": 14322,
+            "dc:extent": 18908,
             "tableSchema": {
                 "columns": [
                     {
@@ -149,7 +149,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#LanguageTable",
-            "dc:extent": 53,
+            "dc:extent": 74,
             "tableSchema": {
                 "columns": [
                     {
@@ -223,7 +223,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ParameterTable",
-            "dc:extent": 371,
+            "dc:extent": 375,
             "tableSchema": {
                 "columns": [
                     {
@@ -249,6 +249,10 @@
                     {
                         "datatype": "string",
                         "name": "Number"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Portuguese_Gloss"
                     }
                 ],
                 "primaryKey": [
@@ -259,7 +263,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#CognateTable",
-            "dc:extent": 14322,
+            "dc:extent": 18908,
             "tableSchema": {
                 "columns": [
                     {

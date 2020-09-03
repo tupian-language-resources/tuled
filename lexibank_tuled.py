@@ -15,6 +15,7 @@ from clldutils.misc import slug
 @attr.s
 class CustomConcept(Concept):
     Number = attr.ib(default=None)
+    Portuguese_Gloss = attr.ib(default=None)
 
 
 @attr.s
@@ -46,17 +47,22 @@ class Dataset(BaseDataset):
             args.writer.add_concept(
                     ID=idx,
                     Name=concept['ENGLISH'],
+                    Portuguese_Gloss=concept['PORTUGUESE'],
                     Concepticon_ID=concept['CONCEPTICON_ID'],
-                    Concepticon_Gloss=concept['CONCEPTICON_GLOSS']
+                    #Concepticon_Gloss=concept['CONCEPTICON_GLOSS']
                     )
             concepts[concept['PORTUGUESE']] = idx
         languages = {}
         for row in self.languages:
             args.writer.add_language(
-                    ID=slug(row['Language']),
-                    Name=row['Language']
+                    ID=row['ID'],
+                    Name=row['Name'],
+                    SubGroup=row['SubGroup'],
+                    #Latitude=row['Latitude'],
+                    #Longitude=row['Longitude'],
+                    Glottocode=row['Glottocode'],
                     )
-            languages[row['Language']] = slug(row['Language'])
+            languages[row['Name']] = row['ID']
         
         data = [row for row in self.raw_dir.read_csv('spreadsheet.tsv',
             delimiter='\t', dicts=False)]

@@ -11,26 +11,26 @@ Available online at http://www.tuled.org
 ## Statistics
 
 
-![Glottolog: 0%](https://img.shields.io/badge/Glottolog-0%25-red.svg "Glottolog: 0%")
+![Glottolog: 94%](https://img.shields.io/badge/Glottolog-94%25-green.svg "Glottolog: 94%")
 ![Concepticon: 95%](https://img.shields.io/badge/Concepticon-95%25-green.svg "Concepticon: 95%")
 ![Source: 0%](https://img.shields.io/badge/Source-0%25-red.svg "Source: 0%")
-![BIPA: 99%](https://img.shields.io/badge/BIPA-99%25-green.svg "BIPA: 99%")
-![CLTS SoundClass: 99%](https://img.shields.io/badge/CLTS%20SoundClass-99%25-green.svg "CLTS SoundClass: 99%")
+![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
+![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
-- **Varieties:** 53
-- **Concepts:** 371
-- **Lexemes:** 14,322
+- **Varieties:** 74
+- **Concepts:** 375
+- **Lexemes:** 18,908
 - **Sources:** 0
 - **Synonymy:** 1.07
-- **Cognacy:** 14,322 cognates in 1,870 cognate sets (630 singletons)
-- **Cognate Diversity:** 0.11
+- **Cognacy:** 18,908 cognates in 1,980 cognate sets (563 singletons)
+- **Cognate Diversity:** 0.09
 - **Invalid lexemes:** 0
-- **Tokens:** 64,568
-- **Segments:** 257 (3 BIPA errors, 3 CTLS sound class errors, 253 CLTS modified)
-- **Inventory size (avg):** 54.23
+- **Tokens:** 85,533
+- **Segments:** 282 (0 BIPA errors, 0 CTLS sound class errors, 282 CLTS modified)
+- **Inventory size (avg):** 53.64
 
 ## Possible Improvements:
 
 
 
-- Entries missing sources: 14322/14322 (100.00%)
+- Entries missing sources: 18908/18908 (100.00%)
