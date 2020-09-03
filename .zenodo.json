@@ -1,0 +1,17 @@
+{
+    "title": "CLDF dataset derived from Gerardi and Reichert's \"TuLeD: Tup\u00edan lexical database\" from 2020",
+    "access_right": "open",
+    "keywords": [
+        "cldf:Wordlist",
+        "linguistics"
+    ],
+    "creators": [],
+    "contributors": [],
+    "communities": [
+        {
+            "identifier": "lexibank"
+        }
+    ],
+    "upload_type": "dataset",
+    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Ferraz Gerardi, Fabr\u00edcio and Reichert, Stanislav (2020) TuLeD: Tup\u00edan lexical database. Version 0.8. T\u00fcbingen: Eberhard-Karls University</p>\n</blockquote>"
+}
