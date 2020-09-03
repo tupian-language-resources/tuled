@@ -60,8 +60,6 @@ class Dataset(BaseDataset):
         
         data = [row for row in self.raw_dir.read_csv('spreadsheet.tsv',
             delimiter='\t', dicts=False)]
-        print(len(data))
-        input()
         header = data[2]
         missc, missl = set(), set()
         for row in data[5:]:
