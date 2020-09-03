@@ -25,9 +25,9 @@ Available online at http://www.tuled.org
 - **Cognacy:** 18,908 cognates in 1,980 cognate sets (563 singletons)
 - **Cognate Diversity:** 0.09
 - **Invalid lexemes:** 0
-- **Tokens:** 85,533
-- **Segments:** 282 (0 BIPA errors, 0 CTLS sound class errors, 282 CLTS modified)
-- **Inventory size (avg):** 53.64
+- **Tokens:** 85,182
+- **Segments:** 290 (0 BIPA errors, 0 CTLS sound class errors, 290 CLTS modified)
+- **Inventory size (avg):** 55.47
 
 ## Possible Improvements:
 

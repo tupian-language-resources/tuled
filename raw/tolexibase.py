@@ -2,6 +2,8 @@ from lexibase.lexibase import LexiBase
 from lingpy import *
 from lingpy.compare.partial import Partial
 from clldutils.misc import slug
+from collections import defaultdict
+from clldutils.text import strip_brackets, split_text
 
 
 #wl = Wordlist('tuled-edictor.tsv')

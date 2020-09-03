@@ -36,7 +36,7 @@ pycldf==1.9.0
 pyconcepticon==2.6.0
 pycountry==19.8.18
 -e git+https://github.com/clld/pyglottolog.git@c17c4d48c35c0666d58eac89ba5ea806f62a14ff#egg=pyglottolog
-pylexibank==2.4.0
+-e git+https://github.com/lexibank/pylexibank.git@2533f67b43a9c943fc06d39f1f8c1d164e858f50#egg=pylexibank
 pyparsing==2.4.5
 pytest==5.4.1
 pytz==2019.3

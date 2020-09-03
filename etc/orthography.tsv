@@ -98,7 +98,7 @@ eũ	eũ	2	unrounded close-mid front vowel	meũ, weʔeũja	juruna, sateremawe
 eə	eə	1	from unrounded close-mid front to unrounded mid central diphthong	dʒeəm	munduruku
 eɨ	eɨ	27	unrounded close-mid front vowel	eɨ, eɨnir, eɨpɨʔã	akuntsu, amondawa, arikem, guajajara, guarayo, guayakiache, kaaporurubu, kamayura, makurap, mekenssakurabiat, sateremawe, siriono, tupari, warazupauserna
 eɨ̃	eɨ̃	2	unrounded close-mid front vowel	eɨ̃, ɨreɨ̃	siriono
-ẽ		39	nasalized unrounded close-mid front vowel	akẽ, anẽm, aʃẽj	anambe, arua, aweti, gaviaoikoloehj, guaraniparaguay, kaaporurubu, karitiana, karoarara, mekenssakurabiat, parintintin, purubora, sateremawe, siriono, suruipaiter, tapiete, tapirapeapyawa, tupari, xeta, zoro
+ẽ	ẽ	39	nasalized unrounded close-mid front vowel	akẽ, anẽm, aʃẽj	anambe, arua, aweti, gaviaoikoloehj, guaraniparaguay, kaaporurubu, karitiana, karoarara, mekenssakurabiat, parintintin, purubora, sateremawe, siriono, suruipaiter, tapiete, tapirapeapyawa, tupari, xeta, zoro
 ẽẽ	ẽː	6	long nasalized unrounded close-mid front vowel	ii-jẽẽj, kɨmẽẽpo, mẽẽk	arua, gaviaoikoloehj, mekenssakurabiat, zoro
 e͂	e	2	unrounded close-mid front vowel	ape͂, poape͂	guaraniparaguay, guarayo
 eẽ	eẽ/ẽː	5	unrounded close-mid front vowel	peẽ, seẽ, tɨneẽ	chiriguano, guaraniparaguay, mbya, nheengatu
@@ -191,7 +191,7 @@ oé	oé/oe	1	rounded close-mid back vowel	soédəp	munduruku
 oĩ	oĩ	6	rounded close-mid back vowel	amẽndoĩ-da, koĩ, mokoĩmokoĩ	aweti, kaaporurubu, kaiowa, mbya, munduruku
 oə	oə	3	from rounded close-mid back to unrounded mid central diphthong	meroə, pepoə	amondawa, arikem, makurap
 oɨ	oɨ	22	from rounded close-mid back to unrounded close central diphthong	boɨg, jepoɨru, moɨ	arua, avacanoeiro, chiriguano, chiripanandevaavaguarani, emerillonteko, gaviaoikoloehj, guaraniparaguay, guarayo, makurap, mekenssakurabiat, parakana, warazupauserna, wayampi, xeta
-oɨi	o ɨː	1	rounded close-mid back vowel	poɨiwu	kayabi
+oɨi	o ɨi	1	rounded close-mid back vowel	poɨiwu	kayabi
 oɨɨ	o ɨː	1	rounded close-mid back vowel	mekoɨɨt	suruipaiter
 oɨ̃	oɨ̃	1	rounded close-mid back vowel	mẽkoɨ̃t	monde
 õ	õ	59	nasalized rounded close-mid back vowel	agarajõ, dzõlõmpʔa, inamutõ	apiaka, arua, aweti, gaviaoikoloehj, kaaporurubu, karitiana, karoarara, mekenssakurabiat, purubora, tapiete, tapirapeapyawa, xeta, zoro
@@ -464,3 +464,11 @@ joçó	j o ç ó/o
 tapɨɨ́	t a p ɨː
 ɨ́	ɨ
 ɨkeɨ́	i k eɨ
+mb	mb/ⁿb
+nd	nd/ⁿd
+ndʒ	ndʒ/ⁿdʒ
+ŋg	ŋg/ⁿg
+ŋk	ŋk/ⁿg
+ŋkʷ	ŋkʷ/ⁿkʷ
+ŋgʷ	ŋgʷ/ⁿgʷ
+mp	mp/ⁿp
