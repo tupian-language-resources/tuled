@@ -1,15 +1,14 @@
-"""
-Lexibank script for generating a CLDF dataset for the TuLeD data.
-"""
-
-# Import Python standard libraries
-from pathlib import Path
 import attr
+from pathlib import Path
 
-# Import Lexibank/CLDF/CLLD utils
 from pylexibank import Concept, Language, FormSpec
 from pylexibank.dataset import Dataset as BaseDataset
 from pylexibank.util import progressbar
+from cldfbench import CLDFSpec
+from csvw import Datatype
+from pyclts import CLTS
+
+import lingpy
 from clldutils.misc import slug
 
 
@@ -32,57 +31,70 @@ class Dataset(BaseDataset):
     id = "tuled"
     concept_class = CustomConcept
     language_class = CustomLanguage
-    #    form_spec = FormSpec(
-    #        missing_data=("?",),
-    #        strip_inside_brackets=True,
-    #        separators=",/",
-    #        brackets={"{": "}", "(": ")", "[": "]"},
-    #    )
+    form_spec = FormSpec(
+            missing_data=("?", ),
+            strip_inside_brackets=True,
+            separators = ",/",
+            brackets={"{": "}", "(": ")", "[": "]"}
+            )
 
     def cmd_makecldf(self, args):
 
-        # Write sources
         args.writer.add_sources()
-
-        # Collect concepts
         concepts = {}
         for concept in self.concepts:
-            concepticon_id = concept["Concepticon"].split("/")[0]
-            concepticon_id = concepticon_id.replace("_", "").strip()
-
-            parameter_id = f"{concepticon_id}_{slug(concept['Name'])}"
+            idx = '{0}_{1}'.format(concept['NUMBER'], slug(concept['ENGLISH']))
             args.writer.add_concept(
-                ID=parameter_id,
-                Name=concept["Name"],
-                Portuguese_Gloss=concept["Portuguese"],
-                Concepticon_ID=concepticon_id,
-            )
-            concepts[concept["Name"]] = parameter_id
-
-        # Collect languages
+                    ID=idx,
+                    Name=concept['ENGLISH'],
+                    Portuguese_Gloss=concept['PORTUGUESE'],
+                    Concepticon_ID=concept['CONCEPTICON_ID'],
+                    #Concepticon_Gloss=concept['CONCEPTICON_GLOSS']
+                    )
+            concepts[concept['PORTUGUESE']] = idx
         languages = {}
         for row in self.languages:
             args.writer.add_language(
-                ID=slug(row["Name"]),
-                Name=row["Name"],
-                SubGroup=row["SubGroup"],
-                Glottocode=row["Glottocode"],
-            )
-            languages[row["ID"]] = slug(row["Name"])
+                    ID=row['ID'],
+                    Name=row['Name'],
+                    SubGroup=row['SubGroup'],
+                    #Latitude=row['Latitude'],
+                    #Longitude=row['Longitude'],
+                    Glottocode=row['Glottocode'],
+                    )
+            languages[row['Name']] = row['ID']
+        
+        data = [row for row in self.raw_dir.read_csv('spreadsheet.tsv',
+            delimiter='\t', dicts=False)]
+        header = data[2]
+        missc, missl = set(), set()
+        for row in data[5:]:
+            language = row[0]
+            lid = languages.get(language)
+            if lid:
+                print(lid)
+                for i in range(7, len(row)-3, 3):
+                    if i < len(row)+1:
+                        concept=data[1][i]
+                        cogid=row[i+1]
+                        note=row[i+2]
+                        form=row[i]
+                        if concept in concepts and form.strip():
+                            for lex in args.writer.add_forms_from_value(
+                                    Parameter_ID=concepts[concept],
+                                    Language_ID=lid,
+                                    Value=form,
+                                    Source=''
+                                    ):
+                                args.writer.add_cognate(
+                                        lexeme=lex,
+                                        Cognateset_ID=slug('{0}-{1}'.format(concept,
+                                            cogid)),
+                                        )
+                        else:
+                            missc.add(concept)
+            else:
+                missl.add(language)
 
-        # Read raw data
-        data = list(self.raw_dir.read_csv("tuled.tsv", delimiter="\t", dicts=True))
+                
 
-        # Add rows
-        for row in progressbar(data, desc="Building CLDF"):
-            eng_concept = row["CONCEPT"].strip().replace("_", " ").upper()
-
-            # We can only add data if all fields are given
-            if all([row["VALUE"], row["FORM"], row["TOKENS"]]):
-                args.writer.add_form_with_segments(
-                    Language_ID=languages[row["DOCULECT"]],
-                    Parameter_ID=concepts[eng_concept],
-                    Value=row["VALUE"],
-                    Form=row["FORM"],
-                    Segments=row["TOKENS"].split(),
-                )
