@@ -53,33 +53,47 @@ class Dataset(BaseDataset):
             )
 
         concepts = {}
+        errors, blacklist = set(), set()
         for concept in self.concepts:
             idx = '{0}_{1}'.format(concept['NUMBER'], slug(concept['ENGLISH']))
-            args.writer.add_concept(
-                    ID=idx,
-                    Name=concept['ENGLISH'],
-                    Portuguese_Gloss=concept['PORTUGUESE'],
-                    Concepticon_ID=concept['CONCEPTICON_ID'],
-                    #Concepticon_Gloss=concept['CONCEPTICON_GLOSS']
-                    )
-            concepts[concept['ENGLISH']] = idx
+            try:
+                args.writer.add_concept(
+                        ID=idx,
+                        Name=concept['ENGLISH'],
+                        Portuguese_Gloss=concept['PORTUGUESE'],
+                        Concepticon_ID=concept['CONCEPTICON_ID'],
+                        #Concepticon_Gloss=concept['CONCEPTICON_GLOSS']
+                        )
+                concepts[concept['ENGLISH']] = idx
+            except ValueError:
+                args.log.warn('Invalid concepticon ID {0}'.format(
+                    concept['CONCEPTICON_ID']))
+                errors.add('CONCEPTICON_ID {0} {1}'.format(
+                    concept['ENGLISH'],
+                    concept['CONCEPTICON_ID']))
         languages = {}
-        errors, blacklist = set(), set()
         for row in self.languages:
             if not -180 < float(row['Latitude']) < 180:
                 errors.add('LATITUDE {0}'.format(row['Name']))
             elif not -180 < float(row['Longitude']) < 180:
                 errors.add('LONGITUDE {0}'.format(row['Name']))
             else:
-                args.writer.add_language(
-                        ID=row['ID'],
-                        Name=row['Name'],
-                        SubGroup=row['SubGroup'],
-                        Latitude=row['Longitude'],
-                        Longitude=row['Latitude'],
-                        Glottocode=row['Glottocode'],
-                        )
-                languages[row['Name']] = row['ID']
+                try:
+                    args.writer.add_language(
+                            ID=row['ID'],
+                            Name=row['Name'],
+                            SubGroup=row['SubGroup'],
+                            Latitude=row['Longitude'],
+                            Longitude=row['Latitude'],
+                            Glottocode=row['Glottocode'],
+                            )
+                    languages[row['Name']] = row['ID']
+                except ValueError:
+                    errors.add('LANGUAGE ID {0}'.format(
+                        row['ID'],
+                        ))
+                    args.log.warn('Invalid Language ID {0}'.format(row['ID']))
+
         wl = lingpy.Wordlist(self.raw_dir.joinpath('tuled.tsv').as_posix())
         bipa = CLTS(args.clts.dir).bipa
         for idx, tokens, glosses, cogids, alignment in wl.iter_rows(

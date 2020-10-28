@@ -1,89 +1,44 @@
 # Error Analysis for TULED
-* CONCEPT (Brazilian) CEDAR
-* CONCEPT ASHES
-* CONCEPT BODY
-* CONCEPT BROTHER, older of man
-* CONCEPT BROTHER, older of woman
-* CONCEPT BROTHER, younger of man
-* CONCEPT BROTHER, younger of woman
-* CONCEPT CENTIPEDE
-* CONCEPT CHICHA
-* CONCEPT DREAM
-* CONCEPT DREAM (verb)
-* CONCEPT LIE (down)
-* CONCEPT MOLD
-* CONCEPT MOTHER-IN-LAW (of man)
+* CONCEPT CLAY / MUD
+* CONCEPT CRICKET (zool)
+* CONCEPT DRY (state)
+* CONCEPT FLY (insect)
+* CONCEPT GETLOST / LOOSEoneS
+* CONCEPT GREEN
+* CONCEPT HEAR / LISTEN
+* CONCEPT LONG / TALL
+* CONCEPT MAGGOT / LARVA
 * CONCEPT MOTHER-IN-LAW (of women)
-* CONCEPT NECKLACE
-* CONCEPT ROTTEN
-* CONCEPT SHADOW
+* CONCEPT MOUNTAIN / HILL
+* CONCEPT OLD (adj)
+* CONCEPT OTHER / SOME
+* CONCEPT PAIN / HURT
+* CONCEPT PESTLE (verb)
+* CONCEPT SHELL / BARK
 * CONCEPT SISTER, older of man
 * CONCEPT SISTER, older of woman
 * CONCEPT SISTER, younger of man
 * CONCEPT SISTER, younger of woman
 * CONCEPT SIT (down)
-* CONCEPT SWEAT
-* CONCEPT THROW
-* CONCEPT WATERFALL
-* CONCEPT WHAT
-* CONCEPT WHO
-* LANGUAGE Akuntsu
-* LANGUAGE Amanaye
-* LANGUAGE Anambe
-* LANGUAGE Anambe_of_Ehrenreich
-* LANGUAGE Apapokuva_of_Nimuendaju
-* LANGUAGE Apiaka
-* LANGUAGE Arawete
-* LANGUAGE Arua
-* LANGUAGE Aruashi
-* LANGUAGE Asurini_do_Xingu
-* LANGUAGE Ava_Canoeiro
-* LANGUAGE Aweti
+* CONCEPT SURUBIM_FISH
+* CONCEPT UNCLE (MoBr)
+* CONCEPT YOU (pl)
+* CONCEPT YOU (sg)
+* CONCEPTICON_ID CLAY / MUD 1399 / 640
+* CONCEPTICON_ID GREEN 1425 / 2382
+* CONCEPTICON_ID HEAR / LISTEN 1408 / 1608
+* CONCEPTICON_ID LONG / TALL 1203 / 2143
+* CONCEPTICON_ID MAGGOT / LARVA /_2640
+* CONCEPTICON_ID MOUNTAIN / HILL 639 / 2118
+* CONCEPTICON_ID OTHER / SOME 197_/1241
+* CONCEPTICON_ID PAIN / HURT 1783 / 2561
+* CONCEPTICON_ID SHELL / BARK 1204 / 2127
 * LANGUAGE Chiripa_Nandeva_Ava_Guarani
-* LANGUAGE Cinta_Larga
-* LANGUAGE Cocama_Cocamilla
-* LANGUAGE Emerillon_Teko
-* LANGUAGE Gaviao_Ikoloehj
-* LANGUAGE Guaja
-* LANGUAGE Guayaki_Ache
-* LANGUAGE Jora
-* LANGUAGE Juruna_Yudja
-* LANGUAGE Ka_apor_Urubu
-* LANGUAGE Kabanae
-* LANGUAGE Kaiowa
-* LANGUAGE Kampe
-* LANGUAGE Karo_Arara
-* LANGUAGE Kayabi
-* LANGUAGE Kepkiriwat
-* LANGUAGE Lingua_Geral_Paulista_Tupi_austral
-* LANGUAGE Matanau
-* LANGUAGE Mbya
-* LANGUAGE Mekens_Sakurabiat
-* LANGUAGE Monde
-* LANGUAGE Munduruku
+* LANGUAGE ID Chiripa_Nandeva / Ava-Guarani
+* LANGUAGE ID Ntogapid_Itogapúk
+* LANGUAGE ID Tuparí
 * LANGUAGE Ntogapid_Itogapuk
-* LANGUAGE Old_Guarani
-* LANGUAGE Parakana
-* LANGUAGE Parintintin
-* LANGUAGE Purubora
-* LANGUAGE Satere_Mawe
-* LANGUAGE Siriono
-* LANGUAGE Surui_Aikewara
-* LANGUAGE Surui_Paiter
-* LANGUAGE Tapirape_Apyawa
-* LANGUAGE Tembe
 * LANGUAGE Tupari
-* LANGUAGE Tupi_do_Machado_Wirafed
-* LANGUAGE Tupinamba
-* LANGUAGE Turiwara
-* LANGUAGE Warazu_Pauserna
-* LANGUAGE Wayampi
-* LANGUAGE Wayoro
-* LANGUAGE Xeta
-* LANGUAGE Zo_e
-* LANGUAGE Zoro
-* LATITUDE Kabanae
-* LATITUDE Matanau
 * LENGTH: 10017 Urueuwauwau FAR
 * LENGTH: 10066 Urueuwauwau KILL
 * LENGTH: 10087 Urueuwauwau MOUNTAIN / HILL
@@ -1103,12 +1058,6 @@
 * LENGTH: 9875 Jiahoi SKY
 * LENGTH: 9913 Juma COMB
 * LENGTH: 9963 Urueuwauwau BEARD
-* LONGITUDE Anambé
-* LONGITUDE Asurini_do_Xingu
-* LONGITUDE Mbjá
-* LONGITUDE Mundurukú
-* LONGITUDE Parintintin
-* LONGITUDE Tupinambá_
 * SOUND: +a
 * SOUND: +o
 * SOUND: +p
