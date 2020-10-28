@@ -2,37 +2,35 @@
 
 Cite the source dataset as
 
-> Fabrício Ferraz Gerardi, Stanislav Reichert, Tim Wientzek, Verena Blaschke, Eric de Mattos, Zhuge Gao, Nianheng wu. (2020). LanguageStructure/TuLeD: Pre-release (version 0.9)
+> Ferraz Gerardi, Fabrício and Reichert, Stanislav (2020) TuLeD: Tupían lexical database. Version 0.8. Tübingen: Eberhard-Karls University
 
-[![DOI](https://zenodo.org/badge/263996134.svg)](https://zenodo.org/badge/latestdoi/263996134)
-
-This dataset is licensed under a CCBY license
+This dataset is licensed under a CC-BY-4.0 license
 
 Available online at http://www.tuled.org
 
 ## Statistics
 
 
-![Glottolog: 94%](https://img.shields.io/badge/Glottolog-94%25-green.svg "Glottolog: 94%")
-![Concepticon: 95%](https://img.shields.io/badge/Concepticon-95%25-green.svg "Concepticon: 95%")
+![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
+![Concepticon: 96%](https://img.shields.io/badge/Concepticon-96%25-green.svg "Concepticon: 96%")
 ![Source: 0%](https://img.shields.io/badge/Source-0%25-red.svg "Source: 0%")
 ![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
 ![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
-- **Varieties:** 74
-- **Concepts:** 375
-- **Lexemes:** 18,908
+- **Varieties:** 73
+- **Concepts:** 384
+- **Lexemes:** 18,240
 - **Sources:** 0
-- **Synonymy:** 1.07
-- **Cognacy:** 18,908 cognates in 1,980 cognate sets (563 singletons)
-- **Cognate Diversity:** 0.09
+- **Synonymy:** 1.05
+- **Cognacy:** 19,297 cognates in 2,988 cognate sets (1,202 singletons)
+- **Cognate Diversity:** 0.15
 - **Invalid lexemes:** 0
-- **Tokens:** 85,182
-- **Segments:** 290 (0 BIPA errors, 0 CTLS sound class errors, 290 CLTS modified)
-- **Inventory size (avg):** 55.47
+- **Tokens:** 82,798
+- **Segments:** 355 (0 BIPA errors, 0 CTLS sound class errors, 354 CLTS modified)
+- **Inventory size (avg):** 58.25
 
 ## Possible Improvements:
 
 
 
-- Entries missing sources: 18908/18908 (100.00%)
+- Entries missing sources: 18240/18240 (100.00%)

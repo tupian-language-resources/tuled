@@ -13,5 +13,8 @@
         }
     ],
     "upload_type": "dataset",
-    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Ferraz Gerardi, Fabr\u00edcio and Reichert, Stanislav (2020) TuLeD: Tup\u00edan lexical database. Version 0.8. T\u00fcbingen: Eberhard-Karls University</p>\n</blockquote>"
+    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Ferraz Gerardi, Fabr\u00edcio and Reichert, Stanislav (2020) TuLeD: Tup\u00edan lexical database. Version 0.8. T\u00fcbingen: Eberhard-Karls University</p>\n</blockquote>",
+    "license": {
+        "id": "CC-BY-4.0"
+    }
 }
