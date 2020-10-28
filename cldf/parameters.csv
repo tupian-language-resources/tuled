@@ -1,4 +1,5 @@
 ID,Name,Concepticon_ID,Concepticon_Gloss,Number,Portuguese_Gloss
+1_gather,GATHER,7,GATHER,,(a)juntar / recolher
 3_basket,BASKET,1539,BASKET,,Cesto / cesta
 4_hawk,HAWK,307,HAWK,,Gavião
 5_kingfisher,KING FISHER,,,,Guarda-rios / martim-pescador
@@ -30,7 +31,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Number,Portuguese_Gloss
 31_bow,BOW,994,BOW,,arco
 32_sand,SAND,1127,SEND,,areia
 33_stingray,STINGRAY,1910,STINGRAY,,arraia
-35_wing2,WING(2),1257,WING,,asa
+34_wing,WING,1257,WING,,asa
 36_roast,ROAST,1962,ROAST (SOMETHING),,assar
 37_scare,SCARE,252,FRIGHTEN,,assustar / amedrontar
 38_tie,TIE,1917,TIE,,atar / amarrar
@@ -59,7 +60,6 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Number,Portuguese_Gloss
 61_white,WHITE,1335,WHITE,,branco
 62_arm,ARM,1673,ARM,,braço
 63_play,PLAY,1413,PLAY,,brincar
-64_play2causetojump,PLAY (2) (CAUSE TO JUMP),,,,brincar (2)
 65_sprout,SPROUT,2076,SPROUT (VERB),,brotar / germinar
 66_hole,HOLE,1667,HOLE,,buraco
 67_seeklookforsearch,SEEK / LOOK FOR / SEARCH,1468,LOOK FOR,,buscar / procurar
@@ -97,6 +97,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Number,Portuguese_Gloss
 99_cicada,CICADA,2353,CICADA,,cigarra
 101_snake,SNAKE,730,SNAKE,,cobra
 102_thing,THING,738,THING,,coisa
+103_eatintr,EAT (intr.),1336,EAT,,comer
 104_eattr,EAT (tr.),1336,EAT,,comer
 105_food,FOOD,256,FOOD,,comida
 106_longtall,LONG / TALL,1203,LONG,,comprido / longo / alto
@@ -193,8 +194,8 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Number,Portuguese_Gloss
 198_tinamou,TINAMOU,,,,inhambu / nambu / perdiz / xororó
 199_cararootyam,CARÁ ROOT / YAM,410,YAM,,inhame
 200_go,GO,695,GO,,ir
-204_sisterofm,"SISTER, of m",,,,irmã
-209_brotheryofw,BROTHER (y of w),,,,irmão
+201_sister,SISTER,1263,SISTER,,irmã
+205_brother,BROTHER,1262,BROTHER,,irmão
 210_jacarecaimancrocodile,JACARÉ / CAIMAN / CROCODILE,1857,CROCODILE,,jacaré
 211_guanjacu,GUAN / JACU,437,GUAN,,jacú
 212_genipa,GENIPA,,,,jenipapo / genipa
@@ -204,14 +205,16 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Number,Portuguese_Gloss
 216_maggotlarva,MAGGOT / LARVA,2640,LARVA,,larva
 217_wash,WASH,1453,WASH,,lavar
 218_milk,MILK,635,MILK,,leite
+219_remember,REMEMBER,707,REMEMBER,,lembrar(-se)
 220_firewood,FIREWOOD,10,FIREWOOD,,lenha
 221_far,FAR,1406,FAR,,longe
 222_moon,MOON,1313,MOON,,lua
 223_tongue,TONGUE,1205,TONGUE,,língua
 224_monkey,MONKEY,1350,MONKEY,,macaco
 225_capuchinmonkey,CAPUCHIN MONKEY,,,,macaco prego
-226_spidermonkey,SPIDER MONKEY /,434,SPIDER MONKEY,,macaco preto / macaco aranha / coatá
+226_spidermonkey,SPIDER MONKEY,434,SPIDER MONKEY,,macaco preto / macaco aranha / coatá
 227_axe,AXE,677,AXE,,machado
+228_manioc,MANIOC,927,MANIOC,,madioca
 229_ripe,RIPE,178,RIPE,,maduro
 230_papaya,PAPAYA,2445,PAPAYA,,mamão
 231_morning,MORNING,1339,MORNING,,manhã
@@ -224,7 +227,6 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Number,Portuguese_Gloss
 238_cornmaize,CORN / MAIZE,3686,CORN HUSK,,milho
 239_porridge,PORRIDGE,,,,mingau
 240_beads,BEADS,1860,BEAD,,miçangas / contas
-241_mould,MOULD,,,,mofo
 242_wet,WET,1726,WET,,molhado
 243_mountainhill,MOUNTAIN / HILL,639,MOUNTAIN,,montanha / monte / morro
 244_bat,BAT,1793,BAT,,morcego
@@ -233,6 +235,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Number,Portuguese_Gloss
 247_flyinsect,FLY (insect),1504,FLY (INSECT),,mosca
 248_many,MANY,1198,MANY,,muitos
 249_woman,WOMAN,962,WOMAN,,mulher
+250_curassow,CURASSOW,315,CURASSOW,,mutum
 251_gnatpium,GNAT / PIUM,,,,mutum
 252_hand,HAND,1277,HAND,,mão
 253_swim,SWIM,1439,SWIM,,nadar
@@ -243,12 +246,12 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Number,Portuguese_Gloss
 258_new,NEW,1231,NEW,,novo
 259_cloud,CLOUD,1489,CLOUD,,nuvem
 260_buttocks,BUTTOCKS,834,BUTTOCKS,,nádegas
+261_weexcl,WE (EXCL),1130,WE (EXCLUSIVE),,nós
 262_weincl,WE (INCL),1131,WE (INCLUSIVE),,nós
 263_lookat,LOOK AT,1819,LOOK,,olhar
 264_eye,EYE,1248,EYE,,olho
 265_yesterday,YESTERDAY,1174,YESTERDAY,,ontem
 266_jaguar,JAGUAR,1250,JAGUAR,,onça
-267_what,WHAT ,1236,WHAT,,oquê
 268_ear,EAR,1247,EAR,,orelha
 269_bone,BONE,1394,BONE,,osso
 270_hedgehog,HEDGEHOG,1797,HEDGEHOG,,ouriço / porco-espinho
@@ -294,9 +297,9 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Number,Portuguese_Gloss
 310_coati,COATI,2389,COATI (COATIMUNDI),,quati
 311_four,FOUR,1500,FOUR,,quatro
 312_break,BREAK,3020,BREAK (BREAKING),,quebrar / romper
+313_burnintr,BURN (intr),2102,BURN,,queimar
 314_burntr,BURN (tr),141,BURN (SOMETHING),,queimar
 315_peccarywhitelipped,PECCARY (white-lipped),436,WHITE-LIPPED PECCARY,,queixada
-316_who,WHO ,1235,WHO,,quem
 317_hot,HOT,1286,HOT,,quente
 318_want,WANT,1784,WANT,,querer
 319_tail,TAIL,1220,TAIL,,rabo / cauda
@@ -347,15 +350,15 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Number,Portuguese_Gloss
 368_thunder,THUNDER,1150,THUNDER,,trovão
 369_three,THREE,492,THREE,,três
 370_toucan,TOUCAN,308,TOUCAN,,tucano
-371_tucumapalmawara,TUCUMA_PALM / AWARA,2439,TUCUMA PALM,,tucumã
+371_tucumapalm,TUCUMA_PALM,2439,TUCUMA PALM,,tucumã
 372_one,ONE,1493,ONE,,um
+373_belly,BELLY,1251,BELLY,,umbigo
 374_bellybutton,BELLYBUTTON,3715,BELLYBUTTON,,umbigo
 375_nailclaw,NAIL / CLAW,2128,CLAW OR NAIL,,unha / garra
 376_urinate,URINATE,,,,urinar
 377_vulture,VULTURE,1185,VULTURE,,urubú
 378_anatto,ANATTO,,,,urucu
 379_fireflyglowworm,FIREFLY / GLOWWORM,206,FIREFLY,,vagalume / pirilampo
-380_diggingstick,DIGGING STICK,339,DIGGING STICK,,vara de escavação
 381_sweep,SWEEP,230,SWEEP,,varrer
 382_deer,DEER,1936,DEER,,veado
 383_vein,VEIN,1924,VEIN,,veia
@@ -366,6 +369,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Number,Portuguese_Gloss
 388_wormearth,WORM (EARTH),2350,EARTHWORM,,verme / minhoca
 389_red,RED,156,RED,,vermelho
 390_wasp,WASP,1517,WASP,,vespa
+392_avenge,AVENGE,495,REVENGE,,vingar(-se)
 393_come,COME,1446,COME,,vir
 394_returncomeback,RETURN / COME BACK,581,COME BACK,,virar / voltar
 395_fly,FLY,1441,FLY (MOVE THROUGH AIR),,voar

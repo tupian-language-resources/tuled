@@ -5,7 +5,7 @@
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
     "dc:identifier": "http://www.tuled.org",
     "dc:isVersionOf": null,
-    "dc:license": "CCBY",
+    "dc:license": "https://creativecommons.org/licenses/by/4.0/",
     "dc:related": null,
     "dc:source": "sources.bib",
     "dc:title": "CLDF dataset derived from Gerardi and Reichert's \"TuLeD: Tup\u00edan lexical database\" from 2020",
@@ -15,7 +15,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/LanguageStructure/TuLeD_Data",
-            "dc:created": "0ab4b9f"
+            "dc:created": "c24e506"
         },
         {
             "rdf:type": "prov:Entity",
@@ -27,13 +27,13 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Concepticon",
             "rdf:about": "https://github.com/concepticon/concepticon-data",
-            "dc:created": "v2.4.0-rc.1-24-g89e27e8"
+            "dc:created": "v2.4.0-rc.1-105-g9828633"
         },
         {
             "rdf:type": "prov:Entity",
             "dc:title": "CLTS",
             "rdf:about": "https://github.com/cldf-clts/clts/",
-            "dc:created": "v1.4"
+            "dc:created": "v1.4-3-g99e4218"
         }
     ],
     "prov:wasGeneratedBy": [
@@ -54,7 +54,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:extent": 18908,
+            "dc:extent": 5733,
             "tableSchema": {
                 "columns": [
                     {
@@ -92,9 +92,12 @@
                         "name": "Form"
                     },
                     {
-                        "datatype": "string",
+                        "datatype": {
+                            "base": "string",
+                            "format": "([\\S]+)( [\\S]+)*"
+                        },
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#segments",
-                        "separator": " ",
+                        "separator": " + ",
                         "name": "Segments"
                     },
                     {
@@ -157,7 +160,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#LanguageTable",
-            "dc:extent": 74,
+            "dc:extent": 21,
             "tableSchema": {
                 "columns": [
                     {
@@ -231,7 +234,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ParameterTable",
-            "dc:extent": 375,
+            "dc:extent": 379,
             "tableSchema": {
                 "columns": [
                     {
@@ -271,7 +274,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#CognateTable",
-            "dc:extent": 18908,
+            "dc:extent": 6016,
             "tableSchema": {
                 "columns": [
                     {
@@ -322,6 +325,10 @@
                     {
                         "datatype": "string",
                         "name": "Alignment_Source"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Segment_Slice"
                     }
                 ],
                 "foreignKeys": [
