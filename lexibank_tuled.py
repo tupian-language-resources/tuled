@@ -141,4 +141,4 @@ class Dataset(BaseDataset):
         with open(self.dir.joinpath('errors.md'), 'w') as f:
             f.write('# Error Analysis for TULED\n')
             for error in sorted(errors):
-                f.write('* '+error)
+                f.write('* '+error+'\n')
