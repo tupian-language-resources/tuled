@@ -45,7 +45,8 @@ class Dataset(BaseDataset):
             )
 
     def cmd_makecldf(self, args):
-
+        from pybtex import errors
+        errors.strict = False
         args.writer.add_sources()
         args.writer["FormTable", "Segments"].separator = " + "
         args.writer["FormTable", "Segments"].datatype = Datatype.fromvalue(
