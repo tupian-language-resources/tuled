@@ -9,31 +9,31 @@
     "dc:related": null,
     "dc:source": "sources.bib",
     "dc:title": "CLDF dataset derived from Gerardi and Reichert's \"TuLeD: Tup\u00edan lexical database\" from 2020",
-    "dcat:accessURL": "https://github.com/xrotwang/TuLeD_Data",
+    "dcat:accessURL": "https://github.com/LanguageStructure/TuLeD_Data",
     "prov:wasDerivedFrom": [
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
-            "rdf:about": "https://github.com/xrotwang/TuLeD_Data",
-            "dc:created": "1e8467d"
+            "rdf:about": "https://github.com/LanguageStructure/TuLeD_Data",
+            "dc:created": "3533f1c"
         },
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Glottolog",
             "rdf:about": "https://github.com/glottolog/glottolog",
-            "dc:created": "v4.3-3-g5fd5ffb"
+            "dc:created": "v4.3"
         },
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Concepticon",
             "rdf:about": "https://github.com/concepticon/concepticon-data",
-            "dc:created": "v2.4.0-rc.1-113-gcc1eae0"
+            "dc:created": "v2.3.0"
         },
         {
             "rdf:type": "prov:Entity",
             "dc:title": "CLTS",
             "rdf:about": "https://github.com/cldf-clts/clts",
-            "dc:created": "v1.4-1-g7bb16a7"
+            "dc:created": "v1.4"
         }
     ],
     "prov:wasGeneratedBy": [
@@ -54,7 +54,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:extent": 20819,
+            "dc:extent": 20823,
             "tableSchema": {
                 "columns": [
                     {
@@ -274,7 +274,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#CognateTable",
-            "dc:extent": 22539,
+            "dc:extent": 22543,
             "tableSchema": {
                 "columns": [
                     {

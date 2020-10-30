@@ -19,18 +19,18 @@ Available online at http://www.tuled.org
 
 - **Varieties:** 76
 - **Concepts:** 408
-- **Lexemes:** 20,819
+- **Lexemes:** 20,823
 - **Sources:** 260
 - **Synonymy:** 1.06
-- **Cognacy:** 22,539 cognates in 3,511 cognate sets (1,500 singletons)
+- **Cognacy:** 22,543 cognates in 3,513 cognate sets (1,502 singletons)
 - **Cognate Diversity:** 0.15
 - **Invalid lexemes:** 0
-- **Tokens:** 95,744
-- **Segments:** 374 (0 BIPA errors, 0 CTLS sound class errors, 373 CLTS modified)
-- **Inventory size (avg):** 60.17
+- **Tokens:** 95,742
+- **Segments:** 364 (0 BIPA errors, 0 CTLS sound class errors, 363 CLTS modified)
+- **Inventory size (avg):** 59.79
 
 ## Possible Improvements:
 
 
 
-- Entries missing sources: 404/20819 (1.94%)
+- Entries missing sources: 404/20823 (1.94%)
