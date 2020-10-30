@@ -15,7 +15,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/LanguageStructure/TuLeD_Data",
-            "dc:created": "34163a7"
+            "dc:created": "d3b8a9c"
         },
         {
             "rdf:type": "prov:Entity",
@@ -126,6 +126,11 @@
                     {
                         "datatype": "string",
                         "name": "Profile"
+                    },
+                    {
+                        "datatype": "string",
+                        "separator": "+",
+                        "name": "Morphemes"
                     }
                 ],
                 "foreignKeys": [

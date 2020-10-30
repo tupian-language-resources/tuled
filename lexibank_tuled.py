@@ -1,7 +1,7 @@
 import attr
 from pathlib import Path
 
-from pylexibank import Concept, Language, Cognate
+from pylexibank import Concept, Language, Cognate, Lexeme
 from pylexibank.dataset import Dataset as BaseDataset
 from pylexibank.util import progressbar
 from csvw import Datatype
@@ -26,9 +26,15 @@ class CustomLanguage(Language):
     SubGroup = attr.ib(default=None)
     Source = attr.ib(default=None)
 
+
 @attr.s
 class CustomCognate(Cognate):
     Segment_Slice = attr.ib(default=None)
+
+
+@attr.s
+class Form(Lexeme):
+    Morphemes = attr.ib(default=None)
 
 
 class Dataset(BaseDataset):
@@ -37,6 +43,7 @@ class Dataset(BaseDataset):
     concept_class = CustomConcept
     language_class = CustomLanguage
     cognate_class = CustomCognate
+    lexeme_class = Form
 
     def cmd_download(self, args):
         print('download')
@@ -53,6 +60,7 @@ class Dataset(BaseDataset):
         args.writer["FormTable", "Segments"].datatype = Datatype.fromvalue(
             {"base": "string", "format": "([\\S]+)( [\\S]+)*"}
             )
+        args.writer["FormTable", "Morphemes"].separator = "+"
 
         concepts = {}
         errors, blacklist = set(), set()
@@ -143,6 +151,7 @@ class Dataset(BaseDataset):
                         Value=wl[idx, 'value'] or ''.join(wl[idx, 'tokens']),
                         Form=wl[idx, 'form'] or ''.join(wl[idx, 'tokens']),
                         Segments=wl[idx, 'tokens'],
+                        Morphemes=wl[idx, 'morphemes'],
                         Source=sources[wl[idx, 'doculect']],
                     )
                     for gloss_index, cogid in enumerate(wl[idx, 'cogids']):
