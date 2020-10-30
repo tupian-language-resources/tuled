@@ -15,6 +15,8 @@ from clldutils.misc import slug
 class CustomConcept(Concept):
     Number = attr.ib(default=None)
     Portuguese_Gloss = attr.ib(default=None)
+    EOL_ID = attr.ib(default=None)
+    Semantic_Field = attr.ib(default=None)
 
 
 @attr.s
@@ -35,7 +37,6 @@ class Dataset(BaseDataset):
     concept_class = CustomConcept
     language_class = CustomLanguage
     cognate_class = CustomCognate
-    
 
     def cmd_download(self, args):
         print('download')
@@ -64,6 +65,8 @@ class Dataset(BaseDataset):
                         Portuguese_Gloss=concept['PORTUGUESE'],
                         Concepticon_ID=concept['CONCEPTICON_ID'],
                         #Concepticon_Gloss=concept['CONCEPTICON_GLOSS']
+                    EOL_ID=concept['EOL'],
+                    Semantic_Field=concept['SEMANTIC_FIELD'],
                         )
                 concepts[concept['ENGLISH']] = idx
             except ValueError:

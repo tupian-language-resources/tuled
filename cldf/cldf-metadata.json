@@ -15,7 +15,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/LanguageStructure/TuLeD_Data",
-            "dc:created": "d605620"
+            "dc:created": "34163a7"
         },
         {
             "rdf:type": "prov:Entity",
@@ -264,6 +264,14 @@
                     {
                         "datatype": "string",
                         "name": "Portuguese_Gloss"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "EOL_ID"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Semantic_Field"
                     }
                 ],
                 "primaryKey": [
