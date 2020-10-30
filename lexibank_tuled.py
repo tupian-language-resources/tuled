@@ -73,6 +73,7 @@ class Dataset(BaseDataset):
                     concept['ENGLISH'],
                     concept['CONCEPTICON_ID']))
         languages = {}
+        sources = {}
         for row in self.languages:
             if not -180 < float(row['Latitude']) < 180:
                 errors.add('LATITUDE {0}'.format(row['Name']))
@@ -86,9 +87,10 @@ class Dataset(BaseDataset):
                             SubGroup=row['SubGroup'],
                             Latitude=row['Longitude'],
                             Longitude=row['Latitude'],
-                            Glottocode=row['Glottocode'],
+                            Glottocode=row['Glottocode'] if row['Glottocode'] != '???' else None,
                             )
                     languages[row['Name']] = row['ID']
+                    sources[row['ID']] = row['Sources'].split(',')
                 except ValueError:
                     errors.add('LANGUAGE ID {0}'.format(
                         row['ID'],
@@ -133,12 +135,13 @@ class Dataset(BaseDataset):
             else:
                 if ''.join(wl[idx, 'tokens']).strip() and idx not in blacklist:
                     lex = args.writer.add_form_with_segments(
-                            Language_ID=wl[idx, 'doculect'],
-                            Parameter_ID=concepts[wl[idx, 'concept']],
-                            Value=wl[idx, 'value'] or ''.join(wl[idx, 'tokens']),
-                            Form=wl[idx, 'form'] or ''.join(wl[idx, 'tokens']),
-                            Segments=wl[idx, 'tokens']
-                            )
+                        Language_ID=wl[idx, 'doculect'],
+                        Parameter_ID=concepts[wl[idx, 'concept']],
+                        Value=wl[idx, 'value'] or ''.join(wl[idx, 'tokens']),
+                        Form=wl[idx, 'form'] or ''.join(wl[idx, 'tokens']),
+                        Segments=wl[idx, 'tokens'],
+                        Source=sources[wl[idx, 'doculect']],
+                    )
                     for gloss_index, cogid in enumerate(wl[idx, 'cogids']):
                         alignment = lingpy.basictypes.lists(
                                 wl[idx, "alignment"]).n[gloss_index]

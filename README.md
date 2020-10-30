@@ -11,16 +11,16 @@ Available online at http://www.tuled.org
 ## Statistics
 
 
-![Glottolog: 95%](https://img.shields.io/badge/Glottolog-95%25-green.svg "Glottolog: 95%")
+![Glottolog: 94%](https://img.shields.io/badge/Glottolog-94%25-green.svg "Glottolog: 94%")
 ![Concepticon: 95%](https://img.shields.io/badge/Concepticon-95%25-green.svg "Concepticon: 95%")
-![Source: 0%](https://img.shields.io/badge/Source-0%25-red.svg "Source: 0%")
+![Source: 98%](https://img.shields.io/badge/Source-98%25-green.svg "Source: 98%")
 ![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
 ![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
 - **Varieties:** 76
 - **Concepts:** 408
 - **Lexemes:** 20,819
-- **Sources:** 0
+- **Sources:** 260
 - **Synonymy:** 1.06
 - **Cognacy:** 22,539 cognates in 3,511 cognate sets (1,500 singletons)
 - **Cognate Diversity:** 0.15
@@ -33,14 +33,4 @@ Available online at http://www.tuled.org
 
 
 
-- Entries missing sources: 20819/20819 (100.00%)
-
-
-##Contributors
-Name | GitHub user | Role
---- | --- | ---
-Ferraz Gerardi, Fabrício | @LanguageStructure | Author
-Reichert, Stanislav | @StasReichert | Author
-Aragon, Carolina | @carolinaaragon  | Author
-Johann-Mattis List | @lingulist  | Author
-Wientzek, Tim | @TGH-2020 | Author
+- Entries missing sources: 404/20819 (1.94%)
