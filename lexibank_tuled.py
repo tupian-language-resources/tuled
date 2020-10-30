@@ -35,6 +35,8 @@ class CustomCognate(Cognate):
 @attr.s
 class Form(Lexeme):
     Morphemes = attr.ib(default=None)
+    SimpleCognate = attr.ib(default=None)
+    PartialCognates = attr.ib(default=None)
 
 
 class Dataset(BaseDataset):
@@ -61,6 +63,7 @@ class Dataset(BaseDataset):
             {"base": "string", "format": "([\\S]+)( [\\S]+)*"}
             )
         args.writer["FormTable", "Morphemes"].separator = "+"
+        args.writer["FormTable", "PartialCognates"].separator = " "
 
         concepts = {}
         errors, blacklist = set(), set()
@@ -152,6 +155,8 @@ class Dataset(BaseDataset):
                         Form=wl[idx, 'form'] or ''.join(wl[idx, 'tokens']),
                         Segments=wl[idx, 'tokens'],
                         Morphemes=wl[idx, 'morphemes'],
+                        SimpleCognate=wl[idx, 'cogid'],
+                        PartialCognates=wl[idx, 'cogids'],
                         Source=sources[wl[idx, 'doculect']],
                     )
                     for gloss_index, cogid in enumerate(wl[idx, 'cogids']):
