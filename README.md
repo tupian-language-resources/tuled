@@ -33,10 +33,14 @@ Available online at http://www.tuled.org
 
 - Entries missing sources: 404/20819 (1.94%)
 
+## Contributors
+
 Name | GitHub user | Description | Role
 --- | --- | --- | ---
-Fabrício Ferraz Gerardi | @LanguageStructure | Data Collector | Author
+Fabrício Ferraz Gerardi | @LanguageStructure | Data Collector, cognacy assignment, notes | Author
 Stanislav Reichert |@StasReichert | Data Collector | Author
+Carolina Aragon | @carolinaaragon | Data Collector | Author
 Johann-Mattis List | @lingulist | CLDF conversion | Other
 Tiago Tresoldi | @tresoldi | Minor curation, concept mapping refinement | Other
 Robert Forkel | @xrotwang | CLDF conversion | Other
+Tim Wientzek | @TGH-2020 | Data Collector | Author
