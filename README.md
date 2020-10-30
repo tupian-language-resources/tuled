@@ -37,7 +37,7 @@ Available online at http://www.tuled.org
 
 Name | GitHub user | Description | Role
 --- | --- | --- | ---
-Fabrício Ferraz Gerardi | @LanguageStructure | Data Collector, cognacy assignment, notes | Author
+Fabrício Ferraz Gerardi | @LanguageStructure | Data Collector, cognacy assignment, co-lexifications, notes | Author
 Stanislav Reichert |@StasReichert | Data Collector | Author
 Carolina Aragon | @carolinaaragon | Data Collector | Author
 Johann-Mattis List | @lingulist | CLDF conversion | Other
