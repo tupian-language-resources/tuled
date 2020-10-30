@@ -31,6 +31,12 @@ Available online at http://www.tuled.org
 
 ## Possible Improvements:
 
-
-
 - Entries missing sources: 404/20819 (1.94%)
+
+Name | GitHub user | Description | Role
+--- | --- | --- | ---
+Fabrício Ferraz Gerardi | @LanguageStructure | Data Collector | Author
+Stanislav Reichert |@StasReichert | Data Collector | Author
+Johann-Mattis List | @lingulist | CLDF conversion | Other
+Tiago Tresoldi | @tresoldi | Minor curation, concept mapping refinement | Other
+Robert Forkel | @xrotwang | CLDF conversion | Other
