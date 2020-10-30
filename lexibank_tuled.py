@@ -86,20 +86,20 @@ class Dataset(BaseDataset):
         languages = {}
         sources = {}
         for row in self.languages:
-            if not -180 < float(row['Latitude']) < 180:
+            if not -90 < float(row['Latitude']) < 90:
                 errors.add('LATITUDE {0}'.format(row['Name']))
             elif not -180 < float(row['Longitude']) < 180:
                 errors.add('LONGITUDE {0}'.format(row['Name']))
             else:
                 try:
                     args.writer.add_language(
-                            ID=row['ID'],
-                            Name=row['Name'],
-                            SubGroup=row['SubGroup'],
-                            Latitude=row['Longitude'],
-                            Longitude=row['Latitude'],
-                            Glottocode=row['Glottocode'] if row['Glottocode'] != '???' else None,
-                            )
+                        ID=row['ID'],
+                        Name=row['Name'],
+                        SubGroup=row['SubGroup'],
+                        Latitude=row['Latitude'],
+                        Longitude=row['Longitude'],
+                        Glottocode=row['Glottocode'] if row['Glottocode'] != '???' else None,
+                    )
                     languages[row['Name']] = row['ID']
                     sources[row['ID']] = row['Sources'].split(',')
                 except ValueError:

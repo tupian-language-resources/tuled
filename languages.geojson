@@ -1,0 +1,1401 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.9716,
+          -12.8322
+        ]
+      },
+      "properties": {
+        "Name": "Akuntsu",
+        "Glottocode": "akun1241",
+        "Glottolog_Name": "Akuntsu",
+        "ISO639P3code": "aqz",
+        "Macroarea": "South America",
+        "Family": "Tupian",
+        "SubGroup": "Tupar\u00ed"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.66,
+          -3.8
+        ]
+      },
+      "properties": {
+        "Name": "Amanaye",
+        "Glottocode": "aman1266",
+        "Glottolog_Name": "Amanay\u00e9",
+        "ISO639P3code": "ama",
+        "Macroarea": "South America",
+        "Family": "Tupian",
+        "SubGroup": "Tupi-Guarani"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.3064,
+          -9.04023
+        ]
+      },
+      "properties": {
+        "Name": "Amondawa",
+        "Glottocode": "amun1246",
+        "Glottolog_Name": "Amundava",
+        "ISO639P3code": "adw",
+        "Macroarea": "South America",
+        "Family": "Tupian",
+        "SubGroup": "Tupi-Guarani"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.303,
+          -2.71119
+        ]
+      },
+      "properties": {
+        "Name": "Anambe",
+        "Glottocode": "anam1249",
+        "Glottolog_Name": "Anamb\u00e9",
+        "ISO639P3code": "aan",
+        "Macroarea": "South America",
+        "Family": "Tupian",
+        "SubGroup": "Tupi-Guarani"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.5,
+          -4.5
+        ]
+      },
+      "properties": {
+        "Name": "Anambe_of_Ehrenreich",
+        "Glottocode": "anam1251",
+        "Glottolog_Name": "Anambe of Ehrenreich",
+        "Macroarea": "South America",
+        "Family": "Tupian",
+        "SubGroup": "Tupi-Guarani"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.4528,
+          -23.7325
+        ]
+      },
+      "properties": {
+        "Name": "Apapokuva_of_Nimuendaju",
+        "SubGroup": "Tupi-Guarani"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.91,
+          -7.84711
+        ]
+      },
+      "properties": {
+        "Name": "Apiaka",
+        "Glottocode": "apia1248",
+        "Glottolog_Name": "Apiak\u00e1",
+        "ISO639P3code": "api",
+        "Macroarea": "South America",
+        "Family": "Tupian",
+        "SubGroup": "Tupi-Guarani"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.5001,
+          -4.90246
+        ]
+      },
+      "properties": {
+        "Name": "Arawete",
+        "Glottocode": "araw1273",
+        "Glottolog_Name": "Arawet\u00e9",
+        "ISO639P3code": "awt",
+        "Macroarea": "South America",
+        "Family": "Tupian",
+        "SubGroup": "Tupi-Guarani"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.74,
+          -8.92
+        ]
+      },
+      "properties": {
+        "Name": "Arikem",
+        "Glottocode": "arik1264",
+        "Glottolog_Name": "Arikem",
+        "ISO639P3code": "ait",
+        "Macroarea": "South America",
+        "Family": "Tupian",
+        "SubGroup": "Arikem"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.44,
+          -12.12
+        ]
+      },
+      "properties": {
+        "Name": "Arua",
+        "Glottocode": "arua1261",
+        "Glottolog_Name": "Aru\u00e1 (Rondonia State)",
+        "ISO639P3code": "arx",
+        "Macroarea": "South America",
+        "Family": "Tupian",
+        "SubGroup": "Mond\u00e9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.5,
+          -12.5
+        ]
+      },
+      "properties": {
+        "Name": "Aruashi",
+        "Glottocode": "arua1262",
+        "Glottolog_Name": "Aru\u00e1shi",
+        "Macroarea": "South America",
+        "Family": "Tupian",
+        "SubGroup": "Mond\u00e9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.8991,
+          -3.59359
+        ]
+      },
+      "properties": {
+        "Name": "Asurini_do_Tocantins",
+        "Glottocode": "toca1235",
+        "Glottolog_Name": "Tocantins Asurini",
+        "ISO639P3code": "asu",
+        "Macroarea": "South America",
+        "Family": "Tupian",
+        "SubGroup": "Tupi-Guarani"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.321,
+          -4.13463
+        ]
+      },
+      "properties": {
+        "Name": "Asurini_do_Xingu",
+        "Glottocode": "xing1248",
+        "Glottolog_Name": "Xing\u00fa Asurin\u00ed",
+        "ISO639P3code": "asn",
+        "Macroarea": "South America",
+        "Family": "Tupian",
+        "SubGroup": "Tupi-Guarani"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.1336,
+          -13.6081
+        ]
+      },
+      "properties": {
+        "Name": "Ava_Canoeiro",
+        "Glottocode": "avac1239",
+        "Glottolog_Name": "Av\u00e1-Canoeiro",
+        "ISO639P3code": "avv",
+        "Macroarea": "South America",
+        "Family": "Tupian",
+        "SubGroup": "Tupi-Guarani"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.391944,
+          -12.381944
+        ]
+      },
+      "properties": {
+        "Name": "Aweti",
+        "Glottocode": "awet1244",
+        "Glottolog_Name": "Awet\u00ed",
+        "ISO639P3code": "awe",
+        "Macroarea": "South America",
+        "Family": "Tupian",
+        "SubGroup": "Aweti"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.37,
+          -20.42
+        ]
+      },
+      "properties": {
+        "Name": "Chiriguano",
+        "Glottocode": "east2555",
+        "Glottolog_Name": "Eastern Bolivian Guaran\u00ed",
+        "ISO639P3code": "gui",
+        "Macroarea": "South America",
+        "Family": "Tupian",
+        "SubGroup": "Tupi-Guarani"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.05,
+          -25.65
+        ]
+      },
+      "properties": {
+        "Name": "Chiripa_Nandeva_Ava_Guarani",
+        "Glottocode": "chir1286",
+        "Glottolog_Name": "Chirip\u00e1",
+        "ISO639P3code": "nhd",
+        "Macroarea": "South America",
+        "Family": "Tupian",
+        "SubGroup": "Tupi-Guarani"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.8312,
+          -10.5879
+        ]
+      },
+      "properties": {
+        "Name": "Cinta_Larga",
+        "Glottocode": "cint1239",
+        "Glottolog_Name": "Cinta Larga",
+        "ISO639P3code": "cin",
+        "Macroarea": "South America",
+        "Family": "Tupian",
+        "SubGroup": "Mond\u00e9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0,
+          -4.5
+        ]
+      },
+      "properties": {
+        "Name": "Cocama_Cocamilla",
+        "Glottocode": "coca1259",
+        "Glottolog_Name": "Cocama-Cocamilla",
+        "ISO639P3code": "cod",
+        "Macroarea": "South America",
+        "Family": "Tupian",
+        "SubGroup": "nonTup\u00edan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.3699,
+          3.23694
+        ]
+      },
+      "properties": {
+        "Name": "Emerillon_Teko",
+        "Glottocode": "emer1243",
+        "Glottolog_Name": "Teko",
+        "ISO639P3code": "eme",
+        "Macroarea": "South America",
+        "Family": "Tupian",
+        "SubGroup": "Tupi-Guarani"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.6752,
+          -10.7235
+        ]
+      },
+      "properties": {
+        "Name": "Gaviao_Ikoloehj",
+        "Glottocode": "gavi1246",
+        "Glottolog_Name": "Gavi\u00e3o Do Jiparan\u00e1",
+        "ISO639P3code": "gvo",
+        "Macroarea": "South America",
+        "Family": "Tupian",
+        "SubGroup": "Mond\u00e9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.3683,
+          -3.93574
+        ]
+      },
+      "properties": {
+        "Name": "Guaja",
+        "Glottocode": "guaj1256",
+        "Glottolog_Name": "Guaj\u00e1",
+        "ISO639P3code": "gvj",
+        "Macroarea": "South America",
+        "Family": "Tupian",
+        "SubGroup": "Tupi-Guarani"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.7081,
+          -4.69461
+        ]
+      },
+      "properties": {
+        "Name": "Guajajara",
+        "Glottocode": "guaj1255",
+        "Glottolog_Name": "Guajaj\u00e1ra",
+        "ISO639P3code": "gub",
+        "Macroarea": "South America",
+        "Family": "Tupian",
+        "SubGroup": "Tupi-Guarani"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.08816,
+          -25.60551
+        ]
+      },
+      "properties": {
+        "Name": "Guarani_Paraguay",
+        "Glottocode": "para1311",
+        "Glottolog_Name": "Paraguayan Guaran\u00ed",
+        "ISO639P3code": "gug",
+        "Macroarea": "South America",
+        "Family": "Tupian",
+        "SubGroup": "Tupi-Guarani"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.6934,
+          -15.8247
+        ]
+      },
+      "properties": {
+        "Name": "Guarayo",
+        "Glottocode": "guar1292",
+        "Glottolog_Name": "Guarayu",
+        "ISO639P3code": "gyr",
+        "Macroarea": "South America",
+        "Family": "Tupian",
+        "SubGroup": "Tupi-Guarani"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.4697,
+          -25.5865
+        ]
+      },
+      "properties": {
+        "Name": "Guayaki_Ache",
+        "Glottocode": "ache1246",
+        "Glottolog_Name": "Ach\u00e9",
+        "ISO639P3code": "guq",
+        "Macroarea": "South America",
+        "Family": "Tupian",
+        "SubGroup": "Tupi-Guarani"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.27,
+          -8.04
+        ]
+      },
+      "properties": {
+        "Name": "Jiahoi",
+        "Glottocode": "diah1239",
+        "Glottolog_Name": "Diah\u00f3i",
+        "Macroarea": "South America",
+        "Family": "Tupian",
+        "SubGroup": "Tupi-Guarani"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.21,
+          -15.75
+        ]
+      },
+      "properties": {
+        "Name": "Jora",
+        "Glottocode": "jora1240",
+        "Glottolog_Name": "Jor\u00e1",
+        "ISO639P3code": "jor",
+        "Macroarea": "South America",
+        "Family": "Tupian",
+        "SubGroup": "Tupi-Guarani"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.1,
+          -7.28
+        ]
+      },
+      "properties": {
+        "Name": "Juma",
+        "Glottocode": "juma1249",
+        "Glottolog_Name": "J\u00fama",
+        "ISO639P3code": "jua",
+        "Macroarea": "South America",
+        "Family": "Tupian",
+        "SubGroup": "Tupi-Guarani"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.3472,
+          -10.9354
+        ]
+      },
+      "properties": {
+        "Name": "Juruna_Yudja",
+        "Glottocode": "juru1256",
+        "Glottolog_Name": "Jur\u00fana",
+        "ISO639P3code": "jur",
+        "Macroarea": "South America",
+        "Family": "Tupian",
+        "SubGroup": "Juruna"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.2204,
+          -2.46455
+        ]
+      },
+      "properties": {
+        "Name": "Ka_apor_Urubu",
+        "Glottocode": "urub1250",
+        "Glottolog_Name": "Urub\u00fa-Kaapor",
+        "ISO639P3code": "urb",
+        "Macroarea": "South America",
+        "Family": "Tupian",
+        "SubGroup": "Tupi-Guarani"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.519885,
+          -6.333723
+        ]
+      },
+      "properties": {
+        "Name": "Kabanae",
+        "SubGroup": "Mond\u00e9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.6815,
+          -24.589
+        ]
+      },
+      "properties": {
+        "Name": "Kaiowa",
+        "Glottocode": "kaiw1246",
+        "Glottolog_Name": "Kaiw\u00e1",
+        "ISO639P3code": "kgk",
+        "Macroarea": "South America",
+        "Family": "Tupian",
+        "SubGroup": "Tupi-Guarani"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.4651,
+          -12.2661
+        ]
+      },
+      "properties": {
+        "Name": "Kamajura",
+        "Glottocode": "kama1373",
+        "Glottolog_Name": "Kamayur\u00e1",
+        "ISO639P3code": "kay",
+        "Macroarea": "South America",
+        "Family": "Tupian",
+        "SubGroup": "Tupi-Guarani"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.193643,
+          -12.790872
+        ]
+      },
+      "properties": {
+        "Name": "Kampe",
+        "SubGroup": "Tupar\u00ed"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.1522,
+          -9.37937
+        ]
+      },
+      "properties": {
+        "Name": "Karitiana",
+        "Glottocode": "kari1311",
+        "Glottolog_Name": "Kariti\u00e2na",
+        "ISO639P3code": "ktn",
+        "Macroarea": "South America",
+        "Family": "Tupian",
+        "SubGroup": "Arikem"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.5691,
+          -10.3342
+        ]
+      },
+      "properties": {
+        "Name": "Karo_Arara",
+        "Glottocode": "karo1305",
+        "Glottolog_Name": "Karo (Brazil)",
+        "ISO639P3code": "arr",
+        "Macroarea": "South America",
+        "Family": "Tupian",
+        "SubGroup": "Ramarana-Purubora"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.5479,
+          -11.2747
+        ]
+      },
+      "properties": {
+        "Name": "Kayabi",
+        "Glottocode": "kaya1329",
+        "Glottolog_Name": "Kayab\u00ed",
+        "ISO639P3code": "kyz",
+        "Macroarea": "South America",
+        "Family": "Tupian",
+        "SubGroup": "Tupi-Guarani"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.25,
+          -11.66
+        ]
+      },
+      "properties": {
+        "Name": "Kepkiriwat",
+        "Glottocode": "kepk1241",
+        "Glottolog_Name": "Kepkiriw\u00e1t",
+        "ISO639P3code": "kpn",
+        "Macroarea": "South America",
+        "Family": "Tupian",
+        "SubGroup": "Tupar\u00ed"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.2303,
+          -3.09561
+        ]
+      },
+      "properties": {
+        "Name": "Kuruaya",
+        "Glottocode": "kuru1309",
+        "Glottolog_Name": "Kuru\u00e1ya",
+        "ISO639P3code": "kyr",
+        "Macroarea": "South America",
+        "Family": "Tupian",
+        "SubGroup": "Munduruku"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.38,
+          -23.95
+        ]
+      },
+      "properties": {
+        "Name": "Lingua_Geral_Paulista_Tupi_austral",
+        "Glottocode": "tupi1274",
+        "Glottolog_Name": "Lingua Geral Paulista",
+        "ISO639P3code": "tpw",
+        "Macroarea": "South America",
+        "Family": "Tupian",
+        "SubGroup": "Tupi-Guarani"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.3201,
+          -11.8701
+        ]
+      },
+      "properties": {
+        "Name": "Makurap",
+        "Glottocode": "maku1278",
+        "Glottolog_Name": "Makur\u00e1p",
+        "ISO639P3code": "mpu",
+        "Macroarea": "South America",
+        "Family": "Tupian",
+        "SubGroup": "Tupar\u00ed"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.48,
+          -6.0372
+        ]
+      },
+      "properties": {
+        "Name": "Matanau",
+        "SubGroup": "Mond\u00e9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.711,
+          -26.0188
+        ]
+      },
+      "properties": {
+        "Name": "Mbya",
+        "Glottocode": "mbya1239",
+        "Glottolog_Name": "Mby\u00e1 Guaran\u00ed",
+        "ISO639P3code": "gun",
+        "Macroarea": "South America",
+        "Family": "Tupian",
+        "SubGroup": "Tupi-Guarani"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.0927,
+          -13.054
+        ]
+      },
+      "properties": {
+        "Name": "Mekens_Sakurabiat",
+        "Glottocode": "saki1248",
+        "Glottolog_Name": "Mekens",
+        "ISO639P3code": "skf",
+        "Macroarea": "South America",
+        "Family": "Tupian",
+        "SubGroup": "Tupar\u00ed"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.25,
+          -12.0499
+        ]
+      },
+      "properties": {
+        "Name": "Monde",
+        "Glottocode": "sala1273",
+        "Glottolog_Name": "Salam\u00e3i",
+        "ISO639P3code": "mnd",
+        "Macroarea": "South America",
+        "Family": "Tupian",
+        "SubGroup": "Mond\u00e9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.691,
+          -8.41095
+        ]
+      },
+      "properties": {
+        "Name": "Munduruku",
+        "Glottocode": "mund1330",
+        "Glottolog_Name": "Munduruk\u00fa",
+        "ISO639P3code": "myu",
+        "Macroarea": "South America",
+        "Family": "Tupian",
+        "SubGroup": "Munduruku"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.9646,
+          1.04503
+        ]
+      },
+      "properties": {
+        "Name": "Nheengatu",
+        "Glottocode": "nhen1239",
+        "Glottolog_Name": "Nhengatu",
+        "ISO639P3code": "yrl",
+        "Macroarea": "South America",
+        "Family": "Tupian",
+        "SubGroup": "Tupi-Guarani"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.66003,
+          -10.452133
+        ]
+      },
+      "properties": {
+        "Name": "Ntogapid_Itogapuk",
+        "SubGroup": "Ramarana-Purubora"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.29,
+          -26.25
+        ]
+      },
+      "properties": {
+        "Name": "Old_Guarani",
+        "SubGroup": "Tupi-Guarani"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.17,
+          -3.53
+        ]
+      },
+      "properties": {
+        "Name": "Omagua",
+        "Glottocode": "omag1248",
+        "Glottolog_Name": "Omagua",
+        "ISO639P3code": "omg",
+        "Macroarea": "South America",
+        "Family": "Tupian",
+        "SubGroup": "nonTup\u00edan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.0621,
+          -4.64681
+        ]
+      },
+      "properties": {
+        "Name": "Parakana",
+        "Glottocode": "para1312",
+        "Glottolog_Name": "Parakan\u00e3",
+        "ISO639P3code": "pak",
+        "Macroarea": "South America",
+        "Family": "Tupian",
+        "SubGroup": "Tupi-Guarani"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.936,
+          -7.92626
+        ]
+      },
+      "properties": {
+        "Name": "Parintintin",
+        "Glottocode": "tenh1241",
+        "Glottolog_Name": "Tenharim-Parintintin-Diahoi",
+        "ISO639P3code": "pah",
+        "Macroarea": "South America",
+        "Family": "Tupian",
+        "SubGroup": "Tupi-Guarani"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.4358,
+          -11.4226
+        ]
+      },
+      "properties": {
+        "Name": "Purubora",
+        "Glottocode": "puru1264",
+        "Glottolog_Name": "Purubor\u00e1",
+        "ISO639P3code": "pur",
+        "Macroarea": "South America",
+        "Family": "Tupian",
+        "SubGroup": "Ramarana-Purubora"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.0,
+          -10.4
+        ]
+      },
+      "properties": {
+        "Name": "Ramarama",
+        "SubGroup": "Ramarana-Purubora"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.8749,
+          -3.63897
+        ]
+      },
+      "properties": {
+        "Name": "Satere_Mawe",
+        "Glottocode": "sate1243",
+        "Glottolog_Name": "Sater\u00e9-Maw\u00e9",
+        "ISO639P3code": "mav",
+        "Macroarea": "South America",
+        "Family": "Tupian",
+        "SubGroup": "Maw\u00e9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.9688,
+          -15.5298
+        ]
+      },
+      "properties": {
+        "Name": "Siriono",
+        "Glottocode": "siri1273",
+        "Glottolog_Name": "Sirion\u00f3",
+        "ISO639P3code": "srq",
+        "Macroarea": "South America",
+        "Family": "Tupian",
+        "SubGroup": "Tupi-Guarani"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.59,
+          -5.93
+        ]
+      },
+      "properties": {
+        "Name": "Surui_Aikewara",
+        "Glottocode": "suru1262",
+        "Glottolog_Name": "Suru\u00ed",
+        "ISO639P3code": "sru",
+        "Macroarea": "South America",
+        "Family": "Tupian",
+        "SubGroup": "Tupi-Guarani"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.2818,
+          -11.0989
+        ]
+      },
+      "properties": {
+        "Name": "Surui_Paiter",
+        "Glottocode": "suru1262",
+        "Glottolog_Name": "Suru\u00ed",
+        "ISO639P3code": "sru",
+        "Macroarea": "South America",
+        "Family": "Tupian",
+        "SubGroup": "Mond\u00e9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.684,
+          -21.4169
+        ]
+      },
+      "properties": {
+        "Name": "Tapiete",
+        "Glottocode": "tapi1253",
+        "Glottolog_Name": "Tapiet\u00e9",
+        "ISO639P3code": "tpj",
+        "Macroarea": "South America",
+        "Family": "Tupian",
+        "SubGroup": "Tupi-Guarani"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.5438,
+          -10.5373
+        ]
+      },
+      "properties": {
+        "Name": "Tapirape_Apyawa",
+        "Glottocode": "tapi1254",
+        "Glottolog_Name": "Tapirap\u00e9",
+        "ISO639P3code": "taf",
+        "Macroarea": "South America",
+        "Family": "Tupian",
+        "SubGroup": "Tupi-Guarani"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.2359,
+          -2.6123
+        ]
+      },
+      "properties": {
+        "Name": "Tembe",
+        "Glottocode": "temb1276",
+        "Glottolog_Name": "Tenetehara",
+        "ISO639P3code": "tqb",
+        "Macroarea": "South America",
+        "Family": "Tupian",
+        "SubGroup": "Tupi-Guarani"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.8972,
+          -8.32882
+        ]
+      },
+      "properties": {
+        "Name": "Tenharim",
+        "SubGroup": "Tupi-Guarani"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.2544,
+          -11.8884
+        ]
+      },
+      "properties": {
+        "Name": "Tupari",
+        "Glottocode": "tupa1250",
+        "Glottolog_Name": "Tupar\u00ed",
+        "ISO639P3code": "tpr",
+        "Macroarea": "South America",
+        "Family": "Tupian",
+        "SubGroup": "Tupar\u00ed"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.358125,
+          -12.523397
+        ]
+      },
+      "properties": {
+        "Name": "Tupi_do_Machado_Wirafed",
+        "SubGroup": "Tupi-Guarani"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -34.887,
+          -8.1055
+        ]
+      },
+      "properties": {
+        "Name": "Tupinamba",
+        "Glottocode": "tupi1273",
+        "Glottolog_Name": "Tupinamb\u00e1",
+        "ISO639P3code": "tpn",
+        "Macroarea": "South America",
+        "Family": "Tupian",
+        "SubGroup": "Tupi-Guarani"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.5,
+          -2.0
+        ]
+      },
+      "properties": {
+        "Name": "Turiwara",
+        "Glottocode": "turi1247",
+        "Glottolog_Name": "Turiw\u00e1ra",
+        "ISO639P3code": "twt",
+        "Macroarea": "South America",
+        "Family": "Tupian",
+        "SubGroup": "Tupi-Guarani"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.8086,
+          -10.9176
+        ]
+      },
+      "properties": {
+        "Name": "Urueuwauwau",
+        "Glottocode": "urue1240",
+        "Glottolog_Name": "Uru-Eu-Wau-Wau",
+        "ISO639P3code": "urz",
+        "Macroarea": "South America",
+        "Family": "Tupian",
+        "SubGroup": "Tupi-Guarani"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1903,
+          -12.8553
+        ]
+      },
+      "properties": {
+        "Name": "Warazu_Pauserna",
+        "Glottocode": "paus1244",
+        "Glottolog_Name": "War\u00e1zu",
+        "ISO639P3code": "psm",
+        "Macroarea": "South America",
+        "Family": "Tupian",
+        "SubGroup": "Tupi-Guarani"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.6887,
+          1.73817
+        ]
+      },
+      "properties": {
+        "Name": "Wayampi",
+        "Glottocode": "waya1270",
+        "Glottolog_Name": "Wayampi",
+        "ISO639P3code": "oym",
+        "Macroarea": "South America",
+        "Family": "Tupian",
+        "SubGroup": "Tupi-Guarani"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.3064,
+          -12.6945
+        ]
+      },
+      "properties": {
+        "Name": "Wayoro",
+        "Glottocode": "wayo1238",
+        "Glottolog_Name": "Wayor\u00f3",
+        "ISO639P3code": "wyr",
+        "Macroarea": "South America",
+        "Family": "Tupian",
+        "SubGroup": "Tupar\u00ed"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.2266,
+          -24.9408
+        ]
+      },
+      "properties": {
+        "Name": "Xeta",
+        "Glottocode": "xeta1241",
+        "Glottolog_Name": "Xet\u00e1",
+        "ISO639P3code": "xet",
+        "Macroarea": "South America",
+        "Family": "Tupian",
+        "SubGroup": "Tupi-Guarani"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.948,
+          -4.133
+        ]
+      },
+      "properties": {
+        "Name": "Xipaya",
+        "Glottocode": "xipa1240",
+        "Glottolog_Name": "Xipaya",
+        "ISO639P3code": "xiy",
+        "Macroarea": "South America",
+        "Family": "Tupian",
+        "SubGroup": "Juruna"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.9438,
+          -16.7875
+        ]
+      },
+      "properties": {
+        "Name": "Yuki",
+        "Glottocode": "yuqu1240",
+        "Glottolog_Name": "Yuqui",
+        "ISO639P3code": "yuq",
+        "Macroarea": "South America",
+        "Family": "Tupian",
+        "SubGroup": "Tupi-Guarani"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.51,
+          -1.77
+        ]
+      },
+      "properties": {
+        "Name": "Zo_e",
+        "Glottocode": "zoee1240",
+        "Glottolog_Name": "Zo'\u00e9",
+        "ISO639P3code": "pto",
+        "Macroarea": "South America",
+        "Family": "Tupian",
+        "SubGroup": "Tupi-Guarani"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.6752,
+          -10.7235
+        ]
+      },
+      "properties": {
+        "Name": "Zoro",
+        "Glottocode": "gavi1246",
+        "Glottolog_Name": "Gavi\u00e3o Do Jiparan\u00e1",
+        "ISO639P3code": "gvo",
+        "Macroarea": "South America",
+        "Family": "Tupian",
+        "SubGroup": "Mond\u00e9"
+      }
+    }
+  ]
+}
