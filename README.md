@@ -34,3 +34,13 @@ Available online at http://www.tuled.org
 
 
 - Entries missing sources: 20819/20819 (100.00%)
+
+
+##Contributors
+Name | GitHub user | Role
+--- | --- | ---
+Ferraz Gerardi, Fabrício | @LanguageStructure | Author
+Reichert, Stanislav | @StasReichert | Author
+Aragon, Carolina | @carolinaaragon  | Author
+Johann-Mattis List | @lingulist  | Author
+Wientzek, Tim | @TGH-2020 | Author
