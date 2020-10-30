@@ -31,9 +31,11 @@ Available online at http://www.tuled.org
 
 ## Possible Improvements:
 
-- Entries missing sources: 404/20819 (1.94%)
 
-## Contributors
+
+- Entries missing sources: 404/20823 (1.94%)
+
+# Contributors
 
 Name | GitHub user | Description | Role
 --- | --- | --- | ---
@@ -44,3 +46,6 @@ Johann-Mattis List | @lingulist | CLDF conversion | Other
 Tiago Tresoldi | @tresoldi | Minor curation, concept mapping refinement | Other
 Robert Forkel | @xrotwang | CLDF conversion | Other
 Tim Wientzek | @TGH-2020 | Data Collector | Author
+
+
+

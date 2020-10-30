@@ -5,8 +5,34 @@
         "cldf:Wordlist",
         "linguistics"
     ],
-    "creators": [],
-    "contributors": [],
+    "creators": [
+        {
+            "name": "Fabr\u00edcio Ferraz Gerardi"
+        },
+        {
+            "name": "Stanislav Reichert"
+        },
+        {
+            "name": "Carolina Aragon"
+        },
+        {
+            "name": "Tim Wientzek"
+        }
+    ],
+    "contributors": [
+        {
+            "name": "Johann-Mattis List",
+            "type": "Other"
+        },
+        {
+            "name": "Tiago Tresoldi",
+            "type": "Other"
+        },
+        {
+            "name": "Robert Forkel",
+            "type": "Other"
+        }
+    ],
     "communities": [
         {
             "identifier": "lexibank"
