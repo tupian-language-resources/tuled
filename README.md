@@ -2,7 +2,7 @@
 
 Cite the source dataset as
 
-> Fabrício Ferraz Gerardi, Stanislav Reichert, Carolina Aragon, & Tim Wientzek. (2020). CLDF dataset derived from Gerardi and Reichert's "TuLeD: Tupían lexical database" from 2020 (Version v0.10) [Data set]. Zenodo. Tübingen: Eberhard-Karls University [![DOI](https://zenodo.org/badge/270269811.svg)](https://zenodo.org/badge/latestdoi/270269811)
+> Fabrício Ferraz Gerardi, Stanislav Reichert, Carolina Aragon, Johann-Mattis List, & Tim Wientzek. (2020). CLDF dataset derived from Gerardi and Reichert's "TuLeD: Tupían lexical database" from 2020 (Version v0.10) [Data set]. Zenodo. Tübingen: Eberhard-Karls University [![DOI](https://zenodo.org/badge/270269811.svg)](https://zenodo.org/badge/latestdoi/270269811)
 
 This dataset is licensed under a CC-BY-4.0 license
 
