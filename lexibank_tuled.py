@@ -113,24 +113,30 @@ class Dataset(BaseDataset):
 
         wl = lingpy.Wordlist(self.raw_dir.joinpath('tuled.tsv').as_posix())
         etd = wl.get_etymdict(ref='cogids')
-        for cogid, vals in etd.items():
+        alignments, problems = {}, set()
+        for cogid, vals in progressbar(etd.items(), desc='aligning data'):
             idxs = []
             for idx in vals:
                 if idx:
                     idxs += idx
             positions = [wl[idx, 'cogids'].index(cogid) for idx in idxs]
-            try:
-                alms = [lingpy.basictypes.lists(wl[idx, 'alignment']).n[pos] for (idx, pos) in zip(idxs,
-                    positions)]
-                lengths = [len(alm) for alm in alms]
-                if len(set(lengths)) != 1:
-                    args.log.warn('wrong alignment with cogid {0}'.format(cogid))
-                    errors.add('ALIGNMENT length {0}'.format(cogid))
-
-            except IndexError:
-                args.log.warn('wrong alignments with cogid {0}'.format(cogid))
-                errors.add('ALIGNMENT sequences {0}'.format(cogid))
-            
+            alms, new_idxs = [], []
+            for idx, pos in zip(idxs, positions):
+                try:
+                    tks = lingpy.basictypes.lists(wl[idx, 'tokens']).n[pos]
+                    if not ' '.join(tks).strip():
+                        raise IndexError
+                    alms += [tks]
+                    new_idxs += [(idx, pos)]
+                except IndexError:
+                    problems.add((idx, pos))
+            if alms:
+                msa = lingpy.Multiple(alms)
+                msa.prog_align()
+                for i, alm in enumerate(msa.alm_matrix):
+                    alignments[new_idxs[i][0], new_idxs[i][1], cogid] = ' '.join(alm)
+            else:
+                errors.add('ALIGNMENT empty {0}'.format(cogid))
 
         bipa = CLTS(args.clts.dir).bipa
         for idx, tokens, glosses, cogids, alignment in wl.iter_rows(
@@ -180,13 +186,14 @@ class Dataset(BaseDataset):
                         Source=sources[wl[idx, 'doculect']],
                     )
                     for gloss_index, cogid in enumerate(wl[idx, 'cogids']):
-                        alignment = lingpy.basictypes.lists(
-                                wl[idx, "alignment"]).n[gloss_index]
                         args.writer.add_cognate(
                                 lexeme=lex,
                                 Cognateset_ID=cogid,
-                                Segment_Slice=gloss_index + 1,
-                                Alignment=alignment
+                                Segment_Slice=gloss_index+1,
+                                Alignment=alignments.get(
+                                    (idx, gloss_index, cogid),
+                                    ''),
+                                Alignment_Method='SCA'
                                 )
                 else:
                     args.log.warn('Entry ID={0}, concept={1}, language={2} is empty'.format(
