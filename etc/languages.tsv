@@ -16,7 +16,7 @@ Ava_Canoeiro	Ava_Canoeiro	Tupi-Guarani	avv	avv	avac1239	-48.1336	-13.6081	silva2
 Aweti	Aweti	Aweti	awe	awe	awet1244	-53.391944	-12.381944	557177,92265,galucio2015genealogical,solano2009descricao,meira2015summary,drude2011aweti,daSilva2010mawe
 Chiriguano	Chiriguano	Tupi-Guarani	gui	gui	east2555	-63.37	-20.42	dietrich1986idioma
 Chiripa_Nandeva_Ava_Guarani	Chiripa_Nandeva_Ava_Guarani	Tupi-Guarani	nhd	nhd	chir1286	-55.05	-25.65	
-Cinta_Larga	Cinta_Larga	Mondé	cin	cin	cint1239	-60.8312	-10.5879	galucio2015genealogical,anonby2013report,larga1988mantere,anonby2013report,rodrigues1966classificaccao,472712,129494,76585,107505,felzke2019kinship
+Cinta_Larga	Cinta_Larga	Mondé	cin	cin	cint1239	-60.8312	-10.5879	galucio2015genealogical,anonby2013report,larga1988mantere,anonby2013report,rodrigues1966classificaccao,472712,129494,76585,107505,felzke2019kinship,148748
 Cocama_Cocamilla	Cocama_Cocamilla	nonTupían	cod	cod	coca1259	-74	-4.5	43829,307372,575624,315979
 Emerillon_Teko	Emerillon_Teko	Tupi-Guarani	eme	eme	emer1243	-52.3699	3.23694	422367,156582,18538,551822,551821,48393,128718,61707,12147,59404,33113
 Gaviao_Ikoloehj	Gaviao_Ikoloehj	Mondé	gvo	gvo-gaviao	gavi1246	-61.6752	-10.7235	anonby2013report,galucio2015genealogical,82292,104675,319703,121919,36521,131130,46716,50840
@@ -37,7 +37,7 @@ Kampe	Kampe	Tuparí	kmp			 -61.193643	-12.790872
 Karitiana	Karitiana	Arikem	ktn	ktn	kari1311	-64.1522	-9.37937	552373,158748,134597,38969,163773,52509,storto2019kin
 Karo_Arara	Karo_Arara	Ramarana-Purubora	arr	arr	karo1305	-61.5691	-10.3342	46651,gabas2007dicionario,gabas2001grammar
 Kayabi	Kayabi	Tupi-Guarani	kyz	kyz	kaya1329	-55.5479	-11.2747	dobson2005aspectos,faria2004ordem,51787,143577,27389,7774,307132
-Kepkiriwat	Kepkiriwat	Tuparí	kpn	kpn	kepk1241	-61.25	-11.66	313075,loukotka1968classification
+Kepkiriwat	Kepkiriwat	Tuparí	kpn	kpn	kepk1241	-61.25	-11.66	313075,loukotka1968classification,rondon1948glossario
 Kuruaya	Kuruaya	Munduruku	kyr	kyr	kuru1309	-52.2303	-3.09561	85060,319563,23568,469113,da2008fonologia,costa2016fonologia,picancco2020fonologia
 Lingua_Geral_Paulista_Tupi_austral	Lingua_Geral_Paulista_Tupi_austral	Tupi-Guarani	tpʷ	tpʷ	tupi1274	-46.38	-23.95	leite2013lingua,551239,martius_2009
 Makurap	Makurap	Tuparí	mpu	mpu	maku1278	-64.3201	-11.8701	20094,21187,164199,86777,301424,braga2005aspects
@@ -67,6 +67,8 @@ Tupi_do_Machado_Wirafed	Tupi_do_Machado_Wirafed	Tupi-Guarani		wir		-61.358125	-1
 Tupinamba	Tupinamba	Tupi-Guarani	tpn	tpn	tupi1273	-34.887	-8.1055	21067,553685,barbosa1956curso,navarro2004metodo,navarro2013dicionario
 Turiwara	Turiwara	Tupi-Guarani	twt	twt	turi1247	-49.5	-2	10429,156341
 Urueuwauwau	Urueuwauwau	Tupi-Guarani	urz	urz	urue1240	-63.8086	-10.9176	557756,140705,betts2012kagwahiva
+Uruku	Ramarana-Purubora	???	urk	???	-62.0	-8.9  46651
+Urumi	Ramarana-Purubora	uru	uru	urum1250	-63.85	-9.08 rondon1948glossario
 Warazu_Pauserna	Warazu_Pauserna	Tupi-Guarani	psm	psm	paus1244	-63.1903	-12.8553	ramirez2017warazu
 Wayampi	Wayampi	Tupi-Guarani	oym	oym	waya1270	-52.6887	1.73817	64867,142698,302951,575933,65995,grenand1989dictionnaire
 Wayoro	Wayoro	Tuparí	wyr	wyr	wayo1238	-61.3064	-12.6945	loukotka1963documents,575534,301443,galucio2015genealogical,nogueira2013descriccao
