@@ -15,7 +15,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/LanguageStructure/TuLeD_Data",
-            "dc:created": "v0.10-24-g7504f16"
+            "dc:created": "v0.10-25-g09f8974"
         },
         {
             "rdf:type": "prov:Entity",

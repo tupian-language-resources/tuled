@@ -120,14 +120,16 @@ class Dataset(BaseDataset):
                     idxs += idx
             positions = [wl[idx, 'cogids'].index(cogid) for idx in idxs]
             try:
-                alms = [wl[idx, 'alignment'].n[pos] for (idx, pos) in zip(idxs,
+                alms = [lingpy.basictypes.lists(wl[idx, 'alignment']).n[pos] for (idx, pos) in zip(idxs,
                     positions)]
                 lengths = [len(alm) for alm in alms]
                 if len(set(lengths)) != 1:
                     args.log.warn('wrong alignment with cogid {0}'.format(cogid))
+                    errors.add('ALIGNMENT length {0}'.format(cogid))
 
             except IndexError:
-                args.log.warn('wrong alignment with cogid {0}'.format(cogid))
+                args.log.warn('wrong alignments with cogid {0}'.format(cogid))
+                errors.add('ALIGNMENT sequences {0}'.format(cogid))
             
 
         bipa = CLTS(args.clts.dir).bipa
