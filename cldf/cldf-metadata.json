@@ -15,7 +15,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/LanguageStructure/TuLeD_Data",
-            "dc:created": "f57a91e"
+            "dc:created": "v0.10-24-g7504f16"
         },
         {
             "rdf:type": "prov:Entity",
@@ -27,19 +27,19 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Concepticon",
             "rdf:about": "https://github.com/concepticon/concepticon-data",
-            "dc:created": "v2.3.0"
+            "dc:created": "v2.4.0-16-g45b0f79"
         },
         {
             "rdf:type": "prov:Entity",
             "dc:title": "CLTS",
-            "rdf:about": "https://github.com/cldf-clts/clts",
-            "dc:created": "v1.4"
+            "rdf:about": "https://github.com/cldf-clts/clts/",
+            "dc:created": "v1.4-53-g37b86c4"
         }
     ],
     "prov:wasGeneratedBy": [
         {
             "dc:title": "python",
-            "dc:description": "3.6.12"
+            "dc:description": "3.8.6"
         },
         {
             "dc:title": "python-packages",
@@ -54,7 +54,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:extent": 20823,
+            "dc:extent": 20908,
             "tableSchema": {
                 "columns": [
                     {
@@ -248,7 +248,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ParameterTable",
-            "dc:extent": 408,
+            "dc:extent": 409,
             "tableSchema": {
                 "columns": [
                     {
@@ -296,7 +296,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#CognateTable",
-            "dc:extent": 22543,
+            "dc:extent": 22717,
             "tableSchema": {
                 "columns": [
                     {

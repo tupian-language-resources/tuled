@@ -112,6 +112,24 @@ class Dataset(BaseDataset):
                     args.log.warn('Invalid Language ID {0}'.format(row['ID']))
 
         wl = lingpy.Wordlist(self.raw_dir.joinpath('tuled.tsv').as_posix())
+        etd = wl.get_etymdict(ref='cogids')
+        for cogid, vals in etd.items():
+            idxs = []
+            for idx in vals:
+                if idx:
+                    idxs += idx
+            positions = [wl[idx, 'cogids'].index(cogid) for idx in idxs]
+            try:
+                alms = [wl[idx, 'alignment'].n[pos] for (idx, pos) in zip(idxs,
+                    positions)]
+                lengths = [len(alm) for alm in alms]
+                if len(set(lengths)) != 1:
+                    args.log.warn('wrong alignment with cogid {0}'.format(cogid))
+
+            except IndexError:
+                args.log.warn('wrong alignment with cogid {0}'.format(cogid))
+            
+
         bipa = CLTS(args.clts.dir).bipa
         for idx, tokens, glosses, cogids, alignment in wl.iter_rows(
                 'tokens', 'morphemes', 'cogids', 'alignment'):
