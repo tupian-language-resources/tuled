@@ -6,7 +6,7 @@ Cite the source dataset as
 
 This dataset is licensed under a CC-BY-4.0 license
 
-Available online at http://www.tuled.org
+Available online at https://www.tuled.org
 
 ## Statistics
 
