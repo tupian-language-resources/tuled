@@ -1,7 +1,7 @@
 ID	Name	SubGroup	ISO639P3code	Language_ID	Glottocode	Longitude	Latitude	Sources
 Akuntsu	Akuntsu	Tuparí	aqz	aqz	akun1241	-60.9716	-12.8322	84075,aragon2018variaccoes,aragon2014grammar
 Amanaye	Amanaye	Tupi-Guarani	ama	ama	aman1266	-48.66	-3.8	
-Amondawa	Amondawa	Tupi-Guarani	adw	adw	amun1246	-62.3064	-9.04023	140705,22397,557297,576822,67885,301424
+Amondawa	Amondawa	Tupi-Guarani	adw	adw	amun1246	-62.3064	-9.04023	140705,22397,557297,576822,67885,301424,sinha2020embodiment
 Anambe	Anambe	Tupi-Guarani	aan	aan	anam1249	-49.303	-2.71119	155672,80489,juliao2005aspects
 Anambe_of_Ehrenreich	Anambe_of_Ehrenreich	Tupi-Guarani		ane	anam1251	-50.5	-4.5	ehrenreich1895materialien
 Apapokuva_of_Nimuendaju	Apapokuva_of_Nimuendaju	Tupi-Guarani		apa		-54.4528	-23.7325	20477,dietrich2014lingua
@@ -13,7 +13,7 @@ Aruashi	Aruashi	Mondé	arx	arx-arua	arua1262	-62.5	-12.5	loukotka1968classificat
 Asurini_do_Tocantins	Asurini_do_Tocantins	Tupi-Guarani	asu	asu	toca1235	-49.8991	-3.59359	69073,155672,129842,86208,139162,cabral2003dicionario
 Asurini_do_Xingu	Asurini_do_Xingu	Tupi-Guarani	asn	asn	xing1248	-52.321	-4.13463	118180,23526,144735,54139,161668
 Ava_Canoeiro	Ava_Canoeiro	Tupi-Guarani	avv	avv	avac1239	-48.1336	-13.6081	silva2015elementos,do2015expressao,borges2006aspectos
-Aweti	Aweti	Aweti	awe	awe	awet1244	-53.391944	-12.381944	557177,92265,galucio2015genealogical,solano2009descricao,meira2015summary,drude2011aweti,daSilva2010mawe
+Aweti	Aweti	Aweti	awe	awe	awet1244	-53.391944	-12.381944	557177,92265,galucio2015genealogical,solano2009descricao,meira2015summary,drude2011aweti,daSilva2010mawe,silva2019event
 Chiriguano	Chiriguano	Tupi-Guarani	gui	gui	east2555	-63.37	-20.42	dietrich1986idioma,ids-289
 Chiripa_Nandeva_Ava_Guarani	Chiripa_Nandeva_Ava_Guarani	Tupi-Guarani	nhd	nhd	chir1286	-55.05	-25.65	
 Cinta_Larga	Cinta_Larga	Mondé	cin	cin	cint1239	-60.8312	-10.5879	galucio2015genealogical,anonby2013report,larga1988mantere,anonby2013report,rodrigues1966classificaccao,472712,129494,76585,107505,felzke2019kinship,148748
@@ -32,7 +32,7 @@ Juruna_Yudja	Juruna_Yudja	Juruna	jur	jur	juru1256	-53.3472	-10.9354	fargetti2008
 Ka_apor_Urubu	Ka_apor_Urubu	Tupi-Guarani	urb	urb	urub1250	-46.2204	-2.46455	balee1994footprints,73670,ribeiro2015marcaccao,caldas2009proposta,kakumasu1988dicionario,godoy2020tese,godoy2017kaapor
 Kabanae	Kabanae	Mondé		kbn		-60.519885	-6.333723	
 Kaiowa	Kaiowa	Tupi-Guarani	kgk	kgk	kaiw1246	-54.6815	-24.589	553686,cardoso2008aspectos
-Kamajura	Kamajura	Tupi-Guarani	kay	kay	kama1373	-53.4651	-12.2661	35108,154298,29263,143531,28622,39576,53208,14073
+Kamajura	Kamajura	Tupi-Guarani	kay	kay	kama1373	-53.4651	-12.2661	35108,154298,29263,143531,28622,39576,53208,14073,silva2019event
 Kampe	Kampe	Tuparí	kmp			 -61.193643	-12.790872	
 Karitiana	Karitiana	Arikem	ktn	ktn	kari1311	-64.1522	-9.37937	552373,158748,134597,38969,163773,52509,storto2019kin
 Karo_Arara	Karo_Arara	Ramarana-Purubora	arr	arr	karo1305	-61.5691	-10.3342	46651,gabas2007dicionario,gabas2001grammar
