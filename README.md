@@ -2,11 +2,11 @@
 
 Cite the source dataset as
 
-> Fabrício Ferraz Gerardi, Stanislav Reichert, Carolina Aragon, Johann-Mattis List, & Tim Wientzek. (2020). CLDF dataset derived from Gerardi and Reichert's "TuLeD: Tupían lexical database" from 2020 (Version v0.10) [Data set]. Zenodo. Tübingen: Eberhard-Karls University [![DOI](https://zenodo.org/badge/270269811.svg)](https://zenodo.org/badge/latestdoi/270269811)
+> Ferraz Gerardi, Fabrício and Reichert, Stanislav (2020) TuLeD: Tupían lexical database. Version 0.8. Tübingen: Eberhard-Karls University
 
 This dataset is licensed under a CC-BY-4.0 license
 
-Available online at http://www.tuled.org
+Available online at https://www.tuled.org
 
 ## Statistics
 
@@ -18,23 +18,34 @@ Available online at http://www.tuled.org
 ![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
 - **Varieties:** 76
-- **Concepts:** 408
-- **Lexemes:** 20,823
+- **Concepts:** 409
+- **Lexemes:** 20,908
 - **Sources:** 260
 - **Synonymy:** 1.06
-- **Cognacy:** 22,543 cognates in 3,513 cognate sets (1,502 singletons)
-- **Cognate Diversity:** 0.15
+- **Cognacy:** 22,717 cognates in 3,677 cognate sets (1,630 singletons)
+- **Cognate Diversity:** 0.16
 - **Invalid lexemes:** 0
-- **Tokens:** 95,742
-- **Segments:** 364 (0 BIPA errors, 0 CTLS sound class errors, 363 CLTS modified)
-- **Inventory size (avg):** 59.79
+- **Tokens:** 96,125
+- **Segments:** 365 (0 BIPA errors, 0 CTLS sound class errors, 363 CLTS modified)
+- **Inventory size (avg):** 59.80
 
 ## Possible Improvements:
 
 
 
-- Entries missing sources: 404/20823 (1.94%)
+- Entries missing sources: 411/20908 (1.97%)
 
+# Contributors
+
+Name | GitHub user | Description | Role
+--- | --- | --- | ---
+Fabrício Ferraz Gerardi | @LanguageStructure | Data Collector, cognacy assignment, co-lexifications, notes | Author
+Stanislav Reichert |@StasReichert | Data Collector | Author
+Carolina Aragon | @carolinaaragon | Data Collector,cognacy assignment, co-lexifications, notes | Author
+Johann-Mattis List | @lingulist | CLDF conversion | Author
+Tiago Tresoldi | @tresoldi | Minor curation, concept mapping refinement | Other
+Robert Forkel | @xrotwang | CLDF conversion | Other
+Tim Wientzek | @TGH-2020 | Data Collector | Author
 
 
 
