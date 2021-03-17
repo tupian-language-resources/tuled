@@ -2511,6 +2511,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	N
 21440	Uruku	BRAZIL NUT	hijá	hijá	h i j á	h i j á	336	2335	BRAZIL.NUT		
 21617	Cinta-Larga	BRAZIL NUT	maangaap	maangaap	m aa n g aa p	m aa n g aa p	338	2333	BRAZIL.NUT		
 21631	Teko	BRAZIL NUT	tɨtɨkö / tutukö	tɨtɨkö	t ɨ t ɨ k ö	t ɨ t ɨ k ö	3362	1461	BRAZIL.NUT		
+22284	Piripkura	BRAZIL NUT	jã	jã	j ã	j ã					
 45	Karo	BREAK	təj	təj	t ə j	t ə j	347	2382	BREAK	quebrarromper	
 852	Makurap	BREAK	pak	pak	p a k	- p a k - -	342	2378	BREAK	quebrarromper	
 1194	Wayoro	BREAK	parãŋ	parãŋ	p a r ã ŋ	- p a r ã ŋ	342	2378	BREAK	quebrarromper	
@@ -2556,7 +2557,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	N
 15790	Chiriguano	BREAK	pẽ	pẽ	p ẽ	- p ẽ - - -	342	2378	BREAK	quebrarromper3	
 16175	Mbya	BREAK	(mo)pẽ	(mo)pẽ	m o + p ẽ	m o + p ẽ	342	522 2378	CAUSATIVE BREAK	quebrarromper2	
 16534	Guaraní	BREAK	(mo)pẽ	(mo)pẽ	m o + p ẽ	m o + p ẽ	342	522 2378	CAUSATIVE BREAK	quebrarromper3	
-16867	Old Guaraní	BREAK	(mo)pe	(mo)pe	m o + p e	m o + p e	342	522 2378	CAUSATIVE BREAK	quebrarromper3	
+16867	Old Guaraní	BREAK	(mo)pe / jeka	(mo)pe	m o + p e	m o + p e	342	522 2378	CAUSATIVE BREAK	quebrarromper3	
 17194	Ache	BREAK	upẽ	upẽ	u p ẽ	- - u p ẽ -	342	2378	BREAK	quebrarromper3	
 17429	Xeta	BREAK	soro	soro	s o r o	s - - o r - - o	344	2376	BREAK	quebrarromper	
 17656	Kaiowa	BREAK	dʒoka	dʒoka	dʒ o k a	- - dʒ o k a -	343	2377	BREAK	quebrarromper1	
@@ -2569,6 +2570,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	N
 21143	Karitiana	BREAK	hop	hop	h o p	h o p	3093	1056	BREAK		
 21737	Zoro	BREAK	pege	pege	p e g e	p e g e	3394	1513	BREAK		
 22279	Tupinambá	BREAK	pen / jeká	jeká	j e k a	j e k a	343	2377	BREAK		
+22280	Old Guaraní	BREAK	(mo)pe / jeká	jeká	j e k á	j e k á	343	2377	BREAK		
 46	Karo	BREAST	nãmʔaʔ	nãmʔaʔ	n ã m ʔ a ʔ	- - n ã m ʔ a ʔ -	349	2429	BREAST	seio1	
 399	Purubora	BREAST	nãwã	nãwã	n ã w ã	- - n ã w - ã - -	349	2429	BREAST	seio1	
 728	Ramarama	BREAST	nãmá	nãmá	n ã m á	- - n ã m - á - -	349	2429	BREAST	seio1	
@@ -3337,6 +3339,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	N
 21346	Warazu	CARÁ ROOT / YAM	kara	kara	k a r a	- k a r a - - - - - -	427	3150	CARÁ		
 21384	Uruku	CARÁ ROOT / YAM	máneá	máneá	m á n eá	m á n eá	2823	536	CARÁ		
 21670	Apiaka	CARÁ ROOT / YAM	kará	kará	k a r á	- k a r á - - - - - -	427	3150	CARÁ		
+22292	Piripkura	CARÁ ROOT / YAM	akará	akará	a k a r á	a k a r á					
 61	Karo	CHIEF / MASTER / OWNER	iʔjat_ʃu	iʔjat_ʃu	i ʔ j a t	- - i ʔ - j a t	447	3248	CHIEF	chefecacique	
 410	Purubora	CHIEF / MASTER / OWNER	kapá	kapá	k a p á	k a p á - - - -	1177	119	CHIEF	chefecacique	
 864	Makurap	CHIEF / MASTER / OWNER	moat	moat	m oa t	m oa t - - -	452	3254	CHIEF	chefecacique	
@@ -3770,6 +3773,8 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	N
 19356	Asuriní Tocantins	COCOA	akaʔo	akaʔo	a k a ʔ o	- a k a - ʔ o - - - -	514	3582	COCOA		
 21379	Uruku	COCOA	agajá	agajá	a g a j á	a g a j á	3182	1202	COCOA		
 21675	Apiaka	COCOA	kakau	kakau	k a k au	k a k au	514	3582	COCOA		
+22282	Piripkura	COCOA	tarapúa / jumitauhúa	tarapúa	t a r a p ú a	t a r a p ú a			COCOA		
+22283	Piripkura	COCOA	tarapúa / jumitauhúa	jumitauhúa	j u m i t au h ú a	j u m i t au h ú a			COCOA BIG		
 71	Karo	COLD	pitẽk	pitẽk	p i t ẽ k	- - p i t ẽ - - k - - -	520	3615	COLD	frio4	
 417	Purubora	COLD	bidek	bidek	b i d e k	- - b i d e - - k - - -	520	3615	COLD	frio4	
 641	Ntogapid-Itogapuk	COLD	iwitéakana / manẽg	iwitéakana	i w i t éa k a n a	- i w i t éa - - k a n a	3768	2017	COLD	frio	
@@ -5466,6 +5471,8 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	N
 21348	Warazu	CECROPIA	amaʔiv	amaʔiv	a m a + ʔ i v	a m a + ʔ i v	439	3232 309	CECROPIA TREE		
 21641	Teko	CECROPIA	kulekule	kulekule	k u l e k u l e	k u l e k u l e	441	3235	CECROPIA		
 22255	Mekens	CECROPIA	arãpe	arãpe	a r ã p e	a r ã p e	440	3231	CECROPIA		
+22285	Piripkura	CECROPIA	makawaʔɨwuhúa / ambaʔɨwa	makawaʔɨwuhúa	m a k a w a + ʔ ɨ w + u h ú a	m a k a w a + ʔ ɨ w + u h ú a			? TREE BIG		
+22286	Piripkura	CECROPIA	makawaʔɨwuhúa / ambaʔɨwa	ambaʔɨwa	a m b a + ʔ ɨ w a	a m b a + ʔ ɨ w a			? TREE		
 100	Karo	ELECTRIC EEL	jogo	jogo	j o g o	j o g o -	750	5364	EEL	enguiapeixeeletricoporaque2	
 441	Purubora	ELECTRIC EEL	joko	joko	j o k o	j o k o -	750	5364	EEL	enguiapeixeeletricoporaque2	
 907	Makurap	ELECTRIC EEL	ndoko	ndoko	nd o k o	nd o k o -	750	5364	ELECTRIC-EEL	enguiapeixeeletricoporaque	
@@ -7757,6 +7764,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	N
 21004	Ache	GUAN / JACU	jaku	jaku	j a k u	j a k u	1088	7735	GUAN		
 21500	Uruku	GUAN / JACU	korét	korét	k o r é t	k o r é t	1091	7737	GUAN		
 22199	Kampe	GUAN / JACU	kwaku	kwaku	kʷ a k u	kʷ a k u	1088	7735	GUAN		
+22288	Piripkura	GUAN / JACU	jakúa	jakúa	j a k ú a	j a k ú a					
 142	Karo	HAIR	naʔtʃat	naʔtʃat	n a + ʔ tʃ a t	- n a + ʔ tʃ a t - - -	1096	7781 154	HEAD HAIR	cabelo	
 475	Purubora	HAIR	aʃatep	aʃatep	a ʃ a + t e p	a ʃ a + - t e p - - -	1096	7781 154	_HEAD HAIR	cabelo	
 662	Ntogapid-Itogapuk	HAIR	natʃáb	natʃáb	n a + tʃ á b	- n a + - tʃ á b - - -	1096	7781 154	_HEAD HAIR	cabelo	
@@ -9421,10 +9429,10 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	N
 492	Purubora	KILL	mi	mi	m i	m i	1290	9370	KILL	matar4	
 979	Makurap	KILL	põŋaʔ	põŋaʔ	p õ ŋ a ʔ	p õ ŋ a ʔ	1292	9372	KILL	matar	
 1315	Wayoro	KILL	mi	mi	m i	m i	1290	9370	KILL	matar4	
-1662	Tupari	KILL	õpo	õpo	õ p o	õ p o -	1291	9375	KILL	matar	
-2049	Akuntsu	KILL	mi / pɨ	mi	m i	m i	1290	9370	KILL	matar4	
-2050	Akuntsu	KILL	mi / pɨ	pɨ	p ɨ	p ɨ	1291	9375	KILL	matar4	
-2401	Mekens	KILL	 (s)õpaa / mĩ	õpaa	õ p aː	õ p aː -	1291	9375	KILL	matar4	
+1662	Tupari	KILL	õpo	õpo	õ p o	õ p o -	1291	8612	HIT	matar	
+2049	Akuntsu	KILL	mi / pɨ / jũbá	mi	m i	m i	1290	9370	KILL	matar4	
+2050	Akuntsu	KILL	mi / pɨ / jũbá	pɨ	p ɨ	p ɨ	1291	9375	KILL	matar4	
+2401	Mekens	KILL	 (s)õpaa / mĩ	õpaa	õ p aː	õ p aː -	1291	8612	HIT	matar4	
 2402	Mekens	KILL	 (s)õpaa / mĩ	mĩ	m ĩ	m ĩ	1290	9370	KILL	matar4	
 2626	Cinta-Larga	KILL	saka	saka	s a + k a	s a + - k - - a	1289	9371 2377	_NECK BREAK	matar1	
 2893	Gavião	KILL	saga	saga	s a + g a	s a + g a	1289	9371 2377	NECK BREAK	matar1	
@@ -9442,7 +9450,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	N
 6546	Awetí	KILL	kɨ̃j	kɨ̃j	k ɨ̃ j	k ɨ̃ - - - j - -	1289	9371	KILL	matar1	
 6879	Parakana	KILL	tʃoka	tʃoka	tʃ o + k a	tʃ o + - k - - a	1289	9371 2377	_NECK BREAK	matar1	
 7174	Asuriní Tocantins	KILL	soka	soka	s o + k a	s o + - k - - a	1289	9371 2377	_NECK BREAK	matar1	
-7452	Surui-Aikewara	KILL	suka	suka	s u k a	s u - - k - - a	1289	2377	KILL	matar1	
+7452	Surui-Aikewara	KILL	suka	suka	s u k a	s u - - k - - a	1289	9371 2377	_NECK BREAK	matar1	
 7754	Tapirapé	KILL	tʃokã	tʃokã	tʃ o + k ã	tʃ o + - k - - ã	1289	9371 2377	_NECK BREAK	matar1	
 8056	Tembe	KILL	zukə	zukə	z u + k ə	z u + - k - - ə	1289	9371 2377	_NECK BREAK	matar1	
 8387	Guajajara	KILL	zuka	zuka	z u + k a	z u + - k - - a	1289	9371 2377	_NECK BREAK	matar1	
@@ -9487,6 +9495,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	N
 20562	Gavião	KILL	aka	aka	a k a	a k a	1289	2377	KILL		Singular object
 20563	Gavião	KILL	abiì	abiì	a b i ì	a b i ì	2992	908	KILL		Plural object
 21516	Uruku	KILL	párak-mia	párakmia	p á r a k m ia	p á r a k m ia	3270	1325	KILL		
+22281	Akuntsu	KILL	mi / pɨ / õbá	õbá	õ b á	õ b á	3961	8612	HIT		
 176	Karo	KING FISHER	tserek	tserek	ts e r e k	ts e r e k - - - - -	1295	9441	KING	guardariosmartimpescador	
 493	Purubora	KING FISHER	ʃedet	ʃedet	ʃ e d e t	ʃ e - d - - e - t	1301	9443	KING	guardariosmartimpescador	
 1316	Wayoro	KING FISHER	ɨgɨtʃĩn	ɨgɨtʃĩn	ɨ g ɨ tʃ ĩ n	- - - - ɨ g ɨ tʃ ĩ n	1297	9440	KING	guardariosmartimpescador	
@@ -12349,6 +12358,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	N
 21913	Kepkiriwat	PECCARY (collared)	ivarútininga	ivarútininga	i v a r ú t i n i n g a	i v a r ú t i n i n g a	2566	502	PECCARY		
 22075	Kokama	PECCARY (collared)	tajatsu	tajatsu	t a j a ts u	t a j a ts u	1702	12298	PECCARY		
 22177	Karo	PECCARY (collared)	tawtse_niŋ	tawtse_niŋ	t a w ts e + n i ŋ	t a w ts e + n i ŋ	1702	12298 12306	PECCARY STRIPE		
+22291	Piripkura	PECCARY (collared)	taitúa	taitúa	t ai t ú a	t ai t ú a					
 230	Karo	PECCARY (white-lipped)	jate / pitẽg	jate	j a t e	j a - - t e - - - - - -	1714	12355	PECCARY	queixada4	
 231	Karo	PECCARY (white-lipped)	jate / pitẽg	pitẽg	p i t ẽ g	p i t - ẽ g	1716	12358	PECCARY	queixada4	
 532	Purubora	PECCARY (white-lipped)	anẽwã / hənewã	anẽwã	a n ẽ w ã	- a n ẽ w ã	1717	12359	PECCARY	queixada	
@@ -16312,6 +16322,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	N
 21276	Uruku	TAPIR	nato	nato	n a t o	n a t o	3349	1438	TAPIR		
 21584	Kepkiriwat	TAPIR	wito / iapikite	iapikite	ia p i k i t e	ia p i k i t e	3343	1432	TAPIR		
 22202	Kampe	TAPIR	ɨkʷaj	ɨkʷaj	ɨ kʷ a j	ɨ kʷ a j	2253	16282	TAPIR		
+22294	Piripkura	TAPIR	tapiʔíra	tapiʔíra	t a p i ʔ í r a	t a p i ʔ í r a					
 302	Karo	TAYRA	ei	ei	ei	ei	2265	16357	TAYRA	irara	
 582	Purubora	TAYRA	wata	wata	w a t a	- w a t - a -	2260	16354	TAYRA	irara	
 1103	Makurap	TAYRA	ãmãn.nã	ãmãn.nã	ã m ã n + n ã	ã m ã n - + n ã	2261	16355 16358	TAYRA _tayra	irara	
@@ -17253,6 +17264,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	N
 21899	Kepkiriwat	TINAMOU	uatanaún / ʃunʃun_á	uatanaún	ua t a n a ú n	ua t a n a ú n	3500	1647	TINAMOU		
 21900	Kepkiriwat	TINAMOU	uatanaún / ʃunʃun_á		ʃ u n ʃ u n + á	ʃ u n ʃ u n + á	3501	1648 1656	TINAMOU		
 22174	Kampe	TINAMOU	kʷama	kʷama	kʷ a m a	kʷ a m a	2398	17221	TINAMOU		
+22290	Piripkura	TINAMOU	nambúa	nambúa	n a mb ú a	n a mb ú a					
 323	Karo	TIRED	pitãn	pitãn	p i t ã n	p i t - ã n -	2411	17263	TIRED	cansado	
 1439	Wayoro	TIRED	piito_erom_karat	piito_erom_karat	p iː t o + e r o m + k a r a t	p iː t - o - - + e r o m + - k a r a t - - -	2410	17263 17268 17264	BREATHE ? ?	cansado	
 1820	Tupari	TIRED	tarajʔe	tarajʔe	t a r a j ʔ e	- t a r a j ʔ - e	2410	17264	TIRED	cansado	
@@ -17884,6 +17896,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	N
 20534	Asuriní Xingu	TURTLE	dʒawatsi	dʒawatsi	dʒ a w a t s i	dʒ a w a t s i	2474	17801	TURTLE		
 21374	Uruku	TURTLE	moʔa	moʔa	m o ʔ a	m o ʔ a	2477	17803	TURTLE		
 21890	Kepkiriwat	TURTLE	baep	baep	b ae p	b ae p	3494	1641	TURTLE		
+22293	Piripkura	TURTLE	tʃawtʃía	tʃawtʃía	tʃ a w tʃ ía	tʃ a w tʃ ía					
 334	Karo	TWO	tʃagaro	tʃagaro	tʃ a g a r o	tʃ a g a r - - o -	2484	17863	TWO	doisduas	
 601	Purubora	TWO	βewap	βewap	β e w a p	β e w a p	2488	17868	TWO	doisduas	
 704	Ntogapid-Itogapuk	TWO	jagarekom	jagarekom	j a g a r e k o m	j a g a r e k o m	2484	17863	TWO	doisduas	
