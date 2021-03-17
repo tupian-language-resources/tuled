@@ -55,8 +55,10 @@ class Dataset(BaseDataset):
             )
 
     def cmd_makecldf(self, args):
-        from pybtex import errors
+        from pybtex import errors, database
         errors.strict = False
+        bibdata = database.parse_file(
+                self.raw_dir.joinpath('sources.bib').as_posix())
         args.writer.add_sources()
         args.writer["FormTable", "Segments"].separator = " + "
         args.writer["FormTable", "Segments"].datatype = Datatype.fromvalue(
@@ -104,7 +106,12 @@ class Dataset(BaseDataset):
                         Glottocode=row['Glottocode'] if row['Glottocode'] != '???' else None,
                     )
                     languages[row['Name']] = row['ID']
-                    sources[row['ID']] = row['Sources'].split(',')
+                    sources[row['Name']] = []
+                    for source in row['Sources'].split(','):
+                        if source in bibdata.entries:
+                            sources[row['Name']] += [source]
+                        else:
+                            errors.add('BIBTEX MISSING {0}'.format(source))
                 except ValueError:
                     errors.add('LANGUAGE ID {0}'.format(
                         row['ID'],
@@ -175,7 +182,7 @@ class Dataset(BaseDataset):
             else:
                 if ''.join(wl[idx, 'tokens']).strip() and idx not in blacklist:
                     lex = args.writer.add_form_with_segments(
-                        Language_ID=wl[idx, 'doculect'],
+                        Language_ID=languages[wl[idx, 'doculect']],
                         Parameter_ID=concepts[wl[idx, 'concept']],
                         Value=wl[idx, 'value'] or ''.join(wl[idx, 'tokens']),
                         Form=wl[idx, 'form'] or ''.join(wl[idx, 'tokens']),
