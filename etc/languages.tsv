@@ -1,6 +1,6 @@
 ID	Name	Family	ISO639P3code	Language_ID	Glottocode	Longitude	Latitude	SubGroup	Sources
 Akuntsu	Akuntsu	Tuparí	aqz	aqz	akun1241	-60.9716	-12.8322		86777,84075,aragon2018variaccoes,aragon2014grammar
-Amanaye	Amanaye	Tupi-Guarani	ama	ama	aman1266	-48.66	-3.8		
+Amanaye	Amanaye	Tupi-Guarani	ama	ama	aman1266	-48.66	-3.8		80489,156341,61842,310985,131013,20751
 Amondawa	Amondawa	Tupi-Guarani	adw	adw	amun1246	-62.3064	-9.04023		140705,22397,557297,576822,67885,301424
 Anambe	Anambe	Tupi-Guarani	aan	aan	anam1249	-49.303	-2.71119		155672,80489,juliao2005aspects
 AnambeEhrenreich	Anambe Ehrenreich	Tupi-Guarani		ane	anam1251	-50.5	-4.5		ehrenreich1895materialien
@@ -15,7 +15,7 @@ AsuriniXingu	Asuriní Xingu	Tupi-Guarani	asn	asn	xing1248	-52.321	-4.13463		1181
 AvaCanoeiro	Avá Canoeiro	Tupi-Guarani	avv	avv	avac1239	-48.1336	-13.6081		silva2015elementos,do2015expressao,borges2006aspectos
 Aweti	Awetí	Aweti	awe	awe	awet1244	-53.391944	-12.381944		557177,92265,galucio2015genealogical,solano2009descricao,meira2015summary,drude2011aweti,daSilva2010mawe
 Chiriguano	Chiriguano	Tupi-Guarani	gui	gui	east2555	-63.37	-20.42		dietrich1986idioma
-Nandeva	Ñandeva	Tupi-Guarani	nhd	nhd	chir1286	-55.05	-25.65		
+Nandeva	Ñandeva	Tupi-Guarani	nhd	nhd	chir1286	-55.05	-25.65		costa2010nhandewa,315624
 CintaLarga	Cinta-Larga	Mondé	cin	cin	cint1239	-60.8312	-10.5879		galucio2015genealogical,anonby2013report,larga1988mantere,anonby2013report,rodrigues1966classificaccao,472712,129494,76585,107505,felzke2019kinship,anonby2012historical
 Kokama	Kokama	Omagua-Kokama	cod	cod	coca1259	-74	-4.5		43829,307372,575624,315979
 Teko	Teko	Tupi-Guarani	eme	eme	emer1243	-52.3699	3.23694		422367,156582,18538,551822,551821,48393,128718,61707,12147,59404,33113
@@ -30,10 +30,10 @@ Jora	Jora	Tupi-Guarani	jor	jor	jora1240	-63.21	-15.75		danielseninews,loukotka19
 Juma	Juma	Tupi-Guarani	jua	jua	juma1249	-64.1	-7.28		557297
 Juruna	Juruna	Juruna	jur	jur	juru1256	-53.3472	-10.9354		fargetti2008consoantes,galucio2015genealogical,fargetti1992analise,fargetti2001estudo,137376
 Kaapor	Ka'apor	Tupi-Guarani	urb	urb	urub1250	-46.2204	-2.46455		balee1994footprints,73670,ribeiro2015marcaccao,caldas2009proposta,kakumasu1988dicionario
-Kabanae	Kabanae	Mondé		kbn		-60.519885	-6.333723		
+Kabanae	Kabanae	Mondé		kbn		-60.519885	-6.333723		gerardi2021kabanae
 Kaiowa	Kaiowa	Tupi-Guarani	kgk	kgk	kaiw1246	-54.6815	-24.589		553686,cardoso2008aspectos
 Kamajura	Kamajura	Tupi-Guarani	kay	kay	kama1373	-53.4651	-12.2661		35108,154298,29263,143531,28622,39576,53208,14073
-Kampe	Kampe	Tuparí	kmp			-61.193643	-12.790872		
+Kampe	Kampe	Tuparí	kmp			-61.193643	-12.790872		aragon2014grammar,aragon2021unpublished
 Karitiana	Karitiana	Arikem	ktn	ktn	kari1311	-64.1522	-9.37937		552373,158748,134597,38969,163773,52509,storto2019kin
 Karo	Karo	Ramarana-Purubora	arr	arr	karo1305	-61.5691	-10.3342		46651,gabas2007dicionario,gabas1999grammar
 Kayabi	Kayabi	Tupi-Guarani	kyz	kyz	kaya1329	-55.5479	-11.2747		dobson2005aspectos,faria2004ordem,51787,143577,27389,7774,307132
@@ -41,7 +41,7 @@ Kepkiriwat	Kepkiriwat	Tuparí	kpn	kpn	kepk1241	-61.25	-11.66		313075,loukotka196
 Kuruaya	Kuruaya	Munduruku	kyr	kyr	kuru1309	-52.2303	-3.09561		85060,319563,23568,469113,da2008fonologia,costa2016fonologia,picancco2020fonologia
 TupiAustral	Tupí Austral	Tupi-Guarani	tpʷ	tpʷ	tupi1274	-46.38	-23.95		leite2013lingua,551239,martius_2009
 Makurap	Makurap	Tuparí	mpu	mpu	maku1278	-64.3201	-11.8701		20094,21187,164199,86777,301424,braga2005aspects
-Matanau	Matanau	Mondé		mat		-60.48	-6.0372		
+Matanau	Matanau	Mondé		mat		-60.48	-6.0372		gerardi2021matanau
 Mbya	Mbya	Tupi-Guarani	gun	gun	mbya1239	-52.711	-26.0188		575915,dietrich1994mbya,dooley1998lexico
 Mekens	Mekens	Tuparí	skf	skf	saki1248	-62.0927	-13.054		552771,153217,86777,hanke1958notas
 Monde	Monde	Mondé	mnd	mnd	sala1273	-61.25	-12.0499		114878,moore2005classificaccao,felzke2017dancca,galucio2015genealogical
