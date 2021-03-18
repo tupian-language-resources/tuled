@@ -207,7 +207,7 @@ class Dataset(BaseDataset):
                         idx, wl[idx, 'concept'], wl[idx, 'doculect']))
         
 
-        with open(self.dir.joinpath('errors.md'), 'w') as f:
+        with open(self.dir.joinpath('errors.md'), 'w', encoding="utf-8") as f:
             f.write('# Error Analysis for TULED\n')
             for error in sorted(errors):
                 f.write('* '+error+'\n')
