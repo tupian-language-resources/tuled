@@ -689,7 +689,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	N
 13	Karo	ARROW	tʃṍabe	tʃṍabe	tʃ ṍa b e	tʃ ṍa - b e - - - - -	3702	1943	ARROW	flechab	
 377	Purubora	ARROW	kujabe	kujabe	k u j a b e	k u j a b e	2973	876	ARROW	flechab	
 627	Ntogapid-Itogapuk	ARROW	tʃúabe	tʃúabe	tʃ úa b e	tʃ úa - b e - - - - -	3702	1943	ARROW	flechab	
-716	Ramarama	ARROW	siuã	siuã	s iuã	s iuã	106	676	ARROW	flechab	
+716	Ramarama	ARROW	siuã	siuã	s iu ã	s iu ã	106	676	ARROW	flechab	
 820	Makurap	ARROW	biareʔ / toraka	biareʔ	b ia r e ʔ	- - b ia r e ʔ -	3707	1948	ARROW	flecha0	
 821	Makurap	ARROW	biareʔ / toraka	toraka	t o r a k a	t o r a k a	107	672	ARROW	flecha0	
 1170	Wayoro	ARROW	wopot	wopot	w o p o t	w o - - p o t	3699	1940	ARROW	flecha	
@@ -700,7 +700,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	N
 2724	Gavião	ARROW	dʒaβ	dʒaβ	dʒ a β	- dʒ a β	101	671	ARROW	flecha9	
 3127	Monde	ARROW	dʒab	dʒab	dʒ a b	- dʒ a b	101	671	ARROW	flecha9	
 3399	Arua	ARROW	ndʒap	ndʒap	n dʒ a p	n dʒ a p	101	671	ARROW	flecha9	
-3610	Matanau	ARROW	mabeʃipun	mabeʃipun	m a b e + ʃ i p u n	m a b e + ʃ i p u n	102	668	HAND ?	flecha9	
+3610	Matanau	ARROW	mabeʃipun	mabeʃipun	m a b e + ʃ i p u n	m a b e + ʃ i p u n	102	668 2020	HAND ?	flecha9	
 3679	Kabanae	ARROW	wiap	wiap	w ia p	- w ia p	101	671	ARROW	flecha9	
 3902	Surui-Paiter	ARROW	jab	jab	j a b	- j a b	101	671	ARROW	flecha9	
 4237	Karitiana	ARROW	mɨpãn	mɨpãn	m ɨ p ã n	m ɨ p ã - - - - n	102	668	ARROW	flecha	
@@ -1377,7 +1377,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	N
 19635	Kokama	BE WRONG	tsupara	tsupara	ts u p a r a	ts u p a r a	184	1263	BE.WRONG		
 20823	Zo'e	BE WRONG	apat	apat	a p a t	a p a t	184	1263	BE		
 21642	Teko	BE WRONG	opat	opat	o p a t	o p a t	184	1263	BE.WRONG		
-21780	Guarayo	BE WRONG	opa	opa	o p a	o p a			BE.WRONG		
+21780	Guarayo	BE WRONG	opa	opa	o p a	o p a	184	1263	BE.WRONG		
 26	Karo	BEANS	maʔta	maʔta	m a ʔ t a	- - m a - - ʔ - t a	198	1306	BEANS	feijao	
 388	Purubora	BEANS	ʃakakɨj	ʃakakɨj	ʃ a k a k ɨ j	ʃ a k a k ɨ j	201	1312	BEANS	feijao	
 832	Makurap	BEANS	kakeʔ	kakeʔ	k a k e ʔ	k a - - k e ʔ -	3480	1626	BEANS	feijao	
@@ -1459,7 +1459,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	N
 7314	Surui-Aikewara	BEARD	enɨwahawa	enɨwahawa	e n ɨ w a + h a w a	e n ɨ w a + h a w a	205	1363 1365	CHIN HAIR	barba1	
 7925	Tembe	BEARD	amutaw	amutaw	a m u t a w	a - - - m u t a w - -	208	1366	BEARD	barba1	
 8254	Guajajara	BEARD	mutaw	mutaw	m u t a w	- - - - m u t a w - -	208	1366	BEARD	barba2	
-8588	Apiaka	BEARD	ajvanindiva	ajvanindiva	a j v a n i nd i v a	a j v a n i nd i v a -	205	1363 1365	BEARD	barba	
+8588	Apiaka	BEARD	ajvanindiva	ajvanindiva	a j v a n i nd i v a	a j v a n i nd i v a -	205	1363	BEARD	barba	
 8838	Parintintin	BEARD	enɨβahaβa	enɨβahaβa	e n ɨ β a + h a β a	e n ɨ β a + h a β a	205	1363 1365	CHIN HAIR	barba1	
 9199	Amondawa	BEARD	enɨβahaβa	enɨβahaβa	e n ɨ β a + h a β a	e n ɨ β a + h a β a	205	1363 1365	CHIN HAIR	barba1	
 9503	Tenharim	BEARD	enɨβahaβa	enɨβahaβa	e n ɨ β a + h a β a	e n ɨ β a + h a β a	205	1363 1365	CHIN HAIR	barba1	
@@ -1522,7 +1522,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	N
 15205	Siriono	BEAUTIFUL	turã	turã	t u r ã	t u r ã - - -	211	1413	BEAUTIFUL	bonito2	
 16516	Guaraní	BEAUTIFUL	porã	porã	p o r ã	p o r ã - - -	211	1413	BEAUTIFUL	bonito2	
 16850	Old Guaraní	BEAUTIFUL	porã	porã	p o r ã	p o r ã - - -	211	1413	BEAUTIFUL	bonito2	
-17413	Xeta	BEAUTIFUL	iwandej	iwandej	i w a + nd e j	i w a + nd e j	21?	1839 224	? WANT	bonito	
+17413	Xeta	BEAUTIFUL	iwandej	iwandej	i w a + nd e j	i w a + nd e j	210	1839 224	? WANT	bonito	
 17866	Tapiete	BEAUTIFUL	kapɨrɨ	kapɨrɨ	k a p ɨ r ɨ	k a p ɨ r ɨ - - -	3625	1834	BEAUTIFUL	bonito	
 18381	Omagua	BEAUTIFUL	ɪrá	ɪrá	ɪ r á	- ɪ r á - - -	211	1413	BEAUTIFUL	bonito2	
 18662	Kokama	BEAUTIFUL	era	era	e r a	- e r a - - -	211	1413	BEAUTIFUL	bonito2	
@@ -2091,7 +2091,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	N
 20580	Guajá	BLOOD	awɨ	awɨ	a w ɨ	a w ɨ	272	1915	BLOOD		
 21571	Uruku	BLOOD	jú	jú	j ú	j ú	278	1919	BLOOD		
 21777	Amanaye	BLOOD	ewɨ	ewɨ	e w ɨ	e w ɨ	277	1913	BLOOD		
-22051	Kepkiriwat	BLOOD	(u)eu	(u)eu	ueu	ueu	275	1916	BLOOD		
+22051	Kepkiriwat	BLOOD	(u)eu	(u)eu	u eu	u eu	275	1916	BLOOD		
 22216	Kampe	BLOOD	eɨ	eɨ	eɨ	eɨ	277	1913	BLOOD		
 38	Karo	BLOW	pupu	pupu	p u p u	- - - p u p u - -	281	1975	BLOW	soprar1	
 725	Ramarama	BLOW	pupu	pupu	p u p u	- - - p u p u - -	281	1975	BLOW	soprar1	
@@ -2284,7 +2284,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	N
 41	Karo	BOW	tagɨp	tagɨp	t a g ɨ p	t a g ɨ p -	307	2156	BOW	arco6	
 397	Purubora	BOW	támẽ / waran	támẽ	t á m ẽ	t á m ẽ -	309	2159	BOW	arco	
 635	Ntogapid-Itogapuk	BOW	tágup	tágup	t á g u p	t á g u p -	307	2156	BOW	arco6	
-727	Ramarama	BOW	siuãmbé	siuãmbé	s iuã mb é	s iuã mb é	3739	1986	BOW	arco	
+727	Ramarama	BOW	siuãmbé	siuãmbé	s iu ã mb é	s iu ã mb é	3739	1986	BOW	arco	
 848	Makurap	BOW	mbotʃato	mbotʃato	mb o tʃ a t o	mb o tʃ a t o	311	2158	BOW	arco	
 1191	Wayoro	BOW	ŋguŋup	ŋguŋup	ŋ u ŋ u p	ŋ u ŋ u p -	3742	1989	BOW	arco6	
 1519	Tupari	BOW	pen	pen	p e n	p e n - - -	3741	1988	BOW	arco	
@@ -2387,7 +2387,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	N
 11288	Teko	BOY	awakʷelalaʔil	awakʷelalaʔil	a w a kʷ e l a l a ʔ i l	a w a kʷ e l a l a ʔ i l	320	2231	BOY	menino6	
 11664	Wayampi	BOY	jaʔɨkʷimaʔe	jaʔɨkʷimaʔe	j a ʔ ɨ + kʷ i + m a ʔ e	j a ʔ ɨ + kʷ i + m a ʔ e	54	9 8 737	_SMALL PENIS _NOMZ	menino3	
 12047	Zo'e	BOY	kuanĩ	kuanĩ	k ua n ĩ	k ua n ĩ - - - - -	312	2227	BOY	menino	
-12298	Ka'apor	BOY	kunumiraɨr / kunumi	kunumiraɨr	k u n u m i + r aɨ r	k u n u m i + r aɨ r	312	2227	BOY SON	menino1	
+12298	Ka'apor	BOY	kunumiraɨr / kunumi	kunumiraɨr	k u n u m i + r aɨ r	k u n u m i + r aɨ r	312	2227 15123	BOY SON	menino1	
 12600	Anambe	BOY	kurumĩ	kurumĩ	k u r u m ĩ	k u r u m ĩ - - -	312	2227	BOY	menino1	
 12803	Turiwara	BOY	kunumĩ	kunumĩ	k u n u m ĩ	k u n u m ĩ - - -	312	2227	BOY	menino1	
 12883	Kamajura	BOY	kunuʔum	kunuʔum	k u n u ʔ u m	k u n u ʔ u m - -	312	2227	BOY	menino1	
@@ -2511,6 +2511,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	N
 21440	Uruku	BRAZIL NUT	hijá	hijá	h i j á	h i j á	336	2335	BRAZIL.NUT		
 21617	Cinta-Larga	BRAZIL NUT	maangaap	maangaap	m aa n g aa p	m aa n g aa p	338	2333	BRAZIL.NUT		
 21631	Teko	BRAZIL NUT	tɨtɨkö / tutukö	tɨtɨkö	t ɨ t ɨ k ö	t ɨ t ɨ k ö	3362	1461	BRAZIL.NUT		
+22284	Piripkura	BRAZIL NUT	jã	jã	j ã	j ã	334	2331	BRAZIL.NUT		
 45	Karo	BREAK	təj	təj	t ə j	t ə j	347	2382	BREAK	quebrarromper	
 852	Makurap	BREAK	pak	pak	p a k	- p a k - -	342	2378	BREAK	quebrarromper	
 1194	Wayoro	BREAK	parãŋ	parãŋ	p a r ã ŋ	- p a r ã ŋ	342	2378	BREAK	quebrarromper	
@@ -2556,7 +2557,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	N
 15790	Chiriguano	BREAK	pẽ	pẽ	p ẽ	- p ẽ - - -	342	2378	BREAK	quebrarromper3	
 16175	Mbya	BREAK	(mo)pẽ	(mo)pẽ	m o + p ẽ	m o + p ẽ	342	522 2378	CAUSATIVE BREAK	quebrarromper2	
 16534	Guaraní	BREAK	(mo)pẽ	(mo)pẽ	m o + p ẽ	m o + p ẽ	342	522 2378	CAUSATIVE BREAK	quebrarromper3	
-16867	Old Guaraní	BREAK	(mo)pe	(mo)pe	m o + p e	m o + p e	342	522 2378	CAUSATIVE BREAK	quebrarromper3	
+16867	Old Guaraní	BREAK	(mo)pe / jeka	(mo)pe	m o + p e	m o + p e	342	522 2378	CAUSATIVE BREAK	quebrarromper3	
 17194	Ache	BREAK	upẽ	upẽ	u p ẽ	- - u p ẽ -	342	2378	BREAK	quebrarromper3	
 17429	Xeta	BREAK	soro	soro	s o r o	s - - o r - - o	344	2376	BREAK	quebrarromper	
 17656	Kaiowa	BREAK	dʒoka	dʒoka	dʒ o k a	- - dʒ o k a -	343	2377	BREAK	quebrarromper1	
@@ -2569,6 +2570,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	N
 21143	Karitiana	BREAK	hop	hop	h o p	h o p	3093	1056	BREAK		
 21737	Zoro	BREAK	pege	pege	p e g e	p e g e	3394	1513	BREAK		
 22279	Tupinambá	BREAK	pen / jeká	jeká	j e k a	j e k a	343	2377	BREAK		
+22280	Old Guaraní	BREAK	(mo)pe / jeká	jeká	j e k á	j e k á	343	2377	BREAK		
 46	Karo	BREAST	nãmʔaʔ	nãmʔaʔ	n ã m ʔ a ʔ	- - n ã m ʔ a ʔ -	349	2429	BREAST	seio1	
 399	Purubora	BREAST	nãwã	nãwã	n ã w ã	- - n ã w - ã - -	349	2429	BREAST	seio1	
 728	Ramarama	BREAST	nãmá	nãmá	n ã m á	- - n ã m - á - -	349	2429	BREAST	seio1	
@@ -3151,7 +3153,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	N
 7342	Surui-Aikewara	CANOE	ɨgar	ɨgar	ɨ + g a r	ɨ + g a r	406	18593 3003	LIQUID CANOE	canoa1	
 7672	Tapirapé	CANOE	jãra	jãra	i + ã r a	i + ã r a	406	18593 3003	LIQUID CANOE	canoa1	
 7954	Tembe	CANOE	ijiari	ijiari	i j i + a r i	i j i + a r i	406	18593 3003	LIQUID CANOE	canoa1	
-8284	Guajajara	CANOE	ɨar	ɨar / kanu	ɨ + a r	ɨ + a r	405	3003	CANOE	canoa1	
+8284	Guajajara	CANOE	ɨar / kanu	ɨar	ɨ + a r	ɨ + a r	405	18593 3003	LIQUID CANOE	canoa1	
 8613	Apiaka	CANOE	ihara	ihara	i + h a r a	i + h a r a	406	18593 3003	LIQUID CANOE	canoa1	
 8872	Parintintin	CANOE	ɨhar	ɨhar	ɨ + h a r	ɨ + h a r	406	18593 3003	LIQUID CANOE	canoa1	
 9222	Amondawa	CANOE	ɨhar	ɨhar	ɨ + h a r	ɨ + h a r	406	18593 3003	LIQUID CANOE	canoa1	
@@ -3183,7 +3185,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	N
 15799	Chiriguano	CANOE	tʃarana	tʃarana	tʃ a r a n a	- tʃ a r a n a	405	3003	CANOE	canoa1	
 16043	Jora	CANOE	idá	idá	i d á	i d á -	409	3001	CANOE	canoa	
 16189	Mbya	CANOE	ja	ja	j + a	j + a	406	18593 3003	LIQUID CANOE	canoa1	
-16545	Guaraní	CANOE	ɨɨa	ɨɨa	ɨː + a	ɨː + a	405	3003	CANOE	canoa1	
+16545	Guaraní	CANOE	ɨɨa	ɨɨa	ɨː a	ɨː a	405	3003	CANOE	canoa1	
 16884	Old Guaraní	CANOE	ɨga	ɨga	ɨ + g a	ɨ + g a	406	18593 3003	LIQUID CANOE	canoa1	
 17437	Xeta	CANOE	ipekʷe	ipekʷe	i p e kʷ e	i - - p e kʷ - - e	407	3006	CANOE	canoa4	
 17896	Tapiete	CANOE	ʃãrãnã	ʃãrãnã	ʃ ã r ã n ã	- ʃ ã r ã n ã	405	3003	CANOE	canoa1	
@@ -3194,7 +3196,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	N
 20690	Kabanae	CANOE	ivap	ivap	i v a p	i v a p	407	3006	CANOE		
 21196	Kepkiriwat	CANOE	aniʃa / amiʃa	aniʃa	a n i ʃ a	a n i ʃ a	3116	1098	CANOE		
 21197	Kepkiriwat	CANOE	aniʃa / amiʃa	amiʃa	a m i ʃ a	a m i ʃ a	3116	1098	CANOE		
-22127	Guajajara	CANOE	kanu	ɨar / kanu	k a n u	k a n u	408	3005	CANOE		Borrowed from a Carib language or from Portuguese
+22127	Guajajara	CANOE	ɨar / kanu	ɨar	k a n u	k a n u	408	3005	CANOE		Borrowed from a Carib language or from Portuguese
 58	Karo	CAPUCHIN MONKEY	naʔwəj	naʔwəj	n a ʔ w ə j	n a ʔ w ə j	417	3071	CAPUCHIN	macacoprego6	
 404	Purubora	CAPUCHIN MONKEY	waʔora	waʔora	w a ʔ o r a	w a ʔ o r a -	418	3073	CAPUCHIN	macacoprego	
 732	Ramarama	CAPUCHIN MONKEY	naói	naói	n a ói	n a ói	419	3074	CAPUCHIN	macacoprego6	
@@ -3245,8 +3247,8 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	N
 862	Makurap	CAPYBARA	tʃaβi	tʃaβi	tʃ a β i	tʃ a β i - - - -	3200	1241	CAPYBARA	capivara	
 1209	Wayoro	CAPYBARA	ɲõõdele	ɲõõdele	ɲ õː d e l e	ɲ õː d e l e	426	3113	CAPYBARA	capivara	
 1543	Tupari	CAPYBARA	takarasɨ	takarasɨ	t a k a r a s ɨ	t a k a r a s ɨ	425	3112	CAPYBARA	capivara	
-1930	Akuntsu	CAPYBARA	ekwajakwĩn	ekwajakwĩn	e kʷ a j + a kʷ ĩ n	e kʷ a j + a kʷ ĩ n	424	3107 2174	TAPIR ?	capivara	
-2300	Mekens	CAPYBARA	ɨkʷaajakoba	ɨkʷaajakoba	ɨ kʷ aː j + a k o b a	ɨ kʷ aː j - - - - + a k o b a	424	3107 1232	TAPYR ?	capivara	
+1930	Akuntsu	CAPYBARA	ekwajakwĩn	ekwajakwĩn	e kʷ a j + a kʷ ĩ n	e kʷ a j + a kʷ ĩ n	424	16282 2174	TAPIR ?	capivara	
+2300	Mekens	CAPYBARA	ɨkʷaajakoba	ɨkʷaajakoba	ɨ kʷ aː j + a k o b a	ɨ kʷ aː j - - - - + a k o b a	424	16282 1232	TAPYR ?	capivara	
 2772	Gavião	CAPYBARA	βatsãjbiit	βatsãjbiit	β a ts ã j + b iː t	β a ts ã j + b iː t	422	3109 2175	TAPIR ?	capivara3	
 3163	Monde	CAPYBARA	βãsãdĩt	βãsãdĩt	β ã s ã d ĩ t	β ã s ã - d ĩ t -	422	3109	CAPYBARA	capivara3	
 3424	Arua	CAPYBARA	βatsãjbit	βatsãjbit	β a ts ã j b i t	β a ts ã j b i t -	422	3109	CAPYBARA	capivara3	
@@ -3260,32 +3262,32 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	N
 5785	Kuruaya	CAPYBARA	we	we	w e	- w e - - - -	3215	3111	CAPYBARA	capivara	
 6092	Mawe	CAPYBARA	kupidu / paɨwato	kupidu	k u p i d u	- k u p - - i d u - -	3210	1242	CAPYBARA	capivara	
 6093	Mawe	CAPYBARA	kupidu / paɨwato	paɨwato	p aɨ w a t o	p aɨ w a t o -	3214	1245	CAPYBARA	capivara	
-6454	Awetí	CAPYBARA	kapiwat	kapiwat	k a p i + w + a t	k a p i + w + a t	420	3108 2172 2173	CAPYBARA	capivara12	
-6765	Parakana	CAPYBARA	akapiʔɨwar	akapiʔɨwar	a k a p i ʔ ɨ + w + a r	a k a p i ʔ ɨ + w + a r	420	3108 2172 2173	CAPYBARA	capivara12	
-7344	Surui-Aikewara	CAPYBARA	kapiwara	kapiwara	k a p i + w + a r a	k a p i + w + a r a	420	3108 2172 2173	CAPYBARA	capivara12	
-8286	Guajajara	CAPYBARA	kapiwar	kapiwar	k a p i + w + a r	k a p i + w + a r	420	3108 2172 2173	CAPYBARA	capivara12	
-8874	Parintintin	CAPYBARA	tapiβar	tapiβar	t a p i + β + a r	t a p i + β + a r	3200	3108 2172 2173	CAPYBARA	capivara12	
-10580	Araweté	CAPYBARA	kapiwara	kapiwara	k a p i + w + a r a	k a p i + w + a r a	420	3108 2172 2173	CAPYBARA	capivara12	
-10938	Guajá	CAPYBARA	kapiawárə	kapiawárə	k a p ia + w + á r ə	k a p ia + w + á r ə	420	3108 2172 2173	CAPYBARA	capivara12	
-11691	Wayampi	CAPYBARA	kapiyuwa	kapiyuwa	k a p i j + u + w a	k a p i j + u + w a	420	3108 2172 2173	CAPYBARA	capivara12	
-12311	Ka'apor	CAPYBARA	kapiʔiwar	kapiʔiwar	k a p i ʔ i + w + a r	k a p i ʔ i + w + a r	420	3108 2172 2173	CAPYBARA	capivara12	
-13678	Tupinambá	CAPYBARA	kapi (ʔi)-βara	kapiβara	k a p i + ʔ u + a r a	k a p i + ʔ u + a r a	420	3108 2172 2173	GRASS EAT NOMINALIZER	capivara12	
-14070	Nheengatu	CAPYBARA	kapi-wara	kapi-wara	k a p i + w + a r a	k a p i + w + a r a	420	3108 2172 2173	CAPYBARA	capivara12	
-14408	Tupí Austral	CAPYBARA	kapibara / kapivara	kapibara	k a p i + b + a r a	k a p i + b + a r a	420	3108 2172 2173	GRASS EAT NOMINALIZER	capivara12	
-14409	Tupí Austral	CAPYBARA	kapibara / kapivara	kapivara	k a p i + v + a r a	k a p i + v + a r a	420	3108 2172 2173	GRASS EAT NOMINALIZER	capivara12	
+6454	Awetí	CAPYBARA	kapiwat	kapiwat	k a p i + w + a t	k a p i + w + a t	420	7547 2172 2173	GRASS EAT NOMINALIZER	capivara12	
+6765	Parakana	CAPYBARA	akapiʔɨwar	akapiʔɨwar	a k a p i ʔ ɨ + w + a r	a k a p i ʔ ɨ + w + a r	420	7547 2172 2173	GRASS EAT NOMINALIZER	capivara12	
+7344	Surui-Aikewara	CAPYBARA	kapiwara	kapiwara	k a p i + w + a r a	k a p i + w + a r a	420	7547 2172 2173	GRASS EAT NOMINALIZER	capivara12	
+8286	Guajajara	CAPYBARA	kapiwar	kapiwar	k a p i + w + a r	k a p i + w + a r	420	7547 2172 2173	GRASS EAT NOMINALIZER	capivara12	
+8874	Parintintin	CAPYBARA	tapiβar	tapiβar	t a p i + β + a r	t a p i + β + a r	3200	3108 2172 2173	GRASS EAT NOMINALIZER	capivara12	
+10580	Araweté	CAPYBARA	kapiwara	kapiwara	k a p i + w + a r a	k a p i + w + a r a	420	7547 2172 2173	GRASS EAT NOMINALIZER	capivara12	
+10938	Guajá	CAPYBARA	kapiawárə	kapiawárə	k a p ia + w + á r ə	k a p ia + w + á r ə	420	7547 2172 2173	GRASS EAT NOMINALIZER	capivara12	
+11691	Wayampi	CAPYBARA	kapiyuwa	kapiyuwa	k a p i j + u + w a	k a p i j + u + w a	420	7547 2172 2173	GRASS EAT NOMINALIZER	capivara12	
+12311	Ka'apor	CAPYBARA	kapiʔiwar	kapiʔiwar	k a p i ʔ i + w + a r	k a p i ʔ i + w + a r	420	7547 2172 2173	GRASS EAT NOMINALIZER	capivara12	
+13678	Tupinambá	CAPYBARA	kapi (ʔi)-βara	kapiβara	k a p i + ʔ u + a r a	k a p i + ʔ u + a r a	420	7547 2172 2173	GRASS EAT NOMINALIZER	capivara12	
+14070	Nheengatu	CAPYBARA	kapi-wara	kapi-wara	k a p i + w + a r a	k a p i + w + a r a	420	7547 2172 2173	GRASS EAT NOMINALIZER	capivara12	
+14408	Tupí Austral	CAPYBARA	kapibara / kapivara	kapibara	k a p i + b + a r a	k a p i + b + a r a	420	7547 2172 2173	GRASS EAT NOMINALIZER	capivara12	
+14409	Tupí Austral	CAPYBARA	kapibara / kapivara	kapivara	k a p i + v + a r a	k a p i + v + a r a	420	7547 2172 2173	GRASS EAT NOMINALIZER	capivara12	
 15236	Siriono	CAPYBARA	kɨɨba	kɨɨba	k ɨː b a	- k ɨː b - - - - a - -	3210	1242	CAPYBARA	capivara	
-16191	Mbya	CAPYBARA	kapiʔɨβa	kapiʔɨβa	k a p i ʔ ɨ β a	- k a p i ʔ ɨ β a - -	420	3108 2172 2173	CAPYBARA	capivara12	
-16546	Guaraní	CAPYBARA	kapiʔɨva	kapiʔɨva	k a p i ʔ ɨ + v + a	k a p i ʔ ɨ + v + a	420	3108 2172 2173	CAPYBARA	capivara	
-16885	Old Guaraní	CAPYBARA	kapiɨβa (r)	kapiɨβa	k a p iɨ + β + a	k a p iɨ + β + a	420	3108 2172 2173	CAPYBARA	capivara	
-17438	Xeta	CAPYBARA	kapiwaj	kapiwaj	k a p i + w + a j	k a p i + w + a j	420	3108	CAPYBARA	capivara	
-18924	Amondawa	CAPYBARA	tapiwara	tapiwara	t a p i + w + a r a	t a p i + w + a r a	3200	1241	CAPYBARA		
-19349	Asuriní Tocantins	CAPYBARA	kapiwat	kapiwat	k a p i + w + a t	k a p i + w + a t	420	3108 2172 2173	CAPYBARA		
-21333	Warazu	CAPYBARA	kapiva	kapiva	k a p i + v + a	k a p i + v + a	420	3108 2172 2173	CAPYBARA		
+16191	Mbya	CAPYBARA	kapiʔɨβa	kapiʔɨβa	k a p i +  ʔ ɨ + β a	k a p i +  ʔ ɨ + β a	420	7547 2172 2173	GRASS EAT NOMINALIZER	capivara12	
+16546	Guaraní	CAPYBARA	kapiʔɨva	kapiʔɨva	k a p i ʔ ɨ + v + a	k a p i ʔ ɨ + v + a	420	7547 2172 2173	GRASS EAT NOMINALIZER	capivara	
+16885	Old Guaraní	CAPYBARA	kapiɨβa (r)	kapiɨβa	k a p iɨ + β + a	k a p iɨ + β + a	420	7547 2172 2173	GRASS EAT NOMINALIZER	capivara	
+17438	Xeta	CAPYBARA	kapiwaj	kapiwaj	k a p i + w + a j	k a p i + w + a j	420	7547 2172 2173	GRASS EAT NOMINALIZER	capivara	
+18924	Amondawa	CAPYBARA	tapiwara	tapiwara	t a p i + w + a r a	t a p i + w + a r a	3200	16283 2172 2173	GRASS EAT NOMINALIZER		
+19349	Asuriní Tocantins	CAPYBARA	kapiwat	kapiwat	k a p i + w + a t	k a p i + w + a t	420	7547 2172 2173	GRASS EAT NOMINALIZER		
+21333	Warazu	CAPYBARA	kapiva	kapiva	k a p i + v + a	k a p i + v + a	420	7547 2172 2173	GRASS EAT NOMINALIZER		
 21383	Uruku	CAPYBARA	márũ	márũ	m á r ũ	m á r ũ	421	1247	CAPYBARA		
-21392	Kokama	CAPYBARA	kapiwara	kapiwara	k a p i + w + a r a	k a p i + w + a r a	420	3108 2172 2173	CAPYBAEA		
+21392	Kokama	CAPYBARA	kapiwara	kapiwara	k a p i + w + a r a	k a p i + w + a r a	420	7547 2172 2173	GRASS EAT NOMINALIZER		
 21630	Teko	CAPYBARA	kapiai	kapiai	k a p i ai	k a p i ai	420	3108	CAPYBAEA		
-21669	Apiaka	CAPYBARA	kapiwára	kapiwára	k a p i + w + á r a	k a p i + w + á r a	420	3108 2172 2173	CAPYBARA		
-22203	Kampe	CAPYBARA	ɨkʷaj akoba	ɨkʷaj akoba	ɨ kʷ a j + a k o b a	ɨ kʷ a j + a k o b a	424	3107 1232	TAPYR ?		
+21669	Apiaka	CAPYBARA	kapiwára	kapiwára	k a p i + w + á r a	k a p i + w + á r a	420	7547 2172 2173	GRASS EAT NOMINALIZER		
+22203	Kampe	CAPYBARA	ɨkʷaj akoba	ɨkʷaj akoba	ɨ kʷ a j + a k o b a	ɨ kʷ a j + a k o b a	424	16282 1232	TAPIR ?		
 60	Karo	CARÁ ROOT / YAM	maraʔã	maraʔã	m a r a ʔ ã	m a r a ʔ ã	2823	536	CARÁ	inhame	
 407	Purubora	CARÁ ROOT / YAM	ʃoʃotka / bobká / ekap	ʃoʃotka	ʃ o ʃ o t k a	ʃ o ʃ o t k a	431	3153	CARÁ	inhame	
 408	Purubora	CARÁ ROOT / YAM	ʃoʃotka / bobká / ekap	bobká	b o b k á	b o b k - - á -	3218	1250	CARÁ	inhame	
@@ -3337,6 +3339,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	N
 21346	Warazu	CARÁ ROOT / YAM	kara	kara	k a r a	- k a r a - - - - - -	427	3150	CARÁ		
 21384	Uruku	CARÁ ROOT / YAM	máneá	máneá	m á n eá	m á n eá	2823	536	CARÁ		
 21670	Apiaka	CARÁ ROOT / YAM	kará	kará	k a r á	- k a r á - - - - - -	427	3150	CARÁ		
+22292	Piripkura	CARÁ ROOT / YAM	akará	akará	a k a r á	a k a r á	427	3150	CARÁ		
 61	Karo	CHIEF / MASTER / OWNER	iʔjat_ʃu	iʔjat_ʃu	i ʔ j a t	- - i ʔ - j a t	447	3248	CHIEF	chefecacique	
 410	Purubora	CHIEF / MASTER / OWNER	kapá	kapá	k a p á	k a p á - - - -	1177	119	CHIEF	chefecacique	
 864	Makurap	CHIEF / MASTER / OWNER	moat	moat	m oa t	m oa t - - -	452	3254	CHIEF	chefecacique	
@@ -3390,7 +3393,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	N
 21022	Ñandeva	CHIEF / MASTER / OWNER	tuwitʃa	tuwitʃa	t u + w i t ʃ a	t u + w i t ʃ a	447	117 3255	CHIEF ?		
 21373	Uruku	CHIEF / MASTER / OWNER	totó	totó	t o t ó	t o t ó	447	3248	CHIEF		
 21387	Mekens	CHIEF / MASTER / OWNER	 tabisarã	 tabisarã	t a b i s a r ã	t a b i s a r ã	447	1406	CHIEF		
-21602	Ka'apor	CHIEF / MASTER / OWNER	tuʃa	tuʃa	t u + ʃ a	t u + ʃ a	447	117 3255	CHIEF		Warrior chief
+21602	Ka'apor	CHIEF / MASTER / OWNER	tuʃa	tuʃa	t u ʃ a	t u ʃ a	447	3255	CHIEF		Warrior chief
 21671	Apiaka	CHIEF / MASTER / OWNER	iapɨ	iapɨ	ia p ɨ	ia p ɨ	1104	116	CHIEF		
 62	Karo	CASHEW	tson	tson	ts o n	ts o n	436	3193	CASHEW	caju	
 734	Ramarama	CASHEW	tson	tson	ts o n	ts o n	436	3193	CASHEW	caju	
@@ -3765,11 +3768,13 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	N
 14079	Nheengatu	COCOA	kakaw	kakaw	k a k a w	k a k a - - - w - - -	514	3582	COCOA	cacau1	
 16200	Mbya	COCOA	kakaw	kakaw	k a k a w	k a k a - - - w - - -	514	3582	COCOA	cacau1	
 16553	Guaraní	COCOA	kuvuasu	kuvuasu	k u v ua s u	- - k u v - ua s u - -	3180	1200	COCOA	cacau	
-18927	Amondawa	COCOA	jãbitawhua	jãbitawhua	j ã b i t a w h ua	j ã b i t a w h ua	450	130	COCOA		
+18927	Amondawa	COCOA	jãbitawhua	jãbitawhua	j ã b i t a w + h ua	j ã b i t a w + h ua	450	130 1650	COCOA BIG		
 19191	Mundurukú	COCOA	wadʒeba	wadʒeba	w a dʒ e + b a	w a dʒ e + b a	1012	109 110	COCOA CLASSIFIER.ARM		
 19356	Asuriní Tocantins	COCOA	akaʔo	akaʔo	a k a ʔ o	- a k a - ʔ o - - - -	514	3582	COCOA		
 21379	Uruku	COCOA	agajá	agajá	a g a j á	a g a j á	3182	1202	COCOA		
 21675	Apiaka	COCOA	kakau	kakau	k a k au	k a k au	514	3582	COCOA		
+22282	Piripkura	COCOA	tarapúa / jumitauhúa	tarapúa	t a r a p ú a	t a r a p ú a	3964	456	COCOA		
+22283	Piripkura	COCOA	tarapúa / jumitauhúa	jumitauhúa	j u m i t a + u h ú a	j u m i t a + u h ú a	3963	140 1650	COCOA BIG		
 71	Karo	COLD	pitẽk	pitẽk	p i t ẽ k	- - p i t ẽ - - k - - -	520	3615	COLD	frio4	
 417	Purubora	COLD	bidek	bidek	b i d e k	- - b i d e - - k - - -	520	3615	COLD	frio4	
 641	Ntogapid-Itogapuk	COLD	iwitéakana / manẽg	iwitéakana	i w i t éa k a n a	- i w i t éa - - k a n a	3768	2017	COLD	frio	
@@ -3838,7 +3843,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	N
 17204	Ache	COLD	ruɨ	ruɨ	r uɨ	- r uɨ - - - - - - - -	519	3617	COLD	frio1	
 17444	Xeta	COLD	rãitʃa	rãitʃa	r ãi tʃ a	- r - - ãi tʃ a - - - -	519	3617	COLD	frio1	
 17665	Kaiowa	COLD	roʔɨ	roʔɨ	r o ʔ ɨ	- r o ʔ ɨ - - - - - -	519	3617	COLD	frio1	
-17904	Tapiete	COLD	rowaj	rowaj	r o uai	- r o - uai - - - - - -	519	3617	COLD	frio1	
+17904	Tapiete	COLD	rowaj	rowaj	r ou ai	- r ou - ai - - - - - -	519	3617	COLD	frio1	
 18412	Omagua	COLD	sɨraj	sɨraj	s ɨ r a j	s ɨ r a j	522	3618	COLD	frio	
 18696	Kokama	COLD	tsɨri	tsɨri	ts ɨ r i	ts ɨ r i -	522	3618	COLD	frio	
 19357	Asuriní Tocantins	COLD	oʔɨhɨk	oʔɨhɨk	o ʔ ɨ h ɨ k	- - o ʔ ɨ - - - h ɨ k	519	3617	COLD		
@@ -3940,7 +3945,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	N
 10946	Guajá	COMB	kɨwa	kɨwa	k ɨ + w + a	- - k ɨ - - - + w + a	528	3689 21 60	LICE EAT NOMINALIZER	pente1	
 11316	Teko	COMB	kɨwa	kɨwa	k ɨ + w + a	- - k ɨ - - - + w + a	528	3689 21 60	LICE EAT INSTRUMENT	pente1	
 11705	Wayampi	COMB	kɨwa	kɨwa	k ɨ + w + a	- - k ɨ - - - + w + a	528	3689 21 60	LICE EAT NOMINALIZER	pente1	
-12062	Zo'e	COMB	kɨwa	kɨwa	k ɨ  + w + a	- - k ɨ - - -	528	3689 21 60	LICE EAT NOMINALIZER	pente1	
+12062	Zo'e	COMB	kɨwa	kɨwa	k ɨ + w + a	k ɨ + w + a	528	3689 21 60	LICE EAT NOMINALIZER	pente1	
 12321	Ka'apor	COMB	kɨwa	kɨwa	k ɨ + w + a	- - k ɨ - - - + w + a	528	3689 21 60	LICE EAT NOMINALIZER	pente1	
 12904	Kamajura	COMB	kɨwap	kɨwap	k ɨ + w + a p	- - k ɨ - - - + w + a p	528	3689 21 60	LICE EAT NOMINALIZER	pente1	
 13175	Asuriní Xingu	COMB	kɨwaw	kɨwaw	k ɨ + w + a w	- - k ɨ - - - + w + a w	528	3689 21 60	LICE EAT NOMINALIZER	pente1	
@@ -4037,7 +4042,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	N
 20398	Kepkiriwat	CORN / MAIZE	ziao pa / jahá	ziao pa	z ia o + p a	z ia o + p a	2826	541 542	MAIZE ?		
 21265	Urumi	CORN / MAIZE	naɲẽŋ / noiabá	naɲẽŋ	n a ɲ ẽ ŋ	n a ɲ ẽ ŋ	556	3811	CORN		
 22026	Kepkiriwat	CORN / MAIZE	ziao pa / jahá	jahá	j a h á	j a h á	558	3812	CORN		
-22144	Urumi	CORN / MAIZE	naɲẽŋ / noiabá	noiabá	n oia b á	n oia b á	3918	2249	CORN		
+22144	Urumi	CORN / MAIZE	naɲẽŋ / noiabá	noiabá	n oi a b á	n oi a b á	3918	2249	CORN		
 75	Karo	COTTON	mok	mok	m o k	- m o k - -	562	1420	COTTON	algodao8	
 421	Purubora	COTTON	akopak	akopak	a k o p + a k	a k o p + - - a k - -	561	3880 1420	COTTON ?	algodao7	
 644	Ntogapid-Itogapuk	COTTON	mbóg	mbóg	mb ó g	- mb ó g - -	562	1420	COTTON	algodao8	
@@ -4969,7 +4974,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	N
 5105	Juruna	DRINK (v)	awí	awí	a w í	- a w - í	3310	1374	DRINK	beber	
 5454	Mundurukú	DRINK (v)	kõn	kõn	k õ n	- - - k õ n	700	4883	DRINK	beber1	
 5814	Kuruaya	DRINK (v)	lʒe-jʔo	lʒe-jʔo	l ʒ e + j ʔ o	l ʒ e + j ʔ o - -	699	4888 4886	_drink DRINK	beber	
-6131	Mawe	DRINK (v)	are-ʔɨʔu	are-ʔɨʔu	a r e + ʔ ɨ + ʔ u	a r e + - ʔ ɨ + - ʔ u	699	18593 18593	? _liquid INGEST	beber	
+6131	Mawe	DRINK (v)	are-ʔɨʔu	are-ʔɨʔu	a r e + ʔ ɨ + ʔ u	a r e + - ʔ ɨ + - ʔ u	699	2051 18593 2172	? _liquid INGEST	beber	
 6483	Awetí	DRINK (v)	ɨʔu	ɨʔu	ɨ + ʔ u	- - ɨ + - ʔ u - -	699	18593 4886	_LIQUID INGEST	beber1	
 6802	Parakana	DRINK (v)	ʔɨo	ʔɨo	ʔ ɨ + o	- ʔ ɨ + - - o - -	699	18593 4886	_LIQUID INGEST	beber1	
 7117	Asuriní Tocantins	DRINK (v)	ʔo	ʔo	ʔ o	- ʔ o - -	699	4886	INGEST	beber1	
@@ -5456,7 +5461,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	N
 12347	Ka'apor	CECROPIA	amaʔɪ	amaʔɪ	a m a ʔ ɪ	a m a ʔ ɪ	439	3232	CECROPIA	embaubaimbauba	
 13724	Tupinambá	CECROPIA	ambaʔɨβ	ambaʔɨβ	a mb a + ʔ ɨ β	- - - a mb a - - + ʔ ɨ β	439	3232 309	CECROPIA TREE	embaubaimbauba1	
 14108	Nheengatu	CECROPIA	embajua	embajua	e mb a j ua	- - - e mb a j ua	439	3232	CECROPIA	embaubaimbauba1	
-16230	Mbya	CECROPIA	ambaj_gwatʃu	ambaj_gwatʃu	a mb a j + gw a tʃ u	a mb a j - - + gw a - - tʃ u	440	3231 3235	CECROPIA BIG	embaubaimbauba1	
+16230	Mbya	CECROPIA	ambaj_gwatʃu	ambaj_gwatʃu	a mb a j + gʷ a tʃ u	a mb a j - - + gʷ a - - tʃ u	440	3231 3235	CECROPIA BIG	embaubaimbauba1	
 19123	Guaraní	CECROPIA	ambaʔɨ	ambaʔɨ	a mb a ʔ ɨ	- - - a mb a ʔ ɨ	439	3232	CECROPIA		
 19295	Arikem	CECROPIA	ororoí	ororoí	o r o r o í	o r o r o í	440	3231	CECROPIA		
 19592	Araweté	CECROPIA	ámaʔi	ámaʔi	á m a + ʔ i	- - - á m a - - + ʔ i	439	3232 309	CECROPIA TREE		
@@ -5466,6 +5471,8 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	N
 21348	Warazu	CECROPIA	amaʔiv	amaʔiv	a m a + ʔ i v	a m a + ʔ i v	439	3232 309	CECROPIA TREE		
 21641	Teko	CECROPIA	kulekule	kulekule	k u l e k u l e	k u l e k u l e	441	3235	CECROPIA		
 22255	Mekens	CECROPIA	arãpe	arãpe	a r ã p e	a r ã p e	440	3231	CECROPIA		
+22285	Piripkura	CECROPIA	makawaʔɨwuhúa / ambaʔɨwa	makawaʔɨwuhúa	m a k a w a + ʔ ɨ w + u h ú a	m a k a w a + ʔ ɨ w + u h ú a	3962	101 309 1650	? TREE BIG		
+22286	Piripkura	CECROPIA	makawaʔɨwuhúa / ambaʔɨwa	ambaʔɨwa	a m b a + ʔ ɨ w a	a m b a + ʔ ɨ w a	439	3232 309	? TREE		
 100	Karo	ELECTRIC EEL	jogo	jogo	j o g o	j o g o -	750	5364	EEL	enguiapeixeeletricoporaque2	
 441	Purubora	ELECTRIC EEL	joko	joko	j o k o	j o k o -	750	5364	EEL	enguiapeixeeletricoporaque2	
 907	Makurap	ELECTRIC EEL	ndoko	ndoko	nd o k o	nd o k o -	750	5364	ELECTRIC-EEL	enguiapeixeeletricoporaque	
@@ -5866,14 +5873,14 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	N
 14959	Guarayo	FAT / GREASE	kɨra	kɨra	k ɨ + r a	k ɨ + r a	185	1698 1697	FAT ?	gordurabanha2	
 15280	Siriono	FAT / GREASE	kira	kira	k i + r a	k i + r a	185	1698 1697	FAT ?	gordurabanha2	
 15576	Warazu	FAT / GREASE	kira	kira	k i + r a	k i + r a	185	1698 1697	FAT ?	gordurabanha2	
-15833	Chiriguano	FAT / GREASE	kɨra	kɨra	k ɨ + r a	k ɨ + r a	185	1698	FAT ?	gordurabanha2	
+15833	Chiriguano	FAT / GREASE	kɨra	kɨra	k ɨ + r a	k ɨ + r a	185	1698 1697	FAT ?	gordurabanha2	
 16236	Mbya	FAT / GREASE	kɨra	kɨra	k ɨ + r a	k ɨ + r a	185	1698 1697	FAT ?	gordurabanha2	
 16588	Guaraní	FAT / GREASE	kɨrakʷe	kɨrakʷe	k ɨ + r a kʷ e	k ɨ + r a kʷ e	185	1698 1697	FAT ?	gordurabanha2	
 16929	Old Guaraní	FAT / GREASE	kɨr	kɨr	k ɨ + r	k ɨ + r	185	1698 1697	FAT ?	gordurabanha2	
 17227	Ache	FAT / GREASE	ipa	ipa	i p a	- - i - p a - - - -	185	1698	FAT	gordurabanha	
 17473	Xeta	FAT / GREASE	ikɨra	ikɨra	i k ɨ + r a	i k ɨ +  r a	185	1698 1697	FAT ?	gordurabanha2	
 17690	Kaiowa	FAT / GREASE	ɲandɨ	ɲandɨ	ɲ a nd ɨ	ɲ a nd ɨ -	799	5699	FAT	gordurabanha	
-17939	Tapiete	FAT / GREASE	kɨra	kɨra	k ɨ + r a	k ɨ + r a	185	1698	FAT	gordurabanha2	
+17939	Tapiete	FAT / GREASE	kɨra	kɨra	k ɨ r a	k ɨ r a	185	1698	FAT	gordurabanha2	
 18218	Ñandeva	FAT / GREASE	ɲandɨ	ɲandɨ	ɲ a nd ɨ	ɲ a nd ɨ -	799	5699	FAT	gordurabanha	
 18728	Kokama	FAT / GREASE	ikawa	ikawa	i k a w a	i k - a w a - - - -	797	5696	FAT	gordurabanha1	
 21484	Uruku	FAT / GREASE	hakabka	hakabka	h a k a b k a	h a k a b k a	797	5696	FAT		monkey's fat
@@ -6906,7 +6913,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	N
 9275	Amondawa	FORGET	jiaragwe	jiaragwe	j ia r a gʷ e	j ia r a gʷ e -	949	6789	FORGET	esquecer1	
 9589	Tenharim	FORGET	ʔaragwer	ʔaragwer	ʔ a r a gʷ e r	ʔ a r a gʷ e r	949	6789	FORGET	esquecer1	
 10639	Araweté	FORGET	mukaji	mukaji	m u k a j i	m u k a j i -	948	6790	FORGET	esquecer	
-11372	Teko	FORGET	eharaʤ	eharaʤ	e h a r a dʒ	e h a r a dʒ	947	5453 114	EYE ?	esquecer1	
+11372	Teko	FORGET	eharaʤ	eharaʤ	e h a + r a dʒ	e h a + r a dʒ	947	5453 114	EYE ?	esquecer1	
 11765	Wayampi	FORGET	alaj	alaj	a l a j	- - - a l a j - -	947	114	FORGET	esquecer1	
 12103	Zo'e	FORGET	araj	araj	a r a j	- - - a r a j - -	947	114	FORGET	esquecer1	
 13750	Tupinambá	FORGET	esarai	esarai	e s a + r ai	e s a + r ai	947	5453 114	EYE ?	esquecer1	
@@ -7571,7 +7578,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	N
 18755	Kokama	GRANDFATHER	amɨ	amɨ	a m ɨ	- - - - - a m ɨ - -	1042	7485	GRANDFATHER	avo1	
 19451	Guaraní	GRANDFATHER	amõj	amõj	a m õ j	- - a m õ j - - - -	1042	7485	GRANDFATHER		
 21291	Uruku	GRANDFATHER	toto	toto	t o t o	t o t o	1043	7484	GRANDFATHER		
-22217	Kampe	GRANDFATHER	abatsu	abatsu	a b a + ts u	a b a + ts u	1043	7484	GRANDFATHER		
+22217	Kampe	GRANDFATHER	abatsu	abatsu	a b a + ts u	a b a + ts u	1043	7484 1649	GRANDFATHER BIG		
 137	Karo	GREEN	kɨrɨk / kɨt	kɨrɨk	k ɨ r ɨ k	- - - - k ɨ r ɨ k - - -	1061	7600	GREEN	verde	
 138	Karo	GREEN	kɨrɨk / kɨt	kɨt	k ɨ t	- - - - k ɨ t - - - - -	1061	7600	GREEN	verde	
 473	Purubora	GREEN	herop	herop	h e r o p	- - h e - - - - r o p	1062	7598	GREEN	verde	
@@ -7757,6 +7764,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	N
 21004	Ache	GUAN / JACU	jaku	jaku	j a k u	j a k u	1088	7735	GUAN		
 21500	Uruku	GUAN / JACU	korét	korét	k o r é t	k o r é t	1091	7737	GUAN		
 22199	Kampe	GUAN / JACU	kwaku	kwaku	kʷ a k u	kʷ a k u	1088	7735	GUAN		
+22288	Piripkura	GUAN / JACU	jakúa	jakúa	j a k ú a	j a k ú a	1088	7735	GUAN		
 142	Karo	HAIR	naʔtʃat	naʔtʃat	n a + ʔ tʃ a t	- n a + ʔ tʃ a t - - -	1096	7781 154	HEAD HAIR	cabelo	
 475	Purubora	HAIR	aʃatep	aʃatep	a ʃ a + t e p	a ʃ a + - t e p - - -	1096	7781 154	_HEAD HAIR	cabelo	
 662	Ntogapid-Itogapuk	HAIR	natʃáb	natʃáb	n a + tʃ á b	- n a + - tʃ á b - - -	1096	7781 154	_HEAD HAIR	cabelo	
@@ -8102,7 +8110,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	N
 665	Ntogapid-Itogapuk	HEAD	natʃód / aká	natʃód	n a tʃ ó d	n a - tʃ ó d	1135	8109	HEAD	cabeca1	
 666	Ntogapid-Itogapuk	HEAD	natʃód / aká	aká	a + k á	- a + k á - -	1134	13525 10	ROUND BONE	cabeca1	
 957	Makurap	HEAD	akale	akale	a + k a l e	- a + k a l e	1134	13525 10	ROUND BONE	cabeca	
-1296	Wayoro	HEAD	dja	dja	dj a	dj a	701	1564	HEAD	cabeca	
+1296	Wayoro	HEAD	dja	dja	dʒ a	dʒ a	701	1564	HEAD	cabeca	
 1637	Tupari	HEAD	apapa	apapa	a + p a p + a	a + p a p + a	1141	13525 495 2205	HEAD BODY ?	cabeca	
 2025	Akuntsu	HEAD	anam	anam	a + n a m	a + n a m	1137	13525 1373	ROUND ?	cabeca3	
 2388	Mekens	HEAD	anɨp	anɨp	a + n ɨ p	a + n ɨ p	1137	13525 1373	ROUND ?	cabeca3	
@@ -8167,7 +8175,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	N
 21269	Urumi	HEAD	naká	naká	n a + k á	n a + k á - -	1134	13525 10	ROUND BONE		
 21366	Uruku	HEAD	naká	naká	n a + k á	n a + k á - -	1134	13525 10	ROUND BONE		
 21397	Kokama	HEAD	jakɨ	jakɨ	j a + k ɨ	j a + k ɨ - -	1134	13525 10	ROUND BONE		
-22209	Kampe	HEAD	anem	anem	a + nem	a + nem	1137	13525 1373	ROUND ?		
+22209	Kampe	HEAD	anem	anem	a + n e m	a + n e m	1137	13525 1373	ROUND ?		
 148	Karo	HEAL	ʃeri	ʃeri	ʃ e r i	- - ʃ e r i - -	1143	8174	HEAL	curarsarar	
 1297	Wayoro	HEAL	au (wa)	au	au	au	1147	8178	HEAL	curarsarar	
 1638	Tupari	HEAL	poarna	poarna	p oa r n a	p oa r - n a - -	1144	8176	HEAL	curarsarar1	
@@ -8743,7 +8751,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	N
 21629	Ka'apor	HONEY	eir	eir	ei r	- - - - ei r - -	1209	8727	HONEY		
 21686	Apiaka	HONEY	ehire	ehire	e h i r e	- - e - h i r e	1209	8727	HONEY		
 21787	Guarayo	HONEY	eirɨ	eirɨ	ei r ɨ	- - - - ei r ɨ -	1209	8727	HONEY		
-22027	Kepkiriwat	HONEY	euit	euit	eui t	- - - - eui t - -	1209	8727	HONEY		
+22027	Kepkiriwat	HONEY	euit	euit	e ui t	e ui t	1209	8727	HONEY		
 22258	Mekens	HONEY	ekwit	ekwit	e kʷ i t	e kʷ i t	1209	8727	HONEY		
 159	Karo	HORN	aʔ-naʔĩn	aʔ-naʔĩn	a ʔ + n a ʔ ĩ n	- a ʔ + n a ʔ ĩ n	3374	1473 8766	HORN _horn	chifre	
 968	Makurap	HORN	apikɨb	apikɨb	a p i k ɨ b	- a p i k ɨ b -	1217	8764	HORN	chifre	
@@ -9039,7 +9047,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	N
 21370	Mekens	HUNT	mi	mi	m i	m i	1248	8996	HUNT		
 21400	Tupinambá	HUNT	ipurakari	ipurakari	i p u r a k a r i	i p u r a k a r i	1244	1183	HUNT		
 21788	Guarayo	HUNT	mbaʔerãro /  mbaʔereka	mbaʔerãro	mb a ʔ e r ã r o	mb a ʔ e r ã r o	3175	1195	HUNT		1932
-21789	Guarayo	HUNT	mbaʔerãro /  mbaʔereka	mbaʔereka	mb a ʔ e + r e k a	mb a ʔ e + r e k a	3175	1195	THING SEARCH		2020
+21789	Guarayo	HUNT	mbaʔerãro /  mbaʔereka	mbaʔereka	mb a ʔ e + r e k a	mb a ʔ e + r e k a	3175	1195 14070	THING SEARCH		2020
 21985	Kepkiriwat	HUNT	augá	augá	au g á	au g á	3581	1773	HUNT		
 22069	Kokama	HUNT	aja	aja	a j a	a j a	3825	2110	HUNT		
 166	Karo	HUSBAND	mẽn	mẽn	m ẽ n	m ẽ - n -	1251	9045	HUSBAND	marido1	
@@ -9404,8 +9412,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	N
 16651	Guaraní	JUMP	po	po	p o	- - p o - - - - - -	1285	9337	JUMP	saltar1	
 16991	Old Guaraní	JUMP	po	po	p o	- - p o - - - - - -	1285	9337	JUMP	saltar1	
 18006	Tapiete	JUMP	po	po	p o	- - p o - - - - - -	1285	9337	JUMP	saltar1	
-18965	Gavião	JUMP	póró sóg	póró sóg	p ó r ó + s ó g	- - p ó r ó - - - -	1285	9337 788	JUMP ?		
-18966	Gavião	JUMP	pósóg	pósóg	p ó + s ó g	- - p ó - - - - - - + s ó g	1285	9337 788	JUMP ?		
 18967	Karitiana	JUMP	kɨsep	kɨsep	k ɨ s e p	k ɨ s e p	1347	142	JUMP		
 19085	Nheengatu	JUMP	pwíri	pwíri	p w í r i	- - p w - í r i - -	1285	9337	JUMP		
 20104	Siriono	JUMP	maba	maba	m a b a	m a b a	1285	9337	JUMP		
@@ -9417,17 +9423,19 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	N
 21795	Guarayo	JUMP	po	po	p o	p o	1285	9337	JUMP		
 21803	Makurap	JUMP	tʃɨrɨp	tʃɨrɨp	tʃ ɨ r ɨ p	tʃ ɨ r ɨ p	1260	1361	JUMP		
 21967	Kepkiriwat	JUMP	vemániga(mon)	vemániga(mon)	v e m á n i g a	v e m á n i g a	3552	1735	JUMP		
+22295	Gavião	JUMP	póró sóg / pósóg	póró sóg	p ó r ó + s ó g	p ó r ó + s ó g	1285	9337 788	JUMP ?		
+22296	Gavião	JUMP	póró sóg / pósóg	pósóg	p ó + s ó g	p ó + s ó g	1285	9337 788	JUMP ?		
 175	Karo	KILL	wi	wi	w i	w i	1294	9374	KILL	matar4	
 492	Purubora	KILL	mi	mi	m i	m i	1290	9370	KILL	matar4	
 979	Makurap	KILL	põŋaʔ	põŋaʔ	p õ ŋ a ʔ	p õ ŋ a ʔ	1292	9372	KILL	matar	
 1315	Wayoro	KILL	mi	mi	m i	m i	1290	9370	KILL	matar4	
-1662	Tupari	KILL	õpo	õpo	õ p o	õ p o -	1291	9375	KILL	matar	
-2049	Akuntsu	KILL	mi / pɨ	mi	m i	m i	1290	9370	KILL	matar4	
-2050	Akuntsu	KILL	mi / pɨ	pɨ	p ɨ	p ɨ	1291	9375	KILL	matar4	
-2401	Mekens	KILL	 (s)õpaa / mĩ	õpaa	õ p aː	õ p aː -	1291	9375	KILL	matar4	
+1662	Tupari	KILL	õpo	õpo	õ p o	õ p o -	1291	8612	HIT	matar	
+2049	Akuntsu	KILL	mi / pɨ / jũbá	mi	m i	m i	1290	9370	KILL	matar4	
+2050	Akuntsu	KILL	mi / pɨ / jũbá	pɨ	p ɨ	p ɨ	1291	9375	KILL	matar4	
+2401	Mekens	KILL	 (s)õpaa / mĩ	õpaa	õ p aː	õ p aː -	1291	8612	HIT	matar4	
 2402	Mekens	KILL	 (s)õpaa / mĩ	mĩ	m ĩ	m ĩ	1290	9370	KILL	matar4	
 2626	Cinta-Larga	KILL	saka	saka	s a + k a	s a + - k - - a	1289	9371 2377	_NECK BREAK	matar1	
-2893	Gavião	KILL	saga	saga	s a + g a	s a + g a	1289	9371 2377	NECK BREAK	matar1	
+2893	Gavião	KILL	saga / aka / abiì	saga	s a + g a	s a + g a	1289	9371 2377	NECK BREAK	matar1	
 3247	Monde	KILL	saka	saka	s a k a	s a - - k - - a	1289	2377	KILL	matar1	
 3488	Arua	KILL	aka	aka	a k a	- a - - k - - a	1289	9371	KILL	matar1	
 3793	Zoro	KILL	aka	aka	a k a	- a - - k - - a	1289	2377	KILL	matar1	
@@ -9437,12 +9445,12 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	N
 4847	Xipaya	KILL	abaku	abaku	a b a k u	- a b a k - - u	1289	9371	KILL	matar	
 5178	Juruna	KILL	abákú	abákú	a b á k ú	- a b á k - - ú	1289	9371	KILL	matar	
 5536	Mundurukú	KILL	jaoka	jaoka	j ao + k a	j ao + - k - - a	1289	9371 2377	_NECK BREAK	matar	
-5878	Kuruaya	KILL	aoka	aoka	ao k a	- ao - - k - - a	1289	9371 2377	KILL	matar	
-6211	Mawe	KILL	auka	auka	au k a	- au - - k - - a	1289	9371 2377	KILL	matar1	
+5878	Kuruaya	KILL	aoka	aoka	ao + k a	ao + k a	1289	9371 2377	_NECK BREAK	matar	
+6211	Mawe	KILL	auka	auka	au + k a	au + k a	1289	9371 2377	_NECK BREAK	matar1	
 6546	Awetí	KILL	kɨ̃j	kɨ̃j	k ɨ̃ j	k ɨ̃ - - - j - -	1289	9371	KILL	matar1	
 6879	Parakana	KILL	tʃoka	tʃoka	tʃ o + k a	tʃ o + - k - - a	1289	9371 2377	_NECK BREAK	matar1	
 7174	Asuriní Tocantins	KILL	soka	soka	s o + k a	s o + - k - - a	1289	9371 2377	_NECK BREAK	matar1	
-7452	Surui-Aikewara	KILL	suka	suka	s u k a	s u - - k - - a	1289	2377	KILL	matar1	
+7452	Surui-Aikewara	KILL	suka	suka	s u + k a	s u + k a	1289	9371 2377	_NECK BREAK	matar1	
 7754	Tapirapé	KILL	tʃokã	tʃokã	tʃ o + k ã	tʃ o + - k - - ã	1289	9371 2377	_NECK BREAK	matar1	
 8056	Tembe	KILL	zukə	zukə	z u + k ə	z u + - k - - ə	1289	9371 2377	_NECK BREAK	matar1	
 8387	Guajajara	KILL	zuka	zuka	z u + k a	z u + - k - - a	1289	9371 2377	_NECK BREAK	matar1	
@@ -9484,9 +9492,10 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	N
 18337	Apapokuva	KILL	mokaɲɨ̃	mokaɲɨ̃	m o k a ɲ ɨ̃	m o - - k a ɲ ɨ̃	1289	9371	KILL	matar3	
 18500	Omagua	KILL	umanuta	umanuta	u m a n u t a	u m a n u t a	1293	9373	KILL	matar2	
 18779	Kokama	KILL	umanuta	umanuta	u m a n u t a	u m a n u t a	1293	9373	KILL	matar2	
-20562	Gavião	KILL	aka	aka	a k a	a k a	1289	2377	KILL		Singular object
-20563	Gavião	KILL	abiì	abiì	a b i ì	a b i ì	2992	908	KILL		Plural object
+20562	Gavião	KILL	saga / aka / abiì	aka	a k a	a k a	1289	2377	KILL		Singular object
+20563	Gavião	KILL	saga / aka / abiì	abiì	a b i ì	a b i ì	2992	908	KILL		Plural object
 21516	Uruku	KILL	párak-mia	párakmia	p á r a k m ia	p á r a k m ia	3270	1325	KILL		
+22281	Akuntsu	KILL	mi / pɨ / õbá	õbá	õ b á	õ b á	3961	8612	HIT		
 176	Karo	KING FISHER	tserek	tserek	ts e r e k	ts e r e k - - - - -	1295	9441	KING	guardariosmartimpescador	
 493	Purubora	KING FISHER	ʃedet	ʃedet	ʃ e d e t	ʃ e - d - - e - t	1301	9443	KING	guardariosmartimpescador	
 1316	Wayoro	KING FISHER	ɨgɨtʃĩn	ɨgɨtʃĩn	ɨ g ɨ tʃ ĩ n	- - - - ɨ g ɨ tʃ ĩ n	1297	9440	KING	guardariosmartimpescador	
@@ -10011,7 +10020,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	N
 21017	Ñandeva	LEAVE / GO OUT	tse	tse	ts e	ts e	1372	9962	LEAVE		
 21403	Kokama	LEAVE / GO OUT	utʃima	utʃima	u tʃ i m a	u tʃ i m a	1372	9962	LEAVE		
 21745	Zoro	LEAVE / GO OUT	ka	ka	k a	k a	1376	9967	LEAVE		
-21796	Guarayo	LEAVE / GO OUT	pɨseaʔ / sẽ	pɨseaʔ	p ɨ s ea ʔ	p ɨ s ea ʔ			LEAVE		
+21796	Guarayo	LEAVE / GO OUT	pɨseaʔ / sẽ	pɨseaʔ	p ɨ s ea ʔ	p ɨ s ea ʔ	1372	9962	LEAVE		
 21797	Guarayo	LEAVE / GO OUT	pɨseaʔ / sẽ	sẽ	s ẽ	s ẽ	1372	9962	LEAVE		
 21917	Ka'apor	LEAVE / GO OUT	hem	hem	h e m	h e m	1372	9962	LEAVE		
 186	Karo	LEG	tʃə̃pɨʔ	tʃə̃pɨʔ	tʃ ə̃ p ɨ ʔ	tʃ ə̃ p ɨ ʔ	3784	2061	LEG	perna	
@@ -10465,50 +10474,50 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	N
 5898	Kuruaya	MAN	teʔin	teʔin	t e ʔ i n	t e ʔ i n - - -	1430	10421	MAN	homem	
 6232	Mawe	MAN	ihaiɲa	ihaiɲa	i h ai ɲ a	- i h ai ɲ - - a	1430	10421	MAN	homem2	
 6564	Awetí	MAN	aɨte	aɨte	aɨ t e	- aɨ - - t e -	1428	10418	MAN	homem	
-6900	Parakana	MAN	kumaʔe	kumaʔe	k u + m a ʔ e	k u + m a ʔ e	1425	10417 2118	PENIS THING	homem1	
-7185	Asuriní Tocantins	MAN	komaʔe	komaʔe	k o + m a ʔ e	k o + m a ʔ e	1425	10417	PENIS THING	homem1	
-7469	Surui-Aikewara	MAN	kumaʔe	kumaʔe	k u + m a ʔ e	k u + m a ʔ e	1425	10417 2118	PENIS THING	homem1	
-7770	Tapirapé	MAN	akomaʔe	akomaʔe	a k o + m a ʔ e	a k o + m a ʔ e	1425	10417 2118	PENIS THING	homem1	
+6900	Parakana	MAN	kumaʔe	kumaʔe	k u + m a ʔ e	k u + m a ʔ e	1425	10417 2118	PENIS NOMINALIZER	homem1	
+7185	Asuriní Tocantins	MAN	komaʔe	komaʔe	k o + m a ʔ e	k o + m a ʔ e	1425	10417 2118	PENIS NOMINALIZER	homem1	
+7469	Surui-Aikewara	MAN	kumaʔe	kumaʔe	k u + m a ʔ e	k u + m a ʔ e	1425	10417 2118	PENIS NOMINALIZER	homem1	
+7770	Tapirapé	MAN	akomaʔe	akomaʔe	a k o + m a ʔ e	a k o + m a ʔ e	1425	10417 2118	PENIS NOMINALIZER	homem1	
 8075	Tembe	MAN	awa	awa	a w a	- a - w - - a - -	1426	10416	MAN	homem3	
 8407	Guajajara	MAN	awa	awa	a w a	- a - w - - a - -	1426	10416	MAN	homem3	
-8705	Apiaka	MAN	akoimbaʔe	akoimbaʔe	a k oi mb a ʔ e	a k oi - - mb a ʔ e	1425	10417	PENIS THING	homem	
-9010	Parintintin	MAN	kʷajmaʔe	kʷajmaʔe	kʷ a j + m a ʔ e	kʷ a j + m a ʔ e	1425	10417 2118	PENIS THING	homem1	
-9339	Amondawa	MAN	kʷãmbaʔea	kʷãmbaʔea	kʷ ã + mb a ʔ e a	kʷ ã + mb a ʔ e a	1425	10417	PENIS THING	homem1	
-9654	Tenharim	MAN	kʷãmbaʔe	kʷãmbaʔe	kʷ ã + mb a ʔ e	kʷ ã + mb a ʔ e	1425	10417 2118	PENIS THING	homem1	
-9859	Jiahoi	MAN	kʷãmbaʔe	kʷãmbaʔe	kʷ ã + mb a ʔ e	kʷ ã + mb a ʔ e	1425	10417 2118	PENIS THING	homem1	
-10081	Urueuwauwau	MAN	kʷãmaʔe	kʷãmaʔe	kʷ ã + m a ʔ e	kʷ ã + m a ʔ e	1425	10417 2118	PENIS THING	homem1	
-10260	Wirafed	MAN	akoimaé	akoimaé	a k oi + m a é	a k oi + m a é	1425	10417 2118	PENIS THING	homem1	
-10425	Kayabi	MAN	kʷimaʔe	kʷimaʔe	kʷ i + m a ʔ e	kʷ i + m a ʔ e	1425	10417	PENIS THING	homem1	
-10689	Araweté	MAN	kumeʔe	kumeʔe	k u + m e ʔ e	k u + m e ʔ e	1425	10417	PENIS THING	homem1	
+8705	Apiaka	MAN	akoimbaʔe	akoimbaʔe	a k oi + mb a ʔ e	a k oi + mb a ʔ e	1425	10417 2118	PENIS NOMINALIZER	homem	
+9010	Parintintin	MAN	kʷajmaʔe	kʷajmaʔe	kʷ a j + m a ʔ e	kʷ a j + m a ʔ e	1425	10417 2118	PENIS NOMINALIZER	homem1	
+9339	Amondawa	MAN	kʷãmbaʔea	kʷãmbaʔea	kʷ ã + mb a ʔ e a	kʷ ã + mb a ʔ e a	1425	10417 2118	PENIS NOMINALIZER	homem1	
+9654	Tenharim	MAN	kʷãmbaʔe	kʷãmbaʔe	kʷ ã + mb a ʔ e	kʷ ã + mb a ʔ e	1425	10417 2118	PENIS NOMINALIZER	homem1	
+9859	Jiahoi	MAN	kʷãmbaʔe	kʷãmbaʔe	kʷ ã + mb a ʔ e	kʷ ã + mb a ʔ e	1425	10417 2118	PENIS NOMINALIZER	homem1	
+10081	Urueuwauwau	MAN	kʷãmaʔe	kʷãmaʔe	kʷ ã + m a ʔ e	kʷ ã + m a ʔ e	1425	10417 2118	PENIS NOMINALIZER	homem1	
+10260	Wirafed	MAN	akoimaé	akoimaé	a k oi + m a é	a k oi + m a é	1425	10417 2118	PENIS NOMINALIZER	homem1	
+10425	Kayabi	MAN	kʷimaʔe	kʷimaʔe	kʷ i + m a ʔ e	kʷ i + m a ʔ e	1425	10417 2118	PENIS NOMINALIZER	homem1	
+10689	Araweté	MAN	kumeʔe	kumeʔe	k u + m e ʔ e	k u + m e ʔ e	1425	10417 2118	PENIS NOMINALIZER	homem1	
 10867	Anambe Ehrenreich	MAN	apiga	apiga	a p i g a	- a - p i g a - -	1426	10416	MAN	homem	
 11028	Guajá	MAN	wanihã	wanihã	w a n i h ã	- w a n i - - h ã	1425	10417	MAN	homem4	
 11202	Amanaye	MAN	awá / kumeé	awá	a w á	- a - w - - á - -	1426	10416	MAN	homem	
-11203	Amanaye	MAN	awá / kumeé	kumeé	k u m eé	- k u - - m eé - -	1425	10417	MAN	homem	
+11203	Amanaye	MAN	awá / kumeé	kumeé	k u + m eé	k u + m eé	1425	10417 2118	PENIS NOMINALIZER	homem	
 11442	Teko	MAN	awakʷel	awakʷel	a w a kʷ e l	- a - w a kʷ e l -	1426	10416	MAN	homem3	
-11837	Wayampi	MAN	kʷimaʔe	kʷimaʔe	kʷ i + m a ʔ e	kʷ i + m a ʔ e	1425	10417 2118	PENIS THING	homem1	
-12146	Zo'e	MAN	kujbeʔe	kujbeʔe	k u j + b e ʔ e	k u j + b e ʔ e	1425	10417 2118	PENIS THING	homem1	
+11837	Wayampi	MAN	kʷimaʔe	kʷimaʔe	kʷ i + m a ʔ e	kʷ i + m a ʔ e	1425	10417 2118	PENIS NOMINALIZER	homem1	
+12146	Zo'e	MAN	kujbeʔe	kujbeʔe	k u j + b e ʔ e	k u j + b e ʔ e	1425	10417 2118	PENIS NOMINALIZER	homem1	
 12428	Ka'apor	MAN	sawaʔe	sawaʔe	s a w a ʔ e	- s a w a - - ʔ e	1425	10417	MAN	homem3	
-12696	Anambe	MAN	kumaʔã	kumaʔã	k u m a ʔ ã	- k u - - m a ʔ ã	1425	10417	PENIS THING	homem1	
+12696	Anambe	MAN	kumaʔã	kumaʔã	k u + m a ʔ ã	k u + m a ʔ ã	1425	10417 2118	PENIS NOMINALIZER	homem1	
 12824	Turiwara	MAN	awá	awá	a w á	- a - w - - á - -	1426	10416	MAN	homem	
-13003	Kamajura	MAN	akʷamaʔe	akʷamaʔe	a kʷ a + m a ʔ e	a kʷ a + m a ʔ e	1425	10417 2118	PENIS THING	homem1	
-13274	Asuriní Xingu	MAN	kudʒemaʔe	kudʒemaʔe	k u dʒ e m a ʔ e	- k u dʒ e m a ʔ e	1425	10417	PENIS THING	homem1	
-13511	Avá Canoeiro	MAN	akʷamae	akʷamae	a kʷ a m ae	a kʷ a - - m ae - -	1425	10417	PENIS THING	homem1	
-13823	Tupinambá	MAN	akʷãimaʔe	akʷãimaʔe	a kʷ ãi + m a ʔ e	a kʷ ãi + m a ʔ e	1425	10417 2118	PENIS THING	homem1	
+13003	Kamajura	MAN	akʷamaʔe	akʷamaʔe	a kʷ a + m a ʔ e	a kʷ a + m a ʔ e	1425	10417 2118	PENIS NOMINALIZER	homem1	
+13274	Asuriní Xingu	MAN	kudʒemaʔe	kudʒemaʔe	k u dʒ e + m a ʔ e	k u dʒ e + m a ʔ e	1425	10417 2118	PENIS NOMINALIZER	homem1	
+13511	Avá Canoeiro	MAN	akʷamae	akʷamae	a kʷ a + m ae	a kʷ a + m ae	1425	10417 2118	PENIS NOMINALIZER	homem1	
+13823	Tupinambá	MAN	akʷãimaʔe	akʷãimaʔe	a kʷ ãi + m a ʔ e	a kʷ ãi + m a ʔ e	1425	10417 2118	PENIS NOMINALIZER	homem1	
 14197	Nheengatu	MAN	apigawa	apigawa	a p i g a w a	- a - p i g a w a	1426	10416	MAN	homem6	
 14508	Tupí Austral	MAN	karaí / kariba	karaí	k a r a í	- k a r a - í - -	3830	2119	MAN	homem	
 14509	Tupí Austral	MAN	karaí / kariba	kariba	k a r i b a	- k a r i b a - -	3831	2120	MAN	homem	
 14763	Yuki	MAN	kẽba	kẽba	k ẽ b a	- k ẽ - - b a - -	1425	10417	MAN	homem1	
-15031	Guarayo	MAN	kuimbaʔe	kuimbaʔe	k ui + mb a ʔ e	k ui + mb a ʔ e	1425	10417 2118	PENIS THING	homem1	
-15359	Siriono	MAN	kimbae	kimbae	k i + mb ae	k i + mb ae	1425	10417 2118	PENIS THING	homem1	
-15635	Warazu	MAN	kʷɨmaʔe	kʷɨmaʔe	kʷ ɨ + m a ʔ e	kʷ ɨ + m a ʔ e	1425	10417 2118	PENIS THING	homem1	
-15900	Chiriguano	MAN	kuimae	kuimae	k ui m ae	- k ui - - m ae - -	1425	10417	PENIS THING	homem1	
-16322	Mbya	MAN	kuimaʔe	kuimaʔe	k ui m a ʔ e	- k ui - - m a ʔ e	1425	10417	PENIS THING	homem1	
-16668	Guaraní	MAN	kuimaʔe	kuimaʔe	k ui + m a ʔ e	k ui + m a ʔ e	1425	10417 2118	PENIS THING	homem1	
-17009	Old Guaraní	MAN	kuimae	kuimae	k ui + m ae	k ui + m ae	1425	10417 2118	PENIS THING	homem1	
-17288	Ache	MAN	kɨbaeʔe	kɨbaeʔe	k ɨ b ae ʔ e	k ɨ b ae ʔ e	1425	10417	MAN	homem1	
-17526	Xeta	MAN	kanomi	kanomi	k a n o m i	- k a n o m i - -	1425	10417	MAN	homem7	
-17749	Kaiowa	MAN	kuimbaʔe	kuimbaʔe	k ui + mb a ʔ e	k ui + mb a ʔ e	1425	10417 2118	PENIS THING	homem1	
-18024	Tapiete	MAN	kʷimbáe	kʷimbáe	kʷ i + mb áe	kʷ i + mb áe	1425	10417 2118	PENIS THING	homem1	
+15031	Guarayo	MAN	kuimbaʔe	kuimbaʔe	k ui + mb a ʔ e	k ui + mb a ʔ e	1425	10417 2118	PENIS NOMINALIZER	homem1	
+15359	Siriono	MAN	kimbae	kimbae	k i + mb ae	k i + mb ae	1425	10417 2118	PENIS NOMINALIZER	homem1	
+15635	Warazu	MAN	kʷɨmaʔe	kʷɨmaʔe	kʷ ɨ + m a ʔ e	kʷ ɨ + m a ʔ e	1425	10417 2118	PENIS NOMINALIZER	homem1	
+15900	Chiriguano	MAN	kuimae	kuimae	k ui + m ae	k ui + m ae	1425	10417 2118	PENIS NOMINALIZER	homem1	
+16322	Mbya	MAN	kuimaʔe	kuimaʔe	k ui + m a ʔ e	k ui + m a ʔ e	1425	10417 2118	PENIS NOMINALIZER	homem1	
+16668	Guaraní	MAN	kuimaʔe	kuimaʔe	k ui + m a ʔ e	k ui + m a ʔ e	1425	10417 2118	PENIS NOMINALIZER	homem1	
+17009	Old Guaraní	MAN	kuimae	kuimae	k ui + m ae	k ui + m ae	1425	10417 2118	PENIS NOMINALIZER	homem1	
+17288	Ache	MAN	kɨbaeʔe	kɨbaeʔe	k ɨ + b ae ʔ e	k ɨ + b ae ʔ e	1425	10417 2118	PENIS NOMINALIZER	homem1	
+17526	Xeta	MAN	kanomi	kanomi	k a n o m i	- k a n o m i - -	1425	2227	BOY	homem7	
+17749	Kaiowa	MAN	kuimbaʔe	kuimbaʔe	k ui + mb a ʔ e	k ui + mb a ʔ e	1425	10417 2118	PENIS NOMINALIZER	homem1	
+18024	Tapiete	MAN	kʷimbáe	kʷimbáe	kʷ i + mb áe	kʷ i + mb áe	1425	10417 2118	PENIS NOMINALIZER	homem1	
 18516	Omagua	MAN	japisara	japisara	j a p i s a r a	j a - p i s a r a	1426	10416	MAN	homem6	
 18793	Kokama	MAN	niapitsara	niapitsara	n ia p i ts a r a	n ia - p i ts a r a	1426	10416	MAN	homem6	
 20226	Purubora	MAN	aβɨtaj / wabe / ʃɨwe	ʃɨwe	ʃ ɨ w e	ʃ ɨ w e	3032	957	MAN		
@@ -10637,7 +10646,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	N
 198	Karo	MILK	nam_ʃu	nam_ʃu	n a m + ʃ u	- - n a m + ʃ u -	1447	10609 10608	_BREAST LIQUID	leite	
 1686	Tupari	MILK	kemkoj	kemkoj	k e m + k o j	k e m + k o j	1447	10609 10608	BREAST ?	leite	
 2074	Akuntsu	MILK	kem_kɨ	kem_kɨ	k e m + k ɨ	- - k e m + k ɨ -	1447	10609 3001	_BREAST LIQUID	leite	
-2919	Gavião	MILK	naβdji	naβdji	n a β + d j i	n a β + d j i	1451	10611 10608	_BREAST LIQUID	leite	
+2919	Gavião	MILK	naβdji	naβdji	n a β + dʒ i	n a β + dʒ i	1451	10611 10608	_BREAST LIQUID	leite	
 6235	Mawe	MILK	hɨ_ikɨtsin	hɨ_ikɨtsin	h ɨ i k ɨ ts i n	h ɨ i k ɨ ts i n	1449	10612	MILK	leite	
 6567	Awetí	MILK	kam	kam	k a m	- - k a m - - - -	1447	10609	MILK	leite1	
 6903	Parakana	MILK	kamɨ	kamɨ	k a m + ɨ	k a m + ɨ	1447	10609 18593	_BREAST LIQUID	leite1	
@@ -10662,7 +10671,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	N
 21661	Ka'apor	MILK	kambɨ	kambɨ	k a m + b ɨ	k a m + b ɨ	1447	10609 10608	_BREAST LIQUID		
 21690	Apiaka	MILK	kambui	kambui	k a m + b ui	k a m + b ui	1447	10609 10608	_BREAST LIQUID		
 21798	Guarayo	MILK	kambɨ	kambɨ	k a mb + ɨ	k a mb + ɨ	1447	10609 18593	_BREAST LIQUID		
-21865	Makurap	MILK	ɲem_wɨt	ɲem_wɨt	ɲ e m + w ɨ t	ɲ e m + w ɨ t	1447	10609	BREAST LIQUID		
+21865	Makurap	MILK	ɲem_wɨt	ɲem_wɨt	ɲ e m + w ɨ t	ɲ e m + w ɨ t	1447	10609 3001	BREAST LIQUID		
 21866	Mekens	MILK	kem_kɨ	kem_kɨ	k e m + k ɨ	k e m + k ɨ	1447	10609 18593	BREAST LIQUID		
 21949	Kepkiriwat	MILK	(i)õi	(i)õi	õi	õi	3527	1699	MILK		
 199	Karo	MONKEY	naʔwəj / tsego	naʔwəj	n a ʔ w ə j	n a - ʔ w ə j	1454	10632	MONKEY	macaco	
@@ -11007,7 +11016,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	N
 1342	Wayoro	MOUSTACHE	ojẽjupatab	ojẽjupatab	o j ẽ j u p a t a b	- o j ẽ j u p a t - a b -	1505	11005	MOUSTACHE	bigode	
 1693	Tupari	MOUSTACHE	ojẽhap	ojẽhap	o j ẽ h a p	o j ẽ h a p	1512	11011	MOUSTACHE	bigode	
 2081	Akuntsu	MOUSTACHE	akojã	akojã	a k o j ã	a k o j ã -	1507	11004	MOUSTACHE	bigode	
-2927	Gavião	MOUSTACHE	djípo_séβ	djípo_séβ	d j í p o + s é β	- d j í - - p o + s é β -	1505	11005 11007	MOUSTACHE _moustache	bigode	
+2927	Gavião	MOUSTACHE	djípo_séβ	djípo_séβ	dʒ í p o + s é β	dʒ í p o + s é β	1505	11005 11007	MOUSTACHE _moustache	bigode	
 4377	Karitiana	MOUSTACHE	kɨjak	kɨjak	k ɨ j a k	- k ɨ j a k	1507	11004	MOUSTACHE	bigode	
 4606	Arikem	MOUSTACHE	kʷɨsaba	kʷɨsaba	kʷ ɨ s a b a	- kʷ - ɨ s a b a - - - - -	1505	11005	MOUSTACHE	bigode	
 4873	Xipaya	MOUSTACHE	ɲaβutapa	ɲaβutapa	ɲ a β u t a p a	- ɲ - a - - β u t - a p a	1505	11005	MOUSTACHE	bigode	
@@ -11091,7 +11100,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	N
 14515	Tupí Austral	MOUTH	buka	buka	b u k a	b u k a	1514	11051	MOUTH	boca2	
 14771	Yuki	MOUTH	jiru	jiru	j i r u	j i r u - -	1513	11048	MOUTH	boca1	
 15041	Guarayo	MOUTH	juru	juru	j u r u	j u r u - -	1513	11048	MOUTH	boca1	
-15369	Siriono	MOUTH	e-tʃuru	e-tʃuru	e + tʃ u r u	- e + tʃ u r u - -	1513	11048	MOUTH	boca1	
+15369	Siriono	MOUTH	etʃuru	etʃuru	e tʃ u r u	e tʃ u r u	1513	11048	MOUTH	boca1	
 15911	Chiriguano	MOUTH	dʒuru	dʒuru	dʒ u r u	dʒ u r u - -	1513	11048	MOUTH	boca1	
 16091	Jora	MOUTH	trátʃi	trátʃi	t r á tʃ i	t - r á tʃ i	1513	11048	MOUTH	boca	
 16333	Mbya	MOUTH	juru	juru	j u r u	j u r u - -	1513	11048	MOUTH	boca1	
@@ -11282,7 +11291,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	N
 16336	Mbya	NECK	aju	aju	ai u	ai u	1533	9371	NECK	pescoco1	
 16683	Guaraní	NECK	ajura	ajura	ai u r a	ai u r a	1533	9371	NECK	pescoco1	
 17023	Old Guaraní	NECK	aju	aju	ai u	ai u	1533	9371	NECK	pescoco1	
-17299	Ache	NECK	jua	jua	iua	iua	1533	9371	NECK	pescoco1	
+17299	Ache	NECK	jua	jua	j u a	j u a	1533	9371	NECK	pescoco1	
 17532	Xeta	NECK	dʒadʒuɨ	dʒadʒuɨ	dʒ a dʒ uɨ	dʒ a dʒ - - uɨ	1537	11232	NECK	pescoco1	
 17759	Kaiowa	NECK	ajúri	ajúri	ai ú r i	ai ú r i	1533	9371	NECK	pescoco1	
 18038	Tapiete	NECK	tɨdʒaʒu	tɨdʒaʒu	t ɨ dʒ a ʒ u	t ɨ dʒ a ʒ u	1537	11232	NECK	pescoco1	
@@ -11882,7 +11891,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	N
 20342	Kampe	OWL	puwpuwba	puwpuwba	p u w + p u w b a	p u w + p u w b a	1632	11822 11822	OWL OWL		
 21408	Kokama	OWL	urukuria	urukuria	u r u k u r ia	u r u k u r ia	1631	11823	OWL		
 21456	Uruku	OWL	povo	povo	p o v o	p o v o	3383	1489	OWL		
-21693	Apiaka	OWL	urukureaia	urukureaia	u r u k u r ea ia	u r u k u r ea ia	1631	11823	OWL		
+21693	Apiaka	OWL	urukureaia	urukureaia	u r u k u r e ai a	u r u k u r e ai a	1631	11823	OWL		
 21896	Kepkiriwat	OWL	pauáuárá	pauáuárá	p au áu á r á	p au áu á r á	1632	11822	OWL		
 221	Karo	PACA	jaba	jaba	j a b a	- - - j a b a - -	1638	11879	PACA	paca5	
 525	Purubora	PACA	pɨta	pɨta	p ɨ t a	- - - - - p ɨ t a	1638	11879	PACA	paca	
@@ -12349,6 +12358,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	N
 21913	Kepkiriwat	PECCARY (collared)	ivarútininga	ivarútininga	i v a r ú t i n i n g a	i v a r ú t i n i n g a	2566	502	PECCARY		
 22075	Kokama	PECCARY (collared)	tajatsu	tajatsu	t a j a ts u	t a j a ts u	1702	12298	PECCARY		
 22177	Karo	PECCARY (collared)	tawtse_niŋ	tawtse_niŋ	t a w ts e + n i ŋ	t a w ts e + n i ŋ	1702	12298 12306	PECCARY STRIPE		
+22291	Piripkura	PECCARY (collared)	taitúa	taitúa	t ai t ú a	t ai t ú a	1702	12298	PECCARY		
 230	Karo	PECCARY (white-lipped)	jate / pitẽg	jate	j a t e	j a - - t e - - - - - -	1714	12355	PECCARY	queixada4	
 231	Karo	PECCARY (white-lipped)	jate / pitẽg	pitẽg	p i t ẽ g	p i t - ẽ g	1716	12358	PECCARY	queixada4	
 532	Purubora	PECCARY (white-lipped)	anẽwã / hənewã	anẽwã	a n ẽ w ã	- a n ẽ w ã	1717	12359	PECCARY	queixada	
@@ -12396,7 +12406,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	N
 20535	Asuriní Xingu	PECCARY (white-lipped)	tadzahu	tadzahu	t a d z a h u	t a d z a h u	1713	12356	PECCARY		
 20854	Zo'e	PECCARY (white-lipped)	tajahu	tajahu	t a j a h u	t a j a h u	1713	12356	PECCARY		
 21559	Uruku	PECCARY (white-lipped)	jaté	jaté	j a t é	j a t é	1714	12355	PECCARY		
-22018	Piripkura	PECCARY (white-lipped)	tajahúa	tajahúa	t a j a h ú a	t a j a h ú a	1713	12356	PECCARY		
+22018	Piripkura	PECCARY (white-lipped)	tajahúa	tajahúa	t a j a + h ú a	t a j a + h ú a	1713	456 1650	PECCARY BIG		
 22178	Kampe	PECCARY (white-lipped)	tawtse_pɨk	tawtse_pɨk	t a w ts e + p ɨ k	t a w ts e + p ɨ k	1714	12355 2284	PECCARY BLACK		
 232	Karo	PENIS	tʃapə	tʃapə	tʃ a p ə	tʃ a - p ə - -	1721	12399	PENIS	penis3	
 534	Purubora	PENIS	bibora	bibora	b i b o r a	b i - b o r a	1721	12399	PENIS	penis	
@@ -12452,7 +12462,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	N
 19413	Asuriní Tocantins	PENIS	akói	akói	a k ó i	a k ó i	1720	12400	PENIS		
 20462	Makurap	PENIS	aiwa	aiwa	ai w a	ai w a	1720	12400	PENIS		
 20686	Matanau	PENIS	tsapoá	tsapoá	ts a p oá	ts a - p oá - -	1721	12399	PENIS		
-20999	Ka'apor	PENIS	hakʷãj	hakʷãj	h a kʷ ã j	h a kʷ ã j	3054	998 999	CARA SIMILAR		
+20999	Ka'apor	PENIS	hakʷãj	hakʷãj	h a kʷ ã j	h a kʷ ã j	3054	998	PENIS		
 21225	Old Guaraní	PENIS	akʷãj	akʷãj	a kʷ ã j	a kʷ ã j	1720	12400	PENIS		
 21546	Uruku	PENIS	tʃapína / tʃapó / tʃéra	tʃapína	tʃ a p í n a	tʃ a p í n a	1721	12399	PENIS		
 21547	Uruku	PENIS	tʃapína / tʃapó / tʃéra	tʃapó	tʃ a p ó	tʃ a p ó	1721	12399	PENIS		
@@ -12611,7 +12621,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	N
 22219	Kampe	PESTLE	ẽtsi	ẽtsi	ẽ ts i	ẽ ts i	1108	1911	PESTLE		
 236	Karo	PESTLE (verb)	pen	pen	p e n	p e n	1749	12584	PESTLE(verb)	pilar	
 1727	Tupari	PESTLE (verb)	tet	tet	t e t	- t e t -	1746	12582	PESTLE(verb)	pilar	
-2113	Akuntsu	PESTLE (verb)	tʃã	tʃã	tʃ ã 	tʃ ã 	1746	12582	PESTLE	pilar	
+2113	Akuntsu	PESTLE (verb)	tʃã	tʃã	tʃ ã 	tʃ ã 	1746	12582	PESTLE(verb)	pilar	
 4902	Xipaya	PESTLE (verb)	takú	takú	t a k ú	- t a k ú	1746	12582	PESTLE(verb)	pilar1	
 5229	Juruna	PESTLE (verb)	utʃákú	utʃákú	u tʃ á k ú	u tʃ á k ú	1746	12582	PESTLE(verb)	pilar1	
 6273	Mawe	PESTLE (verb)	tok	tok	t o k	- t o k -	1746	12582	PESTLE(verb)	pilar	
@@ -12622,18 +12632,18 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	N
 17043	Old Guaraní	PESTLE (verb)	japasok / monguj / joçó	monguj	m o n g u j	m o n g u j	1751	12587	PESTLE(verb)	pilar	
 17044	Old Guaraní	PESTLE (verb)	japasok / monguj / joçó	joçó	j o ç ó	j o - - ç ó -	1747	12585	PESTLE(verb)	pilar	
 19266	Karitiana	PESTLE (verb)	tak	tak	t a k	- t a k -	1746	12582	PESTLE(verb)		
-19416	Asuriní Tocantins	PESTLE (verb)	moʔi	moʔi	m o ʔ i	m o ʔ i	1750	12586	PESTLE		
-20606	Guajá	PESTLE (verb)	jamiʃo	jamiʃo	j a m i ʃ o	j a m i ʃ o -	1747	12585	PESTLE		
+19416	Asuriní Tocantins	PESTLE (verb)	moʔi	moʔi	m o ʔ i	m o ʔ i	1750	12586	PESTLE(verb)		
+20606	Guajá	PESTLE (verb)	jamiʃo	jamiʃo	j a m i ʃ o	j a m i ʃ o -	1747	12585	PESTLE(verb)		
 21144	Karitiana	PESTLE (verb)	pɨndak	pɨndak	p ɨ n + d a k	p ɨ n + - d a k -	1746	12584 12582	PESTLE(v) ?		
 21590	Wayampi	PESTLE (verb)	aso	aso	a s o	- - - a s o -	1747	12585	PESTLE(verb)		
-21800	Guarayo	PESTLE (verb)	japaso / itʃotʃo / kuʔitʃo	japaso	j a p a s o	j a p a s o			PESTLE		
-21801	Guarayo	PESTLE (verb)	japaso / itʃotʃo / kuʔitʃo	itʃotʃo	i tʃ o tʃ o	i tʃ o tʃ o	1746	12582	PESTLE		
-21802	Guarayo	PESTLE (verb)	japaso / itʃotʃo / kuʔitʃo	kuʔitʃo	k u ʔ i t ʃ o	k u ʔ i t ʃ o			PESTLE		Fine flour
+21800	Guarayo	PESTLE (verb)	japaso / itʃotʃo / kuʔitʃo	japaso	j a p a s o	j a p a s o	1747	12585	PESTLE(verb)		
+21801	Guarayo	PESTLE (verb)	japaso / itʃotʃo / kuʔitʃo	itʃotʃo	i tʃ o tʃ o	i tʃ o tʃ o	1746	12582	PESTLE(verb)		
+21802	Guarayo	PESTLE (verb)	japaso / itʃotʃo / kuʔitʃo	kuʔitʃo	k u ʔ i tʃ o	k u ʔ i tʃ o	1746	12582	PESTLE(verb)		Fine flour
 21922	Ka'apor	PESTLE (verb)	sosok	sosok	s o s o k	s o s o k	1746	12582	PESTLE(verb)		
 237	Karo	PIERCE	parak	parak	p a r a k	p a r a k -	3427	1554	PIERCE	furarespetar	
 1370	Wayoro	PIERCE	pɨrɨ	pɨrɨ	p ɨ r ɨ	p ɨ r ɨ - -	1753	12596	PIERCE	furarespetar	
 1728	Tupari	PIERCE	mɨ̃	mɨ̃	m ɨ̃	m - - - - ɨ̃	1753	12596	PIERCE	furarespetar	
-2114	Akuntsu	PIERCE	pɨt	pɨt	p ɨ t	p ɨ t	1753	12596 2051	PIERCE	furarespetar	
+2114	Akuntsu	PIERCE	pɨt	pɨt	p ɨ t	p ɨ t	1753	12596	PIERCE	furarespetar	
 2961	Gavião	PIERCE	βátaga	βátaga	β á t a g a	- β á t a g - a	3427	1554	PIERCE	furarespetar	
 3297	Monde	PIERCE	βataga / tagiaa	βataga	β a t a g a	- β a t a g - a	3427	1554	PIERCE	furarespetar	
 3298	Monde	PIERCE	βataga / tagiaa	tagiaa	t a g i aː	- - - t a g i aː	3427	1554	PIERCE	furarespetar	
@@ -12779,7 +12789,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	N
 1040	Makurap	PLAY	apijo_nã	apijo_nã	a p i j o + n ã	- a p i j - - o + n - - - - ã	3588	1782 12743	PLAY _play	brincar	
 1730	Tupari	PLAY	apsinʔõm	apsinʔõm	a p s i n ʔ õ m	a p s i n ʔ õ m	1778	12749	PLAY	brincar	
 2655	Cinta-Larga	PLAY	monamom	monamom	m o n a m o m	m o n a m o m	3585	1778	PLAY	brincar	
-2964	Gavião	PLAY	paádjaʔo	paádjaʔo	p aá d j a ʔ o	p aá d j a - ʔ o	1773	12745	PLAY	brincar9	
+2964	Gavião	PLAY	paádjaʔo	paádjaʔo	p aá dʒ a ʔ o	p aá dʒ a ʔ o	1773	12745	PLAY	brincar9	
 3300	Monde	PLAY	batiigʔa	batiigʔa	b a t iː g ʔ a	b a t - iː g ʔ a	1773	12745	PLAY	brincar9	
 4109	Surui-Paiter	PLAY	hoepaj	hoepaj	h oe p a j	h oe p a j - - -	3589	1784	PLAY	brincar	
 4906	Xipaya	PLAY	βutáhu / pɨrɨku	βutáhu	β u t á h u	β u t - á - h u	1777	1779	PLAY	brincar	
@@ -12861,7 +12871,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	N
 241	Karo	PUMPKIN	tsirimõ	tsirimõ	ts i r i m õ	- - ts i r i m õ	1791	12855	PUMPKIN	aboboramorangajerimun1	
 787	Ramarama	PUMPKIN	waja_ha	waja_ha	w a j a h a	w a j a h a	1795	12862	PUMPKIN	aboboramorangajerimun	
 1042	Makurap	PUMPKIN	ʒirimũ	ʒirimũ	ʒ i r i m ũ	- - ʒ i r i m ũ	1791	12855	PUMPKIN	aboboramorangajerimun1	
-1373	Wayoro	PUMPKIN	djirimũ	djirimũ	d j i r i m ũ	- d j i r i m ũ	1791	12855	PUMPKIN	aboboramorangajerimun1	
+1373	Wayoro	PUMPKIN	djirimũ	djirimũ	dʒ i r i m ũ	dʒ i r i m ũ	1791	12855	PUMPKIN	aboboramorangajerimun1	
 1732	Tupari	PUMPKIN	korota	korota	k o r o t a	- - - k o r - - o t a	1790	12856	PUMPKIN	aboboramorangajerimun3	
 2117	Akuntsu	PUMPKIN	apenam	apenam	a p e n a m	a p - e n a m -	1791	12855	PUMPKIN	aboboramorangajerimun	
 2965	Gavião	PUMPKIN	kabea	kabea	k a b ea	- - - k a - - - - b ea	1790	12856	PUMPKIN	aboboramorangajerimun2	
@@ -13578,7 +13588,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	N
 16380	Mbya	ROW / PADDLE	pɨkwi	pɨkwi	p ɨ kʷ i	- p ɨ - kʷ i - - - - - -	1888	13570	ROW	remar	
 17062	Old Guaraní	ROW / PADDLE	ɨgapɨkujta	ɨgapɨkujta	ɨ g a + p ɨ k ui t a	ɨ g a + p ɨ k ui t a	1888	899 13570	_CANOE ROW	remar	
 18562	Omagua	ROW / PADDLE	iapukuy	iapukuy	ia p u k ui	ia p u - k ui - - - - - -	1888	13570	ROW	remar	
-18991	Karitiana	ROW / PADDLE	goijngoa	goijngoa	g oi in g oa	g oi in g oa	3836	2137	ROW		
+18991	Karitiana	ROW / PADDLE	goiingoa	goiingoa	g oi i n g oa	g oi i n g oa	3836	2137	ROW		
 19137	Guaraní	ROW / PADDLE	ɨgakujta / pɨkuj	ɨgakujta	ɨ g a + k ui t a	ɨ g a + k ui t a	1888	899 13570	_CANOE ROW		
 19138	Guaraní	ROW / PADDLE	ɨgakujta / pɨkuj	pɨkui	p ɨ k ui	- p ɨ - k ui - - - - - -	1888	13570	ROW		
 19423	Asuriní Tocantins	ROW / PADDLE	pesó	pesó	p e s ó	p e s ó	1815	248	ROW		
@@ -15365,7 +15375,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	N
 20613	Guajá	SPIDER MONKEY	kaʔi	kaʔi	k a ʔ i	k a ʔ i	2129	15433	SPIDER.MONKEY		
 20865	Zo'e	SPIDER MONKEY	kʷata	kʷata	kʷ a t a	kʷ a t a	2129	15433	SPIDER.MONKEY		
 21509	Uruku	SPIDER MONKEY	tʃégo	tʃégo	tʃ é g o	tʃ é g o	2131	15435	SPIDER.MONKEY		
-21812	Guarayo	SPIDER MONKEY	kaʔi gwasu	kaʔi gwasu	k a ʔ i + gw a s u	k a ʔ i + gw a s u	2129	15433 1542	MONKEY BIG		
+21812	Guarayo	SPIDER MONKEY	kaʔi gwasu	kaʔi gwasu	k a ʔ i + gʷ a s u	k a ʔ i + gʷ a s u	2129	15433 1542	MONKEY BIG		
 21950	Kepkiriwat	SPIDER MONKEY	bapan	bapan	b a p a n	b a p a n	3530	1702	SPIDER.MONKEY		
 22141	Urumi	SPIDER MONKEY	umai	umai	u m ai	u m ai	3916	2247	SPIDER.MONKEY		
 22175	Kampe	SPIDER MONKEY	sakɨrap_pɨk	sakɨrap_pɨk	s a k ɨ r a p + p ɨ k	s a k ɨ r a p + p ɨ k	2965	2280 1703	MONKEY BLACK		
@@ -15517,10 +15527,10 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	N
 5659	Mundurukú	STAR	kasopta	kasopta	k a s o p t a	k a s o p - - - t a	2159	15563	STAR	estrela	
 5977	Kuruaya	STAR	wadʒi-lala	wadʒi-lala	w a dʒ i + l a l a	- w a - - dʒ - i + l a l a	2162	15562 15568	MOON FIRE	estrela	
 6330	Mawe	STAR	wajkiru	wajkiru	w a j k i r u	- w a j - k i r u - -	2161	15564	STAR	estrela2	
-6642	Awetí	STAR	tatɨaʔɨt	tatɨaʔɨt	t a t ɨa ʔ ɨ t	t a - - t ɨa ʔ ɨ t -	2159	15562 15568	MOON FIRE	estrela1	
+6642	Awetí	STAR	tatɨaʔɨt	tatɨaʔɨt	t a t ɨa ʔ ɨ t	t a - - t ɨa ʔ ɨ t -	2159	15562	MOON	estrela1	
 6995	Parakana	STAR	tʃaitata	tʃaitata	tʃ ai + t a t a	tʃ ai + t a t a	2159	15562 6003	MOON FIRE	estrela1	
 7248	Asuriní Tocantins	STAR	sahɨtata	sahɨtata	s a h ɨ + t a t a	s a h ɨ + t a t a	2159	15562 6003	MOON FIRE	estrela1	
-7558	Surui-Aikewara	STAR	sahɨtata	sahɨtata	s a h ɨ + t a t a	s a h ɨ + t a t a	2159	15563	STAR	estrela1	
+7558	Surui-Aikewara	STAR	sahɨtata	sahɨtata	s a h ɨ + t a t a	s a h ɨ + t a t a	2159	15562 6003	MOON FIRE	estrela1	
 7840	Tapirapé	STAR	tʃãɨtãtãʔi	tʃãɨtãtãʔi	tʃ ãɨ t ã t ã ʔ i	tʃ ãɨ t ã t - - ã ʔ i	2159	15563	STAR	estrela1	
 8160	Tembe	STAR	zahɨtata	zahɨtata	z a h ɨ + t a t a	z a h ɨ + t a t a	2159	15562 6003	MOON FIRE	estrela1	
 8494	Guajajara	STAR	zahɨtata	zahɨtata	z a h ɨ + t a t a	z a h ɨ + t a t a	2159	15562 6003	MOON FIRE	estrela1	
@@ -15528,8 +15538,8 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	N
 9105	Parintintin	STAR	dʒatataʔi	dʒatataʔi	dʒ a t a t a ʔ i	dʒ a t a t - - a ʔ i	2159	15563	STAR	estrela1	
 9413	Amondawa	STAR	dʒatataʔi	dʒatataʔi	dʒ a + t a t a + ʔ i	dʒ a + t a t a + ʔ i	2159	15562 6003 1576	MOON FIRE ?	estrela1	
 9739	Tenharim	STAR	dʒatataʔi	dʒatataʔi	dʒ a t a t a ʔ i	dʒ a t a t - - a ʔ i	2159	15563	STAR	estrela1	
-9881	Jiahoi	STAR	dʒatataʔi	dʒatataʔi	dʒ a t a t a ʔ i	dʒ a t a t - - a ʔ i	2159	15562 15568	MOON FIRE	estrela1	
-10146	Urueuwauwau	STAR	ɲaɨtataʔia	ɲaɨtataʔia	ɲ aɨ t a t a ʔ ia	ɲ aɨ t a t - - a ʔ ia	2159	15562 15568	MOON FIRE	estrela1	
+9881	Jiahoi	STAR	dʒatataʔi	dʒatataʔi	dʒ a + t a t a ʔ i	dʒ a + t a t a ʔ i	2159	15562 15568	MOON FIRE	estrela1	
+10146	Urueuwauwau	STAR	ɲaɨtataʔia	ɲaɨtataʔia	ɲ aɨ + t a t a ʔ ia	ɲ aɨ + t a t a ʔ ia	2159	15562 15568	MOON FIRE	estrela1	
 10277	Wirafed	STAR	jaitataɨ	jaitataɨ	j ai + t a t aɨ	j ai + t a t aɨ	2159	15562 15568	MOON FIRE	estrela1	
 10485	Kayabi	STAR	jaɨtata	jaɨtata	j aɨ + t a t a	j aɨ + t a t a	2159	15562 6003	MOON FIRE	estrela1	
 10766	Araweté	STAR	jaitatə	jaitatə	j ai + t a t ə	j ai + t a t ə	2159	15562 15568	MOON FIRE	estrela1	
@@ -15544,8 +15554,8 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	N
 13342	Asuriní Xingu	STAR	dʒaɨtata	dʒaɨtata	dʒ aɨ + t a t a	dʒ aɨ + t a t a	2159	15562 6003	MOON FIRE	estrela1	
 13564	Avá Canoeiro	STAR	dʒaɨtata	dʒaɨtata	dʒ aɨ + t a t a	dʒ aɨ + t a t a	2159	15562 6003	MOON FIRE	estrela1	
 13932	Tupinambá	STAR	jasɨtata	jasɨtata	j a s ɨ + t a t a	j a s ɨ + t a t a	2159	15563 6003	MOON FIRE	estrela1	
-14283	Nheengatu	STAR	jasita	jasita	j a s i t a	j a s i - - - - t a	2159	15563	MOON FIRE	estrela1	
-14577	Tupí Austral	STAR	ʒasitata	ʒasitata	ʒ a s i t a t a	ʒ a s i t - - a t a	2159	15562 15568	MOON FIRE	estrela1	
+14283	Nheengatu	STAR	jasita	jasita	j a s i + t a	j a s i + t a	2159	15562 6003	MOON FIRE	estrela1	
+14577	Tupí Austral	STAR	ʒasitata	ʒasitata	ʒ a s i + t a t a	ʒ a s i + t a t a	2159	15562 15568	MOON FIRE	estrela1	
 14823	Yuki	STAR	jasirirĩ	jasirirĩ	j a s i r i r ĩ	j a s i r - - i r ĩ	2159	15563	STAR	estrela4	
 15112	Guarayo	STAR	jatsɨtata	jatsɨtata	j a ts ɨ + t a t a	j a ts ɨ + t a t a	2159	15562 6003	MOON FIRE	estrela1	
 15446	Siriono	STAR	tʃasitata	tʃasitata	tʃ a s i + t a t a	tʃ a s i + t a t a	2159	15562 6003	MOON FIRE	estrela1	
@@ -15959,7 +15969,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	N
 296	Karo	SWEEP	wirup	wirup	w i r u p	w i r u p	2222	16010	SWEEP	varrer	
 1797	Tupari	SWEEP	wirik	wirik	w i r i k	w i r i k	2222	16010	SWEEP	varrer	
 2180	Akuntsu	SWEEP	piba_ka	piba_ka	p i b a + k a	p i b a - - - + k a -	2218	16005 1343	SWEEP TRANSITIVIZER	varrer	
-3044	Gavião	SWEEP	djógóá	djógóá	d j ó g ó á	d j ó g ó á	2223	16009	SWEEP	varrer	
+3044	Gavião	SWEEP	djógóá	djógóá	dʒ ó g ó á	dʒ ó g ó á	2223	16009	SWEEP	varrer	
 4442	Karitiana	SWEEP	tɨj	tɨj	t ɨ j	t ɨ - - j - -	2218	16005	SWEEP	varrer1	
 5287	Juruna	SWEEP	pɨtʃiku	pɨtʃiku	p ɨ tʃ i k u	- - p ɨ tʃ i k u	2219	16007	SWEEP	varrer	
 5667	Mundurukú	SWEEP	kaõg	kaõg	k aõ g	k aõ g	2221	16006	SWEEP	varrer	
@@ -16236,7 +16246,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	N
 18119	Tapiete	TAIL	uwaj	uwaj	u w a j	- - u w a j - -	2246	16220	TAIL	rabocauda1	
 18599	Omagua	TAIL	sũj	sũj	s ũ j	- - - s ũ j - -	2246	16220	TAIL	rabocauda	
 18865	Kokama	TAIL	tsui	tsui	ts ui	- - - ts ui - - -	2246	16220	TAIL	rabocauda	
-21566	Uruku	TAIL	hadjapoʔbgá	hadjapoʔbgá	h a d j a p o ʔ b g á	h a d j a p o ʔ b g á	3242	1286	TAIL		
+21566	Uruku	TAIL	hadjapoʔbgá	hadjapoʔbgá	h a dʒ a p o ʔ b g á	h a dʒ a p o ʔ b g á	3242	1286	TAIL		
 301	Karo	TAPIR	naʔto	naʔto	n a ʔ t o	n a ʔ t o -	3349	1438	TAPIR	antaa	
 581	Purubora	TAPIR	tani	tani	t a n i	t a n i - - - -	2251	16283	TAPIR	anta	
 697	Ntogapid-Itogapuk	TAPIR	nató / ití	nató	n a t ó	n a - t ó -	3349	1438	TAPIR	antaa	
@@ -16312,6 +16322,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	N
 21276	Uruku	TAPIR	nato	nato	n a t o	n a t o	3349	1438	TAPIR		
 21584	Kepkiriwat	TAPIR	wito / iapikite	iapikite	ia p i k i t e	ia p i k i t e	3343	1432	TAPIR		
 22202	Kampe	TAPIR	ɨkʷaj	ɨkʷaj	ɨ kʷ a j	ɨ kʷ a j	2253	16282	TAPIR		
+22294	Piripkura	TAPIR	tapiʔíra	tapiʔíra	t a p i ʔ í r a	t a p i ʔ í r a	2251	16283	TAPIR		
 302	Karo	TAYRA	ei	ei	ei	ei	2265	16357	TAYRA	irara	
 582	Purubora	TAYRA	wata	wata	w a t a	- w a t - a -	2260	16354	TAYRA	irara	
 1103	Makurap	TAYRA	ãmãn.nã	ãmãn.nã	ã m ã n + n ã	ã m ã n - + n ã	2261	16355 16358	TAYRA _tayra	irara	
@@ -16627,7 +16638,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	N
 13087	Kamajura	THAT	aʔe	aʔe	a ʔ e	- - - a ʔ e -	2308	16638	THAT	aqueleaquilo2	
 13358	Asuriní Xingu	THAT	aʔe	aʔe	a ʔ e	- - - a ʔ e -	2308	16638	THAT	aqueleaquilo2	
 13952	Tupinambá	THAT	kwej	kwej	kʷ e j	- - - - kʷ e j -	2306	16636	THAT	aqueleaquilo	
-14305	Nheengatu	THAT	ɲaã	ɲaã	ɲ aã/	ɲ aã/ - - -	2307	16634	THAT	aqueleaquilo	
+14305	Nheengatu	THAT	ɲaã	ɲaã	ɲ aã	ɲ aã - - -	2307	16634	THAT	aqueleaquilo	
 14592	Tupí Austral	THAT	 (imo)ae	ae	ae	ae	2312	16642	THAT	aqueleaquilo	
 14837	Yuki	THAT	ku	ku	k u	- - - - k u - -	2306	16636	THAT	aqueleaquilo	
 15133	Guarayo	THAT	eβokoj	eβokoj	e β o k o j	e β o - k o j -	2306	16636	THAT	aqueleaquilo	
@@ -16876,7 +16887,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	N
 20576	Akuntsu	THREE	tɨrɨ	tɨrɨ	t ɨ r ɨ	t ɨ r ɨ	2967	10489	MANY		Also means 'two'
 21024	Ñandeva	THREE	m(b)oapɨ	moapɨ	m oa p ɨ	m oa p ɨ	2349	16896	THREE		
 21310	Uruku	THREE	pagodnobtem	pagodnobtem	p a g o d + n o b t e m	p a g o d + n o b t e m	2352	16905 16906	THREE THREE		
-22160	Urumi	THREE	itamaiun	itamaiun	i t a m aiu n	i t a m aiu n	3926	2260	THREE		
+22160	Urumi	THREE	itamaiun	itamaiun	i t a m ai u n	i t a m ai u n	3926	2260	THREE		
 314	Karo	THORN	non	non	n o n	n o n -	2344	16840	THORN	espinho	
 586	Purubora	THORN	adó	adó	a d ó	- a - d ó	3477	1624	THORN	espinho	
 1435	Wayoro	THORN	ŋo	ŋo	ŋ o	- - ŋ o	2342	16841	THORN	espinho	
@@ -16913,7 +16924,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	N
 12530	Ka'apor	THORN	ju	ju	j u	j u - -	2342	16841	THORN	espinho1	
 12761	Anambe	THORN	ju	ju	j u	j u - -	2342	16841	THORN	espinho1	
 13091	Kamajura	THORN	atsĩ	atsĩ	a ts ĩ	- a - ts ĩ	2343	16842	THORN	espinho2	
-13362	Asuriní Xingu	THORN	dʒuʰ	dʒuʰ	dʒ uʰ	dʒ uʰ -	3478	501	THORN	espinho1	
+13362	Asuriní Xingu	THORN	dʒuʰ	dʒuʰ	dʒ u h	dʒ u h	3478	501	THORN	espinho1	
 13580	Avá Canoeiro	THORN	nuwətʃi	nuwətʃi	n u w ə + tʃ i	n u w ə + - - - tʃ i	2342	16841 16842	THORN ?	espinho2	
 13957	Tupinambá	THORN	ju / pi	ju	j u	j u - -	2342	16841	THORN	espinho1	
 13958	Tupinambá	THORN	ju / pi	pi	p i	- - p i	2346	16844	THORN	espinho1	
@@ -17250,9 +17261,10 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	N
 21420	Kokama	TINAMOU	inamu	inamu	i n a m u	i n a m u - - - -	2398	17221	TINAMOU		
 21491	Uruku	TINAMOU	havuvá	havuvá	h a v u v á	h a v u v á	3264	1318	TINAMOU		
 21638	Teko	TINAMOU	nãbu	nãbu	n ã b u	n ã b u	2398	17221	TINAMOU		
-21899	Kepkiriwat	TINAMOU	uatanaún / ʃunʃun_á	uatanaún	ua t a n a ú n	ua t a n a ú n	3500	1647	TINAMOU		
-21900	Kepkiriwat	TINAMOU	uatanaún / ʃunʃun_á		ʃ u n ʃ u n + á	ʃ u n ʃ u n + á	3501	1648 1656	TINAMOU		
+21899	Kepkiriwat	TINAMOU	uatanaún / ʃunʃun á	uatanaún	ua t a n a ú n	ua t a n a ú n	3500	1647	TINAMOU		
+21900	Kepkiriwat	TINAMOU	uatanaún / ʃunʃun á	ʃunʃun á	ʃ u n ʃ u n + á	ʃ u n ʃ u n + á	3501	1648 1656	TINAMOU ?		
 22174	Kampe	TINAMOU	kʷama	kʷama	kʷ a m a	kʷ a m a	2398	17221	TINAMOU		
+22290	Piripkura	TINAMOU	nambúa	nambúa	n a mb ú a	n a mb ú a	2398	17221	TINAMOU		
 323	Karo	TIRED	pitãn	pitãn	p i t ã n	p i t - ã n -	2411	17263	TIRED	cansado	
 1439	Wayoro	TIRED	piito_erom_karat	piito_erom_karat	p iː t o + e r o m + k a r a t	p iː t - o - - + e r o m + - k a r a t - - -	2410	17263 17268 17264	BREATHE ? ?	cansado	
 1820	Tupari	TIRED	tarajʔe	tarajʔe	t a r a j ʔ e	- t a r a j ʔ - e	2410	17264	TIRED	cansado	
@@ -17357,7 +17369,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	N
 14318	Nheengatu	TOBACCO	tawari	tawari	t a w a r i	- - - - t a w a r - - - - i	2416	17321	TOBACCO	fumotabaco	
 14603	Tupí Austral	TOBACCO	petima	petima	p e + t i m a	p e + - t i m a - - - - - -	2415	17320 19	TOBACCO _PLANT(V)	fumotabaco1	
 14844	Yuki	TOBACCO	tatatʃi	tatatʃi	t a t a + tʃ i	t a t a + tʃ i	2416	6003 18939	FIRE WHITE	fumotabaco3	
-15146	Guarayo	TOBACCO	tatatĩ	tatatĩ	t a t a + t ĩ	t a t a + t ĩ	2416	6003 17321	TOBACCO	fumotabaco3	
+15146	Guarayo	TOBACCO	tatatĩ	tatatĩ	t a t a + t ĩ	t a t a + t ĩ	2416	6003 19	FIRE PLANT(v)	fumotabaco3	
 15475	Siriono	TOBACCO	tataʃɨ̃	tataʃɨ̃	t a t a + ʃ ɨ̃	t a t a + ʃ ɨ̃	2416	6003 17321	FIRE TOBACCO	fumotabaco3	
 15724	Warazu	TOBACCO	péti	péti	p é + t i	p é + - t i - - - - - - - -	2415	17320 19	TOBACCO _PLANT(V)	fumotabaco1	
 15996	Chiriguano	TOBACCO	tãtãti	tãtãti	t ã t ã + t i	t ã t ã + t i	2416	6003 17321	FIRE TOBACCO	fumotabaco3	
@@ -17419,7 +17431,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	N
 20559	Gavião	TODAY	aajiír	aajiír	aa j ií r	aa j ií r	2426	17389	TODAY		
 20799	Awetí	TODAY	ma	ma	m a	m a	2427	17391	TODAY		
 21734	Zoro	TODAY	ajɨr	ajɨr	a j ɨ r	a j ɨ r	2426	17389	TODAY		
-21813	Guarayo	TODAY	kopɨpe	kopɨpe	k o p ɨ p e	k o p ɨ p e	2424	17387 1546	THIS INSIDE		
+21813	Guarayo	TODAY	kopɨpe	kopɨpe	k o p ɨ + p e	k o p ɨ + p e	2424	17387 9178	THIS INSIDE		
 21929	Ka'apor	TODAY	taɾam / apo	taɾam	t a ɾ a m	t a ɾ a m	3472	1677	TODAY		
 21930	Ka'apor	TODAY	taɾam / apo	apo	a p o	a p o	2428	17390	TODAY		
 21961	Kepkiriwat	TODAY	hãneté	hãneté	h ã n e t é	h ã n e t é	3546	1729	TODAY		
@@ -17494,7 +17506,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	N
 800	Ramarama	TONGUE	ukagá	ukagá	u k a g á	- u k a g á	3811	2093	TONGUE	lingua4	
 1121	Makurap	TONGUE	ɲɨtʃẽm	ɲɨtʃẽm	ɲ ɨ tʃ ẽ m	ɲ ɨ tʃ ẽ m	3933	2276	TONGUE	lingua	
 1443	Wayoro	TONGUE	jõ	jõ	iõ	iõ	2441	17485	TONGUE	lingua	
-1824	Tupari	TONGUE	õpe	õpe	õ + p e	õ + p e	2441	17485	TONGUE _SKIN	lingua	
+1824	Tupari	TONGUE	õpe	õpe	õ + p e	õ + p e	2441	17485 14547	TONGUE _SKIN	lingua	
 2205	Akuntsu	TONGUE	õ	õ	õ	õ	2441	17485	TONGUE	lingua	
 2525	Mekens	TONGUE	õ	õ	õ	õ	2441	17485	TONGUE	lingua	
 2694	Cinta-Larga	TONGUE	kokap	kokap	k o k a p	k o k a p -	3810	2092	TONGUE	lingua4	
@@ -17592,7 +17604,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	N
 9775	Tenharim	TOOTH	ãj	ãj	ã j	- - - ã - j - -	2446	150	TOOTH	dente1	
 9896	Jiahoi	TOOTH	ãj	ãj	ã j	- - - ã - j - -	2446	150	TOOTH	dente1	
 10799	Araweté	TOOTH	ĩ	ĩ	ĩ	ĩ -	2447	150	TOOTH	dente	
-10890	Anambe Ehrenreich	TOOTH	seranja	seranja	s e r + a nʲ a	s e r + a nʲ a	2446	17552 150	TOOTH	dente	
+10890	Anambe Ehrenreich	TOOTH	seranja	seranja	s e r + a nʲ a	s e r + a nʲ a	2446	17552 150	? TOOTH	dente	
 11234	Amanaye	TOOTH	ĩ	ĩ	ĩ	ĩ -	2447	150	TOOTH	dente1	
 11573	Teko	TOOTH	ahaɲ	ahaɲ	a h a ɲ	- a h a ɲ -	2448	150	TOOTH	dente1	
 11975	Wayampi	TOOTH	ãʔɨ̃	ãʔɨ̃	ã ʔ ɨ̃	- ã ʔ ɨ̃ - -	2448	150	TOOTH	dente1	
@@ -17820,11 +17832,11 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	N
 20549	Asuriní Xingu	TUCUMA_PALM	tukumã	tukumã	t u k u m ã	t u k u m ã	2464	17765	TUCUMA		
 22170	Kampe	TUCUMA_PALM	akara	akara	a k a r a	a k a r a	2464	17765	TUCUMA_PALM		
 333	Karo	TURTLE	moa	moa	m oa	- m oa - -	2477	17803	TURTLE	tartarugajabotijabuti7	
-600	Purubora	TURTLE	tabebɨra	tabebɨra	t a b e b ɨ r a	t a b e b ɨ r a	2475	17805	TURTLE	tartarugajabotijabuti	
-703	Ntogapid-Itogapuk	TURTLE	mbóa	mbóa	mb ó a	- - mb ó - - a	2476	17800	TURTLE	tartarugajabotijabuti7	
-803	Ramarama	TURTLE	mboá	mboá	mb oá	- - mb oá - - -	2476	17800	TURTLE	tartarugajabotijabuti7	
-1128	Makurap	TURTLE	mbiako	mbiako	mb/ⁿb ia k o	- - mb/ⁿb ia k - o	2476	17800	TURTLE	tartarugajabotijabuti	
-1449	Wayoro	TURTLE	mboga	mboga	mb/ⁿb o g a	- - mb/ⁿb o g - a	2476	17800	TURTLE	tartarugajabotijabuti7	
+600	Purubora	TURTLE	tabebɨra	tabebɨra	t a b e b ɨ r a	t a b e b ɨ r a	2478	2315	TURTLE	tartarugajabotijabuti	
+703	Ntogapid-Itogapuk	TURTLE	mbóa	mbóa	mb ó a	- - mb ó - - a	3967	1033	TURTLE	tartarugajabotijabuti7	
+803	Ramarama	TURTLE	mboá	mboá	mb oá	- - mb oá - - -	3967	1033	TURTLE	tartarugajabotijabuti7	
+1128	Makurap	TURTLE	mbiako	mbiako	mb ia k o	- - mb ia k - o	3966	893	TURTLE	tartarugajabotijabuti	
+1449	Wayoro	TURTLE	mboga	mboga	mb o g a	- - mb o g - a	2476	17800	TURTLE	tartarugajabotijabuti7	
 1830	Tupari	TURTLE	pokʔa	pokʔa	p o k ʔ a	- - p o k ʔ a	2476	17800	TURTLE	tartarugajabotijabuti7	
 2211	Akuntsu	TURTLE	poga	poga	p o g a	- - p o g - a	2476	17800	TURTLE	tartarugajabotijabuti7	
 2531	Mekens	TURTLE	poga	poga	p o g a	- - p o g - a	2476	17800	TURTLE	tartarugajabotijabuti7	
@@ -17835,55 +17847,56 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	N
 4190	Surui-Paiter	TURTLE	amoo-aa	amoo-aa	a m oː + aː	a m oː - - + aː	2477	17803 17807	TURTLE _turtle	tartarugajabotijabuti7	
 4471	Karitiana	TURTLE	mɨɨp_sõm	mɨɨp_sõm	m ɨː p + s õ m	- m ɨː p - + s õ m	2477	17803 17806	TURTLE _turtle	tartarugajabotijabuti	
 4668	Arikem	TURTLE	mbuba	mbuba	mb u b a	- - mb u b - a	2476	17800	TURTLE	tartarugajabotijabuti7	
-4988	Xipaya	TURTLE	takurare	takurare	t a k u r a r e	t a k u r a r e	2475	17805	TURTLE	tartarugajabotijabuti8	
-5316	Juruna	TURTLE	takurare	takurare	t a k u r a r e	t a k u r a r e	2475	17805	TURTLE	tartarugajabotijabuti8	
-5703	Mundurukú	TURTLE	poj	poj	p o j	- - p o j - -	2476	17800	TURTLE	tartarugajabotijabuti	
-6007	Kuruaya	TURTLE	poj	poj	p o j	- - p o j - -	2476	17800	TURTLE	tartarugajabotijabuti	
+4988	Xipaya	TURTLE	takurare	takurare	t a k u r a r e	t a k u r a r e	3970	2317	TURTLE	tartarugajabotijabuti8	
+5316	Juruna	TURTLE	takurare	takurare	t a k u r a r e	t a k u r a r e	3970	2317	TURTLE	tartarugajabotijabuti8	
+5703	Mundurukú	TURTLE	poj	poj	p o j	- - p o j - -	3968	2313	TURTLE	tartarugajabotijabuti	
+6007	Kuruaya	TURTLE	poj	poj	p o j	- - p o j - -	3968	2313	TURTLE	tartarugajabotijabuti	
 6371	Mawe	TURTLE	wawori	wawori	w a w o r i	w a w o r i - - - -	2474	17801	TURTLE	tartarugajabotijabuti2	
 6671	Awetí	TURTLE	tawoʐɨ / tarapek	tawoʐɨ	t a w o ʑ ɨ	t a w o ʑ ɨ - - - -	2474	17801	TURTLE	tartarugajabotijabuti2	
-6672	Awetí	TURTLE	tawoʐɨ / tarapek	tarapek	t a r a p e k	t a r a p e k -	2475	17805	TURTLE	tartarugajabotijabuti2	
-7595	Surui-Aikewara	TURTLE	sautia	sautia	s au t ia	s au t ia	2478	17804	TURTLE	tartarugajabotijabuti2	
+6672	Awetí	TURTLE	tawoʐɨ / tarapek	tarapek	t a r a p e k	t a r a p e k -	3971	2314	TURTLE	tartarugajabotijabuti2	
+7595	Surui-Aikewara	TURTLE	sautia	sautia	s au t ia	s au t ia	2474	17801	TURTLE	tartarugajabotijabuti2	
 7869	Tapirapé	TURTLE	tʃãwatʃio	tʃãwatʃio	tʃ ã w a tʃ io	tʃ ã w a tʃ io - - - -	2474	17801	TURTLE	tartarugajabotijabuti2	
 8200	Tembe	TURTLE	paraʔɨwpe	paraʔɨwpe	p a r a ʔ ɨ w p e	p a r a ʔ ɨ w p e	2482	17808	TURTLE	tartarugajabotijabuti6	
-8536	Guajajara	TURTLE	zauʃipeho	zauʃipeho	z au ʃ i p e h o	z au - - ʃ i p e h o	2474	17801	TURTLE	tartarugajabotijabuti2	
+8536	Guajajara	TURTLE	zauʃi	zauʃi	z au ʃ i	z au ʃ i	2474	17801	TURTLE	tartarugajabotijabuti2	
 8793	Apiaka	TURTLE	tawasia	tawasia	t a w a s ia	t a w a s ia - - - -	2474	17801	TURTLE	tartarugajabotijabuti2	
 9147	Parintintin	TURTLE	jaβoti	jaβoti	j a β o t i	j a β o t i - - - -	2474	17801	TURTLE	tartarugajabotijabuti2	
 9448	Amondawa	TURTLE	javotʃi	javotʃi	j a v o tʃ i	j a v o tʃ i - - - -	2474	17801	TURTLE	tartarugajabotijabuti2	
 9780	Tenharim	TURTLE	jaβoti	jaβoti	j a β o t i	j a β o t i - - - -	2474	17801	TURTLE	tartarugajabotijabuti2	
 10177	Urueuwauwau	TURTLE	jaβoʃiaperea	jaβoʃiaperea	j a β o ʃ ia p e r ea	j a β o ʃ ia p e r ea	2474	17801	TURTLE	tartarugajabotijabuti2	
-10285	Wirafed	TURTLE	jabotí	jabotí	j a b o t í/i	j a b o t í/i - - - -	2474	17801	TURTLE	tartarugajabotijabuti2	
-10510	Kayabi	TURTLE	jowosipʷuu	jowosipʷuu	j o w o s i pʷ uː	j o w o s i pʷ - - uː	2474	17801	TURTLE	tartarugajabotijabuti2	
-10801	Araweté	TURTLE	ɲatsɨ	ɲatsɨ	ɲ a ts ɨ	ɲ a ts ɨ	2479	17802	TURTLE	tartarugajabotijabuti2	
+10285	Wirafed	TURTLE	jabotí	jabotí	j a b o t í	j a b o t í - - - -	2474	17801	TURTLE	tartarugajabotijabuti2	
+10510	Kayabi	TURTLE	jawatsi	jawatsi	j a w a ts i	j a w a ts i	2474	17801	TURTLE	tartarugajabotijabuti2	
+10801	Araweté	TURTLE	ɲatsɨ	ɲatsɨ	ɲ a ts ɨ	ɲ a ts ɨ	2474	17801	TURTLE	tartarugajabotijabuti2	
 10893	Anambe Ehrenreich	TURTLE	jabuti	jabuti	j a b u t i	j a b u t i - - - -	2474	17801	TURTLE	tartarugajabotijabuti	
-11125	Guajá	TURTLE	kamiʃa / jajtʃi	kamiʃa	k a m i ʃ a	k a m - - i ʃ a	2475	17805	TURTLE	tartarugajabotijabuti32	
+11125	Guajá	TURTLE	kamiʃa / jajtʃi	kamiʃa	k a m i ʃ a	k a m - - i ʃ a	2479	2319	TURTLE	tartarugajabotijabuti32	
 11126	Guajá	TURTLE	kamiʃa / jajtʃi	jajtʃi	j a j tʃ i	j a j - tʃ i - - - -	2474	17801	TURTLE	tartarugajabotijabuti32	
 11578	Teko	TURTLE	tosi	tosi	t o s i	t o - - s i - - - -	2474	17801	TURTLE	tartarugajabotijabuti2	
-11980	Wayampi	TURTLE	pilita	pilita	p i l i t a	p i l i t a - - - -	2474	17801	TURTLE	tartarugajabotijabuti4	
+11980	Wayampi	TURTLE	pilita	pilita	p i l i t a	p i l i t a - - - -	3969	2316	TURTLE	tartarugajabotijabuti4	
 12546	Ka'apor	TURTLE	jaʃi	jaʃi	j a ʃ i	j a - - ʃ i - - - -	2474	17801	TURTLE	tartarugajabotijabuti5	
 12771	Anambe	TURTLE	jabuti	jabuti	j a b u t i	j a b u t i - - - -	2474	17801	TURTLE	tartarugajabotijabuti2	
 13587	Avá Canoeiro	TURTLE	ʒaoti	ʒaoti	ʒ ao t i	ʒ ao t i	2474	17801	TURTLE	tartarugajabotijabuti2	
-13976	Tupinambá	TURTLE	jurara	jurara	j u r a r a	j u r - - a r a	2475	17805	TURTLE	tartarugajabotijabuti5	
+13976	Tupinambá	TURTLE	jurará	jurará	j u r a r á	j u r - - a r á	2475	17805	TURTLE	tartarugajabotijabuti5	
 14326	Nheengatu	TURTLE	jurara	jurara	j u r a r a	j u r - - a r a	2475	17805	TURTLE	tartarugajabotijabuti5	
 14608	Tupí Austral	TURTLE	ʒirukoa / ʒurara / ʒerika	ʒirukoa	ʒ i r u k oa	ʒ i r - - u k oa	2475	17805	TURTLE	tartarugajabotijabuti	
 14609	Tupí Austral	TURTLE	ʒirukoa / ʒurara / ʒerika	ʒurara	ʒ u r a r a	ʒ u r - - a r a	2475	17805	TURTLE	tartarugajabotijabuti	
 14610	Tupí Austral	TURTLE	ʒirukoa / ʒurara / ʒerika	ʒerika	ʒ e r i k a	ʒ e r - - i k a	2475	17805	TURTLE	tartarugajabotijabuti	
-14849	Yuki	TURTLE	kerẽmbe	kerẽmbe	k e r ẽ mb e	k e r ẽ mb - - e	2475	17805	TURTLE	tartarugajabotijabuti1	
+14849	Yuki	TURTLE	kerẽmbe	kerẽmbe	k e r ẽ mb e	k e r ẽ mb - - e	3972	2318	TURTLE	tartarugajabotijabuti1	
 15153	Guarayo	TURTLE	jaβotʃi	jaβotʃi	j a β o tʃ i	j a β o tʃ i - - - -	2474	17801	TURTLE	tartarugajabotijabuti2	
-15481	Siriono	TURTLE	kõnõme	kõnõme	k õ n õ m e	k õ n - - õ m e	2475	17805	TURTLE	tartarugajabotijabuti1	
+15481	Siriono	TURTLE	kõnõme	kõnõme	k õ n õ m e	k õ n - - õ m e	3972	2318	TURTLE	tartarugajabotijabuti1	
 15728	Warazu	TURTLE	ðowotsɨ	ðowotsɨ	ð o w o ts ɨ	ð o w o ts ɨ - - - -	2474	17801	TURTLE	tartarugajabotijabuti2	
-16001	Chiriguano	TURTLE	karume	karume	k a r u m e	k a r - - u m e	2475	17805	TURTLE	tartarugajabotijabuti1	
-16457	Mbya	TURTLE	karume	karume	k a r u m e	k a r - - u m e	2475	17805	TURTLE	tartarugajabotijabuti1	
-16793	Guaraní	TURTLE	karume	karume	k a r u m e	k a r - - u m e	2475	17805	TURTLE	tartarugajabotijabuti1	
-17134	Old Guaraní	TURTLE	karume	karume	k a r u m e	k a r - - u m e	2475	17805	TURTLE	tartarugajabotijabuti1	
-17375	Ache	TURTLE	kromme	kromme	k r o mː e	k - r - - o mː e	2475	17805	TURTLE	tartarugajabotijabuti1	
-17825	Kaiowa	TURTLE	karumbe	karumbe	k a r u mb/ⁿb e	k a r u mb/ⁿb - - e	2475	17805	TURTLE	tartarugajabotijabuti1	
-18145	Tapiete	TURTLE	karumbe	karumbe	k a r u mb/ⁿb e	k a r u mb/ⁿb - - e	2475	17805	TURTLE	tartarugajabotijabuti1	
-18883	Kokama	TURTLE	lipitsu	lipitsu	l i p i ts u	l i p i ts - u	2476	17800	TURTLE	tartarugajabotijabuti	
-19463	Asuriní Tocantins	TURTLE	saotí	saotí	s ao t í	s ao t í	2478	17804	TURTLE		
+16001	Chiriguano	TURTLE	karume	karume	k a r u m e	k a r - - u m e	3972	2318	TURTLE	tartarugajabotijabuti1	
+16457	Mbya	TURTLE	karume	karume	k a r u m e	k a r - - u m e	3972	2318	TURTLE	tartarugajabotijabuti1	
+16793	Guaraní	TURTLE	karume	karume	k a r u m e	k a r - - u m e	3972	2318	TURTLE	tartarugajabotijabuti1	
+17134	Old Guaraní	TURTLE	karume	karume	k a r u m e	k a r - - u m e	3972	2318	TURTLE	tartarugajabotijabuti1	
+17375	Ache	TURTLE	kromme	kromme	k r o mː e	k - r - - o mː e	3972	2318	TURTLE	tartarugajabotijabuti1	
+17825	Kaiowa	TURTLE	karumbe	karumbe	k a r u mb e	k a r u mb - - e	3972	2318	TURTLE	tartarugajabotijabuti1	
+18145	Tapiete	TURTLE	karumbe	karumbe	k a r u mb e	k a r u mb - - e	3972	2318	TURTLE	tartarugajabotijabuti1	
+18883	Kokama	TURTLE	lipitsu	lipitsu	l i p i ts u	l i p i ts - u	3965	791	TURTLE	tartarugajabotijabuti	
+19463	Asuriní Tocantins	TURTLE	saotí	saotí	s ao t í	s ao t í	2474	17801	TURTLE		
 20299	Kampe	TURTLE	puga	puga	p u g a	p u g a	2476	17800	TURTLE		
 20534	Asuriní Xingu	TURTLE	dʒawatsi	dʒawatsi	dʒ a w a t s i	dʒ a w a t s i	2474	17801	TURTLE		
 21374	Uruku	TURTLE	moʔa	moʔa	m o ʔ a	m o ʔ a	2477	17803	TURTLE		
 21890	Kepkiriwat	TURTLE	baep	baep	b ae p	b ae p	3494	1641	TURTLE		
+22293	Piripkura	TURTLE	tʃawtʃía	tʃawtʃía	tʃ a w tʃ ía	tʃ a w tʃ ía	2474	17801	TURTLE		
 334	Karo	TWO	tʃagaro	tʃagaro	tʃ a g a r o	tʃ a g a r - - o -	2484	17863	TWO	doisduas	
 601	Purubora	TWO	βewap	βewap	β e w a p	β e w a p	2488	17868	TWO	doisduas	
 704	Ntogapid-Itogapuk	TWO	jagarekom	jagarekom	j a g a r e k o m	j a g a r e k o m	2484	17863	TWO	doisduas	
@@ -18118,7 +18131,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	N
 20876	Zo'e	UNTIE	jorá	jorá	j o r á	j o r á	2514	18043	UNTIE		
 338	Karo	URINATE	tʃitok	tʃitok	tʃ i t o k	- - tʃ i t o k - -	2527	18088	URINATE	urinar	
 603	Purubora	URINATE	ʃitoka	ʃitoka	ʃ i t o k a	- - ʃ i t o k a -	2527	18088	URINATE	urinar	
-1454	Wayoro	URINATE	ndigu_takwa	ndigu_takwa	nd/ⁿd i g u + t a kʷ a	nd/ⁿd i g u + - - - - t a kʷ a -	2527	18094 18088	_urinate URINATE	urinar	
+1454	Wayoro	URINATE	ndigu_takwa	ndigu_takwa	nd i g u + t a kʷ a	nd i g u + - - - - t a kʷ a -	2527	18094 18088	_urinate URINATE	urinar	
 1836	Tupari	URINATE	itoʔokʔot	itoʔokʔot	i t o ʔ o k ʔ o t	i t o ʔ o k ʔ o t	2531	18093	URINATE	urinar	
 2216	Akuntsu	URINATE	dijã_	dijã_	d i j ã	- - - - d i j ã -	2527	18088	URINATE	urinar	
 2534	Mekens	URINATE	dijo	dijo	d i j o	- - - - d i j o -	2527	18088	URINATE	urinar	
@@ -18212,7 +18225,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	N
 20572	Gavião	VEIN	tápóò	tápóò	t á p ó ò	t á p ó ò	2862	619	VEIN		Also means 'vine, cord'
 20802	Awetí	VEIN	atik	atik	a t i k	a t i k	2536	18143	VEIN		
 340	Karo	VOMIT	owé	owé	o w é	- o w - - é -	2556	18227	VOMIT	vomitar	
-1456	Wayoro	VOMIT	ekẽntakawa	ekẽntakawa	e k ẽ n + t a k a w a	e k ẽ n + t a k a w a	2557	18225 18232	VOMIT	vomitar	
+1456	Wayoro	VOMIT	ekẽntakawa	ekẽntakawa	e k ẽ n + t a k a w a	e k ẽ n + t a k a w a	2557	18225 18232	VOMIT ?	vomitar	
 1840	Tupari	VOMIT	ẽken	ẽken	ẽ k e n	- - ẽ k e n -	2557	18225	VOMIT	vomitar	
 2219	Akuntsu	VOMIT	kʷira	kʷira	kʷ i r a	- - - kʷ i r a	3845	2133	VOMIT	vomitar	
 2535	Mekens	VOMIT	ẽken	ẽken	ẽ k e n	- - ẽ k e n -	2557	18225	VOMIT	vomitar	
@@ -18269,13 +18282,13 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	N
 1841	Tupari	VULTURE	oropʔo	oropʔo	o r o p ʔ o	- o r - - o p ʔ - - o	2564	18273	VULTURE	urubu1	
 2220	Akuntsu	VULTURE	ɨeko	ɨeko	ɨe k o	- ɨe - - - k o - -	2565	18272	VULTURE	urubu7	
 2536	Mekens	VULTURE	ɨeko	ɨeko	ɨe k o	- ɨe - - - k o - -	2565	18272	VULTURE	urubu	
-2697	Cinta-Larga	VULTURE	baiaki	baiaki	b a ia k i	b a ia - - k i - -	2565	18272	VULTURE	urubu7	
+2697	Cinta-Larga	VULTURE	baiaki	baiaki	b ai a k i	b ai a - - k i - -	2565	18272	VULTURE	urubu7	
 3092	Gavião	VULTURE	mãiãkoo	mãiãkoo	m ã iã k oː	m ã iã - - k oː - -	2565	18272	VULTURE	urubu7	
 3377	Monde	VULTURE	ukio	ukio	u k io	- u - - - k io - -	2565	18272	VULTURE	urubu7	
 3581	Arua	VULTURE	iako	iako	ia k o	- ia - - - k o - -	2565	18272	VULTURE	urubu7	
 3672	Matanau	VULTURE	uikuú	uikuú	ui k uú	- ui - - - k uú - -	2565	18272	VULTURE	urubu7	
 3713	Kabanae	VULTURE	uikwab	uikwab	ui kʷ a b	ui kʷ a b	2565	18272	VULTURE	urubu7	
-3876	Zoro	VULTURE	maiãkoo	maiãkoo	m a iã k oː	m a iã - - k oː - -	2565	18272	VULTURE	urubu	
+3876	Zoro	VULTURE	maiãkoo	maiãkoo	m ai ã k oː	m ai ã - - k oː - -	2565	18272	VULTURE	urubu	
 4199	Surui-Paiter	VULTURE	oikoo	oikoo	oi k oː	- oi - - - k oː - -	2565	18272	VULTURE	urubu7	
 4476	Karitiana	VULTURE	akɨrɨ	akɨrɨ	a k ɨ r ɨ	- a - - k ɨ r ɨ -	3517	1680	VULTURE	urubu	
 4672	Arikem	VULTURE	ɨeko	ɨeko	ɨe k o	- ɨe - - - k o - -	2565	18272	VULTURE	urubu7	
@@ -18401,10 +18414,10 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	N
 21277	Uruku	WALK	iavara / teteia	iavara	ia v a r a	ia v a r a	3135	1125	WALK		
 21278	Uruku	WALK	iavara / teteia	teteia	t e t e ia	t e t e ia	3136	1126	WALK		
 21989	Kepkiriwat	WALK	gabun	gabun	g a b u n	g a b u n	3590	1795	WALK		
-21990	Mekens	WALK	ekɨbõ / ereiat	ereiat	e r eia t	e r eia t	3606	1807	WALK		
+21990	Mekens	WALK	ekɨbõ / ereiat	ereiat	e r ei a t	e r ei a t	3606	1807	WALK		
 344	Karo	WANT	ʃejegat	ʃejegat	ʃ e j e g a t	ʃ e j e g a t	2581	18424	WANT	querer	
 1137	Makurap	WANT	peka	peka	p e k a	- - p e k a - -	2575	18419	WANT	querer	
-1459	Wayoro	WANT	ndia	ndia	nd/ⁿd ia	nd/ⁿd - - - - ia - -	2575	18419	WANT	querer	
+1459	Wayoro	WANT	ndia	ndia	nd ia	nd - - - - ia - -	2575	18419	WANT	querer	
 1844	Tupari	WANT	kotʔoj	kotʔoj	k o t ʔ o j	k o t ʔ o j	2584	18428	WANT	querer	
 2223	Akuntsu	WANT	tʃobe_kwa	tʃobe_kwa	tʃ o b e + kʷ a	tʃ o b - - e - - + kʷ a - -	2575	18419 18420	WANT _want	querer	
 2538	Mekens	WANT	obekar	obekar	o b e k a r	- o b e k a r -	2575	18419	WANT	querer	
@@ -18462,7 +18475,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	N
 345	Karo	WASH	tʃan / idákú	tʃan	tʃ a n	tʃ - - a n - -	2587	18479	WASH	lavarclothes	
 346	Karo	WASH	tʃan / idákú	idákú	i d á k ú	- - - i d á k ú -	2585	18477	WASH	lavarclothes	
 1138	Makurap	WASH	dʒua	dʒua	dʒ ua	dʒ - - ua - - -	2587	18479	WASH	lavar	
-1460	Wayoro	WASH	mbokʷa	mbokʷa	mb/ⁿb o kʷ a	- - - - mb/ⁿb o kʷ a -	2585	18477	WASH	lavar	
+1460	Wayoro	WASH	mbokʷa	mbokʷa	mb o kʷ a	- - - - mb o kʷ a -	2585	18477	WASH	lavar	
 1845	Tupari	WASH	oʔe	oʔe	o ʔ e	- - - o ʔ - - e	2586	18478	WASH	lavar	
 2224	Akuntsu	WASH	õkʷa	õkʷa	õ kʷ a	- - - - - õ kʷ a -	2585	18477	WASH	lavar	
 2539	Mekens	WASH	atsua	atsua	a ts ua	- - - a ts ua -	2587	18479	WASH	lavar	
@@ -18514,14 +18527,14 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	N
 17148	Old Guaraní	WASH	johej	johej	j o h e j	- - j o h e j -	2586	18478	WASH	lavar3	
 17386	Ache	WASH	bioʔo	bioʔo	b io ʔ o	b io ʔ o	2588	18481	WASH	lavar	
 17832	Kaiowa	WASH	johei	johei	j o h ei	- - j o h - - ei	2586	18478	WASH	lavar3	
-18157	Tapiete	WASH	mbaputuka	mbaputuka	mb/ⁿb a p u t u k a	mb/ⁿb a p u t u k a -	2585	18477	WASH	lavar1	
+18157	Tapiete	WASH	mbaputuka	mbaputuka	mb a p u t u k a	mb a p u t u k a -	2585	18477	WASH	lavar1	
 18626	Omagua	WASH	sukuta	sukuta	s u k u t a	s u k u t a -	2587	18479	WASH	lavar	
 18894	Kokama	WASH	tsikuta	tsikuta	ts i k u t a	ts i k u t a -	2587	18479	WASH	lavar	
 20241	Purubora	WASH	baʃoa	baʃoa	b a ʃ oa	b a ʃ oa		18477	WASH		
 347	Karo	WASP	nãp	nãp	n ã p	n ã p - - -	2590	18536	WASP	vespa1	
 607	Purubora	WASP	dabai	dabai	d a b ai	d a b - - ai	2590	18536	WASP	vespa2	
 1139	Makurap	WASP	ŋgap	ŋgap	ŋg/ⁿg a p	ŋg/ⁿg a p - - -	2590	18536	WASP	vespa1	
-1461	Wayoro	WASP	ŋgap	ŋgap	ŋg/ⁿg a p	ŋg/ⁿg a p - - -	2590	18536	WASP	vespa1	
+1461	Wayoro	WASP	ŋgap	ŋgap	ŋg a p	ŋg a p - - -	2590	18536	WASP	vespa1	
 1846	Tupari	WASP	kap	kap	k a p	k a p - - -	2590	18536	WASP	vespa1	
 2225	Akuntsu	WASP	kap	kap	k a p	k a p - - -	2590	18536	WASP	vespa1	
 2540	Mekens	WASP	kap	kap	k a p	k a p - - -	2590	18536	WASP	vespa1	
@@ -18922,13 +18935,13 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	N
 13384	Asuriní Xingu	WHAT	maʔe	maʔe	m a ʔ e	m - - - - - a ʔ e	2632	18889	WHAT	oque1	
 13999	Tupinambá	WHAT	mbaʔe	mbaʔe	mb a ʔ e	- - - - - mb a ʔ e	2632	18889	WHAT	oque1	
 14343	Nheengatu	WHAT	mata / maã_taa	mata	m a t a	m - - - - - a t a	2632	18889	WHAT	oque	
-14344	Nheengatu	WHAT	mata / maã_taa	maã_taa	m aã/ãː + t aː	m - - - - - aã/ãː - - + - - t aː	2632	18889 18890	WHAT _what	oque	
+14344	Nheengatu	WHAT	mata / maã_taa	maã_taa	m aã + t aː	m - - - - - aã - - + - - t aː	2632	18889 18890	WHAT _what	oque	
 14865	Yuki	WHAT	ba	ba	b a	- - - - - b a - -	2632	18889	WHAT	oque1	
 15170	Guarayo	WHAT	mbaʔe	mbaʔe	mb a ʔ e	- - - - - mb a ʔ e	2632	18889	WHAT	oque1	
 16475	Mbya	WHAT	mbaʔe	mbaʔe	mb a ʔ e	- - - - - mb a ʔ e	2632	18889	WHAT	oque1	
 16810	Guaraní	WHAT	mbaʔe	mbaʔe	mb a ʔ e	- - - - - mb a ʔ e	2632	18889	WHAT	oque1	
 17157	Old Guaraní	WHAT	mbaʔe	mbaʔe	mb/ⁿb a ʔ e	- - - - - mb/ⁿb a ʔ e	2632	18889	WHAT	oque1	
-18165	Tapiete	WHAT	mbaʔe	mbaʔe	mb/ⁿb a ʔ e	- - - - - mb/ⁿb a ʔ e	2632	18889	WHAT	oque1	
+18165	Tapiete	WHAT	mbaʔe	mbaʔe	mb a ʔ e	- - - - - mb a ʔ e	2632	18889	WHAT	oque1	
 18299	Ñandeva	WHAT	mbaʔe	mbaʔe	mb a ʔ e	- - - - - mb a ʔ e	2632	18889	WHAT	oque1	
 19179	Omagua	WHAT	mari	mari	m a r i	m a r i	2632	18889	WHAT		
 19472	Asuriní Tocantins	WHAT	maʔe	maʔe	m a ʔ e	m a ʔ e	2632	18889	WHAT		
@@ -19078,7 +19091,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	N
 7286	Asuriní Tocantins	WIFE	atɨ	atɨ	a t ɨ	- a - t ɨ	2656	19058	WIFE	esposa8	
 7616	Surui-Aikewara	WIFE	emireko	emireko	e m i + r e k o	e m i + r e k o	2655	19059 2117	NOMINALIZER BE	esposa1	
 7889	Tapirapé	WIFE	ãtɨ	ãtɨ	ã t ɨ	- ã - t ɨ	2656	19058	WIFE	esposa7	
-8220	Tembe	WIFE	emireko	emireko	e m i + r e k o	e m i + r e k o	2655	19059 2117	WIFE	esposa1	
+8220	Tembe	WIFE	emireko	emireko	e m i + r e k o	e m i + r e k o	2655	19059 2117	NOMINALIZER BE	esposa1	
 8556	Guajajara	WIFE	emireko	emireko	e m i + r e k o	e m i + r e k o	2655	19059 2117	NOMINALIZER BE	esposa1	
 8807	Apiaka	WIFE	emireko	emireko	e m i + r e k o	e m i + r e k o	2655	19059 2117	NOMINALIZER BE	esposa1	
 9168	Parintintin	WIFE	emireko	emireko	e m i + r e k o	e m i + r e k o	2655	19059 2117	NOMINALIZER BE	esposa1	
@@ -19113,7 +19126,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	N
 17393	Ache	WIFE	breko	breko	b r e k o	- - - - b - r e k o -	2655	19059	WIFE	esposa1	
 17621	Xeta	WIFE	mirad̥a	mirad̥a	m i r a d̥ a	- - - - m i r a d̥ a -	2655	19059	WIFE	esposa3	
 17839	Kaiowa	WIFE	embireko	embireko	e mb i + r e k o	e mb i + r e k o	2655	19059 2117	NOMINALIZER BE	esposa1	
-18168	Tapiete	WIFE	ɨreko	ɨreko	ɨ r e k o	- - - - - ɨ r e k o -	2655	19059 2117	WIFE	esposa1	
+18168	Tapiete	WIFE	ɨreko	ɨreko	ɨ + r e k o	ɨ + r e k o	2655	19059 2117	NOMINALIZER BE	esposa1	
 18301	Ñandeva	WIFE	embireko	embireko	e mb i + r e k o	e mb i + r e k o	2655	19059 2117	NOMINALIZER BE	esposa1	
 18359	Apapokuva	WIFE	mbireko	mbireko	mb i + r e k o	mb i + r e k o	2655	19059 2117	NOMINALIZER BE	esposa1	
 18633	Omagua	WIFE	mirikua	mirikua	m i + r i k ua	m i + r i k ua	2655	19059 2117	NOMINALIZER BE	esposa1	
@@ -19157,7 +19170,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	N
 16479	Mbya	WILD CAT	ʃiβiʔi	ʃiβiʔi	ʃ i β i ʔ i	ʃ i β i ʔ i	2667	19130	WILD	gatodomato	
 17161	Old Guaraní	WILD CAT	mbarakaja	mbarakaja	mb/ⁿb a r a k a j a	mb/ⁿb a r a k a - - - j a	2661	19126	WILD	gatodomato	
 17622	Xeta	WILD CAT	hajkə̃_tʃə̃ʃə̃aj	hajkə̃_tʃə̃ʃə̃aj	h a j k ə̃ + tʃ ə̃ ʃ ə̃ a j	h a j k ə̃ + tʃ ə̃ ʃ ə̃ a j	2668	19131 19132	WILD _wild	gatodomato	
-18169	Tapiete	WILD CAT	mbarakaʒa	mbarakaʒa	mb/ⁿb a r a k a ʒ a	mb/ⁿb a r a k a - - - ʒ a	2661	19126	WILD	gatodomato	
+18169	Tapiete	WILD CAT	mbarakaʒa	mbarakaʒa	mb a r a k a ʒ a	mb a r a k a - - - ʒ a	2661	19126	WILD	gatodomato	
 19151	Guaraní	WILD CAT	mbarakaja	mbarakaja	mb a r a k a j a	mb a r a k a j a	2661	19126	WILD_CAT		
 19288	Arikem	WILD CAT	omakui	omakui	o m a k u i	o m a k u i	2663	19124	WILD_CAT		
 19473	Asuriní Tocantins	WILD CAT	marakasá	marakasá	m a r a k a s á	m a r a k a s á	2661	19127	WILD_CAT		
@@ -19183,7 +19196,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	N
 6398	Mawe	WILD DOG	awahuru	awahuru	a w a h u r u	- a w a h u r u -	3869	2170	WILD	cachorrodomato	
 6695	Awetí	WILD DOG	ekɨʐak	ekɨʐak	e k ɨ ʑ a k	- - e k ɨ ʑ a k	2672	19170	WILD	cachorrodomato	
 8222	Tembe	WILD DOG	awara	awara	a w a r a	- a w a - - r a -	2670	19169	WILD	cachorrodomato1	
-8558	Guajajara	WILD DOG	zawarpew	zawarpew	z a w a r + p e w	z a w a r + p e w	2670	19169 2169	WILD	cachorrodomato	
+8558	Guajajara	WILD DOG	zawarpew	zawarpew	z a w a r + p e w	z a w a r + p e w	2670	19169 2169	WILD LOW	cachorrodomato	
 9171	Parintintin	WILD DOG	ɲaŋʷa	ɲaŋʷa	ɲ a ŋʷ a	ɲ a ŋʷ a	2678	19176	WILD	cachorrodomato	
 12008	Wayampi	WILD DOG	awawa	awawa	a w a w a	- a w a - - w a -	2670	19169	WILD	cachorrodomato1	
 12568	Ka'apor	WILD DOG	jawaran	jawaran	j a w a r a n	j a w a r - - a n	2670	19169	WILD	cachorrodomato1	
@@ -19405,7 +19418,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	N
 4686	Arikem	WOMAN	ərəpijə	ərəpijə	ə r ə p i j ə	ə r ə - p i j ə	3660	1878	WOMAN	mulher5	
 5014	Xipaya	WOMAN	sídia	sídia	s í d ia	- - - - s í d ia	3666	1877	WOMAN	mulher	
 5345	Juruna	WOMAN	idʒa	idʒa	i dʒ a	- - - - - i dʒ a	2007	277	WOMAN	mulher	
-5732	Mundurukú	WOMAN	aiatʃat	aiatʃat	a ia tʃ a t	a ia tʃ a t	3665	1883	WOMAN	mulher	
+5732	Mundurukú	WOMAN	aiatʃat	aiatʃat	ai a tʃ a t	ai a tʃ a t	3665	1883	WOMAN	mulher	
 6031	Kuruaya	WOMAN	ao	ao	ao	ao	2701	19363	WOMAN	mulher	
 6403	Mawe	WOMAN	harɨporia	harɨporia	h a r ɨ p o r ia	h a r ɨ p o r - - ia	3658	1876	WOMAN	mulher	
 6700	Awetí	WOMAN	kujã	kujã	k u j ã	k - u - - j ã	2696	19359	WOMAN	mulher1	
@@ -19509,7 +19522,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	N
 16820	Guaraní	WORM (EARTH)	heβoiʔi	heβoiʔi	h e β oi ʔ i	h e β oi - - ʔ i -	2708	19473	WORM	vermeminhoca1	
 17166	Old Guaraní	WORM (EARTH)	ɨβɨaso	ɨβɨaso	ɨ β ɨa s o	- ɨ β ɨa - - s o -	2708	19473	WORM	vermeminhoca2	
 17843	Kaiowa	WORM (EARTH)	seβoʔi	seβoʔi	s e β o ʔ i	s e β o - - ʔ i -	2708	19473	WORM	vermeminhoca1	
-18175	Tapiete	WORM (EARTH)	áso	áso	á/a s o	- á/a - - s o -	2710	19475	WORM	vermeminhoca2	
+18175	Tapiete	WORM (EARTH)	áso	áso	á s o	- á - - s o -	2710	19475	WORM	vermeminhoca2	
 18638	Omagua	WORM (EARTH)	ura	ura	u r a	- u r - - a -	2710	19475	WORM	vermeminhoca	
 18906	Kokama	WORM (EARTH)	tsɨwɨj	tsɨwɨj	ts ɨ w ɨ j	ts ɨ w ɨ j - - - -	2708	19473	WORM	vermeminhoca1	
 19296	Arikem	WORM (EARTH)	ŋɨrabo	ŋɨrabo	ŋ ɨ r a b o	ŋ ɨ r a b o	2708	19473	WORM		
@@ -19963,7 +19976,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	N
 12959	Kamajura	GRASS	jawaʔip	jawaʔip	j a w a ʔ i p	j a w a ʔ i p	1050	7554	GRASS	grama5	
 13232	Asuriní Xingu	GRASS	kaʔapiʔi	kaʔapiʔi	k a ʔ a + p i ʔ i	k a ʔ a + p i ʔ i	1047	7547 139	GRASS ?	grama1	
 13478	Avá Canoeiro	GRASS	kapi	kapi	k a p i	k a - - - - - p - i -	1047	7547	GRASS	grama1	
-13762	Tupinambá	GRASS	kapiʔi	kapiʔi	k a p i + ʔ i	k a p i + ʔ i	1047	3108 139	GRASS ?	grama1	
+13762	Tupinambá	GRASS	kapiʔi	kapiʔi	k a p i + ʔ i	k a p i + ʔ i	1047	7547 139	GRASS ?	grama1	
 14148	Nheengatu	GRASS	kaʔapĩ	kaʔapĩ	k a ʔ a p ĩ	k a ʔ a - - - p - ĩ -	1047	7547	GRASS	grama1	
 14986	Guarayo	GRASS	kapii	kapii	k a + p iː	k a + p iː	1047	7547 139	GRASS ?	grama1	
 15312	Siriono	GRASS	kʷiata	kʷiata	kʷ ia t a	kʷ ia - - - t a - - - -	1047	7547	GRASS	grama	
@@ -20025,7 +20038,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	N
 13246	Asuriní Xingu	HEN / CHICKEN	arakuri	arakuri	a r a k u r i	- - - a r a k u r i - -	1179	8463	HEN	galinha8	
 13489	Avá Canoeiro	HEN / CHICKEN	arakali	arakali	a r a k a l i	- - - a r a k a l i - -	1179	8463	HEN	galinha8	
 13779	Tupinambá	HEN / CHICKEN	sapukaj	sapukaj	s a p u k a j	s a p u k a j -	1180	8467	HEN	galinha2	
-14165	Nheengatu	HEN / CHICKEN	sapukaia	sapukaia	s a p u k a j a	s a p u k a j a	1180	8467	HEN	galinha2	
+14165	Nheengatu	HEN / CHICKEN	sapukaia	sapukaia	s a p u k ai a	s a p u k ai a	1180	8467	HEN	galinha2	
 14484	Tupí Austral	HEN / CHICKEN	sapukaja	sapukaja	s a p u k a j a	s a p u k a j a	1180	8467	HEN	galinha2	
 14739	Yuki	HEN / CHICKEN	etimagʷa	etimagʷa	e t i m a gʷ a	- e t i m a gʷ a	1010	107	HEN	galinha6	
 15002	Guarayo	HEN / CHICKEN	takura	takura	t a k u r a	- - t a - - k u r a - -	1179	8463	HEN	galinha0	
@@ -20587,7 +20600,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	N
 20174	Ache	SISTER, younger of man	pawe kudʒa tɨwɨpurãgi	pawe kudʒa tɨwɨpurãgi	p a w e + k u dʒ a + t ɨ w ɨ p u r ã g i	p a w e + k u dʒ a + t ɨ w ɨ p u r ã g i	3036	779 780 781	SISTER ? ?		
 20972	Guaraní	SISTER, younger of man	teindɨ(ra)	teindɨ(ra)	t ei n d ɨ	t ei n d ɨ	2017	14438	SISTER		
 21657	Teko	SISTER, younger of man	kũɲã	kũɲã	k ũ ɲ ã	k ũ ɲ ã	2016	14437	SISTER		
-21834	Guarayo	SISTER, younger of man	reindɨr	reindɨr	r ei n d ɨ r	r ei n d ɨ r	2017	14438			
+21834	Guarayo	SISTER, younger of man	reindɨr	reindɨr	r ei n d ɨ r	r ei n d ɨ r	2017	14438	SISTER		
 21937	Ka'apor	SISTER, younger of man	hɛnɪɾ	hɛnɪɾ	h ɛ n ɪ ɾ	h ɛ n ɪ ɾ	2017	14438	SISTER		
 22090	Makurap	SISTER, younger of man	kojtpet	kojtpet	k oi t p e t	k oi t p e t	2016	14437	SISTER		
 1396	Wayoro	SISTER, older of woman	akej	akej	a k e j	- - a k e j -	2019	14440	SISTER	irma	
@@ -20999,7 +21012,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	N
 21433	Kokama	HARPY EAGLE	wɨratsu	wɨratsu	w ɨ r a + ts u	w ɨ r a + ts u	3044	981 984	BIRD _big		
 21489	Uruku	HARPY EAGLE	kokõ	kokõ	k o k õ	k o k õ	3047	985	HARPY		
 21664	Teko	HARPY EAGLE	dzapakani	dzapakani	dz a p a k a n i	dz a p a k a n i	3048	987	HARPY		
-21708	Ka'apor	HARPY EAGLE	wɨrahu	wɨrahu	w ɨ r a + h u	w ɨ r a + h u	3044	981 984	HARPY		
+21708	Ka'apor	HARPY EAGLE	wɨrahu	wɨrahu	w ɨ r a + h u	w ɨ r a + h u	3044	981 1650	HARPY BIG		
 21897	Kepkiriwat	HARPY EAGLE	ẽɲuarú	ẽɲuarú	ẽ ɲ ua r ú	ẽ ɲ ua r ú	3498	1645	HARPY		
 22085	Makurap	HARPY EAGLE	pãriõ tʃato	pãriõ tʃato	p ã r iõ + tʃ a t o	p ã r iõ + tʃ a t o	2562	2124 984	HARPY _BIG		
 22267	Mekens	HARPY EAGLE	kẽjatso	kẽjatso	k ẽ j a + ts o	k ẽ j a + ts o	3956	2310 984	HARPY BIG		
@@ -21314,7 +21327,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	N
 19511	Tembe	(Brazilian) CEDAR	wɨrakãtĩŋʔɨw	wɨrakãtĩŋʔɨw	w ɨ r a + k ã t ĩ ŋ + ʔ ɨ w	- w ɨ r a + k ã t ĩ ŋ - + ʔ ɨ w -	2060	292 310 309	TREE STENCH TREE		
 19512	Wayampi	(Brazilian) CEDAR	kaɨsu	kaɨsu	k aɨ s u	k aɨ s u	2087	315	CEDAR		
 19513	Asuriní Xingu	(Brazilian) CEDAR	tatakatʃiʔɨwa	tatakatʃiʔɨwa	t a t a + k a tʃ i + ʔ ɨ w a	t a t a + k a tʃ i - - + ʔ ɨ w a	2072	6003 310 309	FIRE VAPOUR TREE		
-19514	Guajajara	(Brazilian) CEDAR	ɨwɨrakaʃigɨw	ɨwɨrakaʃigɨw	ɨ w ɨ r a + k a ʃ i g + ɨ w	ɨ w ɨ r a + k a ʃ i g - + - ɨ w -	2060	292 310 309	TREE TREE		
+19514	Guajajara	(Brazilian) CEDAR	ɨwɨrakaʃigɨw	ɨwɨrakaʃigɨw	ɨ w ɨ r a + k a ʃ i g + ɨ w	ɨ w ɨ r a + k a ʃ i g - + - ɨ w -	2060	292 310 309	TREE STENCH TREE		
 19515	Karo	(Brazilian) CEDAR	koi	koi	k oi	k oi	2087	315	CEDAR		
 19516	Nheengatu	(Brazilian) CEDAR	akainká / putumujú	akainká	a k ai n k á	a k ai n - k á	2067	302	CEDAR		
 19517	Nheengatu	(Brazilian) CEDAR	putumujú	putumujú	p u t u m u j ú	p u t u m u j ú	2088	316	CEDAR		
@@ -21503,7 +21516,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	N
 20046	Guajajara	ASHES	tanimuk	tanimuk	t a n i + m u k	t a n i + m u k	2753	420 579	FIRE ?		
 20047	Apiaka	ASHES	tanimug	tanimug	t a n i + m u g	t a n i + m u g	2753	420 579	ASHES ?		
 20048	Parintintin	ASHES	tãnĩmuka	tãnĩmuka	t ã n ĩ + m u k a	t ã n ĩ + m u k a	2753	420 579	ASHES ?		
-20049	Amondawa	ASHES	tãnĩmuka / kũw	tãnĩmuka	t ã n ĩ + m u k a	t ã n ĩ	2753	420 579	ASHES ?		
+20049	Amondawa	ASHES	tãnĩmuka / kũw	tãnĩmuka	t ã n ĩ + m u k a	t ã n ĩ + m u k a	2753	420 579	ASHES ?		
 20050	Amondawa	ASHES	tãnĩmuka / kũw	kũw	k ũ w	k ũ w	2757	421	ASHES		
 20051	Tenharim	ASHES	tãnĩmuka	tãnĩmuka	t ã n ĩ + m u k a	t ã n ĩ + m u k a	2753	420 579	FIRE ?		
 20052	Juma	ASHES	tatapɨi	tatapɨi	t a t a + p ɨi	- t a t a + p ɨi	2754	6003 527	FIRE ?		
@@ -21532,7 +21545,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	N
 20076	Kokama	ASHES	tanimuka	tanimuka	t a n i + m u k a	t a n i + m u k a	2753	420 579	ASHES ?		
 21240	Old Guaraní	ASHES	tanimbu	tanimbu	t a n i + m b u	t a n i + m b u	2753	420 579	FIRE ?		
 21652	Teko	ASHES	tanibuk	tanibuk	t a n i + b u k	t a n i + b u k	2753	420 579	ASHES ?		
-21763	Amanaye	ASHES	tanimbuh	tanimbuh	t a n i mb u h	t a n i mb u h	2753	420 579	ASHES ?		
+21763	Amanaye	ASHES	tanimbuh	tanimbuh	t a n ɪ + mb u h	t a n ɪ + mb u h	2753	420 579	ASHES ?		
 21863	Makurap	ASHES	kɨɲẽn	kɨɲẽn	k ɨ + ɲ ẽ n	k ɨ + ɲ ẽ n	2752	524 531	? FECES		
 22040	Kepkiriwat	ASHES	kaɲã_oe	kaɲã_oe	k a ɲ ã + oe	k a ɲ ã + oe	1609	196 2021	ASHES ?		
 19995	Ache	DREAM	ikẽ pou	ikẽ pou	i k ẽ + p ou	i k ẽ + p ou	2751	414 298	DREAM ?		
@@ -21552,7 +21565,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	N
 20761	Juruna	DREAM	ʔeʔelu	ʔeʔelu	ʔ e ʔ e l u	ʔ e ʔ e l u	2893	661	DREAM		
 20891	Zo'e	DREAM	pahu	pahu	p a h u	p a h u	2751	414	DREAM		
 21721	Ka'apor	DREAM	erai	erai	e r ai	e r ai	2758	423	DREAM		
-21849	Guarayo	DREAM	mongerãse	mongerãse	m o n g e r + ã s e	m o n g e r + ã s e	2758	423 737	DREAM		
+21849	Guarayo	DREAM	mongerãse	mongerãse	m o n g e r + ã s e	m o n g e r + ã s e	2758	423 737	DREAM ?		
 22086	Makurap	DREAM	eramem	eramem	e r a + m e m	e r a + m e m	2563	2125 2131	SLEEP ?		
 20089	Chiriguano	DREAM (verb)	pa(i)u	pa(i)u	p ai u	p ai u	2759	424	DREAM		
 20090	Mundurukú	DREAM (verb)	dʒeʃej	dʒeʃej	dʒ e + ʃ ei	dʒ e + ʃ ei	2760	444 425	MIDDLE DREAM		
@@ -21649,9 +21662,9 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	N
 20361	Chiriguano	ROTTEN	ũu	ũu	ũu	- ũu - - -	2790	462	ROTEN		
 20364	Guaraní	ROTTEN	tuju	tuju	t u iu	t u iu	2790	462	ROTTEN		
 20367	Ache	ROTTEN	mɨda	mɨda	m ɨ d a	m ɨ d a	2792	464	ROTTEN		
-20371	Siriono	ROTTEN	eaj	eaj	e + ai	e + ai	2785	18593 ?	LIQUID SOUR		
-20372	Siriono	ROTTEN	ereĩ	ereĩ	e r eĩ	e r eĩ	2787	459	ROTTEN		
-20373	Siriono	ROTTEN	emano	emano	e m a n o	e m a n o	2794	467	ROTTEN		
+20371	Siriono	ROTTEN	eaj / ereĩ / emano	eaj	e + ai	e + ai	2785	18593 999	LIQUID SOUR		
+20372	Siriono	ROTTEN	eaj / ereĩ / emano	ereĩ	e r eĩ	e r eĩ	2787	459	ROTTEN		
+20373	Siriono	ROTTEN	eaj / ereĩ / emano	emano	e m a n o	e m a n o	2794	467	ROTTEN		
 20376	Wayampi	ROTTEN	nẽ	nẽ	n ẽ	n ẽ	2787	459	ROTTEN		
 20410	Teko	ROTTEN	tʃuʔum	tʃuʔum	tʃ u ʔ u m	tʃ u ʔ u m	2790	462	ROTTEN		
 20525	Gavião	ROTTEN	sỗòt	sỗòt	s ỗò t	s - ỗò t	2936	732	ROTTEN		
@@ -21659,10 +21672,10 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	N
 20527	Zoro	ROTTEN	sõot	sõot	s õo t	s - õo t	2936	732	ROTTEN		
 21435	Kokama	ROTTEN	pua	pua	p ua	p ua	3235	1278	ROTTEN		
 21701	Ka'apor	ROTTEN	juk	juk	iu k	iu k	2786	458	ROTTEN		
-21850	Guarayo	ROTTEN	jai	jai	iai	iai	2785	457	ROTTEN		
+21850	Guarayo	ROTTEN	jai	jai	j ai	j ai	2785	457	ROTTEN		
 22087	Makurap	ROTTEN	aĩ	aĩ	aĩ	aĩ	2785	457	ROTTEN		
 20350	Akuntsu	SWEAT	ɨrem	ɨrem	ɨ r e m	ɨ r e m	2783	454	SWEAT		
-20352	Tupinambá	SWEAT	ɨaja	ɨaja	ɨ + aia	ɨ + aia	2785	18593 457	LIQUID SOUR		
+20352	Tupinambá	SWEAT	ɨaja	ɨaja	ɨ + ai a	ɨ + ai a	2785	18593 457	LIQUID SOUR		
 20357	Mundurukú	SWEAT	kadʒepi	kadʒepi	dʒ e + k a dʒ e p i	dʒ e + k a dʒ e p i	2788	471 460	MIDDLE HOT		
 20360	Chiriguano	SWEAT	ɨaj	ɨaj	ɨ + ai	ɨ + ai	2785	18593 457	LIQUID SOUR		
 20365	Guaraní	SWEAT	ʔɨaj	ʔɨaj	ʔ ɨ + ai	ʔ ɨ + ai	2785	18593 457	LIQUID SOUR		
@@ -21776,7 +21789,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	N
 20679	Gavião	CHICHA	iì_pâàp	iì_pâàp	i ì + p â à p	i ì + p â à p	2849	18593 598	LIQUID RAW		
 20984	Purubora	CHICHA	ʃi	ʃi	ʃ i	ʃ i	2849	588	CHICHA		
 21620	Cinta-Larga	CHICHA	íí	íí	íí	íí	2849	588	CHICHA		
-22079	Makurap	CHICHA	majɨ	majɨ	m ai ɨ	m ai ɨ	3833	2020 2135	MANIOC LIQUID		
+22079	Makurap	CHICHA	majɨ	majɨ	m ai + ɨ	m ai + ɨ	3833	399 18593	MANIOC LIQUID		
 22080	Kamajura	CHICHA	kawĩ	kawĩ	k a w ĩ	k a w ĩ	2851	590	CHICHA		
 22081	Apiaka	CHICHA	kãwĩ	kãwĩ	k ã w ĩ	k ã w ĩ	2851	590	CHICHA		
 22082	Surui-Paiter	CHICHA	ijátir	ijátir	i j á t i r	i j á t i r	3834	2057	CHICHA		
@@ -21971,7 +21984,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	N
 21185	Kamajura	BE HUNGRY	tɨat	tɨat	t ɨa t	t ɨa t	3104	1073	BeHUNGRY		
 21186	Makurap	BE HUNGRY	aripot	aripot	a r i p o t	a r i p o t	3106	1077	BeHUNGRY		
 21189	Gavião	BE HUNGRY	zágatí	zágatí	z á g + a t í	z á g + a t í	3109	1090 1091	HUNGER PAIN		
-21696	Ka'apor	BE HUNGRY	mɪahɪ	mɪahɪ	m ɪa h ɪ	m ɪ + a h ɪ	3094	1057 1058	BELLY PAIN		
+21696	Ka'apor	BE HUNGRY	mɪahɪ	mɪahɪ	m ɪa + h ɪ	m ɪa + h ɪ	3094	1057 1058	BELLY PAIN		
 21376	Akuntsu	SHRIMP	kʷatkam	kʷatkam	kʷ a t k a m	kʷ a t k a m	3176	1196	SHRIMP		
 21378	Uruku	SHRIMP	motʒum	motʒum	m o t ʒ u m	m o t ʒ u m	3177	1197	SHRIMP		
 21382	Tupinambá	SHRIMP	potĩ	potĩ	p o t ĩ	p o t ĩ	3177	1197	SHRIMP		
@@ -21982,7 +21995,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	N
 21695	Ka'apor	SHRIMP	muʃĩ	muʃĩ	m u ʃ ĩ	m u ʃ ĩ	3177	1197	SHRIMP		
 21901	Tupinambá	BABY CARRIER	tipoia	tipoia	t i p oi a	t i p oi a	3502	1657	BABY.CARRIER		
 21903	Mundurukú	BABY CARRIER	(k)tʃo	(k)tʃo	tʃ o	tʃ o	3503	1658	BABY.CARRIER		
-21904	Akuntsu	BABY CARRIER	awaw_arape	awaw_arape	a w a w + a r a + pe	a w a w + a r a + pe	3504	1659 1660 1661	CHILD CARRY  _POSTPOSITION		
+21904	Akuntsu	BABY CARRIER	awaw_arape	awaw_arape	a w a w + a r a + p e	a w a w + a r a + p e	3504	1659 1660 1661	CHILD CARRY  _POSTPOSITION		
 21910	Ka'apor	BABY CARRIER	ham	ham	h a m	h a m	3509	1672	ROPE		
 21912	Guajajara	BABY CARRIER	ʃipoz	ʃipoz	ʃ i p o z	ʃ i p o z	3502	1657	BABY.CARRIER		
 21972	Tembe	BABY CARRIER	tøpoj	tøpoj	t ø p o j	t ø p o j	3502	1657	BABY.CARRIER		
@@ -22001,8 +22014,8 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	N
 22234	Akuntsu	EARRING	tʃajã	tʃajã	tʃ a j ã	tʃ a j ã	3939	2289	SCRATCH		made of shell
 22236	Kampe	EARRING	tsajã	tsajã	ts a j ã	ts a j ã	3939	2289	EARRING		
 22237	Tupari	EARRING	apsikɨp	apsikɨp	a p s i + k ɨ p	a p s i + k ɨ p	3940	5066 7547	EAR TREE		
-22238	Kepkiriwat	EARRING	kuɲon urú	kuɲon urú	k u ɲ o n + u r ú	k u ɲ o n + u r ú	3940	2292 2294	EARRING		
-22239	Guarani	EARRING	namitʃaj	namitʃaj	n a m i + tʃ a j	n a m i + tʃ a j	3937	5067 2289	EAR SCRATCH		
+22238	Kepkiriwat	EARRING	kuɲon urú	kuɲon urú	k u ɲ o + n u r ú	k u ɲ o + n u r ú	3940	2292 22294	EARRING ?		
+22239	Guaraní	EARRING	namitʃaj	namitʃaj	n a m i + tʃ a j	n a m i + tʃ a j	3937	5067 2289	EAR SCRATCH		
 22240	Wayoro	EARRING	tãjã	tãjã	t ã j ã	t ã j ã	3939	2289	SCRATCH		
 22241	Makurap	EARRING	apikɨp	apikɨp	a p i + k ɨ p	a p i + k ɨ p	3940	5066 7547	EAR TREE		
 22242	Tapiete	EARRING	tɨnambiʃa	tɨnambiʃa	t ɨ n a mb i + ʃ a	t ɨ n a mb i + ʃ a	3937	5067 13460	EAR ROPE		
@@ -22020,9 +22033,9 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	N
 #@pinyin=CHINESE
 #@css=menu:show|database:hide
 #@basics=DOCULECT|CONCEPT|VALUE|FORM|TOKENS|COGID|COGIDS|MORPHEMES|NOTE
-#@_selected_doculects=Karo|Purubora|Ntogapid-Itogapuk|Tupí Austral|Ramarama|Makurap|Wayoro|Tupari|Akuntsu|Uruku|Mekens|Cinta-Larga|Gavião|Monde|Mbya|Arua|Aruashi|Matanau|Kabanae|Zoro|Surui-Paiter|Karitiana|Arikem|Xipaya|Juruna|Mundurukú|Kuruaya|Mawe|Awetí|Parakana|Asuriní Tocantins|Surui-Aikewara|Tapirapé|Tembe|Guajajara|Guaraní|Apiaka|Parintintin|Amondawa|Tenharim|Jiahoi|Juma|Urueuwauwau|Wirafed|Yuki|Kayabi|Araweté|Anambe Ehrenreich|Old Guaraní|Guajá|Amanaye|Teko|Wayampi|Zo'e|Ka'apor|Anambe|Turiwara|Kamajura|Asuriní Xingu|Chiriguano|Avá Canoeiro|Tupinambá|Nheengatu|Guarayo|Siriono|Warazu|Jora|Ache|Xeta|Kaiowa|Tapiete|Ñandeva|Apapokuva|Omagua|Kokama|Kepkiriwat|Kampe|Urumi|Piripkura|Guarani
+#@_selected_doculects=Karo|Purubora|Ntogapid-Itogapuk|Tupí Austral|Ramarama|Makurap|Wayoro|Tupari|Akuntsu|Uruku|Mekens|Cinta-Larga|Gavião|Monde|Mbya|Arua|Aruashi|Matanau|Kabanae|Zoro|Surui-Paiter|Karitiana|Arikem|Xipaya|Juruna|Mundurukú|Kuruaya|Mawe|Awetí|Parakana|Asuriní Tocantins|Surui-Aikewara|Tapirapé|Tembe|Guajajara|Guaraní|Apiaka|Parintintin|Amondawa|Tenharim|Jiahoi|Juma|Urueuwauwau|Wirafed|Yuki|Kayabi|Araweté|Anambe Ehrenreich|Old Guaraní|Guajá|Amanaye|Teko|Wayampi|Zo'e|Ka'apor|Anambe|Turiwara|Kamajura|Asuriní Xingu|Chiriguano|Avá Canoeiro|Tupinambá|Nheengatu|Guarayo|Siriono|Warazu|Jora|Ache|Xeta|Kaiowa|Tapiete|Ñandeva|Apapokuva|Omagua|Kokama|Kepkiriwat|Kampe|Urumi|Piripkura
 #@_selected_concepts=ABOVE|AFTER|AGOUTI|ALL|ANACONDA|ANATTO|ANT|ANTEATER|ARM|ARMADILLO|ARRIVE|ARROW|AXE|AÇAÍ PALM|BACK|BABAÇU|BAD / EVIL|BAMBOO|BANANA|BASKET|BAT|BATHE|BEADS|BE WRONG|BEANS|BEARD|BEAUTIFUL|BEE|BELLY|BELLYBUTTON|BENCH|BIG|BIRD|BITE|BLACK|BLOOD|BLOW|BLUE|BONE|BOW|BOY|BRANCH|BRAZIL NUT|BREAK|BREAST|BREATHE|BROTHER|BURN (intr)|BURN (tr)|BURY|BUTTOCKS|SLASH / GARDEN|BUTTERFLY|CALABASH / GOURD|CANOE|CAPUCHIN MONKEY|CAPYBARA|CARÁ ROOT / YAM|CHIEF / MASTER / OWNER|CASHEW|CHILD|CICADA|CLAW|CLOUD|COATI|COCKROACH|COCOA|COLD|COME|COMB|CORN / MAIZE|COTTON|CRAB|CRICKET (zool)|CRY|GNAT / PIUM|CUT|DANCE|DAY|DEER|DEFECATE|DIE|DIG|DIRTY|DO / MAKE|DOG|DOOR|DRINK (v)|DRY|DRY (state)|EARTH / LAND|EAR|EAT (intr.)|EAT (tr.)|EGG|CECROPIA|ELECTRIC EEL|ENTER|EYE|FACE|FALL|FAR|FAT / GREASE|FATHER|FEAR / BE AFRAID|FEATHER|FINGER|FIRE|FIREFLY / GLOWWORM|FIREWOOD|FISH|FISHHOOK|FLAT|FLEA / CHIGGER|FLESH / MEAT|FLOWER|FLY|FLY (insect)|FOOD|FOOT|FORGET|FOUR|FROG / TOAD|FRUIT|FULL|GENIPA|GIRL|GIVE|GO|GO UP|GOOD / WELL|GRANDFATHER|GREEN|GROW|GREEN IGUANA|GUAN / JACU|HAIR|HAMMOCK|HAND|HAPPY|HAWK|HEAD|HEAL|HEAR|HEART|HEAVY|HEDGEHOG|HELP|HERE|HIDE|HIT|HOLE|HONEY|HORN|HOT|HOUSE|HUMMINGBIRD|HUNT|HUSBAND|I|INGA|INSIDE|JACARÉ / CAIMAN / CROCODILE|JAGUAR|JUMP|KILL|KING FISHER|KNEE|KNIFE|KNOW|LARGE ANT / BULLET ANT|LARGE MANDI FISH|LAUGH|LEAF|LEARN|LEAVE / GO OUT|LEG|LIVER|LIZARD|LONG|LOOK AT|GETLOST / LOOSEoneS|LOUSE|BLUE YELLOW MACAW|MAN|MANY|MEDICINE|MILK|MONKEY|MOON|MOUNTAIN|MOSQUITO|MOTHER|MOUSTACHE|MOUTH|NAIL / CLAW|NAME|NECK|NEST|NEW|NIGHT|NOSE|NOW|OAR|OLD (adj)|ONE|OPOSSUM / SKUNK|OTHER|OWL|PACA|PACU FISH|PAIN|PAPAYA|PARROT|PATH / WAY|PEACH PALM|PEANUT|PECCARY (collared)|PECCARY (white-lipped)|PENIS|PEPPER|PERSON / HB / SOMEONE|PESTLE|PESTLE (verb)|PIERCE|PINEAPPLE|PIRANHA|PLAY|PUMPKIN|PUT|RAIN|RAT|RED|RETURN / COME BACK|RIPE|RIVER|ROAST|ROOT|ROPE|ROUND|ROW / PADDLE|RUN|SALIVA|SAND|SAY|SCARE|SCORPION|SEE|SEED|SEEK / LOOK FOR / SEARCH|SEND|SHAMAN|SHARPEN|SHELL / BARK|SHORT|SICK / ILL|SING|SISTER|SKIN|SKY|SLEEP|SLOTH|SMALL|SMOKE (n)|SNAIL|SNAKE|SNORE|SON OF WOMAN|SON OF MAN|SOUR / ACID /BITTER|SPEAK|SPIDER|SPIDER MONKEY|SQUIRREL|STAND|STAR|STINGRAY|STOMACH|STONE|STRONG|SUCK|SUN|SURUBIM|SWEEP|SWEET|SWEET POTATO|SWIM|TAIL|TAPIR|TAYRA|TEACH|TELL / NARRATE|TERMINATE / FINISH|TERMITE|TESTICLES|THAT|THICK|THING|THIS|THREE|THORN|THUNDER|THROAT|TICK|TIE|TIMBO LIANA|TINAMOU|TIRED|TOBACCO|TODAY|TOMORROW|TONGUE|TOOTH|TOUCAN|TRAHIRA FISH|TREE|TUCUMA_PALM|TURTLE|TWO|UGLY|UNCLE (MoBr)|UNTIE|URINATE|VEIN|VOMIT|VULTURE|WALK|WANT|WASH|WASP|WATER|WAX|WE (EXCL)|WE (INCL)|WEAVE|WET|WHAT|WHITE|WHO|WIFE|WILD CAT|WILD DOG|WIND|WING|WOODPECKER|WOMAN|WORM (EARTH)|YELLOW|YOU (sg)|YOU (pl)|DAUGHTER OF WOMAN|DAUGHTER OF MAN|DRAW / PAINT|FLOUR|GRASS|HEN / CHICKEN|MACAW|PAN|VILLAGE|BELOW|MAGGOT / LARVA|MORNING|OPEN|PORRIDGE|SALT|WAKE UP|BROTHER, older of man|BROTHER, younger of man|BROTHER, older of woman|DIGGING STICK|SISTER, older of man|SISTER, younger of man|SISTER, older of woman|SISTER, younger of woman|BROTHER, younger of woman|MUD|LAKE|RED MACAW|RAW|RESIN|SPROUT|VILLAGE SQUARE|WOUND|YESTERDAY|ALONE|MOUNTAIN SOURSOP|HARPY EAGLE|LIE (down)|MOLD|AVENGE|CURASSOW|MANIOC|SIT (down)|GATHER|(Brazilian) CEDAR|SHADOW|REMEMBER|CENTIPEDE|NECKLACE|ASHES|DREAM|DREAM (verb)|HOWLER MONKEY|THROW|ROTTEN|SWEAT|BODY|MOTHER-IN-LAW (of man)|MOTHER-IN-LAW (of woman)|CHICHA|WATERFALL|STAY|FLOAT|ENEMY|BE HUNGRY|SHRIMP|BABY CARRIER|EARRING
-#@sorted_taxa=Karo|Purubora|Ntogapid-Itogapuk|Tupí Austral|Ramarama|Makurap|Wayoro|Tupari|Akuntsu|Uruku|Mekens|Cinta-Larga|Gavião|Monde|Mbya|Arua|Aruashi|Matanau|Kabanae|Zoro|Surui-Paiter|Karitiana|Arikem|Xipaya|Juruna|Mundurukú|Kuruaya|Mawe|Awetí|Parakana|Asuriní Tocantins|Surui-Aikewara|Tapirapé|Tembe|Guajajara|Guaraní|Apiaka|Parintintin|Amondawa|Tenharim|Jiahoi|Juma|Urueuwauwau|Wirafed|Yuki|Kayabi|Araweté|Anambe Ehrenreich|Old Guaraní|Guajá|Amanaye|Teko|Wayampi|Zo'e|Ka'apor|Anambe|Turiwara|Kamajura|Asuriní Xingu|Chiriguano|Avá Canoeiro|Tupinambá|Nheengatu|Guarayo|Siriono|Warazu|Jora|Ache|Xeta|Kaiowa|Tapiete|Ñandeva|Apapokuva|Omagua|Kokama|Kepkiriwat|Kampe|Urumi|Piripkura|Guarani
+#@sorted_taxa=Karo|Purubora|Ntogapid-Itogapuk|Tupí Austral|Ramarama|Makurap|Wayoro|Tupari|Akuntsu|Uruku|Mekens|Cinta-Larga|Gavião|Monde|Mbya|Arua|Aruashi|Matanau|Kabanae|Zoro|Surui-Paiter|Karitiana|Arikem|Xipaya|Juruna|Mundurukú|Kuruaya|Mawe|Awetí|Parakana|Asuriní Tocantins|Surui-Aikewara|Tapirapé|Tembe|Guajajara|Guaraní|Apiaka|Parintintin|Amondawa|Tenharim|Jiahoi|Juma|Urueuwauwau|Wirafed|Yuki|Kayabi|Araweté|Anambe Ehrenreich|Old Guaraní|Guajá|Amanaye|Teko|Wayampi|Zo'e|Ka'apor|Anambe|Turiwara|Kamajura|Asuriní Xingu|Chiriguano|Avá Canoeiro|Tupinambá|Nheengatu|Guarayo|Siriono|Warazu|Jora|Ache|Xeta|Kaiowa|Tapiete|Ñandeva|Apapokuva|Omagua|Kokama|Kepkiriwat|Kampe|Urumi|Piripkura
 #@sorted_concepts=ABOVE|AFTER|AGOUTI|ALL|ANACONDA|ANATTO|ANT|ANTEATER|ARM|ARMADILLO|ARRIVE|ARROW|AXE|AÇAÍ PALM|BACK|BABAÇU|BAD / EVIL|BAMBOO|BANANA|BASKET|BAT|BATHE|BEADS|BE WRONG|BEANS|BEARD|BEAUTIFUL|BEE|BELLY|BELLYBUTTON|BENCH|BIG|BIRD|BITE|BLACK|BLOOD|BLOW|BLUE|BONE|BOW|BOY|BRANCH|BRAZIL NUT|BREAK|BREAST|BREATHE|BROTHER|BURN (intr)|BURN (tr)|BURY|BUTTOCKS|SLASH / GARDEN|BUTTERFLY|CALABASH / GOURD|CANOE|CAPUCHIN MONKEY|CAPYBARA|CARÁ ROOT / YAM|CHIEF / MASTER / OWNER|CASHEW|CHILD|CICADA|CLAW|CLOUD|COATI|COCKROACH|COCOA|COLD|COME|COMB|CORN / MAIZE|COTTON|CRAB|CRICKET (zool)|CRY|GNAT / PIUM|CUT|DANCE|DAY|DEER|DEFECATE|DIE|DIG|DIRTY|DO / MAKE|DOG|DOOR|DRINK (v)|DRY|DRY (state)|EARTH / LAND|EAR|EAT (intr.)|EAT (tr.)|EGG|CECROPIA|ELECTRIC EEL|ENTER|EYE|FACE|FALL|FAR|FAT / GREASE|FATHER|FEAR / BE AFRAID|FEATHER|FINGER|FIRE|FIREFLY / GLOWWORM|FIREWOOD|FISH|FISHHOOK|FLAT|FLEA / CHIGGER|FLESH / MEAT|FLOWER|FLY|FLY (insect)|FOOD|FOOT|FORGET|FOUR|FROG / TOAD|FRUIT|FULL|GENIPA|GIRL|GIVE|GO|GO UP|GOOD / WELL|GRANDFATHER|GREEN|GROW|GREEN IGUANA|GUAN / JACU|HAIR|HAMMOCK|HAND|HAPPY|HAWK|HEAD|HEAL|HEAR|HEART|HEAVY|HEDGEHOG|HELP|HERE|HIDE|HIT|HOLE|HONEY|HORN|HOT|HOUSE|HUMMINGBIRD|HUNT|HUSBAND|I|INGA|INSIDE|JACARÉ / CAIMAN / CROCODILE|JAGUAR|JUMP|KILL|KING FISHER|KNEE|KNIFE|KNOW|LARGE ANT / BULLET ANT|LARGE MANDI FISH|LAUGH|LEAF|LEARN|LEAVE / GO OUT|LEG|LIVER|LIZARD|LONG|LOOK AT|GETLOST / LOOSEoneS|LOUSE|BLUE YELLOW MACAW|MAN|MANY|MEDICINE|MILK|MONKEY|MOON|MOUNTAIN|MOSQUITO|MOTHER|MOUSTACHE|MOUTH|NAIL / CLAW|NAME|NECK|NEST|NEW|NIGHT|NOSE|NOW|OAR|OLD (adj)|ONE|OPOSSUM / SKUNK|OTHER|OWL|PACA|PACU FISH|PAIN|PAPAYA|PARROT|PATH / WAY|PEACH PALM|PEANUT|PECCARY (collared)|PECCARY (white-lipped)|PENIS|PEPPER|PERSON / HB / SOMEONE|PESTLE|PESTLE (verb)|PIERCE|PINEAPPLE|PIRANHA|PLAY|PUMPKIN|PUT|RAIN|RAT|RED|RETURN / COME BACK|RIPE|RIVER|ROAST|ROOT|ROPE|ROUND|ROW / PADDLE|RUN|SALIVA|SAND|SAY|SCARE|SCORPION|SEE|SEED|SEEK / LOOK FOR / SEARCH|SEND|SHAMAN|SHARPEN|SHELL / BARK|SHORT|SICK / ILL|SING|SISTER|SKIN|SKY|SLEEP|SLOTH|SMALL|SMOKE (n)|SNAIL|SNAKE|SNORE|SON OF WOMAN|SON OF MAN|SOUR / ACID /BITTER|SPEAK|SPIDER|SPIDER MONKEY|SQUIRREL|STAND|STAR|STINGRAY|STOMACH|STONE|STRONG|SUCK|SUN|SURUBIM|SWEEP|SWEET|SWEET POTATO|SWIM|TAIL|TAPIR|TAYRA|TEACH|TELL / NARRATE|TERMINATE / FINISH|TERMITE|TESTICLES|THAT|THICK|THING|THIS|THREE|THORN|THUNDER|THROAT|TICK|TIE|TIMBO LIANA|TINAMOU|TIRED|TOBACCO|TODAY|TOMORROW|TONGUE|TOOTH|TOUCAN|TRAHIRA FISH|TREE|TUCUMA_PALM|TURTLE|TWO|UGLY|UNCLE (MoBr)|UNTIE|URINATE|VEIN|VOMIT|VULTURE|WALK|WANT|WASH|WASP|WATER|WAX|WE (EXCL)|WE (INCL)|WEAVE|WET|WHAT|WHITE|WHO|WIFE|WILD CAT|WILD DOG|WIND|WING|WOODPECKER|WOMAN|WORM (EARTH)|YELLOW|YOU (sg)|YOU (pl)|DAUGHTER OF WOMAN|DAUGHTER OF MAN|DRAW / PAINT|FLOUR|GRASS|HEN / CHICKEN|MACAW|PAN|VILLAGE|BELOW|MAGGOT / LARVA|MORNING|OPEN|PORRIDGE|SALT|WAKE UP|BROTHER, older of man|BROTHER, younger of man|BROTHER, older of woman|DIGGING STICK|SISTER, older of man|SISTER, younger of man|SISTER, older of woman|SISTER, younger of woman|BROTHER, younger of woman|MUD|LAKE|RED MACAW|RAW|RESIN|SPROUT|VILLAGE SQUARE|WOUND|YESTERDAY|ALONE|MOUNTAIN SOURSOP|HARPY EAGLE|LIE (down)|MOLD|AVENGE|CURASSOW|MANIOC|SIT (down)|GATHER|(Brazilian) CEDAR|SHADOW|REMEMBER|CENTIPEDE|NECKLACE|ASHES|DREAM|DREAM (verb)|HOWLER MONKEY|THROW|ROTTEN|SWEAT|BODY|MOTHER-IN-LAW (of man)|MOTHER-IN-LAW (of woman)|CHICHA|WATERFALL|STAY|FLOAT|ENEMY|BE HUNGRY|SHRIMP|BABY CARRIER|EARRING
 #@display=filedisplay
 #@missing_marker=Ø

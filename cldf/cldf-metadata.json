@@ -9,37 +9,37 @@
     "dc:related": null,
     "dc:source": "sources.bib",
     "dc:title": "CLDF dataset derived from Gerardi and Reichert's \"TuLeD: Tup\u00edan lexical database\" from 2020",
-    "dcat:accessURL": "https://github.com/LanguageStructure/TuLeD_Data",
+    "dcat:accessURL": "https://github.com/tupian-language-resources/tuled",
     "prov:wasDerivedFrom": [
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
-            "rdf:about": "https://github.com/LanguageStructure/TuLeD_Data",
-            "dc:created": "v0.10-26-g32ad383"
+            "rdf:about": "https://github.com/tupian-language-resources/tuled",
+            "dc:created": "v0.10-116-g073a767"
         },
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Glottolog",
             "rdf:about": "https://github.com/glottolog/glottolog",
-            "dc:created": "v4.3"
+            "dc:created": "v4.3-treedb-fixes-2-g015e07ff89"
         },
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Concepticon",
             "rdf:about": "https://github.com/concepticon/concepticon-data",
-            "dc:created": "v2.4.0-16-g45b0f79"
+            "dc:created": "v2.4.0-rc.1-112-g43b3d67"
         },
         {
             "rdf:type": "prov:Entity",
             "dc:title": "CLTS",
-            "rdf:about": "https://github.com/cldf-clts/clts/",
-            "dc:created": "v1.4-53-g37b86c4"
+            "rdf:about": "https://github.com/cldf-clts/clts",
+            "dc:created": "v1.4-3-g99e4218"
         }
     ],
     "prov:wasGeneratedBy": [
         {
             "dc:title": "python",
-            "dc:description": "3.8.6"
+            "dc:description": "3.7.3"
         },
         {
             "dc:title": "python-packages",
@@ -54,7 +54,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:extent": 20908,
+            "dc:extent": 22029,
             "tableSchema": {
                 "columns": [
                     {
@@ -174,7 +174,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#LanguageTable",
-            "dc:extent": 76,
+            "dc:extent": 79,
             "tableSchema": {
                 "columns": [
                     {
@@ -248,7 +248,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ParameterTable",
-            "dc:extent": 409,
+            "dc:extent": 418,
             "tableSchema": {
                 "columns": [
                     {
@@ -296,7 +296,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#CognateTable",
-            "dc:extent": 22717,
+            "dc:extent": 24485,
             "tableSchema": {
                 "columns": [
                     {
