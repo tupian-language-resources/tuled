@@ -690,7 +690,7 @@ ID	ALIGNMENT	CLASSES	COGID	COGIDS	COGNACY	CONCEPT	DOCULECT	DUPLICATES	FORM	IPA	L
 689	a m á n -	AMAN	1803	12957	chuva1	RAIN	Ntogapid-Itogapuk	0	amán	amá/an	47	Ntogapíd  (Itogapúk)	RAIN	47.A.V 47.M.C 47.A.V 47.N.c	XBYN	7 4 7 4	a m á n	amán	1.5 1.75 1.3 0.8	
 690	n - r a w e n b é	NRAWENPE	2032	14612	ceu	SKY	Ntogapid-Itogapuk	0	nrawenbé	nrawenbé/e	47	Ntogapíd  (Itogapúk)	SKY	47.N.C 47.R.C 47.A.V 47.W.C 47.E.V 47.N.c 47.P.C 47.E.V	ACXBYMBZ	4 5 7 6 7 4 1 7	n r a w e n b é	nrawenbé	2.0 1.5 1.5 1.75 1.3 1.1 1.75 0.8	
 691	- k - e r -	KER	2043	14724	dormir	SLEEP	Ntogapid-Itogapuk	0	ker	ker	47	Ntogapíd  (Itogapúk)	SLEEP	47.K.C 47.E.V 47.R.c	AXN	1 7 5	k e r	ker	2.0 1.5 0.8	
-692	mʷ i g á/a n a	MIKANA	2083	15015	cobra5	SNAKE	Ntogapid-Itogapuk	0	mwigána	mʷigá/ana	47	Ntogapíd  (Itogapúk)	SNAKE	47.M.C 47.I.V 47.K.C 47.A.V 47.N.C 47.A.V	AXBYBZ	4 7 1 7 4 7	mʷ i g á/a n a	mwigána	2.0 1.5 1.75 1.3 1.75 0.8	
+692	mʷ i g á n a	MIKANA	2083	15015	cobra5	SNAKE	Ntogapid-Itogapuk	0	mwigána	mʷigá/ana	47	Ntogapíd  (Itogapúk)	SNAKE	47.M.C 47.I.V 47.K.C 47.A.V 47.N.C 47.A.V	AXBYBZ	4 7 1 7 4 7	mʷ i g á n a	mwigána	2.0 1.5 1.75 1.3 1.75 0.8	
 693	tʃ i g a m ó g a	TIKAMUKA	2163	15566	estrela7	STAR	Ntogapid-Itogapuk	0	tʃigamóga	tʃigamó/oga	47	Ntogapíd  (Itogapúk)	STAR	47.T.C 47.I.V 47.K.C 47.A.V 47.M.C 47.U.V 47.K.C 47.A.V	AXBYBYBZ	1 7 1 7 4 7 1 7	tʃ i g a m ó g a	tʃigamóga	2.0 1.5 1.75 1.3 1.75 1.3 1.75 0.8	
 694	i j á	IJA	2188	15739	pedra7	STONE	Ntogapid-Itogapuk	1	ijá	ijá/a	47	Ntogapíd  (Itogapúk)	STONE	47.I.V 47.J.C 47.A.V	XBZ	7 6 7	i j á	ijá	1.5 1.75 0.8	
 695	tʃ a - w á b	TAWAP	2209	15894	sol	SUN	Ntogapid-Itogapuk	0	tʃawáb	tʃawá/ab	47	Ntogapíd  (Itogapúk)	SUN	47.T.C 47.A.V 47.W.C 47.A.V 47.P.c	AXBYN	1 7 6 7 1	tʃ a w á b	tʃawáb	2.0 1.5 1.75 1.3 0.8	
@@ -4588,7 +4588,7 @@ ID	ALIGNMENT	CLASSES	COGID	COGIDS	COGNACY	CONCEPT	DOCULECT	DUPLICATES	FORM	IPA	L
 4638	- - a ʔ i	AHI	2049	14798	bichopreguica1	SLOTH	Arikem	0	aʔi	aʔi	9	Arikem	SLOTH	9.A.V 9.H.C 9.I.V	XBZ	7 1 7	a ʔ i	aõdaʔ / aʔi	1.5 1.75 0.8	
 4639	s a r a j - dʒ i	SARAJTI	2056	14834	pequeno	SMALL	Arikem	0	sarajdʒi	sarajdʒi	9	Arikem	SMALL	9.S.C 9.A.V 9.R.C 9.A.V 9.J.c 9.T.C 9.I.V	AXBYMBZ	3 7 5 7 6 1 7	s a r a j dʒ i	sarajdʒi	2.0 1.5 1.75 1.3 1.1 1.75 0.8	
 4640	s o m i - n i ŋ a	SUMININA	2062	14908	fumaca1	SMOKE (n)	Arikem	0	sominiŋa	sominiŋa	9	Arikem	SMOKE	9.S.C 9.U.V 9.M.C 9.I.V 9.N.C 9.I.V 9.N.C 9.A.V	AXBYBYBZ	3 7 4 7 4 7 4 7	s o m i n i ŋ a	sominiŋa	2.0 1.5 1.75 1.3 1.75 1.3 1.75 0.8	
-4641	tʃ a t +	TAT_	2082	15012	cobra	SNAKE	Arikem	0	tʃat_	tʃat+	9	Arikem	SNAKE	9.T.C 9.A.V 9.T.c 9._._	AXN_	1 7 1 9	tʃ a t +	tʃat_/sarə	2.0 1.5 0.8 0.0	
+4641	tʃ a t	TAT_	2082	15012	cobra	SNAKE	Arikem	0	tʃat	tʃat+	9	Arikem	SNAKE	9.T.C 9.A.V 9.T.c 9._._	AXN_	1 7 1 9	tʃ a t	tʃat / sarə	2.0 1.5 0.8 0.0	
 4642	s a r ə	SARE	2080	15013	cobra	SNAKE	Arikem	0	sarə	sarə	9	Arikem	SNAKE	9.S.C 9.A.V 9.R.C 9.E.V	AXBZ	3 7 5 7	s a r ə	tʃat_/sarə	2.0 1.5 1.75 0.8	
 4643	- e r - e	ERE	2103	15193	filhodemulher	SON OF WOMAN	Arikem	0	ere	ere	9	Arikem	SON	9.E.V 9.R.C 9.E.V	XBZ	7 5 7	e r e	 ere	1.5 1.75 0.8	
 4644	- e r - e	ERE	2097	15123	filhodehomen	SON OF MAN	Arikem	1	ere	ere	9	Arikem	SON	9.E.V 9.R.C 9.E.V	XBZ	7 5 7	e r e	 (s)ere	1.5 1.75 0.8	
@@ -10200,7 +10200,7 @@ ID	ALIGNMENT	CLASSES	COGID	COGIDS	COGNACY	CONCEPT	DOCULECT	DUPLICATES	FORM	IPA	L
 10273	i b á k	IPAK	2029	14609	ceu1	SKY	Wirafed	0	ibák	ibá/ak	63	Tupi_do_Machado (Wirafed)	HIGH	63.I.V 63.P.C 63.A.V 63.K.c	XBYN	7 1 7 1	i b á k	ibák	1.5 1.75 1.3 0.8	
 10274	- k - i - -	KI	2043	14724	dormir1	SLEEP	Wirafed	0	ki	ki	63	Tupi_do_Machado (Wirafed)	SLEEP	63.K.C 63.I.V	AX	1 7	k i	ki	2.0 1.5	
 10275	t aɨ r iː - e t eú	TARIETE	2056	14834	pequeno	SMALL	Wirafed	0	taɨriieteú	taɨriːeteú/eu	63	Tupi_do_Machado (Wirafed)	SMALL	63.T.C 63.A.V 63.R.C 63.I.V 63.E.V 63.T.C 63.E.V	AXBYYBZ	1 7 5 7 7 1 7	t aɨ r iː e t eú	taɨriieteú	2.0 1.5 1.75 1.3 1.3 1.75 0.8	
-10276	m ó/o - - - j -	MUJ	2079	15011	cobra1	SNAKE	Wirafed	0	mój	mó/oj	63	Tupi_do_Machado (Wirafed)	SNAKE	63.M.C 63.U.V 63.J.c	AXN	4 7 6	m ó/o j	mój	2.0 1.5 0.8	
+10276	m ó - - - j -	MUJ	2079	15011	cobra1	SNAKE	Wirafed	0	mój	mó/oj	63	Tupi_do_Machado (Wirafed)	SNAKE	63.M.C 63.U.V 63.J.c	AXN	4 7 6	m ó j	mój	2.0 1.5 0.8	
 10277	j ai + t a t aɨ	JATATA	2159	15562 15568	estrela1	STAR	Wirafed	0	jaitataɨ	jaitataɨ	63	Tupi_do_Machado (Wirafed)	MOON FIRE	63.J.C 63.A.V 63.T.C 63.A.V 63.T.C 63.A.V	AXBYBZ	6 7 1 7 1 7	j ai + t a t aɨ	jaitataɨ	2.0 1.5 1.75 1.3 1.75 0.8	
 10278	- i t a - -	ITA	2185	15736	pedra1	STONE	Wirafed	0	ita	ita	63	Tupi_do_Machado (Wirafed)	STONE	63.I.V 63.T.C 63.A.V	XBZ	7 1 7	i t a	ita	1.5 1.75 0.8	
 10279	kʷ a r - - aɨ	KARA	2205	15890	sol1	SUN	Wirafed	0	kʷaraɨ	kʷaraɨ	63	Tupi_do_Machado (Wirafed)	SUN	63.K.C 63.A.V 63.R.C 63.A.V	AXBZ	1 7 5 7	kʷ a r aɨ	kʷaraɨ	2.0 1.5 1.75 0.8	

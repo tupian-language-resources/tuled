@@ -6,6 +6,7 @@ from pylexibank.dataset import Dataset as BaseDataset
 from pylexibank.util import progressbar
 from csvw import Datatype
 from pyclts import CLTS
+from pytular.util import fetch_sheet
 
 import lingpy
 from clldutils.misc import slug
@@ -53,6 +54,8 @@ class Dataset(BaseDataset):
             "https://lingulist.de/edictor/triples/get_data.py?file=tuled&remote_dbase=tuled.sqlite3",
             "tuled.tsv"
             )
+        fetch_sheet('languages', output=self.etc_dir / 'languages.tsv')
+        fetch_sheet('concepts', output=self.etc_dir / 'concepts.tsv')
 
     def cmd_makecldf(self, args):
         from pybtex import errors, database

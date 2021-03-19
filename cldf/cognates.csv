@@ -745,7 +745,7 @@ NtogapidItogapuk-255_pathway-1-1,NtogapidItogapuk-255_pathway-1,pid,12170,false,
 NtogapidItogapuk-273_rain-1-1,NtogapidItogapuk-273_rain-1,amán,12957,false,expert,,a m á n -,SCA,,1
 NtogapidItogapuk-316_sky-1-1,NtogapidItogapuk-316_sky-1,nrawenbé,14612,false,expert,,n - r a w e n b é,SCA,,1
 NtogapidItogapuk-317_sleep-1-1,NtogapidItogapuk-317_sleep-1,ker,14724,false,expert,,- k - e r -,SCA,,1
-NtogapidItogapuk-322_snake-1-1,NtogapidItogapuk-322_snake-1,mwigána,15015,false,expert,,mʷ i g á/a n a,SCA,,1
+NtogapidItogapuk-322_snake-1-1,NtogapidItogapuk-322_snake-1,mwigána,15015,false,expert,,mʷ i g á n a,SCA,,1
 NtogapidItogapuk-333_star-1-1,NtogapidItogapuk-333_star-1,tʃigamóga,15566,false,expert,,tʃ i g a m - ó g a -,SCA,,1
 NtogapidItogapuk-337_stone-1-1,NtogapidItogapuk-337_stone-1,ijá,15739,false,expert,,i j á,SCA,,1
 NtogapidItogapuk-340_sun-1-1,NtogapidItogapuk-340_sun-1,tʃawáb,15894,false,expert,,tʃ a - w á b,SCA,,1
@@ -1154,7 +1154,7 @@ Makurap-319_small-1-1,Makurap-319_small-1,sĩĩt,14837,false,expert,,- - - - s -
 Makurap-319_small-2-1,Makurap-319_small-2,poanĩ,14838,false,expert,,- p oa n - - ĩ,SCA,,1
 Makurap-320_smoken-1-1,Makurap-320_smoken-1,niŋ,14910,false,expert,,- - n i ŋ,SCA,,1
 Makurap-321_snail-1-1,Makurap-321_snail-1,tʃarea,14973,false,expert,,tʃ a r - - - - ea,SCA,,1
-Makurap-322_snake-1-1,Makurap-322_snake-1,tʃaat,15012,false,expert,,tʃ aː t -,SCA,,1
+Makurap-322_snake-1-1,Makurap-322_snake-1,tʃaat,15012,false,expert,,tʃ aː t,SCA,,1
 Makurap-324_sonofwoman-1-1,Makurap-324_sonofwoman-1,mẽpit,15191,false,expert,,m ẽ - - p,SCA,,1
 Makurap-324_sonofwoman-1-2,Makurap-324_sonofwoman-1,mẽpit,15,false,expert,,- i t - - -,SCA,,2
 Makurap-325_sonofman-1-1,Makurap-325_sonofman-1,tʃaɨp,15122,false,expert,,- - - tʃ aɨ p,SCA,,1
@@ -1493,7 +1493,7 @@ Wayoro-317_sleep-1-1,Wayoro-317_sleep-1,era,14724,false,expert,,- - - e r a,SCA,
 Wayoro-318_sloth-1-1,Wayoro-318_sloth-1,aũnda,14795,false,expert,,aũ nd a -,SCA,,1
 Wayoro-319_small-1-1,Wayoro-319_small-1,nĩn,14834,false,expert,,- - n - - ĩ n - -,SCA,,1
 Wayoro-320_smoken-1-1,Wayoro-320_smoken-1,niŋ,14910,false,expert,,- - n i ŋ,SCA,,1
-Wayoro-322_snake-1-1,Wayoro-322_snake-1,ndat,15012,false,expert,,nd a t -,SCA,,1
+Wayoro-322_snake-1-1,Wayoro-322_snake-1,ndat,15012,false,expert,,nd a t,SCA,,1
 Wayoro-324_sonofwoman-1-1,Wayoro-324_sonofwoman-1,mẽpit,15191,false,expert,,m ẽ - - p,SCA,,1
 Wayoro-324_sonofwoman-1-2,Wayoro-324_sonofwoman-1,mẽpit,15,false,expert,,- i t - - -,SCA,,2
 Wayoro-325_sonofman-1-1,Wayoro-325_sonofman-1,ndaɨp,15122,false,expert,,- - - nd/ⁿd aɨ p,SCA,,1
@@ -1877,7 +1877,7 @@ Tupari-318_sloth-1-1,Tupari-318_sloth-1,awko,14801,false,expert,,a w k o,SCA,,1
 Tupari-319_small-1-1,Tupari-319_small-1,sin,14834,false,expert,,- - s - - i n - -,SCA,,1
 Tupari-320_smoken-1-1,Tupari-320_smoken-1,siŋ,848,false,expert,,- - - s i ŋ,SCA,,1
 Tupari-321_snail-1-1,Tupari-321_snail-1,asɨʔa,14971,false,expert,,- a s ɨ ʔ a,SCA,,1
-Tupari-322_snake-1-1,Tupari-322_snake-1,haat,15012,false,expert,,h aː t -,SCA,,1
+Tupari-322_snake-1-1,Tupari-322_snake-1,haat,15012,false,expert,,h aː t,SCA,,1
 Tupari-323_snore-1-1,Tupari-323_snore-1,amsi_wakkat,15080,false,expert,,- - - - a m s i -,SCA,,1
 Tupari-323_snore-1-2,Tupari-323_snore-1,amsi_wakkat,15086,false,expert,,w a kː a t,SCA,,2
 Tupari-324_sonofwoman-1-1,Tupari-324_sonofwoman-1,mẽmsit,15191,false,expert,,m ẽ m - -,SCA,,1
@@ -4992,7 +4992,7 @@ Arikem-318_sloth-1-1,Arikem-318_sloth-1,aõdaʔ,14795,false,expert,,aõ d a ʔ,S
 Arikem-318_sloth-2-1,Arikem-318_sloth-2,aʔi,14798,false,expert,,a ʔ i,SCA,,1
 Arikem-319_small-1-1,Arikem-319_small-1,sarajdʒi,14834,false,expert,,s a r a j - dʒ - i,SCA,,1
 Arikem-320_smoken-1-1,Arikem-320_smoken-1,sominiŋa,14908,false,expert,,- s o m i n i ŋ - a,SCA,,1
-Arikem-322_snake-1-1,Arikem-322_snake-1,tʃat_,15012,false,expert,,tʃ a t +,SCA,,1
+Arikem-322_snake-1-1,Arikem-322_snake-1,tʃat,15012,false,expert,,tʃ a t,SCA,,1
 Arikem-322_snake-2-1,Arikem-322_snake-2,sarə,15013,false,expert,,s a r ə,SCA,,1
 Arikem-324_sonofwoman-1-1,Arikem-324_sonofwoman-1,ere,15193,false,expert,,- e r - e -,SCA,,1
 Arikem-325_sonofman-1-1,Arikem-325_sonofman-1,ere,15123,false,expert,,- e r - e -,SCA,,1
@@ -11161,7 +11161,7 @@ Wirafed-315_skin-1-1,Wirafed-315_skin-1,pit,14547,false,expert,,- - p i - - t -,
 Wirafed-316_sky-1-1,Wirafed-316_sky-1,ibák,14609,false,expert,,- i b á k -,SCA,,1
 Wirafed-317_sleep-1-1,Wirafed-317_sleep-1,ki,14724,false,expert,,- k - i - -,SCA,,1
 Wirafed-319_small-1-1,Wirafed-319_small-1,taɨriieteú,14834,false,expert,,t aɨ r iː - e t - eú,SCA,,1
-Wirafed-322_snake-1-1,Wirafed-322_snake-1,mój,15011,false,expert,,m ó/o j - - - - -,SCA,,1
+Wirafed-322_snake-1-1,Wirafed-322_snake-1,mój,15011,false,expert,,m ó j - - - - -,SCA,,1
 Wirafed-333_star-1-1,Wirafed-333_star-1,jaitataɨ,15562,false,expert,,- j ai - - - - -,SCA,,1
 Wirafed-333_star-1-2,Wirafed-333_star-1,jaitataɨ,15568,false,expert,,t a t - - aɨ,SCA,,2
 Wirafed-337_stone-1-1,Wirafed-337_stone-1,ita,15736,false,expert,,- i t a - -,SCA,,1
