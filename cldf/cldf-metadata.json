@@ -16,19 +16,19 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/tupian-language-resources/tuled",
-            "dc:created": "v0.10-120-g0c546c7"
+            "dc:created": "v0.10-122-g58fbf6f"
         },
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Glottolog",
             "rdf:about": "https://github.com/glottolog/glottolog",
-            "dc:created": "v4.3"
+            "dc:created": "v4.2.1-13-g7970be034b"
         },
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Concepticon",
             "rdf:about": "https://github.com/concepticon/concepticon-data",
-            "dc:created": "v2.4.0"
+            "dc:created": "v2.3.0-141-g0a4af4e"
         },
         {
             "rdf:type": "prov:Entity",

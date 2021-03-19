@@ -23,7 +23,7 @@ Available online at http://www.tuled.org
 - **Varieties:** 79
 - **Concepts:** 418
 - **Lexemes:** 22,029
-- **Sources:** 270
+- **Sources:** 271
 - **Synonymy:** 1.06
 - **Cognacy:** 24,485 cognates in 4,598 cognate sets (2,375 singletons)
 - **Cognate Diversity:** 0.19

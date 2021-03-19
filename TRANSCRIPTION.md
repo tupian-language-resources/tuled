@@ -379,9 +379,8 @@
 ## Words with invalid segments (up to 100 only)
 
 | ID | LANGUAGE | CONCEPT | FORM | SEGMENTS |
-|:------------------------|:-----------|:--------------|:--------|:-------------|
-| Makurap-137_fleshmeat-1 | Makurap | 137_fleshmeat | ɲirǝ̃ʔ_ | ɲ i r ǝ̃ ʔ + |
+|------|------------|-----------|--------|------------|
 
-(1 rows)
+(0 rows)
 
 
