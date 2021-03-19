@@ -1,5 +1,5 @@
 {
-    "title": "CLDF dataset derived from Gerardi and Reichert's \"TuLeD: Tup\u00edan lexical database\" from 2020",
+    "title": "TuLeD",
     "access_right": "open",
     "keywords": [
         "cldf:Wordlist",
@@ -7,7 +7,7 @@
     ],
     "creators": [
         {
-            "name": "Fabr\u00c3\u00adcio Ferraz Gerardi"
+            "name": "Fabr\u00edcio Ferraz Gerardi"
         },
         {
             "name": "Stanislav Reichert"

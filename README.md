@@ -1,8 +1,11 @@
-# CLDF dataset derived from Gerardi and Reichert's "TuLeD: Tupían lexical database" from 2020
+# TuLeD
 
 Cite the source dataset as
 
 > Ferraz Gerardi, Fabrício and Reichert, Stanislav (2020) TuLeD: Tupían lexical database. Version 0.8. Tübingen: Eberhard-Karls University
+
+
+Tupían lexical database
 
 This dataset is licensed under a CC-BY-4.0 license
 
@@ -20,14 +23,14 @@ Available online at http://www.tuled.org
 - **Varieties:** 79
 - **Concepts:** 418
 - **Lexemes:** 22,029
-- **Sources:** 271
+- **Sources:** 270
 - **Synonymy:** 1.06
 - **Cognacy:** 24,485 cognates in 4,598 cognate sets (2,375 singletons)
 - **Cognate Diversity:** 0.19
 - **Invalid lexemes:** 0
-- **Tokens:** 102,343
-- **Segments:** 358 (0 BIPA errors, 0 CTLS sound class errors, 358 CLTS modified)
-- **Inventory size (avg):** 60.25
+- **Tokens:** 102,342
+- **Segments:** 357 (0 BIPA errors, 0 CTLS sound class errors, 357 CLTS modified)
+- **Inventory size (avg):** 60.23
 
 # Contributors
 
