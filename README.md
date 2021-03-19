@@ -14,6 +14,7 @@ Available online at http://www.tuled.org
 ## Statistics
 
 
+[![CLDF validation](https://github.com/tupian-language-resources/tuled/workflows/CLDF-validation/badge.svg)](https://github.com/tupian-language-resources/tuled/actions?query=workflow%3ACLDF-validation)
 ![Glottolog: 93%](https://img.shields.io/badge/Glottolog-93%25-green.svg "Glottolog: 93%")
 ![Concepticon: 95%](https://img.shields.io/badge/Concepticon-95%25-green.svg "Concepticon: 95%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
