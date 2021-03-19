@@ -1,8 +1,11 @@
-# CLDF dataset derived from Gerardi and Reichert's "TuLeD: Tupían lexical database" from 2020
+# TuLeD
 
 Cite the source dataset as
 
 > Ferraz Gerardi, Fabrício and Reichert, Stanislav (2020) TuLeD: Tupían lexical database. Version 0.8. Tübingen: Eberhard-Karls University
+
+
+Tupían lexical database
 
 This dataset is licensed under a CC-BY-4.0 license
 

@@ -380,8 +380,10 @@
 ## Words with invalid segments (up to 100 only)
 
 | ID | LANGUAGE | CONCEPT | FORM | SEGMENTS |
-|------|------------|-----------|--------|------------|
+|:------------------------|:-----------|:--------------|:--------|:-------------|
+| Arikem-322_snake-1 | Arikem | 322_snake | tʃat_ | tʃ a t + |
+| Makurap-137_fleshmeat-1 | Makurap | 137_fleshmeat | ɲirǝ̃ʔ_ | ɲ i r ǝ̃ ʔ + |
 
-(0 rows)
+(2 rows)
 
 

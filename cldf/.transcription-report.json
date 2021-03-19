@@ -90319,8 +90319,23 @@
         }
     },
     "stats": {
-        "bad_words": [],
-        "bad_words_count": 0,
+        "bad_words": [
+            [
+                "Arikem-322_snake-1",
+                "Arikem",
+                "322_snake",
+                "t\u0283at_",
+                "t\u0283 a t +"
+            ],
+            [
+                "Makurap-137_fleshmeat-1",
+                "Makurap",
+                "137_fleshmeat",
+                "\u0272ir\u01dd\u0303\u0294_",
+                "\u0272 i r \u01dd\u0303 \u0294 +"
+            ]
+        ],
+        "bad_words_count": 2,
         "bipa_errors": [],
         "general_errors": 0,
         "invalid_words": [],

@@ -3,31 +3,32 @@
     "aboutUrl": null,
     "dc:bibliographicCitation": "Ferraz Gerardi, Fabr\u00edcio and Reichert, Stanislav (2020) TuLeD: Tup\u00edan lexical database. Version 0.8. T\u00fcbingen: Eberhard-Karls University",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
+    "dc:description": "Tup\u00edan lexical database",
     "dc:identifier": "http://www.tuled.org",
     "dc:isVersionOf": null,
     "dc:license": "https://creativecommons.org/licenses/by/4.0/",
     "dc:related": null,
     "dc:source": "sources.bib",
-    "dc:title": "CLDF dataset derived from Gerardi and Reichert's \"TuLeD: Tup\u00edan lexical database\" from 2020",
+    "dc:title": "TuLeD",
     "dcat:accessURL": "https://github.com/tupian-language-resources/tuled",
     "prov:wasDerivedFrom": [
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/tupian-language-resources/tuled",
-            "dc:created": "v0.10-118-g7e9dba0"
+            "dc:created": "v0.10-119-g9eacc6c"
         },
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Glottolog",
             "rdf:about": "https://github.com/glottolog/glottolog",
-            "dc:created": "v4.2.1-13-g7970be034b"
+            "dc:created": "v4.3"
         },
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Concepticon",
             "rdf:about": "https://github.com/concepticon/concepticon-data",
-            "dc:created": "v2.3.0-141-g0a4af4e"
+            "dc:created": "v2.4.0"
         },
         {
             "rdf:type": "prov:Entity",

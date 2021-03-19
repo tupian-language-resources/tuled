@@ -1,5 +1,5 @@
 {
-    "title": "CLDF dataset derived from Gerardi and Reichert's \"TuLeD: Tup\u00edan lexical database\" from 2020",
+    "title": "TuLeD",
     "access_right": "open",
     "keywords": [
         "cldf:Wordlist",
@@ -33,9 +33,6 @@
         }
     ],
     "communities": [
-        {
-            "identifier": "lexibank"
-        },
         {
             "identifier": "lexibank"
         }
