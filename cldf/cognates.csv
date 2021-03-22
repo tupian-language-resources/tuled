@@ -219,7 +219,7 @@ Karo-215_blueyellowmacaw-1-1,Karo-215_blueyellowmacaw-1,karo,10353,false,expert,
 Karo-218_man-1-1,Karo-218_man-1,maʔwɨr,10416,false,expert,,m a ʔ w - - ɨ r -,SCA,,1
 Karo-220_many-1-1,Karo-220_many-1,paʔpiktem,10495,false,expert,,p a ʔ p i k t e m,SCA,,1
 Karo-221_medicine-1-1,Karo-221_medicine-1,kaʔ,1870,false,expert,,k a ʔ,SCA,,1
-Karo-222_milk-1-1,Karo-222_milk-1,nam_ʃu,10609,false,expert,,- - n a m,SCA,,1
+Karo-222_milk-1-1,Karo-222_milk-1,nam_ʃu,10609,false,expert,,- - n a - m -,SCA,,1
 Karo-222_milk-1-2,Karo-222_milk-1,nam_ʃu,10608,false,expert,,- - ʃ u -,SCA,,2
 Karo-223_monkey-1-1,Karo-223_monkey-1,naʔwəj,10632,false,expert,,n a ʔ w - ə j,SCA,,1
 Karo-223_monkey-2-1,Karo-223_monkey-2,tsego,10636,false,expert,,- - ts e g o,SCA,,1
@@ -240,7 +240,7 @@ Karo-241_now-1-1,Karo-241_now-1,tena,11533,false,expert,,- - - t e n a,SCA,,1
 Karo-242_oar-1-1,Karo-242_oar-1,weri_weri,11569,false,expert,,w e r i w e r i,SCA,,1
 Karo-243_oldadj-1-1,Karo-243_oldadj-1,poj,11597,false,expert,,p o - j,SCA,,1
 Karo-244_one-1-1,Karo-244_one-1,koti,11642,false,expert,,- - - - k o - t i - -,SCA,,1
-Karo-246_opossumskunk-1-1,Karo-246_opossumskunk-1,motsaj,11733,false,expert,,- - - m o ts a j - - -,SCA,,1
+Karo-246_opossumskunk-1-1,Karo-246_opossumskunk-1,motsaj,11733,false,expert,,- - - m - o ts a j - - -,SCA,,1
 Karo-247_other-1-1,Karo-247_other-1,paj,11773,false,expert,,p a j - -,SCA,,1
 Karo-248_owl-1-1,Karo-248_owl-1,pobo,11822,false,expert,,p o - - - - - b o,SCA,,1
 Karo-249_paca-1-1,Karo-249_paca-1,jaba,11879,false,expert,,- - - j a b - - a,SCA,,1
@@ -1439,7 +1439,7 @@ Wayoro-240_nose-1-1,Wayoro-240_nose-1,ãpia,11454,false,expert,,- ã p ia - -,SC
 Wayoro-241_now-1-1,Wayoro-241_now-1,poret,11536,false,expert,,p o r e t,SCA,,1
 Wayoro-243_oldadj-1-1,Wayoro-243_oldadj-1,poot,11592,false,expert,,p oː t - -,SCA,,1
 Wayoro-244_one-1-1,Wayoro-244_one-1,kjet,11649,false,expert,,k j e t -,SCA,,1
-Wayoro-246_opossumskunk-1-1,Wayoro-246_opossumskunk-1,mukura,11733,false,expert,,- - - m u k u r a - -,SCA,,1
+Wayoro-246_opossumskunk-1-1,Wayoro-246_opossumskunk-1,mukura,11733,false,expert,,- - - m - u k u r a - -,SCA,,1
 Wayoro-247_other-1-1,Wayoro-247_other-1,nõ,11771,false,expert,,- - - n õ,SCA,,1
 Wayoro-248_owl-1-1,Wayoro-248_owl-1,ʔɨβao_poot,1482,false,expert,,ʔ ɨ β ao p oː t,SCA,,1
 Wayoro-249_paca-1-1,Wayoro-249_paca-1,ngwãra,1712,false,expert,,n g w ã r a,SCA,,1
@@ -1783,7 +1783,7 @@ Tupari-217_maggotlarva-1-1,Tupari-217_maggotlarva-1,tek,10406,false,expert,,- t 
 Tupari-218_man-1-1,Tupari-218_man-1,okjo,10415,false,expert,,- o - k - j o,SCA,,1
 Tupari-220_many-1-1,Tupari-220_many-1,hajto,10491,false,expert,,h ai - - - t o,SCA,,1
 Tupari-221_medicine-1-1,Tupari-221_medicine-1,apiri,1869,false,expert,,a p i r i,SCA,,1
-Tupari-222_milk-1-1,Tupari-222_milk-1,kemkoj,10609,false,expert,,- - k e m,SCA,,1
+Tupari-222_milk-1-1,Tupari-222_milk-1,kemkoj,10609,false,expert,,- - k e - m -,SCA,,1
 Tupari-222_milk-1-2,Tupari-222_milk-1,kemkoj,10608,false,expert,,- - k o j,SCA,,2
 Tupari-223_monkey-1-1,Tupari-223_monkey-1,arimẽ,10634,false,expert,,- a r i m - ẽ,SCA,,1
 Tupari-224_moon-1-1,Tupari-224_moon-1,koepat,725,false,expert,,k oe p a t,SCA,,1
@@ -2216,7 +2216,7 @@ Akuntsu-217_maggotlarva-1-1,Akuntsu-217_maggotlarva-1,kojt,10404,false,expert,,-
 Akuntsu-218_man-1-1,Akuntsu-218_man-1,nako,10415,false,expert,,n a - k o - -,SCA,,1
 Akuntsu-220_many-1-1,Akuntsu-220_many-1,tɨrɨ,10489,false,expert,,t ɨ - - - - r ɨ,SCA,,1
 Akuntsu-221_medicine-1-1,Akuntsu-221_medicine-1,hemeʤo,10552,false,expert,,h e m e dʒ o,SCA,,1
-Akuntsu-222_milk-1-1,Akuntsu-222_milk-1,kem_kɨ,10609,false,expert,,- - k e m,SCA,,1
+Akuntsu-222_milk-1-1,Akuntsu-222_milk-1,kem_kɨ,10609,false,expert,,- - k e - m -,SCA,,1
 Akuntsu-222_milk-1-2,Akuntsu-222_milk-1,kem_kɨ,3001,false,expert,,- - k ɨ,SCA,,2
 Akuntsu-223_monkey-1-1,Akuntsu-223_monkey-1,tawpɨk,10629,false,expert,,t a w,SCA,,1
 Akuntsu-223_monkey-1-2,Akuntsu-223_monkey-1,tawpɨk,931,false,expert,,p ɨ k,SCA,,2
@@ -4411,7 +4411,7 @@ SuruiPaiter-242_oar-1-1,SuruiPaiter-242_oar-1,kórkoráp,11572,false,expert,,k �
 SuruiPaiter-243_oldadj-1-1,SuruiPaiter-243_oldadj-1,kãj,11597,false,expert,,k ã - j,SCA,,1
 SuruiPaiter-244_one-1-1,SuruiPaiter-244_one-1,mááj,11645,false,expert,,m áá - - j,SCA,,1
 SuruiPaiter-245_open-1-1,SuruiPaiter-245_open-1,meekap,11716,false,expert,,- m eː k a p,SCA,,1
-SuruiPaiter-246_opossumskunk-1-1,SuruiPaiter-246_opossumskunk-1,mekopĩ_ĩ,11733,false,expert,,- - - m e k o p ĩ - ĩ,SCA,,1
+SuruiPaiter-246_opossumskunk-1-1,SuruiPaiter-246_opossumskunk-1,mekopĩ_ĩ,11733,false,expert,,- - - m - e k o p ĩ - ĩ,SCA,,1
 SuruiPaiter-247_other-1-1,SuruiPaiter-247_other-1,ma,11772,false,expert,,- m a - - - -,SCA,,1
 SuruiPaiter-247_other-2-1,SuruiPaiter-247_other-2,mater,11772,false,expert,,- m a t e r -,SCA,,1
 SuruiPaiter-248_owl-1-1,SuruiPaiter-248_owl-1,mokoop,1483,false,expert,,m o k oː p,SCA,,1
@@ -4845,7 +4845,7 @@ Arikem-3_agouti-1-1,Arikem-3_agouti-1,mundá,90,false,expert,,m u nd á,SCA,,1
 Arikem-6_anaconda-1-1,Arikem-6_anaconda-1,sad_maawa,303,false,expert,,s a - - - d,SCA,,1
 Arikem-6_anaconda-1-2,Arikem-6_anaconda-1,sad_maawa,731,false,expert,,m aː w a,SCA,,2
 Arikem-7_anatto-1-1,Arikem-7_anatto-1,eku,343,false,expert,,- - e k u,SCA,,1
-Arikem-9_anteater-1-1,Arikem-9_anteater-1,amerá,439,false,expert,,- a m - - e r á,SCA,,1
+Arikem-9_anteater-1-1,Arikem-9_anteater-1,amerá,439,false,expert,,- - a m - - e - r á,SCA,,1
 Arikem-11_arm-1-1,Arikem-11_arm-1,neʔ,1118,false,expert,,n e ʔ - -,SCA,,1
 Arikem-12_armadillo-1-1,Arikem-12_armadillo-1,tsosju,549,false,expert,,ts o - s iu - - -,SCA,,1
 Arikem-13_arrive-1-1,Arikem-13_arrive-1,kɨrɨj,612,false,expert,,k ɨ r ɨ j,SCA,,1
@@ -5398,7 +5398,7 @@ Juruna-6_anaconda-1-1,Juruna-6_anaconda-1,adʒa,1115,false,expert,,a dʒ a,SCA,,
 Juruna-6_anaconda-2-1,Juruna-6_anaconda-2,tuwĩ,299,false,expert,,t u w - - ĩ,SCA,,1
 Juruna-7_anatto-1-1,Juruna-7_anatto-1,wãkaha,1578,false,expert,,w ã - - k a h a,SCA,,1
 Juruna-8_ant-1-1,Juruna-8_ant-1,adʒiha,386,false,expert,,- a dʒ i h a - - - -,SCA,,1
-Juruna-9_anteater-1-1,Juruna-9_anteater-1,amaẽ,439,false,expert,,- a m - - a - ẽ,SCA,,1
+Juruna-9_anteater-1-1,Juruna-9_anteater-1,amaẽ,439,false,expert,,- - a m - - a - - ẽ,SCA,,1
 Juruna-11_arm-1-1,Juruna-11_arm-1,abɨ,1573,false,expert,,- a b ɨ -,SCA,,1
 Juruna-12_armadillo-1-1,Juruna-12_armadillo-1,duʔa,975,false,expert,,d u ʔ a,SCA,,1
 Juruna-13_arrive-1-1,Juruna-13_arrive-1,wɨ,610,false,expert,,- w ɨ - - -,SCA,,1
@@ -6003,7 +6003,7 @@ Munduruku-240_nose-1-1,Munduruku-240_nose-1,tabə̃,11455,false,expert,,t a - b 
 Munduruku-241_now-1-1,Munduruku-241_now-1,ŋãsũ,11532,false,expert,,ŋ ã - - s - ũ,SCA,,1
 Munduruku-243_oldadj-1-1,Munduruku-243_oldadj-1,kok,11597,false,expert,,k o - k,SCA,,1
 Munduruku-244_one-1-1,Munduruku-244_one-1,pũŋ,11651,false,expert,,p ũ ŋ,SCA,,1
-Munduruku-246_opossumskunk-1-1,Munduruku-246_opossumskunk-1,makora,11733,false,expert,,- - - m a k o r a - -,SCA,,1
+Munduruku-246_opossumskunk-1-1,Munduruku-246_opossumskunk-1,makora,11733,false,expert,,- - - m - a k o r a - -,SCA,,1
 Munduruku-247_other-1-1,Munduruku-247_other-1,waraʔat,11774,false,expert,,w a r a ʔ a t,SCA,,1
 Munduruku-248_owl-1-1,Munduruku-248_owl-1,kokkok,11826,false,expert,,k o kː o k,SCA,,1
 Munduruku-249_paca-1-1,Munduruku-249_paca-1,aj,11880,false,expert,,- a - - j,SCA,,1
@@ -6913,7 +6913,7 @@ Aweti-6_anaconda-1-1,Aweti-6_anaconda-1,twajwatu,887,false,expert,,t w ai,SCA,,1
 Aweti-6_anaconda-1-2,Aweti-6_anaconda-1,twajwatu,299,false,expert,,w a t - - u,SCA,,2
 Aweti-7_anatto-1-1,Aweti-7_anatto-1,jukʷaŋɨt,345,false,expert,,j u kʷ a ŋ ɨ t,SCA,,1
 Aweti-8_ant-1-1,Aweti-8_ant-1,tapiʔa,386,false,expert,,- - t a p i - ʔ a -,SCA,,1
-Aweti-9_anteater-1-1,Aweti-9_anteater-1,tamajua,439,false,expert,,t a m a j - - ua,SCA,,1
+Aweti-9_anteater-1-1,Aweti-9_anteater-1,tamajua,439,false,expert,,- t a m a j - - - ua,SCA,,1
 Aweti-11_arm-1-1,Aweti-11_arm-1,kɨwa,485,false,expert,,k ɨ w a,SCA,,1
 Aweti-12_armadillo-1-1,Aweti-12_armadillo-1,tatu,549,false,expert,,t a - t u - - -,SCA,,1
 Aweti-13_arrive-1-1,Aweti-13_arrive-1,tẽm,609,false,expert,,- t ẽ m,SCA,,1
@@ -7075,7 +7075,7 @@ Aweti-216_macaw-1-1,Aweti-216_macaw-1,tawiti,10355,false,expert,,t a w i t i,SCA
 Aweti-218_man-1-1,Aweti-218_man-1,aɨte,10418,false,expert,,- - - aɨ t e -,SCA,,1
 Aweti-220_many-1-1,Aweti-220_many-1,ʔɨtoto,10491,false,expert,,ʔ ɨ - t o t o,SCA,,1
 Aweti-221_medicine-1-1,Aweti-221_medicine-1,potaŋ,10553,false,expert,,- p o - t a ŋ - - -,SCA,,1
-Aweti-222_milk-1-1,Aweti-222_milk-1,kam,10609,false,expert,,- - k a m,SCA,,1
+Aweti-222_milk-1-1,Aweti-222_milk-1,kam,10609,false,expert,,- - k a - m -,SCA,,1
 Aweti-223_monkey-1-1,Aweti-223_monkey-1,kaʔijɨt,10630,false,expert,,k a ʔ i j ɨ t,SCA,,1
 Aweti-224_moon-1-1,Aweti-224_moon-1,tatɨ,10691,false,expert,,t a t ɨ -,SCA,,1
 Aweti-226_mountain-1-1,Aweti-226_mountain-1,ɨwɨʔam,10947,false,expert,,- ɨ w ɨ - - - -,SCA,,1
@@ -7228,7 +7228,7 @@ Parakana-5_alone-1-1,Parakana-5_alone-1,ʃowe,1570,false,expert,,ʃ o w e,SCA,,1
 Parakana-6_anaconda-1-1,Parakana-6_anaconda-1,maʃoho,296,false,expert,,- m a ʃ - - - -,SCA,,1
 Parakana-6_anaconda-1-2,Parakana-6_anaconda-1,maʃoho,299,false,expert,,- o h - - o,SCA,,2
 Parakana-7_anatto-1-1,Parakana-7_anatto-1,roko,343,false,expert,,- r o k o,SCA,,1
-Parakana-9_anteater-1-1,Parakana-9_anteater-1,tamanowa,439,false,expert,,t a m a n o w a,SCA,,1
+Parakana-9_anteater-1-1,Parakana-9_anteater-1,tamanowa,439,false,expert,,- t a m a n o - w a,SCA,,1
 Parakana-11_arm-1-1,Parakana-11_arm-1,tʃɨβ,485,false,expert,,tʃ ɨ β -,SCA,,1
 Parakana-12_armadillo-1-1,Parakana-12_armadillo-1,tato,549,false,expert,,t a - t o - - -,SCA,,1
 Parakana-13_arrive-1-1,Parakana-13_arrive-1,ʃan,615,false,expert,,- - ʃ a n,SCA,,1
@@ -7447,7 +7447,7 @@ Parakana-218_man-1-1,Parakana-218_man-1,kumaʔe,10417,false,expert,,k u - - - -,
 Parakana-218_man-1-2,Parakana-218_man-1,kumaʔe,2118,false,expert,,m a ʔ e -,SCA,,2
 Parakana-220_many-1-1,Parakana-220_many-1,ete,10491,false,expert,,- e - - - t e,SCA,,1
 Parakana-221_medicine-1-1,Parakana-221_medicine-1,moʔag,10553,false,expert,,- m o - ʔ a g - - -,SCA,,1
-Parakana-222_milk-1-1,Parakana-222_milk-1,kamɨ,10609,false,expert,,- - k a m,SCA,,1
+Parakana-222_milk-1-1,Parakana-222_milk-1,kamɨ,10609,false,expert,,- - k a - m -,SCA,,1
 Parakana-222_milk-1-2,Parakana-222_milk-1,kamɨ,18593,false,expert,,- ɨ - - -,SCA,,2
 Parakana-223_monkey-1-1,Parakana-223_monkey-1,kaʔi,10630,false,expert,,k a ʔ - - i -,SCA,,1
 Parakana-224_moon-1-1,Parakana-224_moon-1,tʃahɨ,10691,false,expert,,tʃ a h ɨ -,SCA,,1
@@ -7469,7 +7469,7 @@ Parakana-241_now-2-1,Parakana-241_now-2,kaare,11530,false,expert,,k aː - - - r 
 Parakana-242_oar-1-1,Parakana-242_oar-1,ɨʔarapɨwoawa,11568,false,expert,,ɨ ʔ a r a p ɨ w - - - - oa w a,SCA,,1
 Parakana-243_oldadj-1-1,Parakana-243_oldadj-1,hɨmɨnete,11595,false,expert,,h ɨ m ɨ n e t e,SCA,,1
 Parakana-244_one-1-1,Parakana-244_one-1,orepetʃowe,11642,false,expert,,- o r e p e - tʃ o w e,SCA,,1
-Parakana-246_opossumskunk-1-1,Parakana-246_opossumskunk-1,toɨmɨpirem,11733,false,expert,,- t oɨ m ɨ p i r e m -,SCA,,1
+Parakana-246_opossumskunk-1-1,Parakana-246_opossumskunk-1,toɨmɨpirem,11733,false,expert,,- t oɨ m - ɨ p i r e m -,SCA,,1
 Parakana-246_opossumskunk-2-1,Parakana-246_opossumskunk-2,kʷanoaʃi,11732,false,expert,,kʷ a - - n oa ʃ i,SCA,,1
 Parakana-247_other-1-1,Parakana-247_other-1,amote,11772,false,expert,,a m o t e - -,SCA,,1
 Parakana-248_owl-1-1,Parakana-248_owl-1,orokoreʔa,11823,false,expert,,- o r o k o r e ʔ - - - - a,SCA,,1
@@ -7884,7 +7884,7 @@ SuruiAikewara-3_agouti-1-1,SuruiAikewara-3_agouti-1,akuti,143,false,expert,,a k 
 SuruiAikewara-4_all-1-1,SuruiAikewara-4_all-1,pam,205,false,expert,,- - - - p a m -,SCA,,1
 SuruiAikewara-6_anaconda-1-1,SuruiAikewara-6_anaconda-1,kurisu,301,false,expert,,- - - k u r i s u,SCA,,1
 SuruiAikewara-8_ant-1-1,SuruiAikewara-8_ant-1,tahɨwa,386,false,expert,,- - t a h ɨ w - a -,SCA,,1
-SuruiAikewara-9_anteater-1-1,SuruiAikewara-9_anteater-1,tamawa,439,false,expert,,t a m a w - - a,SCA,,1
+SuruiAikewara-9_anteater-1-1,SuruiAikewara-9_anteater-1,tamawa,439,false,expert,,- t a m - - a - w a,SCA,,1
 SuruiAikewara-11_arm-1-1,SuruiAikewara-11_arm-1,sɨwa,485,false,expert,,s ɨ w a,SCA,,1
 SuruiAikewara-12_armadillo-1-1,SuruiAikewara-12_armadillo-1,tatu,549,false,expert,,t a - t u - - -,SCA,,1
 SuruiAikewara-13_arrive-1-1,SuruiAikewara-13_arrive-1,ahe,610,false,expert,,- - a h e -,SCA,,1
@@ -8076,7 +8076,7 @@ SuruiAikewara-218_man-1-1,SuruiAikewara-218_man-1,kumaʔe,10417,false,expert,,k 
 SuruiAikewara-218_man-1-2,SuruiAikewara-218_man-1,kumaʔe,2118,false,expert,,m a ʔ e -,SCA,,2
 SuruiAikewara-220_many-1-1,SuruiAikewara-220_many-1,tapisara,10489,false,expert,,t a p i s a r a,SCA,,1
 SuruiAikewara-221_medicine-1-1,SuruiAikewara-221_medicine-1,erukahara,10557,false,expert,,e r u k a h a r a,SCA,,1
-SuruiAikewara-222_milk-1-1,SuruiAikewara-222_milk-1,kamɨa,10609,false,expert,,- - k a m,SCA,,1
+SuruiAikewara-222_milk-1-1,SuruiAikewara-222_milk-1,kamɨa,10609,false,expert,,- - k a - m -,SCA,,1
 SuruiAikewara-222_milk-1-2,SuruiAikewara-222_milk-1,kamɨa,18593,false,expert,,- ɨa - - -,SCA,,2
 SuruiAikewara-223_monkey-1-1,SuruiAikewara-223_monkey-1,kaʔi,10630,false,expert,,k a ʔ - - i -,SCA,,1
 SuruiAikewara-224_moon-1-1,SuruiAikewara-224_moon-1,sahɨ,10691,false,expert,,s a h ɨ -,SCA,,1
@@ -8257,7 +8257,7 @@ Tapirape-5_alone-1-1,Tapirape-5_alone-1,ãʃepepe,276,false,expert,,ã ʃ e p e 
 Tapirape-6_anaconda-1-1,Tapirape-6_anaconda-1,ʃokori,301,false,expert,,ʃ o - k o r - - i,SCA,,1
 Tapirape-7_anatto-1-1,Tapirape-7_anatto-1,oroko,343,false,expert,,o r o k o,SCA,,1
 Tapirape-8_ant-1-1,Tapirape-8_ant-1,tãɨp,386,false,expert,,- - t ãɨ - - p - - -,SCA,,1
-Tapirape-9_anteater-1-1,Tapirape-9_anteater-1,tamanowa,439,false,expert,,t a m a n o w a,SCA,,1
+Tapirape-9_anteater-1-1,Tapirape-9_anteater-1,tamanowa,439,false,expert,,- t a m a n o - w a,SCA,,1
 Tapirape-11_arm-1-1,Tapirape-11_arm-1,tʃiwã,485,false,expert,,tʃ i w ã,SCA,,1
 Tapirape-12_armadillo-1-1,Tapirape-12_armadillo-1,tãto,549,false,expert,,t ã - t o - - -,SCA,,1
 Tapirape-13_arrive-1-1,Tapirape-13_arrive-1,waem,610,false,expert,,- w ae - - m,SCA,,1
@@ -8408,7 +8408,7 @@ Tapirape-218_man-1-1,Tapirape-218_man-1,akomaʔe,10417,false,expert,,- a k - - o
 Tapirape-218_man-1-2,Tapirape-218_man-1,akomaʔe,2118,false,expert,,m a ʔ e -,SCA,,2
 Tapirape-220_many-1-1,Tapirape-220_many-1,ete,10491,false,expert,,- e - - - t e,SCA,,1
 Tapirape-221_medicine-1-1,Tapirape-221_medicine-1,mahɨg,10553,false,expert,,- m a - h ɨ g - - -,SCA,,1
-Tapirape-222_milk-1-1,Tapirape-222_milk-1,kɨmɨ,10609,false,expert,,- - k ɨ m,SCA,,1
+Tapirape-222_milk-1-1,Tapirape-222_milk-1,kɨmɨ,10609,false,expert,,- - k ɨ - m -,SCA,,1
 Tapirape-222_milk-1-2,Tapirape-222_milk-1,kɨmɨ,18593,false,expert,,- ɨ - - -,SCA,,2
 Tapirape-223_monkey-1-1,Tapirape-223_monkey-1,kãʔi,10630,false,expert,,k ã ʔ - - i -,SCA,,1
 Tapirape-224_moon-1-1,Tapirape-224_moon-1,tʃãɨ,10691,false,expert,,- - tʃ ãɨ -,SCA,,1
@@ -8556,7 +8556,7 @@ Tembe-6_anaconda-2-1,Tembe-6_anaconda-2,mozuhu,296,false,expert,,- m o z - - - -
 Tembe-6_anaconda-2-2,Tembe-6_anaconda-2,mozuhu,299,false,expert,,- u h - - u,SCA,,2
 Tembe-7_anatto-1-1,Tembe-7_anatto-1,uruku,343,false,expert,,u r u k u,SCA,,1
 Tembe-8_ant-1-1,Tembe-8_ant-1,tahɨw,386,false,expert,,- - t a h ɨ w - - -,SCA,,1
-Tembe-9_anteater-1-1,Tembe-9_anteater-1,tamanwa,439,false,expert,,t a m a n - w a,SCA,,1
+Tembe-9_anteater-1-1,Tembe-9_anteater-1,tamanwa,439,false,expert,,- t a m - - a n w a,SCA,,1
 Tembe-10_mountainsoursop-1-1,Tembe-10_mountainsoursop-1,aratsikuʔɨw,10996,false,expert,,- - a r a ts i k - - u,SCA,,1
 Tembe-10_mountainsoursop-1-2,Tembe-10_mountainsoursop-1,aratsikuʔɨw,63,false,expert,,ʔ ɨ w,SCA,,2
 Tembe-11_arm-1-1,Tembe-11_arm-1,ziwa,485,false,expert,,z i w a,SCA,,1
@@ -8766,7 +8766,7 @@ Tembe-239_night-1-1,Tembe-239_night-1,pɨtun,11386,false,expert,,- p ɨ - t u n 
 Tembe-240_nose-1-1,Tembe-240_nose-1,ti,11455,false,expert,,t i - - -,SCA,,1
 Tembe-243_oldadj-1-1,Tembe-243_oldadj-1,azãju,11603,false,expert,,a z ã j u,SCA,,1
 Tembe-244_one-1-1,Tembe-244_one-1,pitəí,11642,false,expert,,- - - - p i - t - - əí,SCA,,1
-Tembe-246_opossumskunk-1-1,Tembe-246_opossumskunk-1,mɨkur,11733,false,expert,,- - - m ɨ k u r - - -,SCA,,1
+Tembe-246_opossumskunk-1-1,Tembe-246_opossumskunk-1,mɨkur,11733,false,expert,,- - - m - ɨ k u r - - -,SCA,,1
 Tembe-247_other-1-1,Tembe-247_other-1,amó,11772,false,expert,,a m ó - - - -,SCA,,1
 Tembe-248_owl-1-1,Tembe-248_owl-1,urukurea,11823,false,expert,,- u r u k u r ea - - - - - -,SCA,,1
 Tembe-249_paca-1-1,Tembe-249_paca-1,pak,11879,false,expert,,- - - - - p a k -,SCA,,1
@@ -8928,7 +8928,7 @@ Guajajara-6_anaconda-1-1,Guajajara-6_anaconda-1,mozuhu,296,false,expert,,- m o z
 Guajajara-6_anaconda-1-2,Guajajara-6_anaconda-1,mozuhu,299,false,expert,,- u h - - u,SCA,,2
 Guajajara-7_anatto-1-1,Guajajara-7_anatto-1,uruku,343,false,expert,,u r u k u,SCA,,1
 Guajajara-8_ant-1-1,Guajajara-8_ant-1,tahɨw,386,false,expert,,- - t a h ɨ w - - -,SCA,,1
-Guajajara-9_anteater-1-1,Guajajara-9_anteater-1,tamanuwa,439,false,expert,,t a m a n u w a,SCA,,1
+Guajajara-9_anteater-1-1,Guajajara-9_anteater-1,tamanuwa,439,false,expert,,- t a m a n u - w a,SCA,,1
 Guajajara-11_arm-1-1,Guajajara-11_arm-1,zɨwa,485,false,expert,,z ɨ w a,SCA,,1
 Guajajara-12_armadillo-1-1,Guajajara-12_armadillo-1,tatu,549,false,expert,,t a - t u - - -,SCA,,1
 Guajajara-13_arrive-1-1,Guajajara-13_arrive-1,hem,610,false,expert,,- h e - - m,SCA,,1
@@ -9145,7 +9145,7 @@ Guajajara-243_oldadj-1-1,Guajajara-243_oldadj-1,izemaner,1119,false,expert,,i z 
 Guajajara-243_oldadj-1-2,Guajajara-243_oldadj-1,izemaner,11595,false,expert,,- - m a n e r -,SCA,,2
 Guajajara-243_oldadj-2-1,Guajajara-243_oldadj-2,kʷehearer,11598,false,expert,,kʷ e h ea r e r,SCA,,1
 Guajajara-244_one-1-1,Guajajara-244_one-1,amo,11645,false,expert,,- a m o -,SCA,,1
-Guajajara-246_opossumskunk-1-1,Guajajara-246_opossumskunk-1,atura,11733,false,expert,,a t u - - - - r a - -,SCA,,1
+Guajajara-246_opossumskunk-1-1,Guajajara-246_opossumskunk-1,atura,11733,false,expert,,a t u - - - - - r a - -,SCA,,1
 Guajajara-246_opossumskunk-2-1,Guajajara-246_opossumskunk-2,maʔekaʃig,11741,false,expert,,m a ʔ e k a ʃ i g,SCA,,1
 Guajajara-247_other-1-1,Guajajara-247_other-1,amo,11772,false,expert,,a m o - - - -,SCA,,1
 Guajajara-248_owl-1-1,Guajajara-248_owl-1,urukureʔa,11823,false,expert,,- u r u k u r e ʔ - - - - a,SCA,,1
@@ -9580,7 +9580,7 @@ Parintintin-3_agouti-1-1,Parintintin-3_agouti-1,akutia,143,false,expert,,a k u t
 Parintintin-4_all-1-1,Parintintin-4_all-1,paβ,205,false,expert,,- - - - p a β -,SCA,,1
 Parintintin-5_alone-1-1,Parintintin-5_alone-1,tehe,1566,false,expert,,t e h e,SCA,,1
 Parintintin-7_anatto-1-1,Parintintin-7_anatto-1,uruku,343,false,expert,,u r u k u,SCA,,1
-Parintintin-9_anteater-1-1,Parintintin-9_anteater-1,tamanduaʔi,439,false,expert,,t a m a nd ua ʔ i,SCA,,1
+Parintintin-9_anteater-1-1,Parintintin-9_anteater-1,tamanduaʔi,439,false,expert,,- t a m a nd ua - ʔ i,SCA,,1
 Parintintin-11_arm-1-1,Parintintin-11_arm-1,jɨβ,485,false,expert,,j ɨ β -,SCA,,1
 Parintintin-12_armadillo-1-1,Parintintin-12_armadillo-1,tatua,549,false,expert,,t a - t ua - - -,SCA,,1
 Parintintin-13_arrive-1-1,Parintintin-13_arrive-1,βahem,610,false,expert,,- β a h e m,SCA,,1
@@ -9792,7 +9792,7 @@ Parintintin-218_man-1-1,Parintintin-218_man-1,kʷajmaʔe,10417,false,expert,,kʷ
 Parintintin-218_man-1-2,Parintintin-218_man-1,kʷajmaʔe,2118,false,expert,,m a ʔ e -,SCA,,2
 Parintintin-220_many-1-1,Parintintin-220_many-1,eʔhuj,10490,false,expert,,e ʔ h ui,SCA,,1
 Parintintin-221_medicine-1-1,Parintintin-221_medicine-1,mohaŋ,10553,false,expert,,- m o - h a ŋ - - -,SCA,,1
-Parintintin-222_milk-1-1,Parintintin-222_milk-1,kambɨ,10609,false,expert,,- - k a mb,SCA,,1
+Parintintin-222_milk-1-1,Parintintin-222_milk-1,kambɨ,10609,false,expert,,- - k a - mb -,SCA,,1
 Parintintin-222_milk-1-2,Parintintin-222_milk-1,kambɨ,18593,false,expert,,- ɨ - - -,SCA,,2
 Parintintin-223_monkey-1-1,Parintintin-223_monkey-1,kaʔi,10630,false,expert,,k a ʔ - - i -,SCA,,1
 Parintintin-224_moon-1-1,Parintintin-224_moon-1,ɲahɨa,10691,false,expert,,ɲ a h ɨa -,SCA,,1
@@ -9817,7 +9817,7 @@ Parintintin-242_oar-1-1,Parintintin-242_oar-1,ajɨkʷaja,11568,false,expert,,- -
 Parintintin-243_oldadj-1-1,Parintintin-243_oldadj-1,ranuhũ,11593,false,expert,,r a n u h ũ,SCA,,1
 Parintintin-243_oldadj-2-1,Parintintin-243_oldadj-2,ɨmɨan,11595,false,expert,,- ɨ m ɨa n - - -,SCA,,1
 Parintintin-244_one-1-1,Parintintin-244_one-1,odʒipedʒi,11643,false,expert,,- o dʒ i p e dʒ i,SCA,,1
-Parintintin-246_opossumskunk-1-1,Parintintin-246_opossumskunk-1,mbɨkuruhu,11733,false,expert,,- - - mb ɨ k u r u h u,SCA,,1
+Parintintin-246_opossumskunk-1-1,Parintintin-246_opossumskunk-1,mbɨkuruhu,11733,false,expert,,- - - mb - ɨ k u r u h u,SCA,,1
 Parintintin-247_other-1-1,Parintintin-247_other-1,amu,11772,false,expert,,a m u - - - -,SCA,,1
 Parintintin-248_owl-1-1,Parintintin-248_owl-1,hurutaʔi,11823,false,expert,,h u r - - u t a ʔ - - i - -,SCA,,1
 Parintintin-249_paca-1-1,Parintintin-249_paca-1,karugʷaruhu,11878,false,expert,,k a r u gʷ a r u h - u,SCA,,1
@@ -10165,7 +10165,7 @@ Amondawa-242_oar-1-1,Amondawa-242_oar-1,ipɨwutawa,11568,false,expert,,- - - - i
 Amondawa-243_oldadj-1-1,Amondawa-243_oldadj-1,ranuhũ,11593,false,expert,,r a n u h ũ,SCA,,1
 Amondawa-243_oldadj-2-1,Amondawa-243_oldadj-2,ɨmɨan,11595,false,expert,,- ɨ m ɨa n - - -,SCA,,1
 Amondawa-244_one-1-1,Amondawa-244_one-1,odʒipeʔi,11643,false,expert,,- o dʒ i p e ʔ i,SCA,,1
-Amondawa-246_opossumskunk-1-1,Amondawa-246_opossumskunk-1,mbɨkuruhu,11733,false,expert,,- - - mb ɨ k u r u h u,SCA,,1
+Amondawa-246_opossumskunk-1-1,Amondawa-246_opossumskunk-1,mbɨkuruhu,11733,false,expert,,- - - mb - ɨ k u r u h u,SCA,,1
 Amondawa-247_other-1-1,Amondawa-247_other-1,amu,11772,false,expert,,a m u - - - -,SCA,,1
 Amondawa-248_owl-1-1,Amondawa-248_owl-1,urukureʔa,11823,false,expert,,- u r u k u r e ʔ - - - - a,SCA,,1
 Amondawa-249_paca-1-1,Amondawa-249_paca-1,karugʷaruhu,11878,false,expert,,k a r u gʷ a r u h - u,SCA,,1
@@ -11449,7 +11449,7 @@ Arawete-5_alone-1-1,Arawete-5_alone-1,hejrɨ,1569,false,expert,,h e j r ɨ,SCA,,
 Arawete-6_anaconda-1-1,Arawete-6_anaconda-1,urukuku,297,false,expert,,- u r u k u k u,SCA,,1
 Arawete-7_anatto-1-1,Arawete-7_anatto-1,irikũ,343,false,expert,,i r i k ũ,SCA,,1
 Arawete-8_ant-1-1,Arawete-8_ant-1,tawi,386,false,expert,,- - t a - - w - i -,SCA,,1
-Arawete-9_anteater-1-1,Arawete-9_anteater-1,tamanuha,439,false,expert,,t a m a n u h a,SCA,,1
+Arawete-9_anteater-1-1,Arawete-9_anteater-1,tamanuha,439,false,expert,,- t a m a n u - h a,SCA,,1
 Arawete-10_mountainsoursop-1-1,Arawete-10_mountainsoursop-1,tajəhəʔãʔɨ,10996,false,expert,,- t a j ə h ə ʔ ã ʔ ɨ,SCA,,1
 Arawete-11_arm-1-1,Arawete-11_arm-1,jɨwa,485,false,expert,,j ɨ w a,SCA,,1
 Arawete-12_armadillo-1-1,Arawete-12_armadillo-1,tatu,549,false,expert,,t a - t u - - -,SCA,,1
@@ -11765,7 +11765,7 @@ Arawete-410_woman-1-1,Arawete-410_woman-1,kuɲi,19359,false,expert,,k u ɲ - - i
 Arawete-411_wormearth-1-1,Arawete-411_wormearth-1,heβoʔi,19473,false,expert,,- h e β o ʔ i -,SCA,,1
 Arawete-415_yousg-1-1,Arawete-415_yousg-1,ne,19645,false,expert,,n e - -,SCA,,1
 Arawete-416_youpl-1-1,Arawete-416_youpl-1,pẽ,19615,false,expert,,p ẽ - - -,SCA,,1
-AnambeEhrenreich-9_anteater-1-1,AnambeEhrenreich-9_anteater-1,tamandwa,439,false,expert,,t a m a nd - w a,SCA,,1
+AnambeEhrenreich-9_anteater-1-1,AnambeEhrenreich-9_anteater-1,tamandwa,439,false,expert,,- t a m - - a nd w a,SCA,,1
 AnambeEhrenreich-14_arrow-1-1,AnambeEhrenreich-14_arrow-1,wira,673,false,expert,,w i - - r a,SCA,,1
 AnambeEhrenreich-21_badevil-1-1,AnambeEhrenreich-21_badevil-1,puʃi,911,false,expert,,p u ʃ i - - - - -,SCA,,1
 AnambeEhrenreich-23_banana-1-1,AnambeEhrenreich-23_banana-1,pareri,1011,false,expert,,p a - r e r i,SCA,,1
@@ -11854,7 +11854,7 @@ Guaja-1_above-1-1,Guaja-1_above-1,ehe,4,false,expert,,- e h e -,SCA,,1
 Guaja-3_agouti-1-1,Guaja-3_agouti-1,akʷiʃi,143,false,expert,,a kʷ i - - ʃ - i -,SCA,,1
 Guaja-4_all-1-1,Guaja-4_all-1,pa,205,false,expert,,- - - - p a - -,SCA,,1
 Guaja-6_anaconda-1-1,Guaja-6_anaconda-1,tsikurihu,301,false,expert,,ts i - k u r i h u,SCA,,1
-Guaja-9_anteater-1-1,Guaja-9_anteater-1,taminawa,439,false,expert,,t a m i n a w a,SCA,,1
+Guaja-9_anteater-1-1,Guaja-9_anteater-1,taminawa,439,false,expert,,- t a m i n a - w a,SCA,,1
 Guaja-10_mountainsoursop-1-1,Guaja-10_mountainsoursop-1,aratʃikoʔaʔi,10996,false,expert,,a r a tʃ i k o ʔ a ʔ i,SCA,,1
 Guaja-11_arm-1-1,Guaja-11_arm-1,iwa,485,false,expert,,- i w a,SCA,,1
 Guaja-12_armadillo-1-1,Guaja-12_armadillo-1,tatu,549,false,expert,,t a - t u - - -,SCA,,1
@@ -12000,7 +12000,7 @@ Guaja-238_new-1-1,Guaja-238_new-1,piahu,11332,false,expert,,- p ia h u - - -,SCA
 Guaja-239_night-1-1,Guaja-239_night-1,pɨha,11386,false,expert,,- p ɨ - h a - -,SCA,,1
 Guaja-240_nose-1-1,Guaja-240_nose-1,jipiawɨ̃,11454,false,expert,,j i p ia w ɨ̃,SCA,,1
 Guaja-244_one-1-1,Guaja-244_one-1,makamutuhũ,11646,false,expert,,m a k a m u t - - u h ũ,SCA,,1
-Guaja-246_opossumskunk-1-1,Guaja-246_opossumskunk-1,mukur,11733,false,expert,,- - - m u k u r - - -,SCA,,1
+Guaja-246_opossumskunk-1-1,Guaja-246_opossumskunk-1,mukur,11733,false,expert,,- - - m - u k u r - - -,SCA,,1
 Guaja-247_other-1-1,Guaja-247_other-1,amõ,11772,false,expert,,a m õ - - - -,SCA,,1
 Guaja-249_paca-1-1,Guaja-249_paca-1,kararuhu,11878,false,expert,,k a r - - a r u h - u,SCA,,1
 Guaja-251_pain-1-1,Guaja-251_pain-1,ahɨ,11979,false,expert,,- a - h - - ɨ,SCA,,1
@@ -12128,7 +12128,7 @@ Guaja-415_yousg-1-1,Guaja-415_yousg-1,nijã,19645,false,expert,,n i j ã,SCA,,1
 Amanaye-1_above-1-1,Amanaye-1_above-1,ɨwatá,2,false,expert,,ɨ w a,SCA,,1
 Amanaye-1_above-1-2,Amanaye-1_above-1,ɨwatá,7,false,expert,,t á,SCA,,2
 Amanaye-4_all-1-1,Amanaye-4_all-1,pawe,205,false,expert,,- - - - p a w e,SCA,,1
-Amanaye-9_anteater-1-1,Amanaye-9_anteater-1,tamanuá,439,false,expert,,t a m a n - - uá,SCA,,1
+Amanaye-9_anteater-1-1,Amanaye-9_anteater-1,tamanuá,439,false,expert,,- t a m - - a n - uá,SCA,,1
 Amanaye-11_arm-1-1,Amanaye-11_arm-1,eiwa,485,false,expert,,- ei w a,SCA,,1
 Amanaye-14_arrow-1-1,Amanaye-14_arrow-1,mereré,669,false,expert,,m e r e r é,SCA,,1
 Amanaye-17_axe-1-1,Amanaye-17_axe-1,jɨ,739,false,expert,,- - j ɨ - - -,SCA,,1
@@ -12239,7 +12239,7 @@ Teko-6_anaconda-1-1,Teko-6_anaconda-1,boʤuhu,296,false,expert,,- b o dʒ - - - 
 Teko-6_anaconda-1-2,Teko-6_anaconda-1,boʤuhu,299,false,expert,,- u h - - u,SCA,,2
 Teko-7_anatto-1-1,Teko-7_anatto-1,uruku,343,false,expert,,u r u k u,SCA,,1
 Teko-8_ant-1-1,Teko-8_ant-1,topi,386,false,expert,,- - t o - - p - i -,SCA,,1
-Teko-9_anteater-1-1,Teko-9_anteater-1,tamadua,439,false,expert,,t a m a - - d ua,SCA,,1
+Teko-9_anteater-1-1,Teko-9_anteater-1,tamadua,439,false,expert,,- t a m - - a - d ua,SCA,,1
 Teko-11_arm-1-1,Teko-11_arm-1,eiwa,485,false,expert,,- ei w a,SCA,,1
 Teko-12_armadillo-1-1,Teko-12_armadillo-1,tatuhu,549,false,expert,,t a - t u h u -,SCA,,1
 Teko-13_arrive-1-1,Teko-13_arrive-1,dur,609,false,expert,,- d u r,SCA,,1
@@ -12471,7 +12471,7 @@ Teko-242_oar-1-1,Teko-242_oar-1,pukutʃa,11568,false,expert,,- - - - - p u k - u
 Teko-243_oldadj-1-1,Teko-243_oldadj-1,awarer,11598,false,expert,,- a w a r e r,SCA,,1
 Teko-244_one-1-1,Teko-244_one-1,mozepẽ,11643,false,expert,,m o z e p ẽ - -,SCA,,1
 Teko-245_open-1-1,Teko-245_open-1,bosag,11714,false,expert,,- - b - - o - s a g,SCA,,1
-Teko-246_opossumskunk-1-1,Teko-246_opossumskunk-1,bɨkur,11733,false,expert,,- - - b ɨ k u r - - -,SCA,,1
+Teko-246_opossumskunk-1-1,Teko-246_opossumskunk-1,bɨkur,11733,false,expert,,- - - - b ɨ k u r - - -,SCA,,1
 Teko-247_other-1-1,Teko-247_other-1,amõ,11772,false,expert,,a m õ - - - -,SCA,,1
 Teko-248_owl-1-1,Teko-248_owl-1,tapupu,11822,false,expert,,t a - - p - u p u,SCA,,1
 Teko-248_owl-2-1,Teko-248_owl-2,kukuŋ,11826,false,expert,,k u k u ŋ,SCA,,1
@@ -12641,7 +12641,7 @@ Wayampi-6_anaconda-1-1,Wayampi-6_anaconda-1,moyu,296,false,expert,,- m o j - - -
 Wayampi-6_anaconda-1-2,Wayampi-6_anaconda-1,moyu,299,false,expert,,- - - - - u,SCA,,2
 Wayampi-7_anatto-1-1,Wayampi-7_anatto-1,uluku,343,false,expert,,u l u k u,SCA,,1
 Wayampi-8_ant-1-1,Wayampi-8_ant-1,taɨ,386,false,expert,,- - t aɨ - - - - - -,SCA,,1
-Wayampi-9_anteater-1-1,Wayampi-9_anteater-1,tamanuwa,439,false,expert,,t a m a n u w a,SCA,,1
+Wayampi-9_anteater-1-1,Wayampi-9_anteater-1,tamanuwa,439,false,expert,,- t a m a n u - w a,SCA,,1
 Wayampi-11_arm-1-1,Wayampi-11_arm-1,jɨwa,485,false,expert,,j ɨ w a,SCA,,1
 Wayampi-12_armadillo-1-1,Wayampi-12_armadillo-1,tatu,549,false,expert,,t a - t u - - -,SCA,,1
 Wayampi-13_arrive-1-1,Wayampi-13_arrive-1,ekoy,614,false,expert,,- - e k oi -,SCA,,1
@@ -12902,7 +12902,7 @@ Wayampi-243_oldadj-1-1,Wayampi-243_oldadj-1,kalakuwa,11604,false,expert,,k a l a
 Wayampi-244_one-1-1,Wayampi-244_one-1,peʔĩ,11642,false,expert,,- - - - p e - - - ʔ ĩ,SCA,,1
 Wayampi-245_open-1-1,Wayampi-245_open-1,popila,11717,false,expert,,p o p i l a -,SCA,,1
 Wayampi-245_open-2-1,Wayampi-245_open-2,wila,11717,false,expert,,- - w i l a -,SCA,,1
-Wayampi-246_opossumskunk-1-1,Wayampi-246_opossumskunk-1,mɨku,11733,false,expert,,- - - m ɨ k u - - - -,SCA,,1
+Wayampi-246_opossumskunk-1-1,Wayampi-246_opossumskunk-1,mɨku,11733,false,expert,,- - - m - ɨ k u - - - -,SCA,,1
 Wayampi-247_other-1-1,Wayampi-247_other-1,amũ,11772,false,expert,,a m ũ - - - -,SCA,,1
 Wayampi-248_owl-1-1,Wayampi-248_owl-1,ulukulea,11823,false,expert,,- u l u k u l ea - - - - - -,SCA,,1
 Wayampi-249_paca-1-1,Wayampi-249_paca-1,paa,11879,false,expert,,- - - - - p aː - -,SCA,,1
@@ -13222,7 +13222,7 @@ Zoe-241_now-1-1,Zoe-241_now-1,õji,11537,false,expert,,õ j i,SCA,,1
 Zoe-241_now-2-1,Zoe-241_now-2,ate,11530,false,expert,,- a - t - - e -,SCA,,1
 Zoe-243_oldadj-1-1,Zoe-243_oldadj-1,teiwĩ,11599,false,expert,,t ei w ĩ,SCA,,1
 Zoe-244_one-1-1,Zoe-244_one-1,pehĩ,11642,false,expert,,- - - - p e - - - h ĩ,SCA,,1
-Zoe-246_opossumskunk-1-1,Zoe-246_opossumskunk-1,bikut,11733,false,expert,,- - - b i k u t - - -,SCA,,1
+Zoe-246_opossumskunk-1-1,Zoe-246_opossumskunk-1,bikut,11733,false,expert,,- - - - b i k u t - - -,SCA,,1
 Zoe-247_other-1-1,Zoe-247_other-1,amõ,11772,false,expert,,a m õ - - - -,SCA,,1
 Zoe-248_owl-1-1,Zoe-248_owl-1,rukureʔa,11823,false,expert,,- - r u k u r e ʔ - - - - a,SCA,,1
 Zoe-250_pacufish-1-1,Zoe-250_pacufish-1,paku,11934,false,expert,,- - p - - a k - - - u,SCA,,1
@@ -13334,7 +13334,7 @@ Kaapor-4_all-1-1,Kaapor-4_all-1,upa,205,false,expert,,- u - - p - - a,SCA,,1
 Kaapor-4_all-2-1,Kaapor-4_all-2,juhu,212,false,expert,,j u h u,SCA,,1
 Kaapor-7_anatto-1-1,Kaapor-7_anatto-1,uruku,343,false,expert,,u r u k u,SCA,,1
 Kaapor-8_ant-1-1,Kaapor-8_ant-1,taʃi,386,false,expert,,- - t a ʃ i - - - -,SCA,,1
-Kaapor-9_anteater-1-1,Kaapor-9_anteater-1,mijarai,439,false,expert,,- - m i j a r ai,SCA,,1
+Kaapor-9_anteater-1-1,Kaapor-9_anteater-1,mijarai,439,false,expert,,- - - m i j a - r ai,SCA,,1
 Kaapor-10_mountainsoursop-1-1,Kaapor-10_mountainsoursop-1,araʃikuʔɨ,10996,false,expert,,- - a r a ʃ i k - - u,SCA,,1
 Kaapor-10_mountainsoursop-1-2,Kaapor-10_mountainsoursop-1,araʃikuʔɨ,63,false,expert,,ʔ ɨ -,SCA,,2
 Kaapor-11_arm-1-1,Kaapor-11_arm-1,jɨwa,485,false,expert,,j ɨ w a,SCA,,1
@@ -13539,7 +13539,7 @@ Kaapor-238_new-1-1,Kaapor-238_new-1,pɨahu,11332,false,expert,,- p ɨa h u - - -
 Kaapor-239_night-1-1,Kaapor-239_night-1,pɨtun,11386,false,expert,,- p ɨ - t u n -,SCA,,1
 Kaapor-240_nose-1-1,Kaapor-240_nose-1,ãpũi,11454,false,expert,,- ã p ũi - -,SCA,,1
 Kaapor-244_one-1-1,Kaapor-244_one-1,peteĩ,11642,false,expert,,- - - - p e - t - - eĩ,SCA,,1
-Kaapor-246_opossumskunk-1-1,Kaapor-246_opossumskunk-1,mɨkur,11733,false,expert,,- - - m ɨ k u r - - -,SCA,,1
+Kaapor-246_opossumskunk-1-1,Kaapor-246_opossumskunk-1,mɨkur,11733,false,expert,,- - - m - ɨ k u r - - -,SCA,,1
 Kaapor-247_other-1-1,Kaapor-247_other-1,amõ,11772,false,expert,,a m õ - - - -,SCA,,1
 Kaapor-248_owl-1-1,Kaapor-248_owl-1,pipi_anjã,11822,false,expert,,p i - - p i a nʲ ã,SCA,,1
 Kaapor-248_owl-2-1,Kaapor-248_owl-2,pipihu,11822,false,expert,,p i - - p - i h u,SCA,,1
@@ -13913,7 +13913,7 @@ Anambe-416_youpl-1-1,Anambe-416_youpl-1,pẽ,19615,false,expert,,p ẽ - - -,SCA
 Turiwara-1_above-1-1,Turiwara-1_above-1,ɨwaterɨ,2,false,expert,,ɨ w a,SCA,,1
 Turiwara-1_above-1-2,Turiwara-1_above-1,ɨwaterɨ,7,false,expert,,t e,SCA,,2
 Turiwara-1_above-1-3,Turiwara-1_above-1,ɨwaterɨ,874,false,expert,,r ɨ,SCA,,3
-Turiwara-9_anteater-1-1,Turiwara-9_anteater-1,tamanuá,439,false,expert,,t a m a n - - uá,SCA,,1
+Turiwara-9_anteater-1-1,Turiwara-9_anteater-1,tamanuá,439,false,expert,,- t a m - - a n - uá,SCA,,1
 Turiwara-14_arrow-1-1,Turiwara-14_arrow-1,uɨwa,673,false,expert,,- uɨ - - w a,SCA,,1
 Turiwara-17_axe-1-1,Turiwara-17_axe-1,itajɨ,744,false,expert,,i t a j ɨ,SCA,,1
 Turiwara-23_banana-1-1,Turiwara-23_banana-1,pakówa,1012,false,expert,,p a - - k ó w - - - - a,SCA,,1
@@ -13985,7 +13985,7 @@ Kamajura-6_anaconda-1-1,Kamajura-6_anaconda-1,mojũ,296,false,expert,,- m o j - 
 Kamajura-6_anaconda-1-2,Kamajura-6_anaconda-1,mojũ,299,false,expert,,- - - - - ũ,SCA,,2
 Kamajura-7_anatto-1-1,Kamajura-7_anatto-1,ɨrɨku,343,false,expert,,ɨ r ɨ k u,SCA,,1
 Kamajura-8_ant-1-1,Kamajura-8_ant-1,jawataj,389,false,expert,,j a w a t ai,SCA,,1
-Kamajura-9_anteater-1-1,Kamajura-9_anteater-1,tamanua,439,false,expert,,t a m a n - - ua,SCA,,1
+Kamajura-9_anteater-1-1,Kamajura-9_anteater-1,tamanua,439,false,expert,,- t a m - - a n - ua,SCA,,1
 Kamajura-11_arm-1-1,Kamajura-11_arm-1,jɨwa,485,false,expert,,j ɨ w a,SCA,,1
 Kamajura-12_armadillo-1-1,Kamajura-12_armadillo-1,tatupep,549,false,expert,,t a - t u p e p,SCA,,1
 Kamajura-13_arrive-1-1,Kamajura-13_arrive-1,ɨk,614,false,expert,,- - ɨ k - -,SCA,,1
@@ -14828,7 +14828,7 @@ Tupinamba-8_ant-2-1,Tupinamba-8_ant-2,ɨsá,386,false,expert,,- - - ɨ s á - - 
 Tupinamba-8_ant-3-1,Tupinamba-8_ant-3,akekẽ,388,false,expert,,- a k e k ẽ,SCA,,1
 Tupinamba-8_ant-4-1,Tupinamba-8_ant-4,arará,395,false,expert,,- a r a r á,SCA,,1
 Tupinamba-8_ant-5-1,Tupinamba-8_ant-5,gʷaju,388,false,expert,,- - gʷ a j u,SCA,,1
-Tupinamba-9_anteater-1-1,Tupinamba-9_anteater-1,tamandwa,439,false,expert,,t a m a nd - w a,SCA,,1
+Tupinamba-9_anteater-1-1,Tupinamba-9_anteater-1,tamandwa,439,false,expert,,- t a m - - a nd w a,SCA,,1
 Tupinamba-10_mountainsoursop-1-1,Tupinamba-10_mountainsoursop-1,aratiku,10996,false,expert,,- - a r a t i k - - u,SCA,,1
 Tupinamba-11_arm-1-1,Tupinamba-11_arm-1,jɨβa,485,false,expert,,j ɨ β a,SCA,,1
 Tupinamba-12_armadillo-1-1,Tupinamba-12_armadillo-1,tatu,549,false,expert,,t a - t u - - -,SCA,,1
@@ -15060,7 +15060,7 @@ Tupinamba-218_man-1-1,Tupinamba-218_man-1,akʷãimaʔe,10417,false,expert,,- a k
 Tupinamba-218_man-1-2,Tupinamba-218_man-1,akʷãimaʔe,2118,false,expert,,m a ʔ e -,SCA,,2
 Tupinamba-220_many-1-1,Tupinamba-220_many-1,ete,10491,false,expert,,- e - - - t e,SCA,,1
 Tupinamba-221_medicine-1-1,Tupinamba-221_medicine-1,posaŋ,10553,false,expert,,- p o - s a ŋ - - -,SCA,,1
-Tupinamba-222_milk-1-1,Tupinamba-222_milk-1,kambɨ,10609,false,expert,,- - k a mb,SCA,,1
+Tupinamba-222_milk-1-1,Tupinamba-222_milk-1,kambɨ,10609,false,expert,,- - k a - mb -,SCA,,1
 Tupinamba-222_milk-1-2,Tupinamba-222_milk-1,kambɨ,18593,false,expert,,- ɨ - - -,SCA,,2
 Tupinamba-223_monkey-1-1,Tupinamba-223_monkey-1,kaʔi,3068,false,expert,,k a ʔ - - i,SCA,,1
 Tupinamba-224_moon-1-1,Tupinamba-224_moon-1,jasɨ,10691,false,expert,,j a s ɨ -,SCA,,1
@@ -15278,7 +15278,7 @@ Nheengatu-3_agouti-1-1,Nheengatu-3_agouti-1,akuti,143,false,expert,,a k u t - - 
 Nheengatu-4_all-1-1,Nheengatu-4_all-1,pa,205,false,expert,,- - - - p a - -,SCA,,1
 Nheengatu-6_anaconda-1-1,Nheengatu-6_anaconda-1,sukuriu,301,false,expert,,s u - k u r i - u,SCA,,1
 Nheengatu-7_anatto-1-1,Nheengatu-7_anatto-1,urukũ,343,false,expert,,u r u k ũ,SCA,,1
-Nheengatu-9_anteater-1-1,Nheengatu-9_anteater-1,tamandwá,439,false,expert,,t a m a nd - w á,SCA,,1
+Nheengatu-9_anteater-1-1,Nheengatu-9_anteater-1,tamandwá,439,false,expert,,- t a m - - a nd w á,SCA,,1
 Nheengatu-11_arm-1-1,Nheengatu-11_arm-1,juwa,485,false,expert,,j u w a,SCA,,1
 Nheengatu-12_armadillo-1-1,Nheengatu-12_armadillo-1,tatu,549,false,expert,,t a - t u - - -,SCA,,1
 Nheengatu-13_arrive-1-1,Nheengatu-13_arrive-1,sika,614,false,expert,,- s i k a -,SCA,,1
@@ -15493,7 +15493,7 @@ Nheengatu-238_new-1-1,Nheengatu-238_new-1,pisaju,11332,false,expert,,- p i s a j
 Nheengatu-239_night-1-1,Nheengatu-239_night-1,pituna,11386,false,expert,,- p i - t u n a,SCA,,1
 Nheengatu-240_nose-1-1,Nheengatu-240_nose-1,tĩ,11455,false,expert,,t ĩ - - -,SCA,,1
 Nheengatu-244_one-1-1,Nheengatu-244_one-1,jepe,11643,false,expert,,- - j e p - - e,SCA,,1
-Nheengatu-246_opossumskunk-1-1,Nheengatu-246_opossumskunk-1,mikura,11733,false,expert,,- - - m i k u r a - -,SCA,,1
+Nheengatu-246_opossumskunk-1-1,Nheengatu-246_opossumskunk-1,mikura,11733,false,expert,,- - - m - i k u r a - -,SCA,,1
 Nheengatu-247_other-1-1,Nheengatu-247_other-1,ãmũ,11772,false,expert,,ã m ũ - - - -,SCA,,1
 Nheengatu-248_owl-1-1,Nheengatu-248_owl-1,bulukuri,11823,false,expert,,b u l u k u r i - - - - - -,SCA,,1
 Nheengatu-249_paca-1-1,Nheengatu-249_paca-1,paka,11879,false,expert,,- - - - - p a k a,SCA,,1
@@ -16215,7 +16215,7 @@ Guarayo-2_after-1-1,Guarayo-2_after-1,re,65,false,expert,,- - - - - r e - -,SCA,
 Guarayo-3_agouti-1-1,Guarayo-3_agouti-1,akutʃi,143,false,expert,,a k u tʃ - - - i -,SCA,,1
 Guarayo-4_all-1-1,Guarayo-4_all-1,pãvã,205,false,expert,,- - - - p ã v ã,SCA,,1
 Guarayo-8_ant-1-1,Guarayo-8_ant-1,tazi,386,false,expert,,- - t a z i - - - -,SCA,,1
-Guarayo-9_anteater-1-1,Guarayo-9_anteater-1,tamandoaʔi,439,false,expert,,t a m a nd oa ʔ i,SCA,,1
+Guarayo-9_anteater-1-1,Guarayo-9_anteater-1,tamandoaʔi,439,false,expert,,- t a m a nd oa - ʔ i,SCA,,1
 Guarayo-11_arm-1-1,Guarayo-11_arm-1,jɨβa,485,false,expert,,j ɨ β a,SCA,,1
 Guarayo-12_armadillo-1-1,Guarayo-12_armadillo-1,tatu,549,false,expert,,t a - t u - - -,SCA,,1
 Guarayo-13_arrive-1-1,Guarayo-13_arrive-1,jepota,613,false,expert,,j e p o t - - a,SCA,,1
@@ -17816,7 +17816,7 @@ Mbya-218_man-1-1,Mbya-218_man-1,kuimaʔe,10417,false,expert,,k ui - - - -,SCA,,1
 Mbya-218_man-1-2,Mbya-218_man-1,kuimaʔe,2118,false,expert,,m a ʔ e -,SCA,,2
 Mbya-220_many-1-1,Mbya-220_many-1,heta,10491,false,expert,,h e - - - t a,SCA,,1
 Mbya-221_medicine-1-1,Mbya-221_medicine-1,poã,10553,false,expert,,- p oã - - - - - - -,SCA,,1
-Mbya-222_milk-1-1,Mbya-222_milk-1,kambɨ,10609,false,expert,,- - k a mb,SCA,,1
+Mbya-222_milk-1-1,Mbya-222_milk-1,kambɨ,10609,false,expert,,- - k a - mb -,SCA,,1
 Mbya-222_milk-1-2,Mbya-222_milk-1,kambɨ,18593,false,expert,,- ɨ - - -,SCA,,2
 Mbya-223_monkey-1-1,Mbya-223_monkey-1,kaʔi,10630,false,expert,,k a ʔ - - i -,SCA,,1
 Mbya-224_moon-1-1,Mbya-224_moon-1,dʒasɨ,10691,false,expert,,dʒ a s ɨ -,SCA,,1
@@ -17838,7 +17838,7 @@ Mbya-240_nose-1-1,Mbya-240_nose-1,tʃĩ,11455,false,expert,,tʃ ĩ - - -,SCA,,1
 Mbya-241_now-1-1,Mbya-241_now-1,aɨ̃,11535,false,expert,,aɨ̃,SCA,,1
 Mbya-243_oldadj-1-1,Mbya-243_oldadj-1,ɨma,11595,false,expert,,- ɨ m a - - - -,SCA,,1
 Mbya-244_one-1-1,Mbya-244_one-1,peteĩ,11642,false,expert,,- - - - p e - t - - eĩ,SCA,,1
-Mbya-246_opossumskunk-1-1,Mbya-246_opossumskunk-1,mbɨku,11733,false,expert,,- - - mb ɨ k u - - - -,SCA,,1
+Mbya-246_opossumskunk-1-1,Mbya-246_opossumskunk-1,mbɨku,11733,false,expert,,- - - mb - ɨ k u - - - -,SCA,,1
 Mbya-247_other-1-1,Mbya-247_other-1,amoae,11772,false,expert,,a m o - ae - -,SCA,,1
 Mbya-248_owl-1-1,Mbya-248_owl-1,kururu,11823,false,expert,,- - - - k u r u r - - u - -,SCA,,1
 Mbya-249_paca-1-1,Mbya-249_paca-1,dʒaitʃa,11880,false,expert,,dʒ ai tʃ a -,SCA,,1
@@ -18216,7 +18216,7 @@ Guarani-218_man-1-1,Guarani-218_man-1,kuimaʔe,10417,false,expert,,k ui - - - -,
 Guarani-218_man-1-2,Guarani-218_man-1,kuimaʔe,2118,false,expert,,m a ʔ e -,SCA,,2
 Guarani-220_many-1-1,Guarani-220_many-1,heta,10491,false,expert,,h e - - - t a,SCA,,1
 Guarani-221_medicine-1-1,Guarani-221_medicine-1,pohã,10553,false,expert,,- p o - h ã - - - -,SCA,,1
-Guarani-222_milk-1-1,Guarani-222_milk-1,kambɨ,10609,false,expert,,- - k a mb,SCA,,1
+Guarani-222_milk-1-1,Guarani-222_milk-1,kambɨ,10609,false,expert,,- - k a - mb -,SCA,,1
 Guarani-222_milk-1-2,Guarani-222_milk-1,kambɨ,10608,false,expert,,- - - ɨ -,SCA,,2
 Guarani-223_monkey-1-1,Guarani-223_monkey-1,kaʔi,10630,false,expert,,k a ʔ - - i -,SCA,,1
 Guarani-224_moon-1-1,Guarani-224_moon-1,jasɨ,10691,false,expert,,j a s ɨ -,SCA,,1
@@ -18238,7 +18238,7 @@ Guarani-240_nose-1-1,Guarani-240_nose-1,tĩ,11455,false,expert,,t ĩ - - -,SCA,,
 Guarani-241_now-1-1,Guarani-241_now-1,ása,11532,false,expert,,- á - - s - a,SCA,,1
 Guarani-243_oldadj-1-1,Guarani-243_oldadj-1,tudʒa,11599,false,expert,,t u dʒ a,SCA,,1
 Guarani-244_one-1-1,Guarani-244_one-1,peteĩ,11642,false,expert,,- - - - p e - t - - eĩ,SCA,,1
-Guarani-246_opossumskunk-1-1,Guarani-246_opossumskunk-1,mɨkurẽ,11733,false,expert,,- - - m ɨ k u r ẽ - -,SCA,,1
+Guarani-246_opossumskunk-1-1,Guarani-246_opossumskunk-1,mɨkurẽ,11733,false,expert,,- - - m - ɨ k u r ẽ - -,SCA,,1
 Guarani-246_opossumskunk-2-1,Guarani-246_opossumskunk-2,sarigʷe,11737,false,expert,,- s a r i gʷ - - e,SCA,,1
 Guarani-247_other-1-1,Guarani-247_other-1,amue,11772,false,expert,,a m ue - - - -,SCA,,1
 Guarani-248_owl-1-1,Guarani-248_owl-1,urukureʔa,11823,false,expert,,- u r u k u r e ʔ - - - - a,SCA,,1
@@ -18602,7 +18602,7 @@ OldGuarani-218_man-1-1,OldGuarani-218_man-1,kuimae,10417,false,expert,,k ui - - 
 OldGuarani-218_man-1-2,OldGuarani-218_man-1,kuimae,2118,false,expert,,m ae - - -,SCA,,2
 OldGuarani-220_many-1-1,OldGuarani-220_many-1,heta,10491,false,expert,,h e - - - t a,SCA,,1
 OldGuarani-221_medicine-1-1,OldGuarani-221_medicine-1,pohãŋ,10553,false,expert,,- p o - h ã ŋ - - -,SCA,,1
-OldGuarani-222_milk-1-1,OldGuarani-222_milk-1,kambɨ,10609,false,expert,,- - k a mb,SCA,,1
+OldGuarani-222_milk-1-1,OldGuarani-222_milk-1,kambɨ,10609,false,expert,,- - k a - mb -,SCA,,1
 OldGuarani-222_milk-1-2,OldGuarani-222_milk-1,kambɨ,18593,false,expert,,- ɨ - - -,SCA,,2
 OldGuarani-223_monkey-1-1,OldGuarani-223_monkey-1,kaʔi,10630,false,expert,,k a ʔ - - i -,SCA,,1
 OldGuarani-224_moon-1-1,OldGuarani-224_moon-1,jasɨ,10691,false,expert,,j a s ɨ -,SCA,,1
@@ -19694,7 +19694,7 @@ Tapiete-218_man-1-1,Tapiete-218_man-1,kʷimbáe,10417,false,expert,,kʷ i - - - 
 Tapiete-218_man-1-2,Tapiete-218_man-1,kʷimbáe,2118,false,expert,,mb áe - - -,SCA,,2
 Tapiete-220_many-1-1,Tapiete-220_many-1,heta,10491,false,expert,,h e - - - t a,SCA,,1
 Tapiete-221_medicine-1-1,Tapiete-221_medicine-1,mõhã,10553,false,expert,,- m õ - h ã - - - -,SCA,,1
-Tapiete-222_milk-1-1,Tapiete-222_milk-1,tɨkambɨ,10609,false,expert,,t ɨ k a mb,SCA,,1
+Tapiete-222_milk-1-1,Tapiete-222_milk-1,tɨkambɨ,10609,false,expert,,t ɨ k a - mb -,SCA,,1
 Tapiete-222_milk-1-2,Tapiete-222_milk-1,tɨkambɨ,18593,false,expert,,- ɨ - - -,SCA,,2
 Tapiete-223_monkey-1-1,Tapiete-223_monkey-1,mãnʃi,10632,false,expert,,m ã n - ʃ i -,SCA,,1
 Tapiete-224_moon-1-1,Tapiete-224_moon-1,ʒasɨ,10691,false,expert,,ʒ a s ɨ -,SCA,,1
@@ -19718,7 +19718,7 @@ Tapiete-241_now-2-1,Tapiete-241_now-2,ãrãʔãnã,11533,false,expert,,ã r ã �
 Tapiete-243_oldadj-1-1,Tapiete-243_oldadj-1,ndeʃi,11599,false,expert,,nd e ʃ i,SCA,,1
 Tapiete-244_one-1-1,Tapiete-244_one-1,pente,11642,false,expert,,- - - - p e n t e - -,SCA,,1
 Tapiete-245_open-1-1,Tapiete-245_open-1,peʔa,11714,false,expert,,- - p - - e - ʔ a -,SCA,,1
-Tapiete-246_opossumskunk-1-1,Tapiete-246_opossumskunk-1,muŋkũrẽ,11733,false,expert,,- - - m u ŋk ũ r ẽ - -,SCA,,1
+Tapiete-246_opossumskunk-1-1,Tapiete-246_opossumskunk-1,muŋkũrẽ,11733,false,expert,,- - - m - u ŋk ũ r ẽ - -,SCA,,1
 Tapiete-247_other-1-1,Tapiete-247_other-1,aʔamo,11772,false,expert,,a ʔ a m o - -,SCA,,1
 Tapiete-248_owl-1-1,Tapiete-248_owl-1,swinda,11824,false,expert,,- - s - w i nd - - a,SCA,,1
 Tapiete-250_pacufish-1-1,Tapiete-250_pacufish-1,pakuɨ,11934,false,expert,,- - p - - a k - - - uɨ,SCA,,1
@@ -20063,7 +20063,7 @@ Omagua-3_agouti-1-1,Omagua-3_agouti-1,akuti,143,false,expert,,a k u t - - - i -,
 Omagua-4_all-1-1,Omagua-4_all-1,upa,205,false,expert,,- u - - p - - a,SCA,,1
 Omagua-7_anatto-1-1,Omagua-7_anatto-1,atʃoté,1116,false,expert,,a tʃ o t é,SCA,,1
 Omagua-8_ant-1-1,Omagua-8_ant-1,sasɨwa,386,false,expert,,- - s a s ɨ w - a -,SCA,,1
-Omagua-9_anteater-1-1,Omagua-9_anteater-1,tamanu,439,false,expert,,t a m a n - - u,SCA,,1
+Omagua-9_anteater-1-1,Omagua-9_anteater-1,tamanu,439,false,expert,,- t a m - - a n - u,SCA,,1
 Omagua-11_arm-1-1,Omagua-11_arm-1,jɨwa,485,false,expert,,j ɨ w a,SCA,,1
 Omagua-13_arrive-1-1,Omagua-13_arrive-1,jawʃima,613,false,expert,,j a w - ʃ i m a,SCA,,1
 Omagua-14_arrow-1-1,Omagua-14_arrow-1,uwa,673,false,expert,,- u - - w a,SCA,,1
@@ -20725,7 +20725,7 @@ Karitiana-206_leavegoout-1-1,Karitiana-206_leavegoout-1,herẽn,9962,false,exper
 Karitiana-206_leavegoout-2-1,Karitiana-206_leavegoout-2,herɨ,9962,false,expert,,h e r ɨ - -,SCA,,1
 Karitiana-212_lookat-1-1,Karitiana-212_lookat-1,somak,148,false,expert,,s o m a k,SCA,,1
 Kaiowa-216_macaw-1-1,Kaiowa-216_macaw-1,gwaʔa,10356,false,expert,,gʷ a ʔ - - - a,SCA,,1
-Karitiana-222_milk-1-1,Karitiana-222_milk-1,nõmse,10609,false,expert,,- - n õ m,SCA,,1
+Karitiana-222_milk-1-1,Karitiana-222_milk-1,nõmse,10609,false,expert,,- - n õ - m -,SCA,,1
 Karitiana-222_milk-1-2,Karitiana-222_milk-1,nõmse,18593,false,expert,,- - s e -,SCA,,2
 Amondawa-233_mouth-1-1,Amondawa-233_mouth-1,jurua,11048,false,expert,,- j u r - - ua,SCA,,1
 Karitiana-241_now-1-1,Karitiana-241_now-1,kam,38,false,expert,,k a m,SCA,,1
@@ -20851,7 +20851,7 @@ Nheengatu-181_honey-1-1,Nheengatu-181_honey-1,ira,8727,false,expert,,- i - r a -
 Nheengatu-191_inside-1-1,Nheengatu-191_inside-1,pupé,9178,false,expert,,- - p u p é,SCA,,1
 Nheengatu-194_jump-1-1,Nheengatu-194_jump-1,pwíri,9337,false,expert,,- p w í r - - - - i,SCA,,1
 Nheengatu-206_leavegoout-1-1,Nheengatu-206_leavegoout-1,sému,9962,false,expert,,s é - - m u,SCA,,1
-Nheengatu-222_milk-1-1,Nheengatu-222_milk-1,kambi,10609,false,expert,,- - k a mb,SCA,,1
+Nheengatu-222_milk-1-1,Nheengatu-222_milk-1,kambi,10609,false,expert,,- - k a - mb -,SCA,,1
 Nheengatu-222_milk-1-2,Nheengatu-222_milk-1,kambi,18593,false,expert,,- i - - -,SCA,,2
 Nheengatu-225_morning-1-1,Nheengatu-225_morning-1,kuema,10769,false,expert,,- k u - e m - - a,SCA,,1
 Nheengatu-241_now-1-1,Nheengatu-241_now-1,kʷíri,11530,false,expert,,kʷ í - - - r i -,SCA,,1
@@ -20959,7 +20959,7 @@ Omagua-389_wakeup-1-1,Omagua-389_wakeup-1,upaka,18335,false,expert,,u p a k a,SC
 Omagua-386_villagesquare-1-1,Omagua-386_villagesquare-1,ukara,18217,false,expert,,- u k a r - - a,SCA,,1
 Omagua-377_tucumapalm-1-1,Omagua-377_tucumapalm-1,tuku,17765,false,expert,,- t u k - - u,SCA,,1
 Omagua-374_toucan-1-1,Omagua-374_toucan-1,piakui,100,false,expert,,p ia k ui,SCA,,1
-Munduruku-222_milk-1-1,Munduruku-222_milk-1,ə̃mti,10609,false,expert,,- - - ə̃ m,SCA,,1
+Munduruku-222_milk-1-1,Munduruku-222_milk-1,ə̃mti,10609,false,expert,,- - - ə̃ - m -,SCA,,1
 Munduruku-222_milk-1-2,Munduruku-222_milk-1,ə̃mti,18593,false,expert,,- - t i -,SCA,,2
 Omagua-159_grass-1-1,Omagua-159_grass-1,kapi,7547,false,expert,,k a - - - - - -,SCA,,1
 Omagua-159_grass-1-2,Omagua-159_grass-1,kapi,139,false,expert,,p - - i,SCA,,2
@@ -21188,7 +21188,7 @@ AsuriniTocantins-216_macaw-1-1,AsuriniTocantins-216_macaw-1,arara,10353,false,ex
 AsuriniTocantins-217_maggotlarva-1-1,AsuriniTocantins-217_maggotlarva-1,ʔɨp,10407,false,expert,,- ʔ ɨ p,SCA,,1
 AsuriniTocantins-219_manioc-1-1,AsuriniTocantins-219_manioc-1,maniʔaŋ,399,false,expert,,m a n - - - - - - - i,SCA,,1
 AsuriniTocantins-219_manioc-1-2,AsuriniTocantins-219_manioc-1,maniʔaŋ,774,false,expert,,ʔ a ŋ -,SCA,,2
-AsuriniTocantins-222_milk-1-1,AsuriniTocantins-222_milk-1,kamɨ,10609,false,expert,,- - k a m,SCA,,1
+AsuriniTocantins-222_milk-1-1,AsuriniTocantins-222_milk-1,kamɨ,10609,false,expert,,- - k a - m -,SCA,,1
 AsuriniTocantins-222_milk-1-2,AsuriniTocantins-222_milk-1,kamɨ,18593,false,expert,,- ɨ - - -,SCA,,2
 AsuriniTocantins-225_morning-1-1,AsuriniTocantins-225_morning-1,koʔem,10766,false,expert,,- - - - k o ʔ - - e m -,SCA,,1
 AsuriniTocantins-241_now-1-1,AsuriniTocantins-241_now-1,amé,11532,false,expert,,- a m - - - é,SCA,,1
@@ -21199,7 +21199,7 @@ AsuriniTocantins-245_open-2-1,AsuriniTocantins-245_open-2,akʷápetɨmawaŋ,247,
 Parakana-245_open-1-1,Parakana-245_open-1,akwapetɨmawag,247,false,expert,,a k w a p e t ɨ m a w a g,SCA,,1
 Parakana-245_open-2-1,Parakana-245_open-2,piawag,11714,false,expert,,- - p - - ia - w a g,SCA,,1
 Parakana-245_open-3-1,Parakana-245_open-3,ʃɨka,792,false,expert,,ʃ ɨ k a,SCA,,1
-AsuriniTocantins-246_opossumskunk-1-1,AsuriniTocantins-246_opossumskunk-1,toɨmɨ,11733,false,expert,,- t oɨ m - - - - ɨ - -,SCA,,1
+AsuriniTocantins-246_opossumskunk-1-1,AsuriniTocantins-246_opossumskunk-1,toɨmɨ,11733,false,expert,,- t oɨ m - - - - - ɨ - -,SCA,,1
 AsuriniTocantins-248_owl-1-1,AsuriniTocantins-248_owl-1,orkoreʔa,11823,false,expert,,- o r - k o r e ʔ - - - - a,SCA,,1
 AsuriniTocantins-250_pacufish-1-1,AsuriniTocantins-250_pacufish-1,pakóa,11934,false,expert,,- - p - - a k ó - - a,SCA,,1
 AsuriniTocantins-252_pan-1-1,AsuriniTocantins-252_pan-1,esaʔe,12043,false,expert,,- e s a - - - ʔ e,SCA,,1
@@ -21464,7 +21464,7 @@ Tupari-71_centipede-1-1,Tupari-71_centipede-1,ororopereʔe,360,false,expert,,o r
 Kokama-6_anaconda-1-1,Kokama-6_anaconda-1,ɨwɨrati tsukuri,362,false,expert,,ɨ w ɨ r a t i,SCA,,1
 Kokama-6_anaconda-1-2,Kokama-6_anaconda-1,ɨwɨrati tsukuri,301,false,expert,,ts u - k u r - - i,SCA,,2
 Kokama-7_anatto-1-1,Kokama-7_anatto-1,ruku,343,false,expert,,- r u k u,SCA,,1
-Kokama-9_anteater-1-1,Kokama-9_anteater-1,tamanu,439,false,expert,,t a m a n - - u,SCA,,1
+Kokama-9_anteater-1-1,Kokama-9_anteater-1,tamanu,439,false,expert,,- t a m - - a n - u,SCA,,1
 Kokama-20_babacu-1-1,Kokama-20_babacu-1,amɨtsara,962,false,expert,,a m ɨ,SCA,,1
 Kokama-20_babacu-1-2,Kokama-20_babacu-1,amɨtsara,582,false,expert,,ts a r a,SCA,,2
 Kokama-29_bewrong-1-1,Kokama-29_bewrong-1,tsupara,1263,false,expert,,ts u - p a r a -,SCA,,1
@@ -22086,7 +22086,7 @@ Ache-187_hunt-1-1,Ache-187_hunt-1,baereka,881,false,expert,,b ae r e k a,SCA,,1
 Ache-194_jump-1-1,Ache-194_jump-1,opo,9337,false,expert,,- - - o p o - - - -,SCA,,1
 Ache-206_leavegoout-1-1,Ache-206_leavegoout-1,wẽʔẽ,9964,false,expert,,- w ẽ ʔ - ẽ,SCA,,1
 Ache-210_lizard-1-1,Ache-210_lizard-1,tʃedʒu,10114,false,expert,,tʃ e dʒ - - u,SCA,,1
-Ache-222_milk-1-1,Ache-222_milk-1,kã tɨku,10609,false,expert,,- - k ã -,SCA,,1
+Ache-222_milk-1-1,Ache-222_milk-1,kã tɨku,10609,false,expert,,- - k ã - - -,SCA,,1
 Ache-222_milk-1-2,Ache-222_milk-1,kã tɨku,10608,false,expert,,t ɨ k u -,SCA,,2
 Ache-241_now-1-1,Ache-241_now-1,kowebu,650,false,expert,,k o w e b u,SCA,,1
 Ache-246_opossumskunk-1-1,Ache-246_opossumskunk-1,kune,943,false,expert,,k u n e,SCA,,1
@@ -22251,7 +22251,7 @@ Kampe-122_face-1-1,Kampe-122_face-1,ebapi,5524,false,expert,,- - e b a,SCA,,1
 Kampe-122_face-1-2,Kampe-122_face-1,ebapi,431,false,expert,,p i,SCA,,2
 Kampe-244_one-1-1,Kampe-244_one-1,gɨe,11642,false,expert,,- - - - g ɨe - - - - -,SCA,,1
 Kampe-236_neck-1-1,Kampe-236_neck-1,kɨtkɨp,11226,false,expert,,k ɨ t k ɨ p,SCA,,1
-Kampe-222_milk-1-1,Kampe-222_milk-1,kem_kɨ,10609,false,expert,,- - k e m,SCA,,1
+Kampe-222_milk-1-1,Kampe-222_milk-1,kem_kɨ,10609,false,expert,,- - k e - m -,SCA,,1
 Kampe-222_milk-1-2,Kampe-222_milk-1,kem_kɨ,10608,false,expert,,- - k ɨ -,SCA,,2
 Kampe-253_papaya-1-1,Kampe-253_papaya-1,kɨbek,12067,false,expert,,k ɨ b e k - -,SCA,,1
 Kampe-181_honey-1-1,Kampe-181_honey-1,ekwit,8727,false,expert,,- e - kʷ i t -,SCA,,1
@@ -22590,7 +22590,7 @@ Guaja-191_inside-1-1,Guaja-191_inside-1,pepe,9178,false,expert,,- - p e p e,SCA,
 Guaja-194_jump-1-1,Guaja-194_jump-1,po,9337,false,expert,,- p - - - o - - - -,SCA,,1
 Guaja-205_learn-1-1,Guaja-205_learn-1,kʷa,1548,false,expert,,- - kʷ a,SCA,,1
 Guaja-206_leavegoout-1-1,Guaja-206_leavegoout-1,wehẽ,9964,false,expert,,- w e h - ẽ,SCA,,1
-Guaja-222_milk-1-1,Guaja-222_milk-1,kamɨkɨ̃,10609,false,expert,,- - k a m,SCA,,1
+Guaja-222_milk-1-1,Guaja-222_milk-1,kamɨkɨ̃,10609,false,expert,,- - k a - m -,SCA,,1
 Guaja-222_milk-1-2,Guaja-222_milk-1,kamɨkɨ̃,10608,false,expert,,- ɨ k ɨ̃ -,SCA,,2
 Guaja-226_mountain-1-1,Guaja-226_mountain-1,wɨtɨ,10947,false,expert,,- - w ɨ - - - -,SCA,,1
 Guaja-226_mountain-1-2,Guaja-226_mountain-1,wɨtɨ,792,false,expert,,t ɨ - -,SCA,,2
@@ -22819,7 +22819,7 @@ Aweti-16_avenge-2-1,Aweti-16_avenge-2,epɨkawe,562,false,expert,,- e p ɨ k a w 
 Aweti-417_necklace-1-1,Aweti-417_necklace-1,mijõ,686,false,expert,,m i j õ,SCA,,1
 Zoe-7_anatto-1-1,Zoe-7_anatto-1,(u)ruku,343,false,expert,,- r u k u,SCA,,1
 Zoe-8_ant-1-1,Zoe-8_ant-1,tahi,386,false,expert,,- - t a h i - - - -,SCA,,1
-Zoe-9_anteater-1-1,Zoe-9_anteater-1,toduá,439,false,expert,,t o - - - - d uá,SCA,,1
+Zoe-9_anteater-1-1,Zoe-9_anteater-1,toduá,439,false,expert,,- t o - - - - - d uá,SCA,,1
 Zoe-12_armadillo-1-1,Zoe-12_armadillo-1,tatu,549,false,expert,,t a - t u - - -,SCA,,1
 Zoe-27_beads-1-1,Zoe-27_beads-1,poʔɨt,1290,false,expert,,p o ʔ ɨ t -,SCA,,1
 Zoe-29_bewrong-1-1,Zoe-29_bewrong-1,apat,1263,false,expert,,- a - p a t - -,SCA,,1
@@ -23420,7 +23420,7 @@ Warazu-217_maggotlarva-1-1,Warazu-217_maggotlarva-1,jojoi,0,false,expert,,j o j 
 Warazu-217_maggotlarva-2-1,Warazu-217_maggotlarva-2,maidye,0,false,expert,,m ai dʒ e,SCA,,1
 Warazu-162_greeniguana-1-1,Warazu-162_greeniguana-1,kisiváa,1404,false,expert,,k i s i v áa,SCA,,1
 Warazu-202_largemandifish-1-1,Warazu-202_largemandifish-1,dyenake,1405,false,expert,,dʒ e n a k e,SCA,,1
-Warazu-246_opossumskunk-1-1,Warazu-246_opossumskunk-1,makadya,11733,false,expert,,- - - m a k a dʒ a - -,SCA,,1
+Warazu-246_opossumskunk-1-1,Warazu-246_opossumskunk-1,makadya,11733,false,expert,,- - - m - a k a dʒ - - a,SCA,,1
 Warazu-267_piranha-1-1,Warazu-267_piranha-1,jadyuvain,1268,false,expert,,j a dʒ u v ai n,SCA,,1
 Warazu-367_tinamou-1-1,Warazu-367_tinamou-1,inamu,17221,false,expert,,i n a m - - - - u,SCA,,1
 Warazu-409_woodpecker-1-1,Warazu-409_woodpecker-1,kujava,1272,false,expert,,k u j a v a,SCA,,1
@@ -23699,7 +23699,7 @@ Kaapor-100_dig-1-1,Kaapor-100_dig-1,pɨkũj,4578,false,expert,,- p - - ɨ - -,SC
 Kaapor-100_dig-1-2,Kaapor-100_dig-1,pɨkũj,14,false,expert,,k ũ j,SCA,,2
 Kepkiriwat-65_calabashgourd-1-1,Kepkiriwat-65_calabashgourd-1,katoá,1448,false,expert,,k a t oá,SCA,,1
 Apiaka-7_anatto-1-1,Apiaka-7_anatto-1,urukú,343,false,expert,,u r u k ú,SCA,,1
-Apiaka-9_anteater-1-1,Apiaka-9_anteater-1,tamanduá,439,false,expert,,t a m a n - d uá,SCA,,1
+Apiaka-9_anteater-1-1,Apiaka-9_anteater-1,tamanduá,439,false,expert,,- t a m - - a n d uá,SCA,,1
 Apiaka-18_acaipalm-1-1,Apiaka-18_acaipalm-1,iwa,810,false,expert,,- i - - w a -,SCA,,1
 Apiaka-18_acaipalm-2-1,Apiaka-18_acaipalm-2,suwaʔi,810,false,expert,,s u - - w a -,SCA,,1
 Apiaka-18_acaipalm-2-2,Apiaka-18_acaipalm-2,suwaʔi,18593,false,expert,,- - ʔ i -,SCA,,2
@@ -23755,7 +23755,7 @@ Teko-312_sisterolderofman-1-1,Teko-312_sisterolderofman-1,kũɲã,14440,false,ex
 Teko-313_sisteryoungerofman-1-1,Teko-313_sisteryoungerofman-1,kũɲã,14437,false,expert,,- k ũ - - ɲ - - - - ã - -,SCA,,1
 Teko-94_daughterofwoman-1-1,Teko-94_daughterofwoman-1,mebɨt,4281,false,expert,,m e - - b ɨ t - - -,SCA,,1
 Apiaka-34_belly-1-1,Apiaka-34_belly-1,ebeg,2191,false,expert,,e b e g,SCA,,1
-Kaapor-222_milk-1-1,Kaapor-222_milk-1,kambɨ,10609,false,expert,,- - k a m,SCA,,1
+Kaapor-222_milk-1-1,Kaapor-222_milk-1,kambɨ,10609,false,expert,,- - k a - m -,SCA,,1
 Kaapor-222_milk-1-2,Kaapor-222_milk-1,kambɨ,10608,false,expert,,- - b ɨ -,SCA,,2
 Teko-423_enemy-1-1,Teko-423_enemy-1,mohem,1466,false,expert,,m o h e m,SCA,,1
 Teko-138_float-1-1,Teko-138_float-1,wewɨdʒ,1023,false,expert,,w e - - - w ɨ dʒ,SCA,,1
@@ -23790,7 +23790,7 @@ Apiaka-182_horn-1-1,Apiaka-182_horn-1,asĩ,8763,false,expert,,a s ĩ,SCA,,1
 Apiaka-189_i-1-1,Apiaka-189_i-1,si,9105,false,expert,,s i - -,SCA,,1
 Apiaka-202_largemandifish-1-1,Apiaka-202_largemandifish-1,nandiʔasu,9752,false,expert,,n a n - d i,SCA,,1
 Apiaka-202_largemandifish-1-2,Apiaka-202_largemandifish-1,nandiʔasu,1481,false,expert,,ʔ a s u,SCA,,2
-Apiaka-222_milk-1-1,Apiaka-222_milk-1,kambui,10609,false,expert,,- - k a m,SCA,,1
+Apiaka-222_milk-1-1,Apiaka-222_milk-1,kambui,10609,false,expert,,- - k a - m -,SCA,,1
 Apiaka-222_milk-1-2,Apiaka-222_milk-1,kambui,10608,false,expert,,- - b ui -,SCA,,2
 Apiaka-242_oar-1-1,Apiaka-242_oar-1,iapukú,11568,false,expert,,- - - - ia p u k - ú - - - - -,SCA,,1
 Apiaka-244_one-1-1,Apiaka-244_one-1,adipe,11643,false,expert,,- a d i p - - e,SCA,,1
@@ -23912,7 +23912,7 @@ Guarayo-192_jacarecaimancrocodile-1-1,Guarayo-192_jacarecaimancrocodile-1,jakare
 Guarayo-194_jump-1-1,Guarayo-194_jump-1,po,9337,false,expert,,- p - - - o - - - -,SCA,,1
 Guarayo-206_leavegoout-1-1,Guarayo-206_leavegoout-1,pɨseaʔ,9962,false,expert,,p ɨ s ea ʔ -,SCA,,1
 Guarayo-206_leavegoout-2-1,Guarayo-206_leavegoout-2,sẽ,9962,false,expert,,s ẽ - - - -,SCA,,1
-Guarayo-222_milk-1-1,Guarayo-222_milk-1,kambɨ,10609,false,expert,,- - k a mb,SCA,,1
+Guarayo-222_milk-1-1,Guarayo-222_milk-1,kambɨ,10609,false,expert,,- - k a - mb -,SCA,,1
 Guarayo-222_milk-1-2,Guarayo-222_milk-1,kambɨ,18593,false,expert,,- ɨ - - -,SCA,,2
 Guarayo-264_pestleverb-1-1,Guarayo-264_pestleverb-1,japaso,12585,false,expert,,j a p a s o -,SCA,,1
 Guarayo-264_pestleverb-2-1,Guarayo-264_pestleverb-2,itʃotʃo,12582,false,expert,,- i tʃ o tʃ o,SCA,,1
@@ -23986,9 +23986,9 @@ Makurap-417_necklace-1-1,Makurap-417_necklace-1,bolikõ,1494,false,expert,,b o l
 Mekens-417_necklace-1-1,Mekens-417_necklace-1,karo,371,false,expert,,k a r o,SCA,,1
 Makurap-15_ashes-1-1,Makurap-15_ashes-1,kɨɲẽn,524,false,expert,,- - k ɨ,SCA,,1
 Makurap-15_ashes-1-2,Makurap-15_ashes-1,kɨɲẽn,531,false,expert,,ɲ ẽ n,SCA,,2
-Makurap-222_milk-1-1,Makurap-222_milk-1,ɲem_wɨt,10609,false,expert,,- - ɲ e m,SCA,,1
+Makurap-222_milk-1-1,Makurap-222_milk-1,ɲem_wɨt,10609,false,expert,,- - ɲ e - m -,SCA,,1
 Makurap-222_milk-1-2,Makurap-222_milk-1,ɲem_wɨt,3001,false,expert,,w ɨ t -,SCA,,2
-Mekens-222_milk-1-1,Mekens-222_milk-1,kem_kɨ,10609,false,expert,,- - k e m,SCA,,1
+Mekens-222_milk-1-1,Mekens-222_milk-1,kem_kɨ,10609,false,expert,,- - k e - m -,SCA,,1
 Mekens-222_milk-1-2,Mekens-222_milk-1,kem_kɨ,18593,false,expert,,- - k ɨ -,SCA,,2
 Makurap-11_arm-1-1,Makurap-11_arm-1,nẽ,1118,false,expert,,n ẽ - - -,SCA,,1
 Makurap-62_buttocks-1-1,Makurap-62_buttocks-1,ɲẽnpe,1572,false,expert,,ɲ ẽ n,SCA,,1
@@ -24484,3 +24484,9 @@ Gaviao-194_jump-1-1,Gaviao-194_jump-1,póró sóg,9337,false,expert,,- p - ó r 
 Gaviao-194_jump-1-2,Gaviao-194_jump-1,póró sóg,788,false,expert,,s ó g - - - -,SCA,,2
 Gaviao-194_jump-2-1,Gaviao-194_jump-2,pósóg,9337,false,expert,,- p - - - ó - - - -,SCA,,1
 Gaviao-194_jump-2-2,Gaviao-194_jump-2,pósóg,788,false,expert,,s ó g - - - -,SCA,,2
+Siriono-108_dreamverb-2-1,Siriono-108_dreamverb-2,ku,2135,false,expert,,k u,SCA,,1
+Siriono-246_opossumskunk-1-1,Siriono-246_opossumskunk-1,mbiku,11733,false,expert,,- - - m b i k u - - - -,SCA,,1
+Siriono-34_belly-1-1,Siriono-34_belly-1,erie,2185,false,expert,,- - e r - - ie,SCA,,1
+Siriono-9_anteater-1-1,Siriono-9_anteater-1,atãndísa,439,false,expert,,a t ã n - d í - s a,SCA,,1
+Siriono-9_anteater-2-1,Siriono-9_anteater-2,aatãmbútʃá,439,false,expert,,aa t ã m - b ú - tʃ á,SCA,,1
+Siriono-318_sloth-1-1,Siriono-318_sloth-1,ai,14794,false,expert,,- - ai - -,SCA,,1

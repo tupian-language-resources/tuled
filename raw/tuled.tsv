@@ -9023,7 +9023,7 @@ ID	ALIGNMENT	CLASSES	COGID	COGIDS	COGNACY	CONCEPT	DOCULECT	DUPLICATES	FORM	IPA	L
 9087	- - p i - - r -	PIR	2023	14547	pele1	SKIN	Parintintin	0	pir	pir	51	Parintintin	SKIN	51.P.C 51.I.V 51.R.c	AXN	1 7 5	p i r	pir	2.0 1.5 0.8	
 9088	ɨ w a g	IWAK	2029	14609	ceu1	SKY	Parintintin	0	ɨwag	ɨwag	51	Parintintin	HIGH	51.I.V 51.W.C 51.A.V 51.K.c	XBYN	7 6 7 1	ɨ w a g	ɨwag	1.5 1.75 1.3 0.8	
 9089	- k - i r a	KIRA	2043	14724	dormir1	SLEEP	Parintintin	0	kira	kira	51	Parintintin	SLEEP	51.K.C 51.I.V 51.R.C 51.A.V	AXBZ	1 7 5 7	k i r a	kira	2.0 1.5 1.75 0.8	
-9090	ai	A	2049	14798	bichopreguica1	SLOTH	Parintintin	0	ai	ai	51	Parintintin	SLOTH	51.A.V	X	7	ai	ai (ʔ)	1.5	
+9090	ai	A	2045	14798	bichopreguica1	SLOTH	Parintintin	0	ai	ai	51	Parintintin	SLOTH	51.A.V	X	7	ai	ai (ʔ)	1.5	
 9091	tʃ u ʔ - - - - ĩ	TYHI	2055	14835	pequeno1	SMALL	Parintintin	0	tʃuʔĩ	tʃuʔĩ	51	Parintintin	SMALL	51.T.C 51.Y.V 51.H.C 51.I.V	AXBZ	1 7 1 7	tʃ u ʔ ĩ	tʃuʔĩ	2.0 1.5 1.75 0.8	
 9092	t a t a + t ĩ ŋ ã	TATATINA	2061	14906 18939	fumaca1	SMOKE (n)	Parintintin	0	tatatĩŋã	tatatĩŋã	51	Parintintin	FIRE WHITE	51.T.C 51.A.V 51.T.C 51.A.V 51.T.C 51.I.V 51.N.C 51.A.V	AXBYBYBZ	1 7 1 7 1 7 4 7	t a t a + t ĩ ŋ ã	tatatĩŋã	2.0 1.5 1.75 1.3 1.75 1.3 1.75 0.8	
 9093	- h u r u gʷ a ʔ i	HYRYKAHI	2069	14973	caracollesma1	SNAIL	Parintintin	0	hurugʷaʔi	hurugʷaʔi	51	Parintintin	SNAIL	51.H.C 51.Y.V 51.R.C 51.Y.V 51.K.C 51.A.V 51.H.C 51.I.V	AXBYBYBZ	3 7 5 7 1 7 1 7	h u r u gʷ a ʔ i	hurugʷaʔi	2.0 1.5 1.75 1.3 1.75 1.3 1.75 0.8	
@@ -22028,3 +22028,10 @@ ID	ALIGNMENT	CLASSES	COGID	COGIDS	COGNACY	CONCEPT	DOCULECT	DUPLICATES	FORM	IPA	L
 22294	t a p i ʔ í r a		2251	16283		TAPIR	Piripkura		tapiʔíra				TAPIR				t a p i ʔ í r a	tapiʔíra		
 22295	p ó r ó + s ó g		1285	9337 788		JUMP	Gavião		póró sóg				JUMP ?				p ó r ó + s ó g	póró sóg / pósóg		
 22296	p ó + s ó g		1285	9337 788		JUMP	Gavião		pósóg				JUMP ?				p ó + s ó g	póró sóg / pósóg		
+22297	e kʲ a n d i		1447	10609 18593		MILK	Siriono		ekʲandi				_BREAST LIQUID				e kʲ a n d i	ekʲandi		
+22298	k u		3973	2135		DREAM (verb)	Siriono		ku				DREAM				k u	ku		
+22299	m b i k u		1615	11733		OPOSSUM / SKUNK	Siriono		mbiku				OPOSSUM				m b i k u	mbiku		
+22300	e r ie		3879	2185		BELLY	Siriono		erie				BELLY				e r ie	erie		
+22301	a t ã n d í s a		75	439		ANTEATER	Siriono		atãndísa				ANTEATER				a t ã n d í s a	atãndísa / atãmbútʃá		
+22302	aa t ã m b ú tʃ á		75	439		ANTEATER	Siriono		aatãmbútʃá				ANTEATER				aa t ã m b ú tʃ á	atãndísa / atãmbútʃá		
+22303	ai		2045	14794		SLOTH	Siriono		ai				SLOTH				ai	ai		
