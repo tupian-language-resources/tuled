@@ -16,7 +16,7 @@ setup(
     zip_safe=False,
     entry_points={"lexibank.dataset": ["tuled=lexibank_tuled:Dataset"]},
     install_requires=[
-        "pylexibank>=2.1",
+        "pylexibank>=3.0",
         "pytular",
     ],
     extras_require={"test": ["pytest-cldf"]},

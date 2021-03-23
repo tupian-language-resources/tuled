@@ -6,5 +6,10 @@
    ```
 2. Re-create the CLDF data running
    ```shell
-   cldfbench lexibank.makecldf lexibank_tuled.py --glottolog-version v4.3 --concepticon-version v2.4.0 --clts-version v1.4.1
+   cldfbench lexibank.makecldf lexibank_tuled.py --glottolog-version v4.3 --concepticon-version v2.4.0 --clts-version v2.0.0
    ```
+3. Make sure the CLDF data is valid and consistent:
+   ```shell
+   pytest
+   ```
+

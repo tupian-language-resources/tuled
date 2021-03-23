@@ -1,10 +1,9 @@
 {
     "@context": "http://www.w3.org/ns/csvw",
     "aboutUrl": null,
-    "dc:bibliographicCitation": "Ferraz Gerardi, Fabr\u00edcio and Reichert, Stanislav (2020) TuLeD: Tup\u00edan lexical database. Version 0.8. T\u00fcbingen: Eberhard-Karls University",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
     "dc:description": "Tup\u00edan lexical database",
-    "dc:identifier": "http://www.tuled.org",
+    "dc:identifier": "https://tular.clld.org/contributions/tuled",
     "dc:isVersionOf": null,
     "dc:license": "https://creativecommons.org/licenses/by/4.0/",
     "dc:related": null,
@@ -16,7 +15,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/tupian-language-resources/tuled",
-            "dc:created": "v0.10-127-g2d1a92e"
+            "dc:created": "v0.10-129-g552200a"
         },
         {
             "rdf:type": "prov:Entity",
@@ -34,7 +33,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "CLTS",
             "rdf:about": "https://github.com/cldf-clts/clts",
-            "dc:created": "v1.4"
+            "dc:created": "v2.0.0"
         }
     ],
     "prov:wasGeneratedBy": [
@@ -55,7 +54,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:extent": 22035,
+            "dc:extent": 22034,
             "tableSchema": {
                 "columns": [
                     {
@@ -297,7 +296,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#CognateTable",
-            "dc:extent": 24491,
+            "dc:extent": 24490,
             "tableSchema": {
                 "columns": [
                     {

@@ -1,15 +1,11 @@
 # TuLeD
 
-Cite the source dataset as
-
-> Ferraz Gerardi, Fabrício and Reichert, Stanislav (2020) TuLeD: Tupían lexical database. Version 0.8. Tübingen: Eberhard-Karls University
-
 
 Tupían lexical database
 
 This dataset is licensed under a CC-BY-4.0 license
 
-Available online at http://www.tuled.org
+Available online at https://tular.clld.org/contributions/tuled
 
 ## Statistics
 
@@ -23,15 +19,15 @@ Available online at http://www.tuled.org
 
 - **Varieties:** 79
 - **Concepts:** 418
-- **Lexemes:** 22,035
+- **Lexemes:** 22,034
 - **Sources:** 271
 - **Synonymy:** 1.06
-- **Cognacy:** 24,491 cognates in 4,599 cognate sets (2,376 singletons)
+- **Cognacy:** 24,490 cognates in 4,599 cognate sets (2,376 singletons)
 - **Cognate Diversity:** 0.19
 - **Invalid lexemes:** 0
-- **Tokens:** 102,369
-- **Segments:** 357 (0 BIPA errors, 0 CTLS sound class errors, 357 CLTS modified)
-- **Inventory size (avg):** 60.27
+- **Tokens:** 102,365
+- **Segments:** 356 (0 BIPA errors, 0 CTLS sound class errors, 355 CLTS modified)
+- **Inventory size (avg):** 60.25
 
 # Contributors
 
