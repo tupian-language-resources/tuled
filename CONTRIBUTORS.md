@@ -2,9 +2,9 @@
 
 Name | GitHub user | Description | Role
 --- | --- | --- | ---
-Fabrício Ferraz Gerardi | @LanguageStructure | Data Collector, cognacy assignment, co-lexifications, notes | Author
-Stanislav Reichert |@StasReichert | Data Collector | Author
-Carolina Aragon | @carolinaaragon | Data Collector,cognacy assignment, co-lexifications, notes | Author
+Fabrício Ferraz Gerardi (Universität Tübingen) | @LanguageStructure | Data Collector, cognacy assignment, co-lexifications, notes | Author
+Stanislav Reichert (Universität Tübingen) |@StasReichert | Data Collector | Author
+Carolina Aragon (UFPB) | @carolinaaragon | Data Collector,cognacy assignment, co-lexifications, notes | Author
 Johann-Mattis List | @lingulist | CLDF conversion | Author
 Tiago Tresoldi | @tresoldi | Minor curation, concept mapping refinement | Other
 Robert Forkel | @xrotwang | CLDF conversion | Author
