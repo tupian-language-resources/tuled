@@ -7,34 +7,88 @@
     ],
     "creators": [
         {
-            "name": "Fabr\u00edcio Ferraz Gerardi"
+            "name": "Fabr\u00edcio Ferraz Gerardi",
+            "affiliation": "Universit\u00e4t T\u00fcbingen"
         },
         {
-            "name": "Stanislav Reichert"
+            "name": "Stanislav Reichert",
+            "affiliation": "Universit\u00e4t T\u00fcbingen"
         },
         {
-            "name": "Carolina Aragon"
+            "name": "Carolina Aragon",
+            "affiliation": "UFPB"
         },
         {
-            "name": "Johann-Mattis List"
+            "name": "Tim Wientzek",
+            "affiliation": "Universit\u00e4t T\u00fcbingen"
         },
         {
-            "name": "Tim Wientzek"
+            "name": "Johann-Mattis List",
+            "affiliation": "Max-Planck-Institute for the Science of Human History"
+        },
+        {
+            "name": "Robert Forkel",
+            "affiliation": "Max-Planck-Institute for Evolutionary Anthropology"
         }
     ],
     "contributors": [
         {
-            "name": "Tiago Tresoldi",
-            "type": "Other"
+            "name": "Agnaldo Makur\u00e1p",
+            "affiliation": "",
+            "type": "DataCollector"
         },
         {
-            "name": "Robert Forkel",
+            "name": "Denny Moore",
+            "affiliation": "Museu Paraense Em\u00edlio Goeldi",
+            "type": "DataCollector"
+        },
+        {
+            "name": "Fran\u00e7oise Rose",
+            "affiliation": "Universit\u00e9 de Lyon",
+            "type": "DataCollector"
+        },
+        {
+            "name": "Gustavo Godoy",
+            "affiliation": "Ppgas UFRJ",
+            "type": "DataCollector"
+        },
+        {
+            "name": "Iram K\u00e1v Sona Gavi\u00e3o",
+            "affiliation": "",
+            "type": "DataCollector"
+        },
+        {
+            "name": "Nilson Gabas J\u00fanior",
+            "affiliation": "University of California",
+            "type": "DataCollector"
+        },
+        {
+            "name": "Swintha Danielsen",
+            "affiliation": "Universit\u00e4t Leipzig",
+            "type": "DataCollector"
+        },
+        {
+            "name": "Wolf Dietrich",
+            "affiliation": "Universit\u00e4t M\u00fcnster",
+            "type": "DataCollector"
+        },
+        {
+            "name": "Zachary O'Hagan",
+            "affiliation": "University of California",
+            "type": "DataCollector"
+        },
+        {
+            "name": "Tiago Tresoldi",
+            "affiliation": "",
             "type": "Other"
         }
     ],
     "communities": [
         {
             "identifier": "lexibank"
+        },
+        {
+            "identifier": "tular"
         }
     ],
     "upload_type": "dataset",
