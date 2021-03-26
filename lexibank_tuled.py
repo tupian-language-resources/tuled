@@ -65,9 +65,8 @@ class Dataset(BaseDataset):
     def cmd_makecldf(self, args):
         from pybtex import errors, database
         errors.strict = False
-        bibdata = database.parse_file(
-                self.raw_dir.joinpath('sources.bib').as_posix())
-        args.writer.add_sources()
+        bibdata = database.parse_file(str(self.raw_dir.joinpath('bibliography', 'sources.bib')))
+        args.writer.add_sources(bibdata)
         args.writer["FormTable", "Segments"].separator = " + "
         args.writer["FormTable", "Segments"].datatype = Datatype.fromvalue(
             {"base": "string", "format": "([\\S]+)( [\\S]+)*"}

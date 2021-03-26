@@ -1,5 +1,10 @@
 # Error Analysis for TULED
-* BIBTEX MISSING abrahamson1984juma
-* BIBTEX MISSING gasparini2012observations
+* ALIGNMENT empty 2320
+* BIBTEX MISSING aragon2010unpublished
+* CONCEPT LIP
+* CONCEPT SCREAM
+* LENGTH: 16220 Mbya DOOR
 * LENGTH: 22297 Siriono MILK
+* LENGTH: 6619 Awetí SEND
 * SOUND: ps
+* SOUND: pw
