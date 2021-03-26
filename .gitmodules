@@ -1,0 +1,4 @@
+[submodule "raw/bibliography"]
+	path = raw/bibliography
+	url = https://github.com/tupian-language-resources/bibliography
+	branch = main

@@ -1135,7 +1135,7 @@ ID	ALIGNMENT	CLASSES	COGID	COGIDS	COGNACY	CONCEPT	DOCULECT	DUPLICATES	FORM	IPA	L
 1136	- - - - - a t e ɾ	ATER	2574	18354	andarcaminhar	WALK	Makurap	0	ateɾ	ateɾ	40	Makurap	WALK	40.A.V 40.T.C 40.E.V 40.R.c	XBYN	7 1 7 5	a t e ɾ	atet / ateɾ (-aʔ)	1.5 1.75 1.3 0.8	
 1137	- - p e k a - -	PEKA	2575	18419	querer	WANT	Makurap	0	peka	peka	40	Makurap	WANT	40.P.C 40.E.V 40.K.C 40.A.V	AXBZ	1 7 1 7	p e k a	peka	2.0 1.5 1.75 0.8	
 1138	dʒ - - ua - - -	TY	2587	18479	lavar	WASH	Makurap	0	dʒua	dʒua	40	Makurap	WASH	40.T.C 40.Y.V	AX	1 7	dʒ ua	dʒua	2.0 1.5	
-1139	ŋg/ⁿg a p - - -	KAP	2590	18536	vespa1	WASP	Makurap	0	ŋgap	ŋg/ⁿgap	40	Makurap	WASP	40.K.C 40.A.V 40.P.c	AXN	1 7 1	ŋg/ⁿg a p	ŋgap	2.0 1.5 0.8	
+1139	ŋg a p - - -	KAP	2590	18536	vespa1	WASP	Makurap	0	ŋgap	ŋg/ⁿgap	40	Makurap	WASP	40.K.C 40.A.V 40.P.c	AXN	1 7 1	ŋg a p	ŋgap	2.0 1.5 0.8	
 1140	- ɨ ʔ -	IH	2593	18593	agua	WATER	Makurap	1	ɨʔ	ɨʔ	40	Makurap	LIQUID	40.I.V 40.H.c	XN	7 1	ɨ ʔ	ɨʔ	1.5 0.8	
 1141	- - t e j ã	TEJA	526	18686	nos	WE (EXCL)	Makurap	0	tejã	tejã	40	Makurap	WE	40.T.C 40.E.V 40.J.C 40.A.V	AXBZ	1 7 6 7	t e j ã	tejã	2.0 1.5 1.75 0.8	
 1142	k i t ẽ j ã -	KITEJA	2609	18689	nos	WE (INCL)	Makurap	0	kitẽjã	kitẽjã	40	Makurap	WE	40.K.C 40.I.V 40.T.C 40.E.V 40.J.C 40.A.V	AXBYBZ	1 7 1 7 6 7	k i t ẽ j ã	kitẽjã	2.0 1.5 1.75 1.3 1.75 0.8	
@@ -1398,7 +1398,7 @@ ID	ALIGNMENT	CLASSES	COGID	COGIDS	COGNACY	CONCEPT	DOCULECT	DUPLICATES	FORM	IPA	L
 1405	- - n i ŋ	NIN	2063	14910	fumaca1	SMOKE (n)	Wayoro	0	niŋ	niŋ	69	Wayoró	SMOKE	69.N.C 69.I.V 69.N.c	AXN	4 7 4	n i ŋ	niŋ	2.0 1.5 0.8	
 1406	nd a t -	TAT	2082	15012	cobra6	SNAKE	Wayoro	0	ndat	nd/ⁿdat	69	Wayoró	SNAKE	69.T.C 69.A.V 69.T.c	AXN	1 7 1	nd a t	ndat	2.0 1.5 0.8	
 1407	m ẽ p + i t	MEPIT	2099	15191 15	filhodemulher12	SON OF WOMAN	Wayoro	0	mẽpit	mẽpit	69	Wayoró	_HUSBAND SEED	69.M.C 69.E.V 69.P.C 69.I.V 69.T.c	AXBYN	4 7 1 7 1	m ẽ p + i t	mẽpit	2.0 1.5 1.75 1.3 0.8	
-1408	- - - nd/ⁿd aɨ p -	TAP	2095	15122	filhodehomen12	SON OF MAN	Wayoro	0	ndaɨp	nd/ⁿdaɨp	69	Wayoró	SON	69.T.C 69.A.V 69.P.c	AXN	1 7 1	nd/ⁿd aɨ p	ndaɨp	2.0 1.5 0.8	
+1408	- - - nd aɨ p -	TAP	2095	15122	filhodehomen12	SON OF MAN	Wayoro	0	ndaɨp	nd/ⁿdaɨp	69	Wayoró	SON	69.T.C 69.A.V 69.P.c	AXN	1 7 1	nd aɨ p	ndaɨp	2.0 1.5 0.8	
 1409	t o k ã j	TUKAJ	2111	15258	azedoamargo4	SOUR / ACID /BITTER	Wayoro	0	tokãj	tokãj	69	Wayoró	SOUR	69.T.C 69.U.V 69.K.C 69.A.V 69.J.c	AXBYN	1 7 1 7 6	t o k ã j	tokãj / ati	2.0 1.5 1.75 1.3 0.8	
 1410	- - a t i	ATI	2107	15261	azedoamargo4	SOUR / ACID /BITTER	Wayoro	1	ati	ati	69	Wayoró	SOUR	69.A.V 69.T.C 69.I.V	XBZ	7 1 7	a t i	tokãj / ati	1.5 1.75 0.8	
 1411	mb o tː ẽ m -	PUTEM	2119	15378	aranha0	SPIDER	Wayoro	0	mbottẽm	mb/ⁿbotːẽm	69	Wayoró	SPIDER	69.P.C 69.U.V 69.T.C 69.E.V 69.M.c	AXBYN	1 7 1 7 4	mb o tː ẽ m	mbottẽm	2.0 1.5 1.75 1.3 0.8	
@@ -2629,7 +2629,7 @@ ID	ALIGNMENT	CLASSES	COGID	COGIDS	COGNACY	CONCEPT	DOCULECT	DUPLICATES	FORM	IPA	L
 2667	u - mp - - a r -	YPAR	2021	14442	irma	SISTER	Cinta-Larga	0	umpar	ump/ⁿpar	18	Cinta-Larga	SISTER,	18.Y.V 18.P.C 18.A.V 18.R.c	XBYN	7 1 7 5	u mp a r	umpar	1.5 1.75 1.3 0.8	
 2668	ʃ i r i k	SIRIK	2024	14548	pele3	SKIN	Cinta-Larga	0	ʃirik	ʃirik	18	Cinta-Larga	SKIN	18.S.C 18.I.V 18.R.C 18.I.V 18.K.c	AXBYN	3 7 5 7 1	ʃ i r i k	ʃirik	2.0 1.5 1.75 1.3 0.8	
 2669	- k - e r e	KERE	2043	14724	dormir1	SLEEP	Cinta-Larga	0	kere	kere	18	Cinta-Larga	SLEEP	18.K.C 18.E.V 18.R.C 18.E.V	AXBZ	1 7 5 7	k e r e	kere	2.0 1.5 1.75 0.8	
-2670	a l ía/ia - - -	ALI	2045	14794	bichopreguica7	SLOTH	Cinta-Larga	0	alía	alía/ia	18	Cinta-Larga	SLOTH	18.A.V 18.L.C 18.I.V	XBZ	7 5 7	a l ía/ia	alía	1.5 1.75 0.8	
+2670	a l ía - - -	ALI	2045	14794	bichopreguica7	SLOTH	Cinta-Larga	0	alía	alía/ia	18	Cinta-Larga	SLOTH	18.A.V 18.L.C 18.I.V	XBZ	7 5 7	a l ía	alía	1.5 1.75 0.8	
 2671	k i - - p - ʃ ĩ	KIPSI	2055	14835	pequeno	SMALL	Cinta-Larga	0	kipʃĩ	kipʃĩ	18	Cinta-Larga	SMALL	18.K.C 18.I.V 18.P.C 18.S.C 18.I.V	AXBCZ	1 7 1 3 7	k i p ʃ ĩ	kipʃĩ / ĩpit	2.0 1.5 1.75 1.5 0.8	
 2672	ĩ p i t - - -	IPIT	2058	14838	pequeno	SMALL	Cinta-Larga	0	ĩpit	ĩpit	18	Cinta-Larga	SMALL	18.I.V 18.P.C 18.I.V 18.T.c	XBYN	7 1 7 1	ĩ p i t	kipʃĩ / ĩpit	1.5 1.75 1.3 0.8	
 2673	- - - d i k - -	TIK	2062	14908	fumaca1	SMOKE (n)	Cinta-Larga	0	dik	dik	18	Cinta-Larga	SMOKE	18.T.C 18.I.V 18.K.c	AXN	1 7 1	d i k	dik	2.0 1.5 0.8	
@@ -2657,7 +2657,7 @@ ID	ALIGNMENT	CLASSES	COGID	COGIDS	COGNACY	CONCEPT	DOCULECT	DUPLICATES	FORM	IPA	L
 2695	- - - - ɲ - ĩ ɲ	NIN	2446	150	dente1	TOOTH	Cinta-Larga	0	ɲĩɲ	ɲĩɲ	18	Cinta-Larga	TOOTH	18.N.C 18.I.V 18.N.c	AXN	4 7 4	ɲ ĩ ɲ	ɲĩɲ	2.0 1.5 0.8	
 2696	t o - - - - r	TUR	2491	17934	feio	UGLY	Cinta-Larga	0	tor	tor	18	Cinta-Larga	UGLY	18.T.C 18.U.V 18.R.c	AXN	1 7 5	t o r	tor	2.0 1.5 0.8	
 2697	b ai a - - k i - -	PAJAKI	2565	18272	urubu7	VULTURE	Cinta-Larga	0	baiaki	bajaki	18	Cinta-Larga	VULTURE	18.P.C 18.A.V 18.J.C 18.A.V 18.K.C 18.I.V	AXBYBZ	1 7 6 7 1 7	b ai a k i	baiaki	2.0 1.5 1.75 1.3 1.75 0.8	
-2698	p i ʃ á/a	PISA	2588	18481	lavar	WASH	Cinta-Larga	0	piʃá	piʃá/a	18	Cinta-Larga	WASH	18.P.C 18.I.V 18.S.C 18.A.V	AXBZ	1 7 3 7	p i ʃ á/a	piʃá	2.0 1.5 1.75 0.8	
+2698	p i ʃ á	PISA	2588	18481	lavar	WASH	Cinta-Larga	0	piʃá	piʃá/a	18	Cinta-Larga	WASH	18.P.C 18.I.V 18.S.C 18.A.V	AXBZ	1 7 3 7	p i ʃ á	piʃá	2.0 1.5 1.75 0.8	
 2699	- - s i -	SI	2595	18596	agua	WATER	Cinta-Larga	0	si	si	18	Cinta-Larga	WATER	18.S.C 18.I.V	AX	3 7	s i	si / ister	2.0 1.5	
 2700	i s t e r	ISTER	3335	1409	agua	WATER	Cinta-Larga	0	ister	ister	18	Cinta-Larga	WATER	18.I.V 18.S.c 18.T.C 18.E.V 18.R.c	XMBYN	7 3 1 7 5	i s t e r	si / ister	1.5 1.1 1.75 1.3 0.8	
 2701	- u n ã - -	YNA	2607	18690	nos	WE (EXCL)	Cinta-Larga	0	unã	unã	18	Cinta-Larga	WE	18.Y.V 18.N.C 18.A.V	XBZ	7 4 7	u n ã	unã	1.5 1.75 0.8	
@@ -3071,7 +3071,7 @@ ID	ALIGNMENT	CLASSES	COGID	COGIDS	COGNACY	CONCEPT	DOCULECT	DUPLICATES	FORM	IPA	L
 3112	p o s ã́	PUSAH	2687	19270	asa	WING	Gavião	0	posã́h	posã́/ãh	21	Gavião (Ikṍlṍéhj)	WING	21.P.C 21.U.V 21.S.C 21.A.V 21.H.c	AXBYN	1 7 3 7 3	p o s ã́	posã́h	2.0 1.5 1.75 1.3 0.8	
 3113	k e r e + ʔ ɨ p	KEREHIP	2703	816 19438	picapau	WOODPECKER	Gavião	0	kereʔɨp	kereʔɨp	21	Gavião (Ikṍlṍéhj)	WOODPECKER WOOD	21.K.C 21.E.V 21.R.C 21.E.V 21.H.C 21.I.V 21.P.c	AXBYBYN	1 7 5 7 1 7 1	k e r e + ʔ ɨ p	kereʔɨp	2.0 1.5 1.75 1.3 1.75 1.3 0.8	
 3114	β ã - - dʒ e t -	BATET	2697	19361	mulher6	WOMAN	Gavião	0	βãdʒet	βãdʒet	21	Gavião (Ikṍlṍéhj)	WOMAN	21.B.C 21.A.V 21.T.C 21.E.V 21.T.c	AXBYN	3 7 1 7 1	β ã dʒ e t	βãdʒet	2.0 1.5 1.75 1.3 0.8	
-3115	- i t í/i g -	ITIK	2709	19476	vermeminhoca	WORM (EARTH)	Gavião	0	itíg	ití/ig	21	Gavião (Ikṍlṍéhj)	WORM	21.I.V 21.T.C 21.I.V 21.K.c	XBYN	7 1 7 1	i t í/i g	itíg	1.5 1.75 1.3 0.8	
+3115	- i t í g -	ITIK	2709	19476	vermeminhoca	WORM (EARTH)	Gavião	0	itíg	ití/ig	21	Gavião (Ikṍlṍéhj)	WORM	21.I.V 21.T.C 21.I.V 21.K.c	XBYN	7 1 7 1	i t í g	itíg	1.5 1.75 1.3 0.8	
 3116	p a g ã j	PAKAJ	2717	19524	ferida	WOUND	Gavião	0	pagãj	pagãj	21	Gavião (Ikṍlṍéhj)	WOUND	21.P.C 21.A.V 21.K.C 21.A.V 21.J.c	AXBYN	1 7 1 7 6	p a g ã j	pagãj	2.0 1.5 1.75 1.3 0.8	
 3117	k é r é - - - -	KERE	2721	19534	amareloc	YELLOW	Gavião	0	kéré	ké/eré/e	21	Gavião (Ikṍlṍéhj)	YELLOW	21.K.C 21.E.V 21.R.C 21.E.V	AXBZ	1 7 5 7	k é r é	kéré	2.0 1.5 1.75 0.8	
 3118	- e n - - -	EN	2740	19645	vocetu1	YOU (sg)	Gavião	0	en	en	21	Gavião (Ikṍlṍéhj)	YOU	21.E.V 21.N.c	XN	7 4	e n	en	1.5 0.8	
@@ -3215,7 +3215,7 @@ ID	ALIGNMENT	CLASSES	COGID	COGIDS	COGNACY	CONCEPT	DOCULECT	DUPLICATES	FORM	IPA	L
 3256	- e - p -	EP	1356	9858	folha1	LEAF	Monde	0	ep	ep	44	Mondé	LEAF	44.E.V 44.P.c	XN	7 1	e p	 (bas)ep	1.5 0.8	
 3257	z ãa - -	SA	1384	9999	perna	LEG	Monde	0	zãa	zãa/ãː	44	Mondé	LEG	44.S.C 44.A.V	AX	3 7	z ãa	zãa / upe	2.0 1.5	
 3258	- u p e	YPE	1383	9998	perna	LEG	Monde	0	upe	upe	44	Mondé	LEG	44.Y.V 44.P.C 44.E.V	XBZ	7 1 7	u p e	zãa / upe	1.5 1.75 0.8	
-3259	- - z a ʔ á/a - - -	SAHA	1386	10053	figado1	LIVER	Monde	0	zaʔá	zaʔá/a	44	Mondé	LIVER	44.S.C 44.A.V 44.H.C 44.A.V	AXBZ	3 7 1 7	z a ʔ á/a	zaʔá	2.0 1.5 1.75 0.8	
+3259	- - z a ʔ á - - -	SAHA	1386	10053	figado1	LIVER	Monde	0	zaʔá	zaʔá/a	44	Mondé	LIVER	44.S.C 44.A.V 44.H.C 44.A.V	AXBZ	3 7 1 7	z a ʔ á	zaʔá	2.0 1.5 1.75 0.8	
 3260	g eː - - - r - - ṍṍ - -	KERU	1390	10117	lagartocalango	LIZARD	Monde	0	geerṍṍ	geːrṍṍ/õː	44	Mondé	LIZARD	44.K.C 44.E.V 44.R.C 44.U.V	AXBZ	1 7 5 7	g eː r ṍṍ	geerṍṍ	2.0 1.5 1.75 0.8	
 3261	s aː	SA	1403	10174	compridolongoalto3	LONG	Monde	0	saa	saː	44	Mondé	LONG	44.S.C 44.A.V	AX	3 7	s aː	saa / túú	2.0 1.5	
 3262	- t úú -	TY	1397	10170	compridolongoalto3	LONG	Monde	0	túú	túú/uː	44	Mondé	LONG	44.T.C 44.Y.V	AX	1 7	t úú	saa / túú	2.0 1.5	
@@ -3269,7 +3269,7 @@ ID	ALIGNMENT	CLASSES	COGID	COGIDS	COGNACY	CONCEPT	DOCULECT	DUPLICATES	FORM	IPA	L
 3310	k iː - t - - - -	KIT	1907	13694	sal1	SALT	Monde	1	kiit	kiːt	44	Mondé	SALT	44.K.C 44.I.V 44.T.c	AXN	1 7 1	k iː t	kiit	2.0 1.5 0.8	
 3311	- - - g i r a -	KIRA	1916	13749	areia	SAND	Monde	0	gira	gira	44	Mondé	SAND	44.K.C 44.I.V 44.R.C 44.A.V	AXBZ	1 7 5 7	g i r a	gira	2.0 1.5 1.75 0.8	
 3312	p a s - - ã́ -	PASA	1940	13906	escorpiao	SCORPION	Monde	0	pasã́	pasã́/ã	44	Mondé	SCORPION	44.P.C 44.A.V 44.S.C 44.A.V	AXBZ	1 7 3 7	p a s ã́	pasã́	2.0 1.5 1.75 0.8	
-3313	í/i k i n i	IKINI	1951	13947	ver	SEE	Monde	0	íkini	í/ikini	44	Mondé	SEE	44.I.V 44.K.C 44.I.V 44.N.C 44.I.V	XBYBZ	7 1 7 4 7	í/i k i n i	íkini	1.5 1.75 1.3 1.75 0.8	
+3313	í k i n i	IKINI	1951	13947	ver	SEE	Monde	0	íkini	í/ikini	44	Mondé	SEE	44.I.V 44.K.C 44.I.V 44.N.C 44.I.V	XBYBZ	7 1 7 4 7	í k i n i	íkini	1.5 1.75 1.3 1.75 0.8	
 3314	- - k a p	KAP	1956	14009	semente	SEED	Monde	1	kap	kap	44	Mondé	SEED	44.K.C 44.A.V 44.P.c	AXN	1 7 1	k a p	 (tʃagi)kap	2.0 1.5 0.8	
 3315	kʷ i n aá	KINA	1983	14243	concha	SHELL / BARK	Monde	0	kwinaá	kʷinaá/aː	44	Mondé	SHELL	44.K.C 44.I.V 44.N.C 44.A.V	AXBZ	1 7 4 7	kʷ i n aá	kwinaá	2.0 1.5 1.75 0.8	
 3316	ʃ ĩi n	SIN	1997	14318	curto	SHORT	Monde	0	ʃĩin	ʃĩi/ĩn	44	Mondé	SHORT	44.S.C 44.I.V 44.N.c	AXN	3 7 4	ʃ ĩi n	ʃĩin	2.0 1.5 0.8	
@@ -3291,7 +3291,7 @@ ID	ALIGNMENT	CLASSES	COGID	COGIDS	COGNACY	CONCEPT	DOCULECT	DUPLICATES	FORM	IPA	L
 3333	- - - mb a g -	PAK	2101	15195	filhodemulher	SON OF WOMAN	Monde	0	mbag	mb/ⁿbag	44	Mondé	SON	44.P.C 44.A.V 44.K.c	AXN	1 7 1	mb a g	mbag	2.0 1.5 0.8	
 3334	- - - mb a g -	PAK	2096	15126	filhodehomen	SON OF MAN	Monde	1	mbag	mb/ⁿbag	44	Mondé	SON	44.P.C 44.A.V 44.K.c	AXN	1 7 1	mb a g	mbag	2.0 1.5 0.8	
 3335	- - - - m ãe k	MAK	2109	15264	azedoamargo	SOUR / ACID /BITTER	Monde	1	mãek	mãek	44	Mondé	SOUR	44.M.C 44.A.V 44.K.c	AXN	4 7 1	m ãe k	mãek / súk	2.0 1.5 0.8	
-3336	- - - - s ú/u k	SYK	2109	15264	azedoamargo	SOUR / ACID /BITTER	Monde	0	súk	sú/uk	44	Mondé	SOUR	44.S.C 44.Y.V 44.K.c	AXN	3 7 1	s ú/u k	mãek / súk	2.0 1.5 0.8	
+3336	- - - - s ú k	SYK	2109	15264	azedoamargo	SOUR / ACID /BITTER	Monde	0	súk	sú/uk	44	Mondé	SOUR	44.S.C 44.Y.V 44.K.c	AXN	3 7 1	s ú k	mãek / súk	2.0 1.5 0.8	
 3337	β e m a l e r a	BEMALERA	2117	15319	falar	SPEAK	Monde	0	βemalera	βemalera	44	Mondé	SPEAK	44.B.C 44.E.V 44.M.C 44.A.V 44.L.C 44.E.V 44.R.C 44.A.V	AXBYBYBZ	3 7 4 7 5 7 5 7	β e m a l e r a	βemalera	2.0 1.5 1.75 1.3 1.75 1.3 1.75 0.8	
 3338	- ŋg ai r - - - p - ã	KARPA	2121	15369	aranha3	SPIDER	Monde	0	ŋgairpã	ŋg/ⁿgairpã	44	Mondé	SPIDER	44.K.C 44.A.V 44.R.c 44.P.C 44.A.V	AXMBZ	1 7 5 1 7	ŋg ai r p ã	ŋgairpã	2.0 1.5 1.1 1.75 0.8	
 3339	- a l i m é	ALIME	2130	15432	macacopretomacacoaranhacoata2	SPIDER MONKEY	Monde	0	alimé	alimé/e	44	Mondé	SPIDER.MONKEY	44.A.V 44.L.C 44.I.V 44.M.C 44.E.V	XBYBZ	7 5 7 4 7	a l i m é	alimé	1.5 1.75 1.3 1.75 0.8	
@@ -3316,7 +3316,7 @@ ID	ALIGNMENT	CLASSES	COGID	COGIDS	COGNACY	CONCEPT	DOCULECT	DUPLICATES	FORM	IPA	L
 3358	g o - j a n -	KUJAN	2373	17015	trovaoa	THUNDER	Monde	0	gojan	gojan	44	Mondé	THUNDER	44.K.C 44.U.V 44.J.C 44.A.V 44.N.c	AXBYN	1 7 6 7 4	g o j a n	gojan / tɨɨj	2.0 1.5 1.75 1.3 0.8	
 3359	t ɨː j	TIJ	2378	17019	trovaoa	THUNDER	Monde	0	tɨɨj	tɨːj	44	Mondé	THUNDER	44.T.C 44.I.V 44.J.c	AXN	1 7 6	t ɨː j	gojan / tɨɨj	2.0 1.5 0.8	
 3360	tʃ a - - k a p -	TAKAP	2381	17071	carrapato	TICK	Monde	0	tʃakap	tʃakap	44	Mondé	TICK	44.T.C 44.A.V 44.K.C 44.A.V 44.P.c	AXBYN	1 7 1 7 1	tʃ a k a p	tʃakap	2.0 1.5 1.75 1.3 0.8	
-3361	g ĩi/ĩ j a	KIJA	2390	17126	ataramarrar	TIE	Monde	0	gĩija	gĩi/ĩja	44	Mondé	TIE	44.K.C 44.I.V 44.J.C 44.A.V	AXBZ	1 7 6 7	g ĩi/ĩ j a	gĩija	2.0 1.5 1.75 0.8	
+3361	g ĩi j a	KIJA	2390	17126	ataramarrar	TIE	Monde	0	gĩija	gĩi/ĩja	44	Mondé	TIE	44.K.C 44.I.V 44.J.C 44.A.V	AXBZ	1 7 6 7	g ĩi j a	gĩija	2.0 1.5 1.75 0.8	
 3362	d a p u ʔ a	TAPYHA	2391	17181	timbo	TIMBO LIANA	Monde	0	dapuʔa	dapuʔa	44	Mondé	TIMBO	44.T.C 44.A.V 44.P.C 44.Y.V 44.H.C 44.A.V	AXBYBZ	1 7 1 7 1 7	d a p u ʔ a	dapuʔa	2.0 1.5 1.75 1.3 1.75 0.8	
 3363	β ã j ã -	BAJA	2399	17222	inhambunambuperdizxororo4	TINAMOU	Monde	0	βãjã	βãjã	44	Mondé	TINAMOU	44.B.C 44.A.V 44.J.C 44.A.V	AXBZ	3 7 6 7	β ã j ã	βãjã	2.0 1.5 1.75 0.8	
 3364	m a tʃ u - - -	MATY	2417	17322	fumotabaco	TOBACCO	Monde	0	maʧu	matʃu	44	Mondé	TOBACCO	44.M.C 44.A.V 44.T.C 44.Y.V	AXBZ	4 7 1 7	m a tʃ u	maʧu	2.0 1.5 1.75 0.8	
@@ -3830,10 +3830,10 @@ ID	ALIGNMENT	CLASSES	COGID	COGIDS	COGNACY	CONCEPT	DOCULECT	DUPLICATES	FORM	IPA	L
 3875	b o s aː t	PUSAT	2485	17865	doisduas	TWO	Zoro	0	bosaat	bosaːt	74	Zoró	TWO	74.P.C 74.U.V 74.S.C 74.A.V 74.T.c	AXBYN	1 7 3 7 1	b o s aː t	bosaat	2.0 1.5 1.75 1.3 0.8	
 3876	m ai ã - - k oː - -	MAJAKU	2565	18272	urubu	VULTURE	Zoro	0	maiãkoo	majãkoː	74	Zoró	VULTURE	74.M.C 74.A.V 74.J.C 74.A.V 74.K.C 74.U.V	AXBYBZ	4 7 6 7 1 7	m ai ã k oː	maiãkoo	2.0 1.5 1.75 1.3 1.75 0.8	
 3877	β - - eː tː a	BETA	3595	1796	andarcaminhar	WALK	Zoro	0	βeetta	βeːtːa	74	Zoró	WALK	74.B.C 74.E.V 74.T.C 74.A.V	AXBZ	3 7 1 7	β eː tː a	βeetta	2.0 1.5 1.75 0.8	
-3878	- - p i tʃ á/a ʔ - -	PITAH	2585	18477	lavar	WASH	Zoro	0	pitʃáʔ	pitʃá/aʔ	74	Zoró	WASH	74.P.C 74.I.V 74.T.C 74.A.V 74.H.c	AXBYN	1 7 1 7 1	p i tʃ á/a ʔ	pitʃáʔ	2.0 1.5 1.75 1.3 0.8	
+3878	- - p i tʃ á ʔ - -	PITAH	2585	18477	lavar	WASH	Zoro	0	pitʃáʔ	pitʃá/aʔ	74	Zoró	WASH	74.P.C 74.I.V 74.T.C 74.A.V 74.H.c	AXBYN	1 7 1 7 1	p i tʃ á ʔ	pitʃáʔ	2.0 1.5 1.75 1.3 0.8	
 3879	g a p - - -	KAP	2590	18536	vespa1	WASP	Zoro	0	gap	gap	74	Zoró	WASP	74.K.C 74.A.V 74.P.c	AXN	1 7 1	g a p	gap	2.0 1.5 0.8	
 3880	iː - t e t	ITET	3335	1409	agua	WATER	Zoro	0	iitet	iːtet	74	Zoró	WATER	74.I.V 74.T.C 74.E.V 74.T.c	XBYN	7 1 7 1	iː t e t	iitet	1.5 1.75 1.3 0.8	
-3881	p a - n óó j	PANUJ	2610	18688	nos5	WE (INCL)	Zoro	0	panóój	panóó/oːj	74	Zoró	WE	74.P.C 74.A.V 74.N.C 74.U.V 74.J.c	AXBYN	1 7 4 7 6	p a n óó/oː j	panóój	2.0 1.5 1.75 1.3 0.8	
+3881	p a - n óó j	PANUJ	2610	18688	nos5	WE (INCL)	Zoro	0	panóój	panóó/oːj	74	Zoró	WE	74.P.C 74.A.V 74.N.C 74.U.V 74.J.c	AXBYN	1 7 4 7 6	p a n óó j	panóój	2.0 1.5 1.75 1.3 0.8	
 3882	m - - - - - e - -	ME	2632	18889	oque	WHAT	Zoro	0	me	me	74	Zoró	WHAT	74.M.C 74.E.V	AX	4 7	m e	me	2.0 1.5	
 3883	k iː t	KIT	2638	18941	branco	WHITE	Zoro	0	kiit	kiːt	74	Zoró	WHITE	74.K.C 74.I.V 74.T.c	AXN	1 7 1	k iː t	kiit	2.0 1.5 0.8	
 3884	m e - -	ME	2650	19014	quem	WHO	Zoro	1	me	me	74	Zoró	WHO	74.M.C 74.E.V	AX	4 7	m e	me	2.0 1.5	
@@ -4633,7 +4633,7 @@ ID	ALIGNMENT	CLASSES	COGID	COGIDS	COGNACY	CONCEPT	DOCULECT	DUPLICATES	FORM	IPA	L
 4685	- - u - - - r u p - dʒ a -	YRYPTA	2703	19438	picapau2	WOODPECKER	Arikem	0	urupdʒa	urupdʒa	9	Arikem	WOODPECKER	9.Y.V 9.R.C 9.Y.V 9.P.c 9.T.C 9.A.V	XBYMBZ	7 5 7 1 1 7	u r u p dʒ a	urupdʒa	1.5 1.75 1.3 1.1 1.75 0.8	
 4686	ə r ə - p i j ə	EREPIJE	3660	1878	mulher5	WOMAN	Arikem	0	ərəpijə	ərəpijə	9	Arikem	WOMAN	9.E.V 9.R.C 9.E.V 9.P.C 9.I.V 9.J.C 9.E.V	XBYBYBZ	7 5 7 1 7 6 7	ə r ə p i j ə	ərəpijə	1.5 1.75 1.3 1.75 1.3 1.75 0.8	
 4687	- - - p a r a - j - - -	PARAJ	2723	19537	amarelo7	YELLOW	Arikem	0	paraj	paraj	9	Arikem	YELLOW	9.P.C 9.A.V 9.R.C 9.A.V 9.J.c	AXBYN	1 7 5 7 6	p a r a j	paraj	2.0 1.5 1.75 1.3 0.8	
-4688	- aá/aː n - - -	AN	2740	19645	vocetu1	YOU (sg)	Arikem	0	aán	aá/aːn	9	Arikem	YOU	9.A.V 9.N.c	XN	7 4	aá/aː n	aán	1.5 0.8	
+4688	- aá n - - -	AN	2740	19645	vocetu1	YOU (sg)	Arikem	0	aán	aá/aːn	9	Arikem	YOU	9.A.V 9.N.c	XN	7 4	aá n	aán	1.5 0.8	
 4689	t á d e - -	TATE	11	71	depoisde7	AFTER	Xipaya	0	táde	tá/ade	71	Xipaya	AFTER	71.T.C 71.A.V 71.T.C 71.E.V	AXBZ	1 7 1 7	t á d e	táde	2.0 1.5 1.75 0.8	
 4690	- k u - z i - - - -	KYSI	21	143	cutia1	AGOUTI	Xipaya	0	kuzi	kuzi	71	Xipaya	AGOUTI	71.K.C 71.Y.V 71.S.C 71.I.V	AXBZ	1 7 3 7	k u z i	kuzi	2.0 1.5 1.75 0.8	
 4691	k i w - - i	KIWI	925	92	todostudod	ALL	Xipaya	0	kiwi	kiwi	71	Xipaya	ALL	71.K.C 71.I.V 71.W.C 71.I.V	AXBZ	1 7 6 7	k i w i	kiwi	2.0 1.5 1.75 0.8	
@@ -4896,7 +4896,7 @@ ID	ALIGNMENT	CLASSES	COGID	COGIDS	COGNACY	CONCEPT	DOCULECT	DUPLICATES	FORM	IPA	L
 4950	- j a h u	JAHY	2174	15643	arraia	STINGRAY	Xipaya	0	jahu	jahu	71	Xipaya	STINGRAY	71.J.C 71.A.V 71.H.C 71.Y.V	AXBZ	6 7 3 7	j a h u	jahu	2.0 1.5 1.75 0.8	
 4951	- - w - - - - á z a	WASA	2176	15696	estomago	STOMACH	Xipaya	0	wáza	wá/aza	71	Xipaya	STOMACH	71.W.C 71.A.V 71.S.C 71.A.V	AXBZ	6 7 3 7	w á z a	wáza	2.0 1.5 1.75 0.8	
 4952	k ua - - p - - a	KYPA	3761	2010	pedra5	STONE	Xipaya	0	kuapa	kuapa	71	Xipaya	STONE	71.K.C 71.Y.V 71.P.C 71.A.V	AXBZ	1 7 1 7	k ua p a	kuapa	2.0 1.5 1.75 0.8	
-4953	- w á/a r iu -	WARI	2194	15807	fortea	STRONG	Xipaya	0	wáriu	wá/ariu	71	Xipaya	STRONG	71.W.C 71.A.V 71.R.C 71.I.V	AXBZ	6 7 5 7	w á/a r iu	wáriu	2.0 1.5 1.75 0.8	
+4953	- w á r iu -	WARI	2194	15807	fortea	STRONG	Xipaya	0	wáriu	wá/ariu	71	Xipaya	STRONG	71.W.C 71.A.V 71.R.C 71.I.V	AXBZ	6 7 5 7	w á r iu	wáriu	2.0 1.5 1.75 0.8	
 4954	- - t u - t u -	TYTY	3848	2143	sugarchupar	SUCK	Xipaya	0	tutu	tutu	71	Xipaya	SUCK	71.T.C 71.Y.V 71.T.C 71.Y.V	AXBZ	1 7 1 7	t u t u	tutu	2.0 1.5 1.75 0.8	
 4955	- k ua z a d ɨ	KYSATI	2206	15891	sol1	SUN	Xipaya	0	kuazadɨ	kuazadɨ	71	Xipaya	SUN	71.K.C 71.Y.V 71.S.C 71.A.V 71.T.C 71.I.V	AXBYBZ	1 7 3 7 1 7	k ua z a d ɨ	kuazadɨ	2.0 1.5 1.75 1.3 1.75 0.8	
 4956	d u r u ʃ i -	TYRYSI	2212	15967	pintadobagre1	SURUBIM	Xipaya	0	duruʃi	duruʃi	71	Xipaya	SURUBIM_FISH	71.T.C 71.Y.V 71.R.C 71.Y.V 71.S.C 71.I.V	AXBYBZ	1 7 5 7 3 7	d u r u ʃ i	duruʃi	2.0 1.5 1.75 1.3 1.75 0.8	
@@ -4930,13 +4930,13 @@ ID	ALIGNMENT	CLASSES	COGID	COGIDS	COGNACY	CONCEPT	DOCULECT	DUPLICATES	FORM	IPA	L
 4984	j ã d a d a r i	JATATARI	2452	17616	tucano	TOUCAN	Xipaya	0	jãdadari	jãdadari	71	Xipaya	TOUCAN	71.J.C 71.A.V 71.T.C 71.A.V 71.T.C 71.A.V 71.R.C 71.I.V	AXBYBYBZ	6 7 1 7 1 7 5 7	j ã d a d a r i	jãdadari	2.0 1.5 1.75 1.3 1.75 1.3 1.75 0.8	
 4985	- - ʃ i t ɨ	SITI	2457	17659	traira	TRAHIRA FISH	Xipaya	0	ʃitɨ	ʃitɨ	71	Xipaya	TRAHIRA	71.S.C 71.I.V 71.T.C 71.I.V	AXBZ	3 7 1 7	ʃ i t ɨ	ʃitɨ	2.0 1.5 1.75 0.8	
 4986	- - k aː - - - -	KA	2461	17696	arvore4	TREE	Xipaya	0	kaa	kaː	71	Xipaya	TREE	71.K.C 71.A.V	AX	1 7	k aː	kaa	2.0 1.5	
-4987	- t u k - - á/a + - p i p i	TYKA_PIPI	2464	17765 17770	tucuma	TUCUMA_PALM	Xipaya	0	tuká_pipi	tuká/a+pipi	71	Xipaya	TUCUMA_PALM _tucuma_palm	71.T.C 71.Y.V 71.K.C 71.A.V 71._._ 71.P.C 71.I.V 71.P.C 71.I.V	AXBZ_AXBZ	1 7 1 7 9 1 7 1 7	t u k á/a + p i p i	tuká_pipi	2.0 1.5 1.75 0.8 0.0 2.0 1.5 1.75 0.8	
+4987	- t u k - - á + - p i p i	TYKA_PIPI	2464	17765 17770	tucuma	TUCUMA_PALM	Xipaya	0	tuká_pipi	tuká/a+pipi	71	Xipaya	TUCUMA_PALM _tucuma_palm	71.T.C 71.Y.V 71.K.C 71.A.V 71._._ 71.P.C 71.I.V 71.P.C 71.I.V	AXBZ_AXBZ	1 7 1 7 9 1 7 1 7	t u k á + p i p i	tuká_pipi	2.0 1.5 1.75 0.8 0.0 2.0 1.5 1.75 0.8	
 4988	t a k u r a r e	TAKYRARE	3970	2317	tartarugajabotijabuti8	TURTLE	Xipaya	0	takurare	takurare	71	Xipaya	TURTLE	71.T.C 71.A.V 71.K.C 71.Y.V 71.R.C 71.A.V 71.R.C 71.E.V	AXBYBYBZ	1 7 1 7 5 7 5 7	t a k u r a r e	takurare	2.0 1.5 1.75 1.3 1.75 1.3 1.75 0.8	
 4989	b i d a -	PITA	2485	17865	doisduas	TWO	Xipaya	0	bida	bida	71	Xipaya	TWO	71.P.C 71.I.V 71.T.C 71.A.V	AXBZ	1 7 1 7	b i d a	bida	2.0 1.5 1.75 0.8	
 4990	w ẽ t i + - a - - - - dʒ i dʒ a	WETI_ATITA	2502	17994 17986	tiomaterno	UNCLE (MoBr)	Xipaya	0	wẽti_adʒidʒa	wẽti+adʒidʒa	71	Xipaya	_uncle UNCLE	71.W.C 71.E.V 71.T.C 71.I.V 71._._ 71.A.V 71.T.C 71.I.V 71.T.C 71.A.V	AXBZ_XBYBZ	6 7 1 7 9 7 1 7 1 7	w ẽ t i + a dʒ i dʒ a	wẽti_adʒidʒa / dʒawi	2.0 1.5 1.75 0.8 0.0 1.5 1.75 1.3 1.75 0.8	
 4991	dʒ a - - - - - - w i	TAWI	2502	17986	tiomaterno	UNCLE (MoBr)	Xipaya	0	dʒawi	dʒawi	71	Xipaya	UNCLE	71.T.C 71.A.V 71.W.C 71.I.V	AXBZ	1 7 6 7	dʒ a w i	wẽti_adʒidʒa / dʒawi	2.0 1.5 1.75 0.8	
-4992	k a - - r u k á/a p a	KARYKAPA	2526	18089	urinar1	URINATE	Xipaya	0	karukápa	karuká/apa	71	Xipaya	URINATE	71.K.C 71.A.V 71.R.C 71.Y.V 71.K.C 71.A.V 71.P.C 71.A.V	AXBYBYBZ	1 7 5 7 1 7 1 7	k a r u k á/a p a	karukápa	2.0 1.5 1.75 1.3 1.75 1.3 1.75 0.8	
-4993	t í/i r i	TIRI	2541	18147	veia	VEIN	Xipaya	0	tíri	tí/iri	71	Xipaya	VEIN	71.T.C 71.I.V 71.R.C 71.I.V	AXBZ	1 7 5 7	t í/i r i	tíri	2.0 1.5 1.75 0.8	
+4992	k a - - r u k á p a	KARYKAPA	2526	18089	urinar1	URINATE	Xipaya	0	karukápa	karuká/apa	71	Xipaya	URINATE	71.K.C 71.A.V 71.R.C 71.Y.V 71.K.C 71.A.V 71.P.C 71.A.V	AXBYBYBZ	1 7 5 7 1 7 1 7	k a r u k á p a	karukápa	2.0 1.5 1.75 1.3 1.75 1.3 1.75 0.8	
+4993	t í r i	TIRI	2541	18147	veia	VEIN	Xipaya	0	tíri	tí/iri	71	Xipaya	VEIN	71.T.C 71.I.V 71.R.C 71.I.V	AXBZ	1 7 5 7	t í r i	tíri	2.0 1.5 1.75 0.8	
 4994	- j a m ã	JAMA	2545	18185	aldeia	VILLAGE	Xipaya	0	jamã	jamã	71	Xipaya	VILLAGE	71.J.C 71.A.V 71.M.C 71.A.V	AXBZ	6 7 4 7	j a m ã	jamã	2.0 1.5 1.75 0.8	
 4995	- e - n ae n a	ENANA	2559	18228	vomitar	VOMIT	Xipaya	0	enaena	enaena	71	Xipaya	VOMIT	71.E.V 71.N.C 71.A.V 71.N.C 71.A.V	XBYBZ	7 4 7 4 7	e n ae n a	enaena	1.5 1.75 1.3 1.75 0.8	
 4996	k u z - - u - h - - u	KYSYHY	2564	18273	urubu	VULTURE	Xipaya	0	kuzuhu	kuzuhu	71	Xipaya	VULTURE	71.K.C 71.Y.V 71.S.C 71.Y.V 71.H.C 71.Y.V	AXBYBZ	1 7 3 7 3 7	k u z u h u	kuzuhu	2.0 1.5 1.75 1.3 1.75 0.8	
@@ -4947,7 +4947,7 @@ ID	ALIGNMENT	CLASSES	COGID	COGIDS	COGNACY	CONCEPT	DOCULECT	DUPLICATES	FORM	IPA	L
 5001	- j á	JA	2598	18597	agua	WATER	Xipaya	1	já	já/a	71	Xipaya	WATER	71.J.C 71.A.V	AX	6 7	j á	já	2.0 1.5	
 5002	- u z u d ɨ	YSYTI	2607	18686	nos	WE (EXCL)	Xipaya	0	uzudɨ	uzudɨ	71	Xipaya	WE	71.Y.V 71.S.C 71.Y.V 71.T.C 71.I.V	XBYBZ	7 3 7 1 7	u z u d ɨ	uzudɨ	1.5 1.75 1.3 1.75 0.8	
 5003	i	I	2611	18691	nos	WE (INCL)	Xipaya	0	i	i	71	Xipaya	WE	71.I.V	X	7	i	i	1.5	
-5004	s ú/u r u -	SYRY	2628	18837	molhado9	WET	Xipaya	0	súru	sú/uru	71	Xipaya	WET	71.S.C 71.Y.V 71.R.C 71.Y.V	AXBZ	3 7 5 7	s ú/u r u	súru	2.0 1.5 1.75 0.8	
+5004	s ú r u -	SYRY	2628	18837	molhado9	WET	Xipaya	0	súru	sú/uru	71	Xipaya	WET	71.S.C 71.Y.V 71.R.C 71.Y.V	AXBZ	3 7 5 7	s ú r u	súru	2.0 1.5 1.75 0.8	
 5005	- a - - - p a - -	APA	2632	18889	oque7	WHAT	Xipaya	0	apa	apa	71	Xipaya	WHAT	71.A.V 71.P.C 71.A.V	XBZ	7 1 7	a p a	apa	1.5 1.75 0.8	
 5006	- k - a p ĩ	KAPI	2639	18944	branco	WHITE	Xipaya	0	kapĩ	kapĩ	71	Xipaya	WHITE	71.K.C 71.A.V 71.P.C 71.I.V	AXBZ	1 7 1 7	k a p ĩ	kapĩ	2.0 1.5 1.75 0.8	
 5007	m a - -	MA	2650	19014	quem	WHO	Xipaya	0	ma	ma	71	Xipaya	WHO	71.M.C 71.A.V	AX	4 7	m a	ma	2.0 1.5	
@@ -5199,7 +5199,7 @@ ID	ALIGNMENT	CLASSES	COGID	COGIDS	COGNACY	CONCEPT	DOCULECT	DUPLICATES	FORM	IPA	L
 5253	- u - - ʔ a - + h u t a	YHA_HYTA	1940	13906 13910	escorpiao	SCORPION	Juruna	0	uʔa_huta	uʔa+huta	30	Juruna (Yudja)	SCORPION _scorpion	30.Y.V 30.H.C 30.A.V 30._._ 30.H.C 30.Y.V 30.T.C 30.A.V	XBZ_AXBZ	7 1 7 9 3 7 1 7	u ʔ a + h u t a	uʔa_huta / ewɨa	1.5 1.75 0.8 0.0 2.0 1.5 1.75 0.8	
 5254	e w ɨa	EWI	1946	13913	escorpiao	SCORPION	Juruna	0	ewɨa	ewɨa	30	Juruna (Yudja)	SCORPION	30.E.V 30.W.C 30.I.V	XBZ	7 6 7	e w ɨa	uʔa_huta / ewɨa	1.5 1.75 0.8	
 5255	- - z á k - - ú	SAKY	1949	13948	ver	SEE	Juruna	0	zákú	zá/akú/u	30	Juruna (Yudja)	SEE	30.S.C 30.A.V 30.K.C 30.Y.V	AXBZ	3 7 1 7	z á k ú	zákú	2.0 1.5 1.75 0.8	
-5256	b ɨ l á/a	PILA	1959	14013	semente	SEED	Juruna	0	bɨlá	bɨlá/a	30	Juruna (Yudja)	SEED	30.P.C 30.I.V 30.L.C 30.A.V	AXBZ	1 7 5 7	b ɨ l á/a	bɨlá	2.0 1.5 1.75 0.8	
+5256	b ɨ l á	PILA	1959	14013	semente	SEED	Juruna	0	bɨlá	bɨlá/a	30	Juruna (Yudja)	SEED	30.P.C 30.I.V 30.L.C 30.A.V	AXBZ	1 7 5 7	b ɨ l á	bɨlá	2.0 1.5 1.75 0.8	
 5257	- i k a - - -	IKA	1960	14070	buscarprocurar	SEEK / LOOK FOR / SEARCH	Juruna	0	ika	ika	30	Juruna (Yudja)	SEEK	30.I.V 30.K.C 30.A.V	XBZ	7 1 7	i k a	ika	1.5 1.75 0.8	
 5258	i z íá h a	ISIHA	1969	14168	paje1	SHAMAN	Juruna	0	izíáha	izíá/iaha	30	Juruna (Yudja)	SHAMAN	30.I.V 30.S.C 30.I.V 30.H.C 30.A.V	XBYBZ	7 3 7 3 7	i z íá h a	izíáha	1.5 1.75 1.3 1.75 0.8	
 5259	- - i - - m í - - - -	IMI	1975	14198	afiar	SHARPEN	Juruna	0	imí	imí/i	30	Juruna (Yudja)	SHARPEN	30.I.V 30.M.C 30.I.V	XBZ	7 4 7	i m í	imí	1.5 1.75 0.8	
@@ -5231,7 +5231,7 @@ ID	ALIGNMENT	CLASSES	COGID	COGIDS	COGNACY	CONCEPT	DOCULECT	DUPLICATES	FORM	IPA	L
 5285	- k - - ua d ɨ	KYTI	2206	15891	sol1	SUN	Juruna	0	kuadɨ	kuadɨ	30	Juruna (Yudja)	SUN	30.K.C 30.Y.V 30.T.C 30.I.V	AXBZ	1 7 1 7	k ua d ɨ	kuadɨ	2.0 1.5 1.75 0.8	
 5286	d u r u p i -	TYRYPI	2212	15967	pintadobagre1	SURUBIM	Juruna	0	durupi	durupi	30	Juruna (Yudja)	SURUBIM_FISH	30.T.C 30.Y.V 30.R.C 30.Y.V 30.P.C 30.I.V	AXBYBZ	1 7 5 7 1 7	d u r u p i	durupi	2.0 1.5 1.75 1.3 1.75 0.8	
 5287	- - p ɨ tʃ i k u	PITIKY	2219	16007	varrer	SWEEP	Juruna	0	pɨtʃiku	pɨtʃiku	30	Juruna (Yudja)	SWEEP	30.P.C 30.I.V 30.T.C 30.I.V 30.K.C 30.Y.V	AXBYBZ	1 7 1 7 1 7	p ɨ tʃ i k u	pɨtʃiku	2.0 1.5 1.75 1.3 1.75 0.8	
-5288	- e tʃ á/a k - - u	ETAKY	2225	16050	doce	SWEET	Juruna	0	etʃáku	etʃá/aku	30	Juruna (Yudja)	SWEET	30.E.V 30.T.C 30.A.V 30.K.C 30.Y.V	XBYBZ	7 1 7 1 7	e tʃ á/a k u	etʃáku	1.5 1.75 1.3 1.75 0.8	
+5288	- e tʃ á k - - u	ETAKY	2225	16050	doce	SWEET	Juruna	0	etʃáku	etʃá/aku	30	Juruna (Yudja)	SWEET	30.E.V 30.T.C 30.A.V 30.K.C 30.Y.V	XBYBZ	7 1 7 1 7	e tʃ á k u	etʃáku	1.5 1.75 1.3 1.75 0.8	
 5289	a t aũ	ATA	2923	707	batatdoce5	SWEET POTATO	Juruna	0	ataũ	ataũ	30	Juruna (Yudja)	SWEET	30.A.V 30.T.C 30.A.V	XBZ	7 1 7	a t aũ	ataũ	1.5 1.75 0.8	
 5290	- i b ɨ - k a r a h u	IPIKARAHY	2238	16166	nadar	SWIM	Juruna	0	ibɨkarahu	ibɨkarahu	30	Juruna (Yudja)	SWIM	30.I.V 30.P.C 30.I.V 30.K.C 30.A.V 30.R.C 30.A.V 30.H.C 30.Y.V	XBYBYBYBZ	7 1 7 1 7 5 7 3 7	i b ɨ k a r a h u	ibɨkarahu	1.5 1.75 1.3 1.75 1.3 1.75 1.3 1.75 0.8	
 5291	w á t á h a	WATAHA	2248	16224	rabocauda	TAIL	Juruna	0	wátáha	wá/atá/aha	30	Juruna (Yudja)	TAIL	30.W.C 30.A.V 30.T.C 30.A.V 30.H.C 30.A.V	AXBYBZ	6 7 1 7 3 7	w á t á h a	wátáha	2.0 1.5 1.75 1.3 1.75 0.8	
@@ -5246,8 +5246,8 @@ ID	ALIGNMENT	CLASSES	COGID	COGIDS	COGNACY	CONCEPT	DOCULECT	DUPLICATES	FORM	IPA	L
 5300	tʃ a - - b ɨu - - - -	TAPI	2349	16896	tres	THREE	Juruna	0	tʃabɨu	tʃabɨu	30	Juruna (Yudja)	THREE	30.T.C 30.A.V 30.P.C 30.I.V	AXBZ	1 7 1 7	tʃ a b ɨu	tʃabɨu	2.0 1.5 1.75 0.8	
 5301	m a k u r ú	MAKYRY	2347	16845	espinho	THORN	Juruna	0	makurú	makurú/u	30	Juruna (Yudja)	THORN	30.M.C 30.A.V 30.K.C 30.Y.V 30.R.C 30.Y.V	AXBYBZ	4 7 1 7 5 7	m a k u r ú	makurú	2.0 1.5 1.75 1.3 1.75 0.8	
 5302	- - m a n a - - -	MANA	2371	17016	trovao	THUNDER	Juruna	0	mana	mana	30	Juruna (Yudja)	THUNDER	30.M.C 30.A.V 30.N.C 30.A.V	AXBZ	4 7 4 7	m a n a	mana	2.0 1.5 1.75 0.8	
-5303	k u - - p á/a r i - -	KYPARI	2380	17069	carrapato	TICK	Juruna	0	kupári	kupá/ari	30	Juruna (Yudja)	TICK	30.K.C 30.Y.V 30.P.C 30.A.V 30.R.C 30.I.V	AXBYBZ	1 7 1 7 5 7	k u p á/a r i	kupári	2.0 1.5 1.75 1.3 1.75 0.8	
-5304	- a p a j ú/u	APAJY	2384	17121	ataramarrar	TIE	Juruna	0	apajú	apajú/u	30	Juruna (Yudja)	TIE	30.A.V 30.P.C 30.A.V 30.J.C 30.Y.V	XBYBZ	7 1 7 6 7	a p a j ú/u	apajú (arede)	1.5 1.75 1.3 1.75 0.8	
+5303	k u - - p á r i - -	KYPARI	2380	17069	carrapato	TICK	Juruna	0	kupári	kupá/ari	30	Juruna (Yudja)	TICK	30.K.C 30.Y.V 30.P.C 30.A.V 30.R.C 30.I.V	AXBYBZ	1 7 1 7 5 7	k u p á r i	kupári	2.0 1.5 1.75 1.3 1.75 0.8	
+5304	a p a j ú u	APAJY	2384	17121	ataramarrar	TIE	Juruna	0	apajú	apajú/u	30	Juruna (Yudja)	TIE	30.A.V 30.P.C 30.A.V 30.J.C 30.Y.V	XBYBZ	7 1 7 6 7	a p a j ú u	apajú (arede)	1.5 1.75 1.3 1.75 0.8	
 5305	u t a -	YTA	2392	17178	timbo	TIMBO LIANA	Juruna	0	uta	uta	30	Juruna (Yudja)	TIMBO	30.Y.V 30.T.C 30.A.V	XBZ	7 1 7	u t a	uta	1.5 1.75 0.8	
 5306	n ã r ũ r ĩ	NARYRI	2402	17223	inhambunambuperdizxororo	TINAMOU	Juruna	0	nãrũrĩ	nãrũrĩ	30	Juruna (Yudja)	TINAMOU	30.N.C 30.A.V 30.R.C 30.Y.V 30.R.C 30.I.V	AXBYBZ	4 7 5 7 5 7	n ã r ũ r ĩ	nãrũrĩ	2.0 1.5 1.75 1.3 1.75 0.8	
 5307	- k u p é r í - -	KYPERI	2410	17264	cansado	TIRED	Juruna	0	kupérí	kupé/erí/i	30	Juruna (Yudja)	TIRED	30.K.C 30.Y.V 30.P.C 30.E.V 30.R.C 30.I.V	AXBYBZ	1 7 1 7 5 7	k u p é r í	kupérí	2.0 1.5 1.75 1.3 1.75 0.8	
@@ -5278,12 +5278,12 @@ ID	ALIGNMENT	CLASSES	COGID	COGIDS	COGNACY	CONCEPT	DOCULECT	DUPLICATES	FORM	IPA	L
 5332	i j á	IJA	2598	18597	agua	WATER	Juruna	1	ijá	ijá/a	30	Juruna (Yudja)	WATER	30.I.V 30.J.C 30.A.V	XBZ	7 6 7	i j á	ijá	1.5 1.75 0.8	
 5333	u l u ʔ u d í -	YLYHYTI	3391	1510	nos	WE (INCL)	Juruna	0	uluʔudí	uluʔudí/i	30	Juruna (Yudja)	WE	30.Y.V 30.L.C 30.Y.V 30.H.C 30.Y.V 30.T.C 30.I.V	XBYBYBZ	7 5 7 1 7 1 7	u l u ʔ u d í	uluʔudí	1.5 1.75 1.3 1.75 1.3 1.75 0.8	
 5334	s í - -	SI	2608	18690	nos	WE (INCL)	Juruna	0	sí	sí/i	30	Juruna (Yudja)	WE	30.S.C 30.I.V	AX	3 7	s í	sí	2.0 1.5	
-5335	ʔ i ʔ - - ú/u r ú/u	HIHYRY	2625	18836	molhado	WET	Juruna	0	ʔiʔúrú	ʔiʔú/urú/u	30	Juruna (Yudja)	WET	30.H.C 30.I.V 30.H.C 30.Y.V 30.R.C 30.Y.V	AXBYBZ	1 7 1 7 5 7	ʔ i ʔ ú/u r ú/u	ʔiʔúrú	2.0 1.5 1.75 1.3 1.75 0.8	
+5335	ʔ i ʔ - - ú r ú	HIHYRY	2625	18836	molhado	WET	Juruna	0	ʔiʔúrú	ʔiʔú/urú/u	30	Juruna (Yudja)	WET	30.H.C 30.I.V 30.H.C 30.Y.V 30.R.C 30.Y.V	AXBYBZ	1 7 1 7 5 7	ʔ i ʔ ú r ú	ʔiʔúrú	2.0 1.5 1.75 1.3 1.75 0.8	
 5336	- a - - - p á - -	APA	2632	18889	oque7	WHAT	Juruna	0	apá	apá/a	30	Juruna (Yudja)	WHAT	30.A.V 30.P.C 30.A.V	XBZ	7 1 7	a p á	apá	1.5 1.75 0.8	
 5337	a - w ĩi w ĩi - -	AWIWI	2641	18943	branco	WHITE	Juruna	0	awĩiwĩi	awĩi/ĩwĩi/ĩ	30	Juruna (Yudja)	WHITE	30.A.V 30.W.C 30.I.V 30.W.C 30.I.V	XBYBZ	7 6 7 6 7	a w ĩi w ĩi	awĩiwĩi	1.5 1.75 1.3 1.75 0.8	
 5338	m a - -	MA	2650	19014	quem	WHO	Juruna	0	ma	ma	30	Juruna (Yudja)	WHO	30.M.C 30.A.V	AX	4 7	m a	ma	2.0 1.5	
 5339	a n íá	ANI	2659	19061	esposa0	WIFE	Juruna	0	aníá	aníá/ia	30	Juruna (Yudja)	WIFE	30.A.V 30.N.C 30.I.V	XBZ	7 4 7	a n íá	aníá	1.5 1.75 0.8	
-5340	p i ʃ - - - ã́/ã -	PISA	2662	19129	gatodomato	WILD CAT	Juruna	0	piʃã́	piʃã́/ã	30	Juruna (Yudja)	WILD	30.P.C 30.I.V 30.S.C 30.A.V	AXBZ	1 7 3 7	p i ʃ ã́/ã	piʃã́	2.0 1.5 1.75 0.8	
+5340	p i ʃ - - - ã́ -	PISA	2662	19129	gatodomato	WILD CAT	Juruna	0	piʃã́	piʃã́/ã	30	Juruna (Yudja)	WILD	30.P.C 30.I.V 30.S.C 30.A.V	AXBZ	1 7 3 7	p i ʃ ã́	piʃã́	2.0 1.5 1.75 0.8	
 5341	- a p - - ɨ + i w a m ã w a m ã -	API_IWAMAWAMA	2671	19171 19168	cachorrodomato	WILD DOG	Juruna	0	apɨ_iwamãwamã	apɨ+iwamãwamã	30	Juruna (Yudja)	_wild WILD	30.A.V 30.P.C 30.I.V 30._._ 30.I.V 30.W.C 30.A.V 30.M.C 30.A.V 30.W.C 30.A.V 30.M.C 30.A.V	XBZ_XBYBYBYBZ	7 1 7 9 7 6 7 4 7 6 7 4 7	a p ɨ + i w a m ã w a m ã	apɨ_iwamãwamã	1.5 1.75 0.8 0.0 1.5 1.75 1.3 1.75 1.3 1.75 1.3 1.75 0.8	
 5342	m a k a s u -	MAKASY	3750	1997	vento	WIND	Juruna	0	makasu	makasu	30	Juruna (Yudja)	WIND	30.M.C 30.A.V 30.K.C 30.A.V 30.S.C 30.Y.V	AXBYBZ	4 7 1 7 3 7	m a k a s u	makasu	2.0 1.5 1.75 1.3 1.75 0.8	
 5343	- - - - p e w a -	PEWA	2687	19270	asa1	WING	Juruna	0	pewa	pewa	30	Juruna (Yudja)	WING	30.P.C 30.E.V 30.W.C 30.A.V	AXBZ	1 7 6 7	p e w a	pewa	2.0 1.5 1.75 0.8	
@@ -5463,7 +5463,7 @@ ID	ALIGNMENT	CLASSES	COGID	COGIDS	COGNACY	CONCEPT	DOCULECT	DUPLICATES	FORM	IPA	L
 5517	- p o - ʃ i - -	PUSI	1163	8339	pesado1	HEAVY	Mundurukú	0	poʃi	poʃi	45	Mundurukú	HEAVY	45.P.C 45.U.V 45.S.C 45.I.V	AXBZ	1 7 3 7	p o ʃ i	poʃi	2.0 1.5 1.75 0.8	
 5518	- - - - - - - - k õ - - -	KU	1166	8394	ouricoporcoespinho	HEDGEHOG	Mundurukú	0	kõ	kõ	45	Mundurukú	HEDGEHOG	45.K.C 45.U.V	AX	1 7	k õ	kõ	2.0 1.5	
 5519	dʒ e b ə - j w a n - - -	TEPEJWAN	1172	8426	ajudar	HELP	Mundurukú	0	dʒebəjwan	dʒebəjwan	45	Mundurukú	HELP	45.T.C 45.E.V 45.P.C 45.E.V 45.J.c 45.W.C 45.A.V 45.N.c	AXBYMBYN	1 7 1 7 6 6 7 4	dʒ e b ə j w a n	dʒebəjwan	2.0 1.5 1.75 1.3 1.1 1.75 1.3 0.8	
-5520	s a p o k a j -	SAPUKAJ	1180	8467	galinha2	HEN / CHICKEN	Mundurukú	0	sapokaj	sapokaj	45	Mundurukú	HEN	45.S.C 45.A.V 45.P.C 45.U.V 45.K.C 45.A.V 45.J.c	AXBYBYN	3 7 1 7 1 7 6	s a p o k a j	sapokaj	2.0 1.5 1.75 1.3 1.75 1.3 0.8	
+5520	s a p o k a j -	SAPUKAJ	1180	8467	galinha2	HEN / CHICKEN	Mundurukú	0	sapokaj	sapokaj	45	Mundurukú	SCREAM	45.S.C 45.A.V 45.P.C 45.U.V 45.K.C 45.A.V 45.J.c	AXBYBYN	3 7 1 7 1 7 6	s a p o k a j	sapokaj	2.0 1.5 1.75 1.3 1.75 1.3 0.8	
 5521	- í dʒ o tʃ é	ITUTE	1187	8529	aqui	HERE	Mundurukú	0	ídʒotʃé	í/idʒotʃé/e	45	Mundurukú	HERE	45.I.V 45.T.C 45.U.V 45.T.C 45.E.V	XBYBZ	7 1 7 1 7	í dʒ o tʃ é	ídʒotʃé	1.5 1.75 1.3 1.75 0.8	
 5522	b a ʔ - - - + a r ẽ m	PAHAREM	1195	8565 786	esconder	HIDE	Mundurukú	0	baʔarẽm	baʔarẽm	45	Mundurukú	CLASSIFIER.ARM HIDE	45.P.C 45.A.V 45.H.C 45.A.V 45.R.C 45.E.V 45.M.c	AXBYBYN	1 7 1 7 5 7 4	b a ʔ + a r ẽ m	baʔarẽm	2.0 1.5 1.75 1.3 1.75 1.3 0.8	A class of verbs is compound of body-parts classifiers + lexical root
 5523	- - - ao k a	AKA	1199	8613	bater	HIT	Mundurukú	0	aoka	aoka	45	Mundurukú	HIT	45.A.V 45.K.C 45.A.V	XBZ	7 1 7	ao k a	aoka	1.5 1.75 0.8	
@@ -5576,7 +5576,7 @@ ID	ALIGNMENT	CLASSES	COGID	COGIDS	COGNACY	CONCEPT	DOCULECT	DUPLICATES	FORM	IPA	L
 5630	i m u + dʒ u m	IMYTYM	1964	14125 124	enviar	SEND	Mundurukú	0	imudʒum	imudʒum	45	Mundurukú	CAUSATIVE GO	45.I.V 45.M.C 45.Y.V 45.T.C 45.Y.V 45.M.c	XBYBYN	7 4 7 1 7 4	i m u + dʒ u m	imudʒum	1.5 1.75 1.3 1.75 1.3 0.8	
 5631	w a m o - -	WAMU	1967	14165	paje2	SHAMAN	Mundurukú	0	wamo	wamo	45	Mundurukú	SHAMAN	45.W.C 45.A.V 45.M.C 45.U.V	AXBZ	6 7 4 7	w a m o	wamo / wamoat	2.0 1.5 1.75 0.8	
 5632	w a m oa t -	WAMUT	1967	14165	paje2	SHAMAN	Mundurukú	0	wamoat	wamoat	45	Mundurukú	SHAMAN	45.W.C 45.A.V 45.M.C 45.U.V 45.T.c	AXBYN	6 7 4 7 1	w a m oa t	wamo / wamoat	2.0 1.5 1.75 1.3 0.8	
-5633	t ə̃ j b í/i b i	TEJPIPI	1976	14199	afiar	SHARPEN	Mundurukú	0	tə̃jbíbi	tə̃jbí/ibi	45	Mundurukú	SHARPEN	45.T.C 45.E.V 45.J.c 45.P.C 45.I.V 45.P.C 45.I.V	AXMBYBZ	1 7 6 1 7 1 7	t ə̃ j b í/i b i	tə̃jbíbi	2.0 1.5 1.1 1.75 1.3 1.75 0.8	
+5633	t ə̃ j b í b i	TEJPIPI	1976	14199	afiar	SHARPEN	Mundurukú	0	tə̃jbíbi	tə̃jbí/ibi	45	Mundurukú	SHARPEN	45.T.C 45.E.V 45.J.c 45.P.C 45.I.V 45.P.C 45.I.V	AXMBYBZ	1 7 6 1 7 1 7	t ə̃ j b í b i	tə̃jbíbi	2.0 1.5 1.1 1.75 1.3 1.75 0.8	
 5634	ʃ eː	SE	1988	14258	cascapele	SHELL / BARK	Mundurukú	0	ʃee	ʃeː	45	Mundurukú	SHELL	45.S.C 45.E.V	AX	3 7	ʃ eː	ʃee	2.0 1.5	
 5635	- a p ĩ́ n -	APIN	1993	14313	curto	SHORT	Mundurukú	0	apĩ́n	apĩ́/ĩn	45	Mundurukú	SHORT	45.A.V 45.P.C 45.I.V 45.N.c	XBYN	7 1 7 4	a p ĩ́ n	apĩ́n	1.5 1.75 1.3 0.8	
 5636	w ã t a ʃ i + p i	WATASIPI	3618	1826 11981	doente	SICK / ILL	Mundurukú	0	wãtaʃipi	wãtaʃipi	45	Mundurukú	SICK PAIN	45.W.C 45.A.V 45.T.C 45.A.V 45.S.C 45.I.V 45.P.C 45.I.V	AXBYBYBZ	6 7 1 7 3 7 1 7	w ã t a ʃ i + p i	wãtaʃipi	2.0 1.5 1.75 1.3 1.75 1.3 1.75 0.8	
@@ -5641,7 +5641,7 @@ ID	ALIGNMENT	CLASSES	COGID	COGIDS	COGNACY	CONCEPT	DOCULECT	DUPLICATES	FORM	IPA	L
 5696	k ə j - - a dʒ - e	KEJATE	2436	17427	amanha	TOMORROW	Mundurukú	0	kəjadʒe	kəjadʒe	45	Mundurukú	TOMORROW	45.K.C 45.E.V 45.J.C 45.A.V 45.T.C 45.E.V	AXBYBZ	1 7 6 7 1 7	k ə j a dʒ e	kəjadʒe	2.0 1.5 1.75 1.3 1.75 0.8	
 5697	k õ - - - -	KU	2439	17486	lingua	TONGUE	Mundurukú	1	kõ	kõ	45	Mundurukú	TONGUE	45.K.C 45.U.V	AX	1 7	k õ	kõ	2.0 1.5	
 5698	t - - ə - j̃ - -	TEJ	2446	150	dente1	TOOTH	Mundurukú	0	təj̃	təj̃	45	Mundurukú	TOOTH	45.T.C 45.E.V 45.J.c	AXN	1 7 6	t ə j̃	təj̃	2.0 1.5 0.8	
-5699	tʃ o k ṍ/õ - n -	TUKUN	2451	17614	tucano1	TOUCAN	Mundurukú	0	tʃokṍn	tʃokṍ/õn	45	Mundurukú	TOUCAN	45.T.C 45.U.V 45.K.C 45.U.V 45.N.c	AXBYN	1 7 1 7 4	tʃ o k ṍ/õ n	tʃokṍn	2.0 1.5 1.75 1.3 0.8	
+5699	tʃ o k ṍ - n -	TUKUN	2451	17614	tucano1	TOUCAN	Mundurukú	0	tʃokṍn	tʃokṍ/õn	45	Mundurukú	TOUCAN	45.T.C 45.U.V 45.K.C 45.U.V 45.N.c	AXBYN	1 7 1 7 4	tʃ o k ṍ n	tʃokṍn	2.0 1.5 1.75 1.3 0.8	
 5700	d a ʃ é w	TASEW	2459	17662	traira	TRAHIRA FISH	Mundurukú	0	daʃéw	daʃé/ew	45	Mundurukú	TRAHIRA	45.T.C 45.A.V 45.S.C 45.E.V 45.W.c	AXBYN	1 7 3 7 6	d a ʃ é w	daʃéw	2.0 1.5 1.75 1.3 0.8	
 5701	- - - i p - - -	IP	2461	309	arvore1	TREE	Mundurukú	0	ip	ip	45	Mundurukú	TREE	45.I.V 45.P.c	XN	7 1	i p	ip	1.5 0.8	
 5702	tʃ o dʒ o + - d - - - - a	TUTU_TA	2464	17769 17765	tucuma	TUCUMA_PALM	Mundurukú	0	tʃodʒo-da	tʃodʒo+da	45	Mundurukú	TUCUMA SEED	45.T.C 45.U.V 45.T.C 45.U.V 45._._ 45.T.C 45.A.V	AXBZ_AX	1 7 1 7 9 1 7	tʃ o dʒ o + d a	tʃodʒo-da	2.0 1.5 1.75 0.8 0.0 2.0 1.5	
@@ -5675,7 +5675,7 @@ ID	ALIGNMENT	CLASSES	COGID	COGIDS	COGNACY	CONCEPT	DOCULECT	DUPLICATES	FORM	IPA	L
 5730	ŋ é - - b a - - -	NEPA	2687	19270	asa1	WING	Mundurukú	0	ŋéba	ŋé/eba	45	Mundurukú	WING	45.N.C 45.E.V 45.P.C 45.A.V	AXBZ	4 7 1 7	ŋ é b a	ŋéba	2.0 1.5 1.75 0.8	
 5731	- ʔ i p - - - - - - - - - + - - - - w e r o	HIP_WERU	2703	19438 19436	picapau	WOODPECKER	Mundurukú	0	ʔip-wero	ʔip+wero	45	Mundurukú	WOODPECKER _woodpecker	45.H.C 45.I.V 45.P.c 45._._ 45.W.C 45.E.V 45.R.C 45.U.V	AXN_AXBZ	1 7 1 9 6 7 5 7	ʔ i p + w e r o	ʔip-wero	2.0 1.5 0.8 0.0 2.0 1.5 1.75 0.8	
 5732	ai a tʃ a t	AJATAT	3665	1883	mulher	WOMAN	Mundurukú	0	aiatʃat	ajatʃat	45	Mundurukú	WOMAN	45.A.V 45.J.C 45.A.V 45.T.C 45.A.V 45.T.c	XBYBYN	7 6 7 1 7 1	ai a tʃ a t	aiatʃat	1.5 1.75 1.3 1.75 1.3 0.8	
-5733	n a - - s ə̃́/ə̃ ŋ + - - p ə	NASEN_PE	2710	19475 19478	vermeminhoca	WORM (EARTH)	Mundurukú	0	nasə̃́ŋ-pə	nasə̃́/ə̃ŋ+pə	45	Mundurukú	WORM CLASSIFIER.FINGER	45.N.C 45.A.V 45.S.C 45.E.V 45.N.c 45._._ 45.P.C 45.E.V	AXBYN_AX	4 7 3 7 4 9 1 7	n a s ə̃́/ə̃ ŋ + p ə	nasə̃́ŋ-pə	2.0 1.5 1.75 1.3 0.8 0.0 2.0 1.5	
+5733	n a - - s ə̃́ ŋ + - - p ə	NASEN_PE	2710	19475 19478	vermeminhoca	WORM (EARTH)	Mundurukú	0	nasə̃́ŋ-pə	nasə̃́/ə̃ŋ+pə	45	Mundurukú	WORM CLASSIFIER.FINGER	45.N.C 45.A.V 45.S.C 45.E.V 45.N.c 45._._ 45.P.C 45.E.V	AXBYN_AX	4 7 3 7 4 9 1 7	n a s ə̃́ ŋ + p ə	nasə̃́ŋ-pə	2.0 1.5 1.75 1.3 0.8 0.0 2.0 1.5	
 5734	p e k p - - ə k - - - -	PEKPEK	2723	19537	amarelo6	YELLOW	Mundurukú	0	pekpək	pekpək	45	Mundurukú	YELLOW	45.P.C 45.E.V 45.K.c 45.P.C 45.E.V 45.K.c	AXMBYN	1 7 1 1 7 1	p e k p ə k	pekpək	2.0 1.5 1.1 1.75 1.3 0.8	
 5735	k a - p ə s ə	KAPESE	2728	19602	ontem	YESTERDAY	Mundurukú	0	kapəsə	kapəsə	45	Mundurukú	YESTERDAY	45.K.C 45.A.V 45.P.C 45.E.V 45.S.C 45.E.V	AXBYBZ	1 7 1 7 3 7	k a p ə s ə	kapəsə	2.0 1.5 1.75 1.3 1.75 0.8	
 5736	- ẽ n - - -	EN	2740	19645	vocetu1	YOU (sg)	Mundurukú	1	ẽn	ẽn	45	Mundurukú	YOU	45.E.V 45.N.c	XN	7 4	ẽ n	ẽn	1.5 0.8	
@@ -5974,7 +5974,7 @@ ID	ALIGNMENT	CLASSES	COGID	COGIDS	COGNACY	CONCEPT	DOCULECT	DUPLICATES	FORM	IPA	L
 6029	- é - - b a - - -	EPA	2687	19270	asa1	WING	Kuruaya	0	éba	é/eba	38	Kuruaya	WING	38.E.V 38.P.C 38.A.V	XBZ	7 1 7	é b a	éba	1.5 1.75 0.8	
 6030	- ʔ i p t o r - - - - o -	HIPTURU	2703	19438	picapau	WOODPECKER	Kuruaya	0	ʔiptoro	ʔiptoro	38	Kuruaya	WOODPECKER	38.H.C 38.I.V 38.P.c 38.T.C 38.U.V 38.R.C 38.U.V	AXMBYBZ	1 7 1 1 7 5 7	ʔ i p t o r o	ʔiptoro	2.0 1.5 1.1 1.75 1.3 1.75 0.8	
 6031	ao	A	2701	19363	mulher	WOMAN	Kuruaya	0	ao	ao	38	Kuruaya	WOMAN	38.A.V	X	7	ao	ao	1.5	
-6032	- á/a - - s i ŋ	ASIN	2710	19475	vermeminhoca	WORM (EARTH)	Kuruaya	0	ásiŋ	á/asiŋ	38	Kuruaya	WORM	38.A.V 38.S.C 38.I.V 38.N.c	XBYN	7 3 7 4	á/a s i ŋ	ásiŋ	1.5 1.75 1.3 0.8	
+6032	- á - - s i ŋ	ASIN	2710	19475	vermeminhoca	WORM (EARTH)	Kuruaya	0	ásiŋ	á/asiŋ	38	Kuruaya	WORM	38.A.V 38.S.C 38.I.V 38.N.c	XBYN	7 3 7 4	á s i ŋ	ásiŋ	1.5 1.75 1.3 0.8	
 6033	- i - p e r e k - - - -	IPEREK	2723	19537	amarelo5	YELLOW	Kuruaya	0	iperek	iperek	38	Kuruaya	YELLOW	38.I.V 38.P.C 38.E.V 38.R.C 38.E.V 38.K.c	XBYBYN	7 1 7 5 7 1	i p e r e k	iperek	1.5 1.75 1.3 1.75 1.3 0.8	
 6034	- e n - - -	EN	2740	19645	vocetu1	YOU (sg)	Kuruaya	0	en	en	38	Kuruaya	YOU	38.E.V 38.N.c	XN	7 4	e n	en	1.5 0.8	
 6035	t o t e -	TUTE	2745	979	emcimade1	ABOVE	Mawe	0	tote	tote	54	Sateré-Mawé	ABOVE	54.T.C 54.U.V 54.T.C 54.E.V	AXBZ	1 7 1 7	t o t e	tote	2.0 1.5 1.75 0.8	
@@ -6072,7 +6072,7 @@ ID	ALIGNMENT	CLASSES	COGID	COGIDS	COGNACY	CONCEPT	DOCULECT	DUPLICATES	FORM	IPA	L
 6127	h a w iu	HAWI	663	4624	sujo2	DIRTY	Mawe	0	hawiu	hawiu	54	Sateré-Mawé	DIRTY	54.H.C 54.A.V 54.W.C 54.I.V	AXBZ	3 7 6 7	h a w iu	hawiu	2.0 1.5 1.75 0.8	
 6128	n u ŋ -	NYN	671	4670	fazer2	DO / MAKE	Mawe	0	nuŋ	nuŋ	54	Sateré-Mawé	DO	54.N.C 54.Y.V 54.N.c	AXN	4 7 4	n u ŋ	nuŋ	2.0 1.5 0.8	
 6129	- - - - a - - w a r e -	AWARE	676	4730	cachorrocao1	DOG	Mawe	0	aware	aware	54	Sateré-Mawé	DOG	54.A.V 54.W.C 54.A.V 54.R.C 54.E.V	XBYBZ	7 6 7 5 7	a w a r e	aware	1.5 1.75 1.3 1.75 0.8	
-6130	- - o k - - e n - + - ɨ p ɨ - - -	UKEN_IPI	683	4792 4791	porta	DOOR	Mawe	0	oken_ɨpɨ	oken+ɨpɨ	54	Sateré-Mawé	DOOR _door	54.U.V 54.K.C 54.E.V 54.N.c 54._._ 54.I.V 54.P.C 54.I.V	XBYN_XBZ	7 1 7 4 9 7 1 7	o k e n + ɨ p ɨ	oken_ɨpɨ	1.5 1.75 1.3 0.8 0.0 1.5 1.75 0.8	
+6130	o k + e n + ɨ p ɨ	UKEN_IPI	683	8870 13646 4791	porta	DOOR	Mawe	0	oken_ɨpɨ	oken+ɨpɨ	54	Sateré-Mawé	HOUSE DOOR _door	54.U.V 54.K.C 54.E.V 54.N.c 54._._ 54.I.V 54.P.C 54.I.V	XBYN_XBZ	7 1 7 4 9 7 1 7	o k + e n + ɨ p ɨ	oken_ɨpɨ	1.5 1.75 1.3 0.8 0.0 1.5 1.75 0.8	
 6131	a r e + - ʔ ɨ + - ʔ u	ARE_HIHY	699	2051 18593 2172	beber	DRINK (v)	Mawe	0	are-ʔɨʔu	are+ʔɨʔu	54	Sateré-Mawé	? _liquid INGEST	54.A.V 54.R.C 54.E.V 54._._ 54.H.C 54.I.V 54.H.C 54.Y.V	XBZ_AXBZ	7 5 7 9 1 7 1 7	a r e + ʔ ɨ + ʔ u	are-ʔɨʔu	1.5 1.75 0.8 0.0 2.0 1.5 1.75 0.8	
 6132	- - - - - ŋ a ŋ	NAN	707	4953	secar2	DRY	Mawe	0	ŋaŋ	ŋaŋ	54	Sateré-Mawé	DRY	54.N.C 54.A.V 54.N.c	AXN	4 7 4	ŋ a ŋ	ŋaŋ	2.0 1.5 0.8	
 6133	- - ŋ a ŋ - -	NAN	716	5014	seco1	DRY (state)	Mawe	1	ŋaŋ	ŋaŋ	54	Sateré-Mawé	DRY	54.N.C 54.A.V 54.N.c	AXN	4 7 4	ŋ a ŋ	ŋaŋ	2.0 1.5 0.8	
@@ -6265,7 +6265,7 @@ ID	ALIGNMENT	CLASSES	COGID	COGIDS	COGNACY	CONCEPT	DOCULECT	DUPLICATES	FORM	IPA	L
 6320	m o - - - j -	MUJ	2079	15011	cobra1	SNAKE	Mawe	0	moj	moj	54	Sateré-Mawé	SNAKE	54.M.C 54.U.V 54.J.c	AXN	4 7 6	m o j	moj	2.0 1.5 0.8	
 6321	h õ h õ	HUHU	2091	15085	roncar1	SNORE	Mawe	0	hõhõ	hõhõ	54	Sateré-Mawé	SNORE	54.H.C 54.U.V 54.H.C 54.U.V	AXBZ	3 7 3 7	h õ h õ	hõhõ	2.0 1.5 1.75 0.8	
 6322	m e mp + ɨ t	MEPIT	2099	15191 15	filhodemulher1	SON OF WOMAN	Mawe	0	mempɨt	memp/ⁿpɨt	54	Sateré-Mawé	_HUSBAND SEED	54.M.C 54.E.V 54.P.C 54.I.V 54.T.c	AXBYN	4 7 1 7 1	m e mp + ɨ t	mempɨt	2.0 1.5 1.75 1.3 0.8	
-6323	m e mp/ⁿp + ɨ t	MEPIT	2093	15125 868	filhodehomen1	SON OF MAN	Mawe	1	mempɨt	memp/ⁿpɨt	54	Sateré-Mawé	_HUSBAND SEED	54.M.C 54.E.V 54.P.C 54.I.V 54.T.c	AXBYN	4 7 1 7 1	m e mp/ⁿp + ɨ t	mempɨt	2.0 1.5 1.75 1.3 0.8	
+6323	m e mp + ɨ t	MEPIT	2093	15125 868	filhodehomen1	SON OF MAN	Mawe	1	mempɨt	memp/ⁿpɨt	54	Sateré-Mawé	_HUSBAND SEED	54.M.C 54.E.V 54.P.C 54.I.V 54.T.c	AXBYN	4 7 1 7 1	m e mp + ɨ t	mempɨt	2.0 1.5 1.75 1.3 0.8	
 6324	- e - j̃ u ŋ - - -	EJYN	2106	15259	azedoamargo1	SOUR / ACID /BITTER	Mawe	0	ej̃uŋ	ej̃uŋ	54	Sateré-Mawé	SOUR	54.E.V 54.J.C 54.Y.V 54.N.c	XBYN	7 6 7 4	e j̃ u ŋ	ej̃uŋ	1.5 1.75 1.3 0.8	
 6325	h a j	HAJ	2116	15318	falar2	SPEAK	Mawe	0	haj	haj	54	Sateré-Mawé	SPEAK	54.H.C 54.A.V 54.J.c	AXN	3 7 6	h a j	haj	2.0 1.5 0.8	
 6326	k iã	KI	3455	1591	aranha7	SPIDER	Mawe	0	kiã	kiã	54	Sateré-Mawé	SPIDER	54.K.C 54.I.V	AX	1 7	k iã	kiã	2.0 1.5	
@@ -6561,7 +6561,7 @@ ID	ALIGNMENT	CLASSES	COGID	COGIDS	COGNACY	CONCEPT	DOCULECT	DUPLICATES	FORM	IPA	L
 6616	- - t u p	TYP	1948	13945	ver2	SEE	Awetí	0	tup	tup	15	Awetí	SEE	15.T.C 15.Y.V 15.P.c	AXN	1 7 1	t u p	tup	2.0 1.5 0.8	
 6617	- a ʔ ɨ j - - -	AHIJ	1955	14010	semente1	SEED	Awetí	0	aʔɨj	aʔɨj	15	Awetí	SEED	15.A.V 15.H.C 15.I.V 15.J.c	XBYN	7 1 7 6	a ʔ ɨ j	aʔɨj	1.5 1.75 1.3 0.8	
 6618	- i k a - - -	IKA	1960	14070	buscarprocurar1	SEEK / LOOK FOR / SEARCH	Awetí	0	ika	ika	15	Awetí	SEEK	15.I.V 15.K.C 15.A.V	XBZ	7 1 7	i k a	ika	1.5 1.75 0.8	
-6619	- m o t o t u k a t	MUTUTYKAT	1964	14125	enviar2	SEND	Awetí	0	mototukat	mototukat	15	Awetí	SEND	15.M.C 15.U.V 15.T.C 15.U.V 15.T.C 15.Y.V 15.K.C 15.A.V 15.T.c	AXBYBYBYN	4 7 1 7 1 7 1 7 1	m o t o t u k a t	mototukat	2.0 1.5 1.75 1.3 1.75 1.3 1.75 1.3 0.8	
+6619	- m o t o t u k a t	MUTUTYKAT	1964	14125 124 2320	enviar2	SEND	Awetí	0	mototukat	mototukat	15	Awetí	CAUSATIVE GO CAUSATIVE.2	15.M.C 15.U.V 15.T.C 15.U.V 15.T.C 15.Y.V 15.K.C 15.A.V 15.T.c	AXBYBYBYN	4 7 1 7 1 7 1 7 1	m o t o t u k a t	mototukat	2.0 1.5 1.75 1.3 1.75 1.3 1.75 1.3 0.8	
 6620	p e - - -	PE	1985	14252	cascapele1	SHELL / BARK	Awetí	0	pe	pe	15	Awetí	SKIN	15.P.C 15.E.V	AX	1 7	p e	pe	2.0 1.5	
 6621	m i j - - õ	MIJU	1981	14241	concha	SHELL / BARK	Awetí	0	mijõ	mijõ	15	Awetí	SHELL	15.M.C 15.I.V 15.J.C 15.U.V	AXBZ	4 7 6 7	m i j õ	mijõ	2.0 1.5 1.75 0.8	
 6622	- a - - k u p ʔ a	AKYPHA	2002	14351	doente1	SICK / ILL	Awetí	0	akupʔa	akupʔa	15	Awetí	SICK	15.A.V 15.K.C 15.Y.V 15.P.c 15.H.C 15.A.V	XBYMBZ	7 1 7 1 1 7	a k u p ʔ a	akupʔa	1.5 1.75 1.3 1.1 1.75 0.8	
@@ -7834,7 +7834,7 @@ ID	ALIGNMENT	CLASSES	COGID	COGIDS	COGNACY	CONCEPT	DOCULECT	DUPLICATES	FORM	IPA	L
 7893	- e w a - - - - -	EWA	2708	19473	vermeminhoca4	WORM (EARTH)	Tapirapé	0	ewa	ewa	59	Tapirapé (Apjãwa)	WORM	59.E.V 59.W.C 59.A.V	XBZ	7 6 7	e w a	ewa	1.5 1.75 0.8	
 7894	- - p i r o r o	PIRURU	2715	19523	ferida	WOUND	Tapirapé	0	piroro	piroro	59	Tapirapé (Apjãwa)	WOUND	59.P.C 59.I.V 59.R.C 59.U.V 59.R.C 59.U.V	AXBYBZ	1 7 5 7 5 7	p i r o r o	piroro	2.0 1.5 1.75 1.3 1.75 0.8	
 7895	tʃ a n e - -	TANE	2740	19645	vocetu1	YOU (sg)	Tapirapé	1	tʃane	tʃane	59	Tapirapé (Apjãwa)	YOU	59.T.C 59.A.V 59.N.C 59.E.V	AXBZ	1 7 4 7	tʃ a n e	tʃane	2.0 1.5 1.75 0.8	
-7896	p eẽ/ẽː - - -	PE	2734	19615	vocesvos1	YOU (pl)	Tapirapé	0	peẽ	peẽ/ẽː	59	Tapirapé (Apjãwa)	YOU	59.P.C 59.E.V	AX	1 7	p eẽ/ẽː	peẽ	2.0 1.5	
+7896	p eẽ - - -	PE	2734	19615	vocesvos1	YOU (pl)	Tapirapé	0	peẽ	peẽ/ẽː	59	Tapirapé (Apjãwa)	YOU	59.P.C 59.E.V	AX	1 7	p eẽ	peẽ	2.0 1.5	
 7897	ʔ a r a + m o	HARAMU	1	3 17	emcimade23	ABOVE	Tembe	0	ʔaramo	ʔaramo	60	Tembé	ABOVE THERE	60.H.C 60.A.V 60.R.C 60.A.V 60.M.C 60.U.V	AXBYBZ	1 7 5 7 4 7	ʔ a r a + m o	ʔaramo / iwate	2.0 1.5 1.75 1.3 1.75 0.8	
 7898	- i w a + t e	IWATE	2	2 7	emcimade23	ABOVE	Tembe	0	iwate	iwate	60	Tembé	LOW DIFFERENT	60.I.V 60.W.C 60.A.V 60.T.C 60.E.V	XBYBZ	7 6 7 1 7	i w a + t e	ʔaramo / iwate	1.5 1.75 1.3 1.75 0.8	
 7899	- - - - - r e - -	RE	8	65	depoisde1	AFTER	Tembe	0	re	re	60	Tembé	AFTER	60.R.C 60.E.V	AX	5 7	r e	re / rire	2.0 1.5	
@@ -7981,7 +7981,7 @@ ID	ALIGNMENT	CLASSES	COGID	COGIDS	COGNACY	CONCEPT	DOCULECT	DUPLICATES	FORM	IPA	L
 8040	- p u - h ɨ j -	PYHIJ	1163	8339	pesado1	HEAVY	Tembe	0	puhɨj	puhɨj	60	Tembé	HEAVY	60.P.C 60.Y.V 60.H.C 60.I.V 60.J.c	AXBYN	1 7 3 7 6	p u h ɨ j	puhɨj	2.0 1.5 1.75 1.3 0.8	
 8041	- - - - - - - - kʷ a n - u	KANY	1166	8394	ouricoporcoespinho1	HEDGEHOG	Tembe	0	kʷanu	kʷanu	60	Tembé	HEDGEHOG	60.K.C 60.A.V 60.N.C 60.Y.V	AXBZ	1 7 4 7	kʷ a n u	kʷanu	2.0 1.5 1.75 0.8	
 8042	- - p ɨ t ɨ w ə - - - -	PITIWE	1172	8426	ajudar1	HELP	Tembe	0	pɨtɨwə	pɨtɨwə	60	Tembé	HELP	60.P.C 60.I.V 60.T.C 60.I.V 60.W.C 60.E.V	AXBYBZ	1 7 1 7 6 7	p ɨ t ɨ w ə	pɨtɨwə	2.0 1.5 1.75 1.3 1.75 0.8	
-8043	z a p u k ai - -	SAPYKA	1180	8467	galinha2	HEN / CHICKEN	Tembe	0	zapukai	zapukai	60	Tembé	HEN	60.S.C 60.A.V 60.P.C 60.Y.V 60.K.C 60.A.V	AXBYBZ	3 7 1 7 1 7	z a p u k ai	zapukai	2.0 1.5 1.75 1.3 1.75 0.8	
+8043	z a p u k ai - -	SAPYKA	1180	8467	galinha2	HEN / CHICKEN	Tembe	0	zapukai	zapukai	60	Tembé	SCREAM	60.S.C 60.A.V 60.P.C 60.Y.V 60.K.C 60.A.V	AXBYBZ	3 7 1 7 1 7	z a p u k ai	zapukai	2.0 1.5 1.75 1.3 1.75 0.8	
 8044	- - m i m - - -	MIM	1194	8564	esconder1	HIDE	Tembe	0	mim	mim	60	Tembé	HIDE	60.M.C 60.I.V 60.M.c	AXN	4 7 4	m i m	mim	2.0 1.5 0.8	
 8045	- n u p ə -	NYPE	1198	8612	bater1	HIT	Tembe	0	nupə	nupə	60	Tembé	HIT	60.N.C 60.Y.V 60.P.C 60.E.V	AXBZ	4 7 1 7	n u p ə	nupə	2.0 1.5 1.75 0.8	
 8046	- - kʷ a r - - -	KAR	1201	8670	buraco1	HOLE	Tembe	0	kʷar	kʷar	60	Tembé	HOLE	60.K.C 60.A.V 60.R.c	AXN	1 7 5	kʷ a r	kʷar	2.0 1.5 0.8	
@@ -8311,7 +8311,7 @@ ID	ALIGNMENT	CLASSES	COGID	COGIDS	COGNACY	CONCEPT	DOCULECT	DUPLICATES	FORM	IPA	L
 8371	- p u - h u - -	PYHY	1163	8339	pesado1	HEAVY	Guajajara	0	puhu	puhu	23	Guajajara	HEAVY	23.P.C 23.Y.V 23.H.C 23.Y.V	AXBZ	1 7 3 7	p u h u	puhu	2.0 1.5 1.75 0.8	
 8372	- - - - - - - - kʷ a nd - u	KATY	1166	8394	ouricoporcoespinho1	HEDGEHOG	Guajajara	0	kʷandu	kʷand/ⁿdu	23	Guajajara	HEDGEHOG	23.K.C 23.A.V 23.T.C 23.Y.V	AXBZ	1 7 1 7	kʷ a nd u	kʷandu	2.0 1.5 1.75 0.8	
 8373	- - p ɨ t ɨ w a - - - -	PITIWA	1172	8426	ajudar1	HELP	Guajajara	0	pɨtɨwa	pɨtɨwa	23	Guajajara	HELP	23.P.C 23.I.V 23.T.C 23.I.V 23.W.C 23.A.V	AXBYBZ	1 7 1 7 6 7	p ɨ t ɨ w a	pɨtɨwa	2.0 1.5 1.75 1.3 1.75 0.8	
-8374	z a p u k a z -	SAPYKAS	1180	8467	galinha2	HEN / CHICKEN	Guajajara	0	zapukaz	zapukaz	23	Guajajara	HEN	23.S.C 23.A.V 23.P.C 23.Y.V 23.K.C 23.A.V 23.S.c	AXBYBYN	3 7 1 7 1 7 3	z a p u k a z	zapukaz	2.0 1.5 1.75 1.3 1.75 1.3 0.8	
+8374	z a p u k a z -	SAPYKAS	1180	8467	galinha2	HEN / CHICKEN	Guajajara	0	zapukaz	zapukaz	23	Guajajara	SCREAM	23.S.C 23.A.V 23.P.C 23.Y.V 23.K.C 23.A.V 23.S.c	AXBYBYN	3 7 1 7 1 7 3	z a p u k a z	zapukaz	2.0 1.5 1.75 1.3 1.75 1.3 0.8	
 8375	- - m i m - - -	MIM	1194	8564	esconder1	HIDE	Guajajara	0	mim	mim	23	Guajajara	HIDE	23.M.C 23.I.V 23.M.c	AXN	4 7 4	m i m	mim	2.0 1.5 0.8	
 8376	- n u p ã -	NYPA	1198	8612	bater1	HIT	Guajajara	0	nupã	nupã	23	Guajajara	HIT	23.N.C 23.Y.V 23.P.C 23.A.V	AXBZ	4 7 1 7	n u p ã	nupã	2.0 1.5 1.75 0.8	
 8377	- - kʷ a r - - -	KAR	1201	8670	buraco1	HOLE	Guajajara	0	kʷar	kʷar	23	Guajajara	HOLE	23.K.C 23.A.V 23.R.c	AXN	1 7 5	kʷ a r	kʷar	2.0 1.5 0.8	
@@ -9101,7 +9101,7 @@ ID	ALIGNMENT	CLASSES	COGID	COGIDS	COGNACY	CONCEPT	DOCULECT	DUPLICATES	FORM	IPA	L
 9166	t ĩ ŋ ã h ĩ	TINAHI	2637	18939	branco2	WHITE	Parintintin	0	tĩŋãhĩ	tĩŋãhĩ	51	Parintintin	WHITE	51.T.C 51.I.V 51.N.C 51.A.V 51.H.C 51.I.V	AXBYBZ	1 7 4 7 3 7	t ĩ ŋ ã h ĩ	tĩŋãhĩ	2.0 1.5 1.75 1.3 1.75 0.8	
 9167	m a - - ʔ ŋ a	MAHNA	2651	19012	quem	WHO	Parintintin	0	maʔŋa	maʔŋa	51	Parintintin	WHO	51.M.C 51.A.V 51.H.C 51.N.C 51.A.V	AXBCZ	4 7 1 4 7	m a ʔ ŋ a	maʔŋa	2.0 1.5 1.75 1.5 0.8	
 9168	e m i + r e k o	EMIREKU	2655	19059 2117	esposa1	WIFE	Parintintin	0	emireko	emireko	51	Parintintin	NOMINALIZER BE	51.E.V 51.M.C 51.I.V 51.R.C 51.E.V 51.K.C 51.U.V	XBYBYBZ	7 4 7 5 7 1 7	e m i + r e k o	emireko	1.5 1.75 1.3 1.75 1.3 1.75 0.8	
-9169	mb/ⁿb a r a k a - dʒ a ʔ i	PARAKATAHI	2661	19126	gatodomato1	WILD CAT	Parintintin	0	mbarakadʒaʔi	mb/ⁿbarakadʒaʔi	51	Parintintin	WILD	51.P.C 51.A.V 51.R.C 51.A.V 51.K.C 51.A.V 51.T.C 51.A.V 51.H.C 51.I.V	AXBYBYBYBZ	1 7 5 7 1 7 1 7 1 7	mb/ⁿb a r a k a dʒ a ʔ i	mbarakadʒaʔi / dʒagʷar	2.0 1.5 1.75 1.3 1.75 1.3 1.75 1.3 1.75 0.8	
+9169	mb a r a k a - dʒ a ʔ i	PARAKATAHI	2661	19126	gatodomato1	WILD CAT	Parintintin	0	mbarakadʒaʔi	mb/ⁿbarakadʒaʔi	51	Parintintin	WILD	51.P.C 51.A.V 51.R.C 51.A.V 51.K.C 51.A.V 51.T.C 51.A.V 51.H.C 51.I.V	AXBYBYBYBZ	1 7 5 7 1 7 1 7 1 7	mb a r a k a dʒ a ʔ i	mbarakadʒaʔi / dʒagʷar	2.0 1.5 1.75 1.3 1.75 1.3 1.75 1.3 1.75 0.8	
 9170	dʒ a gʷ a r - - -	TAKAR	2662	19129	gatodomato1	WILD CAT	Parintintin	0	dʒagʷar	dʒagʷar	51	Parintintin	WILD	51.T.C 51.A.V 51.K.C 51.A.V 51.R.c	AXBYN	1 7 1 7 5	dʒ a gʷ a r	mbarakadʒaʔi / dʒagʷar	2.0 1.5 1.75 1.3 0.8	
 9171	ɲ a ŋʷ a	NANA	2678	19176	cachorrodomato	WILD DOG	Parintintin	0	ɲaŋʷa	ɲaŋʷa	51	Parintintin	WILD	51.N.C 51.A.V 51.N.C 51.A.V	AXBZ	4 7 4 7	ɲ a ŋʷ a	ɲaŋʷa	2.0 1.5 1.75 0.8	
 9172	- ɨ w ɨ t u - - - -	IWITY	2680	19205	vento1	WIND	Parintintin	0	ɨwɨtu	ɨwɨtu	51	Parintintin	WIND	51.I.V 51.W.C 51.I.V 51.T.C 51.Y.V	XBYBZ	7 6 7 1 7	ɨ w ɨ t u	ɨwɨtu	1.5 1.75 1.3 1.75 0.8	
@@ -9176,7 +9176,7 @@ ID	ALIGNMENT	CLASSES	COGID	COGIDS	COGNACY	CONCEPT	DOCULECT	DUPLICATES	FORM	IPA	L
 9242	ɨ w i + k o j	IWIKUJ	645	4578 14	cavar12	DIG	Amondawa	0	ɨwikoj	ɨwikoj	3	Amondawa	_EARTH DIG	3.I.V 3.W.C 3.I.V 3.K.C 3.U.V 3.J.c	XBYBYN	7 6 7 1 7 6	ɨ w i + k o j	ɨwikoj	1.5 1.75 1.3 1.75 1.3 0.8	
 9243	- - k ɨ ʔ a -	KIHA	659	4619	sujo1	DIRTY	Amondawa	0	kɨʔa	kɨʔa	3	Amondawa	DIRTY	3.K.C 3.I.V 3.H.C 3.A.V	AXBZ	1 7 1 7	k ɨ ʔ a	kɨʔa	2.0 1.5 1.75 0.8	
 9244	- a p o	APU	669	4669	fazer1	DO / MAKE	Amondawa	0	apo	apo	3	Amondawa	DO	3.A.V 3.P.C 3.U.V	XBZ	7 1 7	a p o	apo	1.5 1.75 0.8	
-9245	- - i kʷ - - a r a	IKARA	683	4792	porta	DOOR	Amondawa	0	ikwara	ikʷara	3	Amondawa	DOOR	3.I.V 3.K.C 3.A.V 3.R.C 3.A.V	XBYBZ	7 1 7 5 7	i kʷ a r a	ikwara / hovapɨtɨmbawa	1.5 1.75 1.3 1.75 0.8	
+9245	- - i kʷ - - a r a	IKARA	683	8670	porta	DOOR	Amondawa	0	ikwara	ikʷara	3	Amondawa	HOLE	3.I.V 3.K.C 3.A.V 3.R.C 3.A.V	XBYBZ	7 1 7 5 7	i kʷ a r a	ikwara / hovapɨtɨmbawa	1.5 1.75 1.3 1.75 0.8	
 9246	h o v a p ɨ t ɨ mb a w a	HUBAPITIPAWA	688	4800	porta	DOOR	Amondawa	0	hovapɨtɨmbawa	hovapɨtɨmb/ⁿbawa	3	Amondawa	DOOR	3.H.C 3.U.V 3.B.C 3.A.V 3.P.C 3.I.V 3.T.C 3.I.V 3.P.C 3.A.V 3.W.C 3.A.V	AXBYBYBYBYBZ	3 7 3 7 1 7 1 7 1 7 6 7	h o v a p ɨ t ɨ mb a w a	ikwara / hovapɨtɨmbawa	2.0 1.5 1.75 1.3 1.75 1.3 1.75 1.3 1.75 1.3 1.75 0.8	
 9247	- - ɨ + - ʔ u - -	IHY	699	18593 4886	beber1	DRINK (v)	Amondawa	0	ɨʔu	ɨʔu	3	Amondawa	_LIQUID INGEST	3.I.V 3.H.C 3.Y.V	XBZ	7 1 7	ɨ + ʔ u	ɨʔu	1.5 1.75 0.8	
 9248	- gʷ aɨ t ɨ r ɨ g	KATIRIK	708	4952	secar1	DRY	Amondawa	0	gʷaɨtɨrɨg	gʷaɨtɨrɨg	3	Amondawa	DRY	3.K.C 3.A.V 3.T.C 3.I.V 3.R.C 3.I.V 3.K.c	AXBYBYN	1 7 1 7 5 7 1	gʷ aɨ t ɨ r ɨ g	gʷaɨtɨrɨg	2.0 1.5 1.75 1.3 1.75 1.3 0.8	
@@ -9402,7 +9402,7 @@ ID	ALIGNMENT	CLASSES	COGID	COGIDS	COGNACY	CONCEPT	DOCULECT	DUPLICATES	FORM	IPA	L
 9469	tʃ ĩ ŋ u h u w a ʔ ẽ	TINYHYWAHE	2642	18938	branco2	WHITE	Amondawa	0	tʃĩŋuhuwaʔẽ	tʃĩŋuhuwaʔẽ	3	Amondawa	WHITE	3.T.C 3.I.V 3.N.C 3.Y.V 3.H.C 3.Y.V 3.W.C 3.A.V 3.H.C 3.E.V	AXBYBYBYBZ	1 7 4 7 3 7 6 7 1 7	tʃ ĩ ŋ u h u w a ʔ ẽ	tʃĩŋuhuwaʔẽ	2.0 1.5 1.75 1.3 1.75 1.3 1.75 1.3 1.75 0.8	
 9470	m o - - ʔ ŋ a	MUHNA	2651	19012	quem	WHO	Amondawa	0	moʔŋa	moʔŋa	3	Amondawa	WHO	3.M.C 3.U.V 3.H.C 3.N.C 3.A.V	AXBCZ	4 7 1 4 7	m o ʔ ŋ a	moʔŋa	2.0 1.5 1.75 1.5 0.8	
 9471	g a r e m i r e h ẽ -	KAREMIREHE	2655	19059	esposa6	WIFE	Amondawa	0	garemirehẽ	garemirehẽ	3	Amondawa	WIFE	3.K.C 3.A.V 3.R.C 3.E.V 3.M.C 3.I.V 3.R.C 3.E.V 3.H.C 3.E.V	AXBYBYBYBZ	1 7 5 7 4 7 5 7 3 7	g a r e m i r e h ẽ	garemirehẽ	2.0 1.5 1.75 1.3 1.75 1.3 1.75 1.3 1.75 0.8	
-9472	mb/ⁿb a r a k a - dʒ a ʔ i	PARAKATAHI	2661	19126	gatodomato1	WILD CAT	Amondawa	0	mbarakadʒaʔi	mb/ⁿbarakadʒaʔi	3	Amondawa	WILD	3.P.C 3.A.V 3.R.C 3.A.V 3.K.C 3.A.V 3.T.C 3.A.V 3.H.C 3.I.V	AXBYBYBYBZ	1 7 5 7 1 7 1 7 1 7	mb/ⁿb a r a k a dʒ a ʔ i	mbarakadʒaʔi / dʒagʷari	2.0 1.5 1.75 1.3 1.75 1.3 1.75 1.3 1.75 0.8	
+9472	mb a r a k a - dʒ a ʔ i	PARAKATAHI	2661	19126	gatodomato1	WILD CAT	Amondawa	0	mbarakadʒaʔi	mb/ⁿbarakadʒaʔi	3	Amondawa	WILD	3.P.C 3.A.V 3.R.C 3.A.V 3.K.C 3.A.V 3.T.C 3.A.V 3.H.C 3.I.V	AXBYBYBYBZ	1 7 5 7 1 7 1 7 1 7	mb a r a k a dʒ a ʔ i	mbarakadʒaʔi / dʒagʷari	2.0 1.5 1.75 1.3 1.75 1.3 1.75 1.3 1.75 0.8	
 9473	dʒ a gʷ a r - i -	TAKARI	2662	19129	gatodomato1	WILD CAT	Amondawa	0	dʒagʷari	dʒagʷari	3	Amondawa	WILD_CAT	3.T.C 3.A.V 3.K.C 3.A.V 3.R.C 3.I.V	AXBYBZ	1 7 1 7 5 7	dʒ a gʷ a r i	mbarakadʒaʔi / dʒagʷari	2.0 1.5 1.75 1.3 1.75 0.8	
 9474	ɨ w ɨ t u	IWITY	2680	19205	vento1	WIND	Amondawa	0	ɨwɨtu	ɨwɨtu	3	Amondawa	WIND	3.I.V 3.W.C 3.I.V 3.T.C 3.Y.V	XBYBZ	7 6 7 1 7	ɨ w ɨ t u	ɨwɨtu	1.5 1.75 1.3 1.75 0.8	
 9475	p e - - p o - - -	PEPU	2687	19270	asa1	WING	Amondawa	0	pepo	pepo	3	Amondawa	WING	3.P.C 3.E.V 3.P.C 3.U.V	AXBZ	1 7 1 7	p e p o	pepo	2.0 1.5 1.75 0.8	
@@ -9730,13 +9730,13 @@ ID	ALIGNMENT	CLASSES	COGID	COGIDS	COGNACY	CONCEPT	DOCULECT	DUPLICATES	FORM	IPA	L
 9799	m ã - - ŋ - a r a	MANARA	2632	18889	oque2	WHAT	Tenharim	0	mãŋara	mãŋara	61	Tenharim	WHAT	61.M.C 61.A.V 61.N.C 61.A.V 61.R.C 61.A.V	AXBYBZ	4 7 4 7 5 7	m ã ŋ a r a	mãŋara	2.0 1.5 1.75 1.3 1.75 0.8	
 9800	t ĩ ŋ u h u w a ʔ ẽ	TINYHYWAHE	2642	18938	branco2	WHITE	Tenharim	0	tĩŋuhuwaʔẽ	tĩŋuhuwaʔẽ	61	Tenharim	WHITE	61.T.C 61.I.V 61.N.C 61.Y.V 61.H.C 61.Y.V 61.W.C 61.A.V 61.H.C 61.E.V	AXBYBYBYBZ	1 7 4 7 3 7 6 7 1 7	t ĩ ŋ u h u w a ʔ ẽ	tĩŋuhuwaʔẽ	2.0 1.5 1.75 1.3 1.75 1.3 1.75 1.3 1.75 0.8	
 9801	m a - - ʔ ŋ a	MAHNA	2651	19012	quem	WHO	Tenharim	0	maʔŋa	maʔŋa	61	Tenharim	WHO	61.M.C 61.A.V 61.H.C 61.N.C 61.A.V	AXBCZ	4 7 1 4 7	m a ʔ ŋ a	maʔŋa	2.0 1.5 1.75 1.5 0.8	
-9802	mb/ⁿb a r a k a - dʒ a ʔ i	PARAKATAHI	2661	19126	gatodomato1	WILD CAT	Tenharim	0	mbarakadʒaʔi	mb/ⁿbarakadʒaʔi	61	Tenharim	WILD	61.P.C 61.A.V 61.R.C 61.A.V 61.K.C 61.A.V 61.T.C 61.A.V 61.H.C 61.I.V	AXBYBYBYBZ	1 7 5 7 1 7 1 7 1 7	mb/ⁿb a r a k a dʒ a ʔ i	mbarakadʒaʔi	2.0 1.5 1.75 1.3 1.75 1.3 1.75 1.3 1.75 0.8	
+9802	mb a r a k a - dʒ a ʔ i	PARAKATAHI	2661	19126	gatodomato1	WILD CAT	Tenharim	0	mbarakadʒaʔi	mb/ⁿbarakadʒaʔi	61	Tenharim	WILD	61.P.C 61.A.V 61.R.C 61.A.V 61.K.C 61.A.V 61.T.C 61.A.V 61.H.C 61.I.V	AXBYBYBYBZ	1 7 5 7 1 7 1 7 1 7	mb a r a k a dʒ a ʔ i	mbarakadʒaʔi	2.0 1.5 1.75 1.3 1.75 1.3 1.75 1.3 1.75 0.8	
 9803	- ɨ w ɨ t u - - - -	IWITY	2680	19205	vento1	WIND	Tenharim	0	ɨwɨtu	ɨwɨtu	61	Tenharim	WIND	61.I.V 61.W.C 61.I.V 61.T.C 61.Y.V	XBYBZ	7 6 7 1 7	ɨ w ɨ t u	ɨwɨtu	1.5 1.75 1.3 1.75 0.8	
 9804	p e - - p o - - -	PEPU	2687	19270	asa1	WING	Tenharim	0	pepo	pepo	61	Tenharim	WING	61.P.C 61.E.V 61.P.C 61.U.V	AXBZ	1 7 1 7	p e p o	pepo	2.0 1.5 1.75 0.8	
 9806	ɨ p e k - - o	IPEKU	2704	19437	picapau1	WOODPECKER	Tenharim	0	ɨpeko	ɨpeko	61	Tenharim	WOODPECKER	61.I.V 61.P.C 61.E.V 61.K.C 61.U.V	XBYBZ	7 1 7 1 7	ɨ p e k o	ɨpeko	1.5 1.75 1.3 1.75 0.8	
 9807	k - u - - j ã	KYJA	2696	19359	mulher1	WOMAN	Tenharim	0	kujã	kujã	61	Tenharim	WOMAN	61.K.C 61.Y.V 61.J.C 61.A.V	AXBZ	1 7 6 7	k u j ã	kujã	2.0 1.5 1.75 0.8	
 9808	- - j u β - -	JYB	2719	19535	amarelo1	YELLOW	Tenharim	0	juβ	juβ	61	Tenharim	YELLOW	61.J.C 61.Y.V 61.B.c	AXN	6 7 3	j u β	juβ	2.0 1.5 0.8	
-9809	- - nd/ⁿd e h e	TEHE	2740	19645	vocetu1	YOU (sg)	Tenharim	0	ndehe	nd/ⁿdehe	61	Tenharim	YOU	61.T.C 61.E.V 61.H.C 61.E.V	AXBZ	1 7 3 7	nd/ⁿd e h e	ndehe	2.0 1.5 1.75 0.8	
+9809	- - nd e h e	TEHE	2740	19645	vocetu1	YOU (sg)	Tenharim	0	ndehe	nd/ⁿdehe	61	Tenharim	YOU	61.T.C 61.E.V 61.H.C 61.E.V	AXBZ	1 7 3 7	nd e h e	ndehe	2.0 1.5 1.75 0.8	
 9810	p e - - -	PE	2734	19615	vocesvos1	YOU (pl)	Tenharim	1	pe	pe	61	Tenharim	YOU	61.P.C 61.E.V	AX	1 7	p e	pe (h)	2.0 1.5	
 9811	a k o - t i h - u -	AKUTIHY	21	143	cutia1	AGOUTI	Jiahoi	0	akotihu	akotihu	27	Jiahoi	AGOUTI	27.A.V 27.K.C 27.U.V 27.T.C 27.I.V 27.H.C 27.Y.V	XBYBYBZ	7 1 7 1 7 3 7	a k o t i h u	akotihu	1.5 1.75 1.3 1.75 1.3 1.75 0.8	
 9812	- ɨ ʔ - ɨ - w a	IHIWA	100	670	flecha1	ARROW	Jiahoi	0	ɨʔɨwa	ɨʔɨwa	27	Jiahoi	ARROW	27.I.V 27.H.C 27.I.V 27.W.C 27.A.V	XBYBZ	7 1 7 6 7	ɨ ʔ ɨ w a	ɨʔɨwa	1.5 1.75 1.3 1.75 0.8	
@@ -10119,7 +10119,7 @@ ID	ALIGNMENT	CLASSES	COGID	COGIDS	COGNACY	CONCEPT	DOCULECT	DUPLICATES	FORM	IPA	L
 10191	t ĩ ŋ ã h ĩ	TINAHI	2637	18939	branco2	WHITE	Urueuwauwau	0	tĩŋãhĩ	tĩŋãhĩ	66	Urueuwauwau	WHITE	66.T.C 66.I.V 66.N.C 66.A.V 66.H.C 66.I.V	AXBYBZ	1 7 4 7 3 7	t ĩ ŋ ã h ĩ	tĩŋãhĩ	2.0 1.5 1.75 1.3 1.75 0.8	
 10192	m a - - ʔ ŋ a	MAHNA	2651	19012	quem	WHO	Urueuwauwau	0	maʔŋa	maʔŋa	66	Urueuwauwau	WHO	66.M.C 66.A.V 66.H.C 66.N.C 66.A.V	AXBCZ	4 7 1 4 7	m a ʔ ŋ a	maʔŋa	2.0 1.5 1.75 1.5 0.8	
 10193	i m i + r i k o	IMIRIKU	2655	19059 2117	esposa1	WIFE	Urueuwauwau	0	imiriko	imiriko	66	Urueuwauwau	NOMINALIZER BE	66.I.V 66.M.C 66.I.V 66.R.C 66.I.V 66.K.C 66.U.V	XBYBYBZ	7 4 7 5 7 1 7	i m i + r i k o	imiriko	1.5 1.75 1.3 1.75 1.3 1.75 0.8	
-10194	mb/ⁿb a r a k a - dʒ a ʔ i	PARAKATAHI	2661	19126	gatodomato1	WILD CAT	Urueuwauwau	0	mbarakadʒaʔi	mb/ⁿbarakadʒaʔi	66	Urueuwauwau	WILD	66.P.C 66.A.V 66.R.C 66.A.V 66.K.C 66.A.V 66.T.C 66.A.V 66.H.C 66.I.V	AXBYBYBYBZ	1 7 5 7 1 7 1 7 1 7	mb/ⁿb a r a k a dʒ a ʔ i	mbarakadʒaʔi	2.0 1.5 1.75 1.3 1.75 1.3 1.75 1.3 1.75 0.8	
+10194	mb a r a k a - dʒ a ʔ i	PARAKATAHI	2661	19126	gatodomato1	WILD CAT	Urueuwauwau	0	mbarakadʒaʔi	mb/ⁿbarakadʒaʔi	66	Urueuwauwau	WILD	66.P.C 66.A.V 66.R.C 66.A.V 66.K.C 66.A.V 66.T.C 66.A.V 66.H.C 66.I.V	AXBYBYBYBZ	1 7 5 7 1 7 1 7 1 7	mb a r a k a dʒ a ʔ i	mbarakadʒaʔi	2.0 1.5 1.75 1.3 1.75 1.3 1.75 1.3 1.75 0.8	
 10195	- ɨ w ɨ t u - - - -	IWITY	2680	19205	vento1	WIND	Urueuwauwau	0	ɨwɨtu	ɨwɨtu	66	Urueuwauwau	WIND	66.I.V 66.W.C 66.I.V 66.T.C 66.Y.V	XBYBZ	7 6 7 1 7	ɨ w ɨ t u	ɨwɨtu	1.5 1.75 1.3 1.75 0.8	
 10196	p e - - p o - - -	PEPU	2687	19270	asa1	WING	Urueuwauwau	0	pepo	pepo	66	Urueuwauwau	WING	66.P.C 66.E.V 66.P.C 66.U.V	AXBZ	1 7 1 7	p e p o	pepo	2.0 1.5 1.75 0.8	
 10198	k - u ɲ - - ã	KYNA	2696	19359	mulher1	WOMAN	Urueuwauwau	0	kuɲã	kuɲã	66	Urueuwauwau	WOMAN	66.K.C 66.Y.V 66.N.C 66.A.V	AXBZ	1 7 4 7	k u ɲ ã	kuɲã	2.0 1.5 1.75 0.8	
@@ -12302,7 +12302,7 @@ ID	ALIGNMENT	CLASSES	COGID	COGIDS	COGNACY	CONCEPT	DOCULECT	DUPLICATES	FORM	IPA	L
 12395	ʃ i r a h ã - -	SIRAHA	3909	2224	coracao1	HEART	Ka'apor	0	ʃirahã	ʃirahã	31	Ka'apor (Urubu)	HEART	31.S.C 31.I.V 31.R.C 31.A.V 31.H.C 31.A.V	AXBYBZ	3 7 5 7 3 7	ʃ i r a h ã	ʃirahã	2.0 1.5 1.75 1.3 1.75 0.8	
 12396	- p u - h ɨi - -	PYHI	1163	8339	pesado1	HEAVY	Ka'apor	0	puhɨi	puhɨi	31	Ka'apor (Urubu)	HEAVY	31.P.C 31.Y.V 31.H.C 31.I.V	AXBZ	1 7 3 7	p u h ɨi	puhɨi	2.0 1.5 1.75 0.8	
 12397	- - - - - - - - kʷ a n - u	KANY	1166	8394	ouricoporcoespinho1	HEDGEHOG	Ka'apor	0	kʷanu	kʷanu	31	Ka'apor (Urubu)	HEDGEHOG	31.K.C 31.A.V 31.N.C 31.Y.V	AXBZ	1 7 4 7	kʷ a n u	kʷanu	2.0 1.5 1.75 0.8	
-12398	s a p u k a j -	SAPYKAJ	1180	8467	galinha2	HEN / CHICKEN	Ka'apor	0	sapukaj	sapukaj	31	Ka'apor (Urubu)	HEN	31.S.C 31.A.V 31.P.C 31.Y.V 31.K.C 31.A.V 31.J.c	AXBYBYN	3 7 1 7 1 7 6	s a p u k a j	sapukaj	2.0 1.5 1.75 1.3 1.75 1.3 0.8	
+12398	s a p u k a j -	SAPYKAJ	1180	8467	galinha2	HEN / CHICKEN	Ka'apor	0	sapukaj	sapukaj	31	Ka'apor (Urubu)	SCREAM	31.S.C 31.A.V 31.P.C 31.Y.V 31.K.C 31.A.V 31.J.c	AXBYBYN	3 7 1 7 1 7 6	s a p u k a j	sapukaj	2.0 1.5 1.75 1.3 1.75 1.3 0.8	
 12399	- n u p ã -	NYPA	1198	8612	bater1	HIT	Ka'apor	0	nupã	nupã	31	Ka'apor (Urubu)	HIT	31.N.C 31.Y.V 31.P.C 31.A.V	AXBZ	4 7 1 7	n u p ã	nupã	2.0 1.5 1.75 0.8	
 12400	- - kʷ a r - - -	KAR	1201	8670	buraco1	HOLE	Ka'apor	0	kʷar	kʷar	31	Ka'apor (Urubu)	HOLE	31.K.C 31.A.V 31.R.c	AXN	1 7 5	kʷ a r	kʷar	2.0 1.5 0.8	
 12401	ʔ a - - k -	HAK	1216	8765	chifre1	HORN	Ka'apor	0	ʔak	ʔak	31	Ka'apor (Urubu)	HORN	31.H.C 31.A.V 31.K.c	AXN	1 7 1	ʔ a k	ʔak	2.0 1.5 0.8	
@@ -13609,7 +13609,7 @@ ID	ALIGNMENT	CLASSES	COGID	COGIDS	COGNACY	CONCEPT	DOCULECT	DUPLICATES	FORM	IPA	L
 13711	- - k ɨ ʔ a -	KIHA	659	4619	sujo1	DIRTY	Tupinambá	0	kɨʔa	kɨʔa	64	Tupinambá_	DIRTY	64.K.C 64.I.V 64.H.C 64.A.V	AXBZ	1 7 1 7	k ɨ ʔ a	kɨʔa	2.0 1.5 1.75 0.8	
 13712	- a k o	AKU	672	4672	fazer1	DO / MAKE	Tupinambá	0	ako	ako	64	Tupinambá_	DO	64.A.V 64.K.C 64.U.V	XBZ	7 1 7	a k o	ako	1.5 1.75 0.8	
 13713	ia w a r	JAWAR	676	4730	cachorrocao1	DOG	Tupinambá	0	jawar	jawar	64	Tupinambá_	DOG	64.J.C 64.A.V 64.W.C 64.A.V 64.R.c	AXBYN	6 7 6 7 5	ia w a r	jawar	2.0 1.5 1.75 1.3 0.8	
-13714	- - o k - - e n a	UKENA	683	4792	porta	DOOR	Tupinambá	0	okena	okena	64	Tupinambá_	DOOR	64.U.V 64.K.C 64.E.V 64.N.C 64.A.V	XBYBZ	7 1 7 4 7	o k e n a	okena	1.5 1.75 1.3 1.75 0.8	
+13714	o k + e n	UKENA	683	8870 13646	porta	DOOR	Tupinambá	0	okena	okena	64	Tupinambá_	HOUSE DOOR	64.U.V 64.K.C 64.E.V 64.N.C 64.A.V	XBYBZ	7 1 7 4 7	o k + e n	okena	1.5 1.75 1.3 1.75 0.8	
 13715	- - - - kʷ a t ia - - r -	MUJEKAPA	693	4827	pintardesenhar	DRAW / PAINT	Tupinambá	0	kʷatiar	mojegʷapa	64	Tupinambá_	DRAW	64.M.C 64.U.V 64.J.C 64.E.V 64.K.C 64.A.V 64.P.C 64.A.V	AXBYBYBZ	4 7 6 7 1 7 1 7	kʷ a t ia r	kʷatiar	2.0 1.5 1.75 1.3 1.75 1.3 1.75 0.8	
 13716	- ʔ u - -	HY	699	4886	beber1	DRINK (v)	Tupinambá	0	ʔu	ʔu	64	Tupinambá_	INGEST	64.H.C 64.Y.V	AX	1 7	ʔ u	ʔu	2.0 1.5	
 13717	m o + t i n i ŋ	MUTININ	707	201 4953	secar1	DRY	Tupinambá	0	motiniŋ	motiniŋ	64	Tupinambá_	CAUSATIVE DRY	64.M.C 64.U.V 64.T.C 64.I.V 64.N.C 64.I.V 64.N.c	AXBYBYN	4 7 1 7 4 7 4	m o + t i n i ŋ	motiniŋ	2.0 1.5 1.75 1.3 1.75 1.3 0.8	
@@ -13674,7 +13674,7 @@ ID	ALIGNMENT	CLASSES	COGID	COGIDS	COGNACY	CONCEPT	DOCULECT	DUPLICATES	FORM	IPA	L
 13776	- p o - s ɨ j -	PUSIJ	1163	8339	pesado1	HEAVY	Tupinambá	0	posɨj	posɨj	64	Tupinambá_	HEAVY	64.P.C 64.U.V 64.S.C 64.I.V 64.J.c	AXBYN	1 7 3 7 6	p o s ɨ j	posɨj	2.0 1.5 1.75 1.3 0.8	
 13777	- - - - - - - - kʷ a n - u	KANY	1166	8394	ouricoporcoespinho1	HEDGEHOG	Tupinambá	0	kʷanu	kʷanu	64	Tupinambá_	HEDGEHOG	64.K.C 64.A.V 64.N.C 64.Y.V	AXBZ	1 7 4 7	kʷ a n u	kʷanu	2.0 1.5 1.75 0.8	
 13778	- - p ɨ t ɨ β õ - - - -	PITIBU	1172	8426	ajudar1	HELP	Tupinambá	0	pɨtɨβõ	pɨtɨβõ	64	Tupinambá_	HELP	64.P.C 64.I.V 64.T.C 64.I.V 64.B.C 64.U.V	AXBYBZ	1 7 1 7 3 7	p ɨ t ɨ β õ	pɨtɨβõ	2.0 1.5 1.75 1.3 1.75 0.8	
-13779	s a p u k a j -	SAPYKAJ	1180	8467	galinha2	HEN / CHICKEN	Tupinambá	0	sapukaj	sapukaj	64	Tupinambá_	HEN	64.S.C 64.A.V 64.P.C 64.Y.V 64.K.C 64.A.V 64.J.c	AXBYBYN	3 7 1 7 1 7 6	s a p u k a j	sapukaj	2.0 1.5 1.75 1.3 1.75 1.3 0.8	
+13779	s a p u k a j -	SAPYKAJ	1180	8467	galinha2	HEN / CHICKEN	Tupinambá	0	sapukaj	sapukaj	64	Tupinambá_	SCREAM	64.S.C 64.A.V 64.P.C 64.Y.V 64.K.C 64.A.V 64.J.c	AXBYBYN	3 7 1 7 1 7 6	s a p u k a j	sapukaj	2.0 1.5 1.75 1.3 1.75 1.3 0.8	Also wɨra-sapukaj(a) 'screaming bird'
 13780	- k é - -	KE	1185	8526	aqui	HERE	Tupinambá	0	ké	ké/e	64	Tupinambá_	HERE	64.K.C 64.E.V	AX	1 7	k é	 (i)ké	2.0 1.5	
 13781	ɲ o m i m - - -	NUMIM	1194	8564	esconder1	HIDE	Tupinambá	0	ɲomim	ɲomim	64	Tupinambá_	HIDE	64.N.C 64.U.V 64.M.C 64.I.V 64.M.c	AXBYN	4 7 4 7 4	ɲ o m i m	ɲomim	2.0 1.5 1.75 1.3 0.8	
 13782	- n u p ã -	NYPA	1198	8612	bater1	HIT	Tupinambá	0	nupã	nupã	64	Tupinambá_	HIT	64.N.C 64.Y.V 64.P.C 64.A.V	AXBZ	4 7 1 7	n u p ã	nupã	2.0 1.5 1.75 0.8	
@@ -13897,7 +13897,7 @@ ID	ALIGNMENT	CLASSES	COGID	COGIDS	COGNACY	CONCEPT	DOCULECT	DUPLICATES	FORM	IPA	L
 14000	t i - - ŋ -	TIN	2637	18939	branco1	WHITE	Tupinambá	0	tiŋ	tiŋ	64	Tupinambá_	WHITE	64.T.C 64.I.V 64.N.c	AXN	1 7 4	t i ŋ	tiŋ	2.0 1.5 0.8	
 14001	- a β - - a -	ABA	2649	19013	quem1	WHO	Tupinambá	1	aβa	aβa	64	Tupinambá_	PERSON	64.A.V 64.B.C 64.A.V	XBZ	7 3 7	a β a	aβa	1.5 1.75 0.8	
 14002	e m i + r e k o	EMIREKU	2655	19059 2117	esposa1	WIFE	Tupinambá	0	emireko	emireko	64	Tupinambá_	NOMINALIZER BE	64.E.V 64.M.C 64.I.V 64.R.C 64.E.V 64.K.C 64.U.V	XBYBYBZ	7 4 7 5 7 1 7	e m i + r e k o	emireko	1.5 1.75 1.3 1.75 1.3 1.75 0.8	
-14003	m a r a k a - - - j á/a	MARAKAJA	2661	19126	gatodomato1	WILD CAT	Tupinambá	0	marakajá	marakajá/a	64	Tupinambá_	WILD	64.M.C 64.A.V 64.R.C 64.A.V 64.K.C 64.A.V 64.J.C 64.A.V	AXBYBYBZ	4 7 5 7 1 7 6 7	m a r a k a j á/a	marakajá	2.0 1.5 1.75 1.3 1.75 1.3 1.75 0.8	
+14003	m a r a k a - - - j á	MARAKAJA	2661	19126	gatodomato1	WILD CAT	Tupinambá	0	marakajá	marakajá/a	64	Tupinambá_	WILD	64.M.C 64.A.V 64.R.C 64.A.V 64.K.C 64.A.V 64.J.C 64.A.V	AXBYBYBZ	4 7 5 7 1 7 6 7	m a r a k a j á	marakajá	2.0 1.5 1.75 1.3 1.75 1.3 1.75 0.8	
 14004	- - gʷ a r - - a -	KARA	2670	19169	cachorrodomato1	WILD DOG	Tupinambá	0	gʷara	gʷara	64	Tupinambá_	WILD	64.K.C 64.A.V 64.R.C 64.A.V	AXBZ	1 7 5 7	gʷ a r a	gʷara	2.0 1.5 1.75 0.8	
 14005	- ɨ β ɨ t u - - - -	IBITY	2680	19205	vento1	WIND	Tupinambá	0	ɨβɨtu	ɨβɨtu	64	Tupinambá_	WIND	64.I.V 64.B.C 64.I.V 64.T.C 64.Y.V	XBYBZ	7 3 7 1 7	ɨ β ɨ t u	ɨβɨtu	1.5 1.75 1.3 1.75 0.8	
 14006	p e - - p o - - -	PEPU	2687	19270	asa1	WING	Tupinambá	0	pepo	pepo	64	Tupinambá_	WING	64.P.C 64.E.V 64.P.C 64.U.V	AXBZ	1 7 1 7	p e p o	pepo / aβ	2.0 1.5 1.75 0.8	
@@ -13909,7 +13909,7 @@ ID	ALIGNMENT	CLASSES	COGID	COGIDS	COGNACY	CONCEPT	DOCULECT	DUPLICATES	FORM	IPA	L
 14012	- - j u β - -	JYB	2719	19535	amarelo1	YELLOW	Tupinambá	0	juβ	juβ	64	Tupinambá_	YELLOW	64.J.C 64.Y.V 64.B.c	AXN	6 7 3	j u β	juβ	2.0 1.5 0.8	
 14013	kʷ e - - - s é	KESE	2728	19602	ontem	YESTERDAY	Tupinambá	0	kwesé	kʷesé/e	64	Tupinambá_	YESTERDAY	64.K.C 64.E.V 64.S.C 64.E.V	AXBZ	1 7 3 7	kʷ e s é	kwesé	2.0 1.5 1.75 0.8	
 14014	- - n e - -	NE	2740	19645	vocetu1	YOU (sg)	Tupinambá	0	ne	ne	64	Tupinambá_	YOU	64.N.C 64.E.V	AX	4 7	n e	ne	2.0 1.5	
-14015	p eẽ/ẽː - - -	PE	2734	19615	vocesvos1	YOU (pl)	Tupinambá	0	peẽ	peẽ/ẽː	64	Tupinambá_	YOU	64.P.C 64.E.V	AX	1 7	p eẽ/ẽː	peẽ	2.0 1.5	
+14015	p eẽ - - -	PE	2734	19615	vocesvos1	YOU (pl)	Tupinambá	0	peẽ	peẽ/ẽː	64	Tupinambá_	YOU	64.P.C 64.E.V	AX	1 7	p eẽ	peẽ	2.0 1.5	
 14016	a p i r a	ARARYPI	537	33	emcimade	ABOVE	Nheengatu	0	apira	ararupi	46	Nheengatu	ABOVE	46.A.V 46.R.C 46.A.V 46.R.C 46.Y.V 46.P.C 46.I.V	XBYBYBZ	7 5 7 5 7 1 7	a p i r a	apira	1.5 1.75 1.3 1.75 1.3 1.75 0.8	
 14017	- - - - - r ie - -	RI	8	65	depoisde1	AFTER	Nheengatu	0	rie	rie	46	Nheengatu	AFTER	46.R.C 46.I.V	AX	5 7	r ie	rie / arirewã	2.0 1.5	
 14018	- - a r i r e w ã	ARIREWA	8	65	depoisde1	AFTER	Nheengatu	0	arirewã	arirewã	46	Nheengatu	AFTER	46.A.V 46.R.C 46.I.V 46.R.C 46.E.V 46.W.C 46.A.V	XBYBYBZ	7 5 7 5 7 6 7	a r i r e w ã	rie / arirewã	1.5 1.75 1.3 1.75 1.3 1.75 0.8	
@@ -14059,7 +14059,7 @@ ID	ALIGNMENT	CLASSES	COGID	COGIDS	COGNACY	CONCEPT	DOCULECT	DUPLICATES	FORM	IPA	L
 14162	- p u - s e - -	PYSE	1163	8339	pesado1	HEAVY	Nheengatu	0	puse	puse	46	Nheengatu	HEAVY	46.P.C 46.Y.V 46.S.C 46.E.V	AXBZ	1 7 3 7	p u s e	puse	2.0 1.5 1.75 0.8	
 14163	- - - - - - - - kʷ a n - u	KANY	1166	8394	ouricoporcoespinho1	HEDGEHOG	Nheengatu	0	kʷanu	kʷanu	46	Nheengatu	HEDGEHOG	46.K.C 46.A.V 46.N.C 46.Y.V	AXBZ	1 7 4 7	kʷ a n u	kʷanu	2.0 1.5 1.75 0.8	
 14164	- - p u ʃ i r ũ - - - -	PYSIRY	1172	8426	ajudar1	HELP	Nheengatu	0	puʃirũ	puʃirũ	46	Nheengatu	HELP	46.P.C 46.Y.V 46.S.C 46.I.V 46.R.C 46.Y.V	AXBYBZ	1 7 3 7 5 7	p u ʃ i r ũ	puʃirũ	2.0 1.5 1.75 1.3 1.75 0.8	
-14165	s a p u k ai a	SAPYKAJA	1180	8467	galinha2	HEN / CHICKEN	Nheengatu	0	sapukaia	sapukaja	46	Nheengatu	HEN	46.S.C 46.A.V 46.P.C 46.Y.V 46.K.C 46.A.V 46.J.C 46.A.V	AXBYBYBZ	3 7 1 7 1 7 6 7	s a p u k ai a	sapukaia	2.0 1.5 1.75 1.3 1.75 1.3 1.75 0.8	
+14165	s a p u k ai a	SAPYKAJA	1180	8467	galinha2	HEN / CHICKEN	Nheengatu	0	sapukaia	sapukaja	46	Nheengatu	SCREAM	46.S.C 46.A.V 46.P.C 46.Y.V 46.K.C 46.A.V 46.J.C 46.A.V	AXBYBYBZ	3 7 1 7 1 7 6 7	s a p u k ai a	sapukaia	2.0 1.5 1.75 1.3 1.75 1.3 1.75 0.8	
 14166	j u m i m i - -	JYMIMI	1194	8564	esconder1	HIDE	Nheengatu	0	jumimi	jumimi	46	Nheengatu	HIDE	46.J.C 46.Y.V 46.M.C 46.I.V 46.M.C 46.I.V	AXBYBZ	6 7 4 7 4 7	j u m i m i	jumimi	2.0 1.5 1.75 1.3 1.75 0.8	
 14167	- n u p a -	NYPA	1198	8612	bater1	HIT	Nheengatu	0	nupa	nupa	46	Nheengatu	HIT	46.N.C 46.Y.V 46.P.C 46.A.V	AXBZ	4 7 1 7	n u p a	nupa	2.0 1.5 1.75 0.8	
 14168	- - kʷ a r a - -	KARA	1201	8670	buraco1	HOLE	Nheengatu	0	kʷara	kʷara	46	Nheengatu	HOLE	46.K.C 46.A.V 46.R.C 46.A.V	AXBZ	1 7 5 7	kʷ a r a	kʷara	2.0 1.5 1.75 0.8	
@@ -14171,7 +14171,7 @@ ID	ALIGNMENT	CLASSES	COGID	COGIDS	COGNACY	CONCEPT	DOCULECT	DUPLICATES	FORM	IPA	L
 14274	- a mb - - i	API	2086	15079	roncar	SNORE	Nheengatu	0	ambi	amb/ⁿbi	46	Nheengatu	SNORE	46.A.V 46.P.C 46.I.V	XBZ	7 1 7	a mb i	ambi / kararaŋ	1.5 1.75 0.8	
 14275	- k a - r a r a ŋ	KARARAN	2085	15080	roncar	SNORE	Nheengatu	0	kararaŋ	kararaŋ	46	Nheengatu	SNORE	46.K.C 46.A.V 46.R.C 46.A.V 46.R.C 46.A.V 46.N.c	AXBYBYN	1 7 5 7 5 7 4	k a r a r a ŋ	ambi / kararaŋ	2.0 1.5 1.75 1.3 1.75 1.3 0.8	
 14276	m i mb + i r a	MIPIRA	2099	15191 15	filhodemulher1	SON OF WOMAN	Nheengatu	0	mimbira	mimb/ⁿbira	46	Nheengatu	_HUSBAND SEED	46.M.C 46.I.V 46.P.C 46.I.V 46.R.C 46.A.V	AXBYBZ	4 7 1 7 5 7	m i mb + i r a	mimbira	2.0 1.5 1.75 1.3 1.75 0.8	
-14277	m i mb/ⁿb + i r a	MIPIRA	2093	15125 868	filhodehomen1	SON OF MAN	Nheengatu	1	mimbira	mimb/ⁿbira	46	Nheengatu	_HUSBAND SEED	46.M.C 46.I.V 46.P.C 46.I.V 46.R.C 46.A.V	AXBYBZ	4 7 1 7 5 7	m i mb/ⁿb + i r a	mimbira	2.0 1.5 1.75 1.3 1.75 0.8	
+14277	m i mb + i r a	MIPIRA	2093	15125 868	filhodehomen1	SON OF MAN	Nheengatu	1	mimbira	mimb/ⁿbira	46	Nheengatu	_HUSBAND SEED	46.M.C 46.I.V 46.P.C 46.I.V 46.R.C 46.A.V	AXBYBZ	4 7 1 7 5 7	m i mb + i r a	mimbira	2.0 1.5 1.75 1.3 1.75 0.8	
 14278	ai	A	2110	15263	azedoamargo1	SOUR / ACID /BITTER	Nheengatu	0	ai	ai	46	Nheengatu	SOUR	46.A.V	X	7	ai	ai	1.5	
 14279	- j ẽ ʔ e -	JEHE	2112	15315	falar1	SPEAK	Nheengatu	0	jẽʔe	jẽʔe	46	Nheengatu	SPEAK	46.J.C 46.E.V 46.H.C 46.E.V	AXBZ	6 7 1 7	j ẽ ʔ e	jẽʔe	2.0 1.5 1.75 0.8	
 14280	j a n u - -	JANY	2120	15370	aranha1	SPIDER	Nheengatu	0	janu	janu	46	Nheengatu	SPIDER	46.J.C 46.A.V 46.N.C 46.Y.V	AXBZ	6 7 4 7	j a n u	janu	2.0 1.5 1.75 0.8	
@@ -14377,7 +14377,7 @@ ID	ALIGNMENT	CLASSES	COGID	COGIDS	COGNACY	CONCEPT	DOCULECT	DUPLICATES	FORM	IPA	L
 14481	a s e + nd ú b	ASETYP	1149	8219 724	escutarouvir1	HEAR	Tupí Austral	0	asendúb	asend/ⁿdú/ub	39	Língua_Geral_Paulista (Tupi_austral)	MOUTH SEE	39.A.V 39.S.C 39.E.V 39.T.C 39.Y.V 39.P.c	XBYBYN	7 3 7 1 7 1	a s e + nd ú b	asendúb	1.5 1.75 1.3 1.75 1.3 0.8	
 14482	p iá - - - - - -	PI	1154	8281	coracao1	HEART	Tupí Austral	0	piá	piá/ia	39	Língua_Geral_Paulista (Tupi_austral)	HEART	39.P.C 39.I.V	AX	1 7	p iá	piá	2.0 1.5	
 14483	- - p i t i b o n - - -	PITIPUN	1172	8426	ajudar1	HELP	Tupí Austral	0	pitibon	pitibon	39	Língua_Geral_Paulista (Tupi_austral)	HELP	39.P.C 39.I.V 39.T.C 39.I.V 39.P.C 39.U.V 39.N.c	AXBYBYN	1 7 1 7 1 7 4	p i t i b o n	pitibon	2.0 1.5 1.75 1.3 1.75 1.3 0.8	
-14484	s a p u k a j a	SAPYKAJA	1180	8467	galinha2	HEN / CHICKEN	Tupí Austral	0	sapukaja	sapukaja	39	Língua_Geral_Paulista (Tupi_austral)	HEN	39.S.C 39.A.V 39.P.C 39.Y.V 39.K.C 39.A.V 39.J.C 39.A.V	AXBYBYBZ	3 7 1 7 1 7 6 7	s a p u k a j a	sapukaja	2.0 1.5 1.75 1.3 1.75 1.3 1.75 0.8	
+14484	s a p u k a j a	SAPYKAJA	1180	8467	galinha2	HEN / CHICKEN	Tupí Austral	0	sapukaja	sapukaja	39	Língua_Geral_Paulista (Tupi_austral)	SCREAM	39.S.C 39.A.V 39.P.C 39.Y.V 39.K.C 39.A.V 39.J.C 39.A.V	AXBYBYBZ	3 7 1 7 1 7 6 7	s a p u k a j a	sapukaja	2.0 1.5 1.75 1.3 1.75 1.3 1.75 0.8	
 14485	j o m i n e - -	JUMINE	1194	8564	esconder1	HIDE	Tupí Austral	0	jomine	jomine	39	Língua_Geral_Paulista (Tupi_austral)	HIDE	39.J.C 39.U.V 39.M.C 39.I.V 39.N.C 39.E.V	AXBYBZ	6 7 4 7 4 7	j o m i n e	jomine	2.0 1.5 1.75 1.3 1.75 0.8	
 14486	m o t a k a	MUTAKA	1199	8613	bater6	HIT	Tupí Austral	0	motaka	motaka	39	Língua_Geral_Paulista (Tupi_austral)	HIT	39.M.C 39.U.V 39.T.C 39.A.V 39.K.C 39.A.V	AXBYBZ	4 7 1 7 1 7	m o t a k a	motaka	2.0 1.5 1.75 1.3 1.75 0.8	
 14487	- - kʷ a r a - -	KARA	1201	8670	buraco1	HOLE	Tupí Austral	0	kʷara	kʷara	39	Língua_Geral_Paulista (Tupi_austral)	HOLE	39.K.C 39.A.V 39.R.C 39.A.V	AXBZ	1 7 5 7	kʷ a r a	kʷara	2.0 1.5 1.75 0.8	
@@ -14446,7 +14446,7 @@ ID	ALIGNMENT	CLASSES	COGID	COGIDS	COGNACY	CONCEPT	DOCULECT	DUPLICATES	FORM	IPA	L
 14550	ɲ eː ŋ	NEN	1926	13815	dizer	SAY	Tupí Austral	0	ɲeeŋ	ɲeːŋ	39	Língua_Geral_Paulista (Tupi_austral)	SAY	39.N.C 39.E.V 39.N.c	AXN	4 7 4	ɲ eː ŋ	ɲeeŋ	2.0 1.5 0.8	
 14551	- m o - - nd u j - - -	MUTYJ	1933	13863	assustaramedrontar1	SCARE	Tupí Austral	0	monduj	mond/ⁿduj	39	Língua_Geral_Paulista (Tupi_austral)	SCARE	39.M.C 39.U.V 39.T.C 39.Y.V 39.J.c	AXBYN	4 7 1 7 6	m o nd u j	monduj	2.0 1.5 1.75 1.3 0.8	
 14552	s e p j a k a	SEPJAKA	1950	13946	ver	SEE	Tupí Austral	0	sepjaka	sepjaka	39	Língua_Geral_Paulista (Tupi_austral)	SEE	39.S.C 39.E.V 39.P.C 39.J.C 39.A.V 39.K.C 39.A.V	AXBCYBZ	3 7 1 6 7 1 7	s e p j a k a	sepjaka	2.0 1.5 1.75 1.5 1.3 1.75 0.8	
-14553	s e k á/a - - -	SEKA	1960	14070	buscarprocurar1	SEEK / LOOK FOR / SEARCH	Tupí Austral	0	seká	seká/a	39	Língua_Geral_Paulista (Tupi_austral)	SEEK	39.S.C 39.E.V 39.K.C 39.A.V	AXBZ	3 7 1 7	s e k á/a	seká	2.0 1.5 1.75 0.8	
+14553	s e k á - - -	SEKA	1960	14070	buscarprocurar1	SEEK / LOOK FOR / SEARCH	Tupí Austral	0	seká	seká/a	39	Língua_Geral_Paulista (Tupi_austral)	SEEK	39.S.C 39.E.V 39.K.C 39.A.V	AXBZ	3 7 1 7	s e k á	seká	2.0 1.5 1.75 0.8	
 14554	o m o + nd ó	UMUTU	1964	14125 124	enviar3	SEND	Tupí Austral	0	omondó	omond/ⁿdó/o	39	Língua_Geral_Paulista (Tupi_austral)	CAUSATIVE GO	39.U.V 39.M.C 39.U.V 39.T.C 39.U.V	XBYBZ	7 4 7 1 7	o m o + nd ó	omondó	1.5 1.75 1.3 1.75 0.8	
 14555	- a j mb - - e	AJPE	1976	14199	afiar1	SHARPEN	Tupí Austral	0	ajmbe	ajmb/ⁿbe	39	Língua_Geral_Paulista (Tupi_austral)	SHARPEN	39.A.V 39.J.c 39.P.C 39.E.V	XMBZ	7 6 1 7	a j mb e	ajmbe	1.5 1.1 1.75 0.8	
 14556	r a s - - - - - i	RASI	2001	14350	doente2	SICK / ILL	Tupí Austral	0	rasi	rasi	39	Língua_Geral_Paulista (Tupi_austral)	SICK	39.R.C 39.A.V 39.S.C 39.I.V	AXBZ	5 7 3 7	r a s i	rasi	2.0 1.5 1.75 0.8	
@@ -14498,7 +14498,7 @@ ID	ALIGNMENT	CLASSES	COGID	COGIDS	COGNACY	CONCEPT	DOCULECT	DUPLICATES	FORM	IPA	L
 14602	t i mb - - o	TIPU	2391	17181	timbo1	TIMBO LIANA	Tupí Austral	0	timbo	timb/ⁿbo	39	Língua_Geral_Paulista (Tupi_austral)	TIMBO	39.T.C 39.I.V 39.P.C 39.U.V	AXBZ	1 7 1 7	t i mb o	timbo	2.0 1.5 1.75 0.8	
 14603	p e + - t i m a - - - - - -	PETIMA	2415	17320 19	fumotabaco1	TOBACCO	Tupí Austral	0	petima	petima	39	Língua_Geral_Paulista (Tupi_austral)	TOBACCO _PLANT(V)	39.P.C 39.E.V 39.T.C 39.I.V 39.M.C 39.A.V	AXBYBZ	1 7 1 7 4 7	p e + t i m a	petima	2.0 1.5 1.75 1.3 1.75 0.8	
 14604	- - k oe r a m - - - - e	KURAME	2433	17425	amanha	TOMORROW	Tupí Austral	0	koerame	koerame	39	Língua_Geral_Paulista (Tupi_austral)	TOMORROW	39.K.C 39.U.V 39.R.C 39.A.V 39.M.C 39.E.V	AXBYBZ	1 7 5 7 4 7	k oe r a m e	koerame	2.0 1.5 1.75 1.3 1.75 0.8	
-14605	t u c/k a - n o	TYKANU	2451	17614	tucano1	TOUCAN	Tupí Austral	0	tucano	tuc/kano	39	Língua_Geral_Paulista (Tupi_austral)	TOUCAN	39.T.C 39.Y.V 39.K.C 39.A.V 39.N.C 39.U.V	AXBYBZ	1 7 1 7 4 7	t u c/k a n o	tucano / tenan	2.0 1.5 1.75 1.3 1.75 0.8	
+14605	t u k a - n o	TYKANU	2451	17614	tucano1	TOUCAN	Tupí Austral	0	tucano	tuc/kano	39	Língua_Geral_Paulista (Tupi_austral)	TOUCAN	39.T.C 39.Y.V 39.K.C 39.A.V 39.N.C 39.U.V	AXBYBZ	1 7 1 7 4 7	t u k a n o	tucano / tenan	2.0 1.5 1.75 1.3 1.75 0.8	
 14606	t e n a - n -	TENAN	2451	17614	tucano1	TOUCAN	Tupí Austral	0	tenan	tenan	39	Língua_Geral_Paulista (Tupi_austral)	TOUCAN	39.T.C 39.E.V 39.N.C 39.A.V 39.N.c	AXBYN	1 7 4 7 4	t e n a n	tucano / tenan	2.0 1.5 1.75 1.3 0.8	
 14607	- - - i b - a -	IPA	2461	309	arvore1	TREE	Tupí Austral	0	iba	iba	39	Língua_Geral_Paulista (Tupi_austral)	TREE	39.I.V 39.P.C 39.A.V	XBZ	7 1 7	i b a	iba	1.5 1.75 0.8	
 14608	ʒ i r - - u k oa	SIRYKU	2475	17805	tartarugajabotijabuti	TURTLE	Tupí Austral	0	ʒirukoa	ʒirukoa	39	Língua_Geral_Paulista (Tupi_austral)	TURTLE	39.S.C 39.I.V 39.R.C 39.Y.V 39.K.C 39.U.V	AXBYBZ	3 7 5 7 1 7	ʒ i r u k oa	ʒirukoa / ʒurara / ʒerika	2.0 1.5 1.75 1.3 1.75 0.8	
@@ -14524,7 +14524,7 @@ ID	ALIGNMENT	CLASSES	COGID	COGIDS	COGNACY	CONCEPT	DOCULECT	DUPLICATES	FORM	IPA	L
 14628	k - u ɲ - - ã	KYNA	2696	19359	mulher1	WOMAN	Tupí Austral	0	kuɲã	kuɲã	39	Língua_Geral_Paulista (Tupi_austral)	WOMAN	39.K.C 39.Y.V 39.N.C 39.A.V	AXBZ	1 7 4 7	k u ɲ ã	kuɲã	2.0 1.5 1.75 0.8	
 14629	ʒ u b - a -	SYPA	2722	19536	amarelo12	YELLOW	Tupí Austral	0	ʒuba	ʒuba	39	Língua_Geral_Paulista (Tupi_austral)	YELLOW	39.S.C 39.Y.V 39.P.C 39.A.V	AXBZ	3 7 1 7	ʒ u b a	ʒuba / tawa	2.0 1.5 1.75 0.8	
 14630	t a w a -	TAWA	2720	19538	amarelo12	YELLOW	Tupí Austral	0	tawa	tawa	39	Língua_Geral_Paulista (Tupi_austral)	YELLOW	39.T.C 39.A.V 39.W.C 39.A.V	AXBZ	1 7 6 7	t a w a	ʒuba / tawa	2.0 1.5 1.75 0.8	
-14631	- - i nd/ⁿd e -	ITE	2740	19645	vocetu1	YOU (sg)	Tupí Austral	0	inde	ind/ⁿde	39	Língua_Geral_Paulista (Tupi_austral)	YOU	39.I.V 39.T.C 39.E.V	XBZ	7 1 7	i nd/ⁿd e	inde	1.5 1.75 0.8	
+14631	- - i nd e -	ITE	2740	19645	vocetu1	YOU (sg)	Tupí Austral	0	inde	ind/ⁿde	39	Língua_Geral_Paulista (Tupi_austral)	YOU	39.I.V 39.T.C 39.E.V	XBZ	7 1 7	i nd e	inde	1.5 1.75 0.8	
 14632	- i b á + t e	IPATE	2	2 7	emcimade3	ABOVE	Yuki	0	ibáte	ibá/ate	72	Yuki	LOW DIFFERENT	72.I.V 72.P.C 72.A.V 72.T.C 72.E.V	XBYBZ	7 1 7 1 7	i b á + t e	ibáte	1.5 1.75 1.3 1.75 0.8	
 14633	d é r e k j a	TEREKJA	19	75	depoisde3	AFTER	Yuki	0	dérekja	dé/erekja	72	Yuki	AFTER	72.T.C 72.E.V 72.R.C 72.E.V 72.K.C 72.J.C 72.A.V	AXBYBCZ	1 7 5 7 1 6 7	d é r e k j a	dérekja	2.0 1.5 1.75 1.3 1.75 1.5 0.8	
 14634	- - - - χ a	GA	27	210	todostudo1	ALL	Yuki	0	χa	χa	72	Yuki	ALL	72.G.C 72.A.V	AX	3 7	χ a	χa	2.0 1.5	
@@ -15035,7 +15035,7 @@ ID	ALIGNMENT	CLASSES	COGID	COGIDS	COGNACY	CONCEPT	DOCULECT	DUPLICATES	FORM	IPA	L
 15140	j e s ɨ ʔ o	JESIHU	2363	16969	garganta6	THROAT	Guarayo	0	jesɨʔo	jesɨʔo	25	Guarayo	THROAT	25.J.C 25.E.V 25.S.C 25.I.V 25.H.C 25.U.V	AXBYBZ	6 7 3 7 1 7	j e s ɨ ʔ o	jesɨʔo	2.0 1.5 1.75 1.3 1.75 0.8	
 15141	j a t e b u - -	JATEPY	2379	17070	carrapato1	TICK	Guarayo	0	jatebu	jatebu	25	Guarayo	TICK	25.J.C 25.A.V 25.T.C 25.E.V 25.P.C 25.Y.V	AXBYBZ	6 7 1 7 1 7	j a t e b u	jatebu	2.0 1.5 1.75 1.3 1.75 0.8	
 15142	p ɨ̃ tʃ ĩ - -	PITI	2384	17121	ataramarrar1	TIE	Guarayo	0	pɨ̃tʃĩ	pɨ̃tʃĩ	25	Guarayo	TIE	25.P.C 25.I.V 25.T.C 25.I.V	AXBZ	1 7 1 7	p ɨ̃ tʃ ĩ	pɨ̃tʃĩ / mboatibu	2.0 1.5 1.75 0.8	
-15143	mb/ⁿb oa t i b u	PUTIPY	2384	17121	ataramarrar1	TIE	Guarayo	0	mboatibu	mb/ⁿboatibu	25	Guarayo	TIE	25.P.C 25.U.V 25.T.C 25.I.V 25.P.C 25.Y.V	AXBYBZ	1 7 1 7 1 7	mb/ⁿb oa t i b u	pɨ̃tʃĩ / mboatibu	2.0 1.5 1.75 1.3 1.75 0.8	
+15143	mb oa t i b u	PUTIPY	2384	17121	ataramarrar1	TIE	Guarayo	0	mboatibu	mb/ⁿboatibu	25	Guarayo	TIE	25.P.C 25.U.V 25.T.C 25.I.V 25.P.C 25.Y.V	AXBYBZ	1 7 1 7 1 7	mb oa t i b u	pɨ̃tʃĩ / mboatibu	2.0 1.5 1.75 1.3 1.75 0.8	
 15144	- - k a n e ʔ o - -	KANEHU	2409	17266	cansado9	TIRED	Guarayo	0	kaneʔo	kaneʔo	25	Guarayo	TIRED	25.K.C 25.A.V 25.N.C 25.E.V 25.H.C 25.U.V	AXBYBZ	1 7 4 7 1 7	k a n e ʔ o	kaneʔo / akɨ	2.0 1.5 1.75 1.3 1.75 0.8	
 15145	- a k ɨ	AKI	2412	17265	cansado9	TIRED	Guarayo	0	akɨ	akɨ	25	Guarayo	TIRED	25.A.V 25.K.C 25.I.V	XBZ	7 1 7	a k ɨ	kaneʔo / akɨ	1.5 1.75 0.8	
 15146	t a t a + t ĩ	TATATI	2416	6003 19	fumotabaco3	TOBACCO	Guarayo	0	tatatĩ	tatatĩ	25	Guarayo	FIRE PLANT(v)	25.T.C 25.A.V 25.T.C 25.A.V 25.T.C 25.I.V	AXBYBZ	1 7 1 7 1 7	t a t a + t ĩ	tatatĩ	2.0 1.5 1.75 1.3 1.75 0.8	
@@ -15049,7 +15049,7 @@ ID	ALIGNMENT	CLASSES	COGID	COGIDS	COGNACY	CONCEPT	DOCULECT	DUPLICATES	FORM	IPA	L
 15154	j u n io -	JYNI	2485	17865	doisduas4	TWO	Guarayo	0	junio	junio	25	Guarayo	TWO	25.J.C 25.Y.V 25.N.C 25.I.V	AXBZ	6 7 4 7	j u n io	junio	2.0 1.5 1.75 0.8	
 15155	- a β a j t e -	ABAJTE	2490	17937	feio7	UGLY	Guarayo	0	aβajte	aβajte	25	Guarayo	UGLY	25.A.V 25.B.C 25.A.V 25.J.c 25.T.C 25.E.V	XBYMBZ	7 3 7 6 1 7	a β a j t e	aβajte	1.5 1.75 1.3 1.1 1.75 0.8	
 15156	- m ia ŋ a	MINA	2503	17985	tiomaterno8	UNCLE (MoBr)	Guarayo	0	miaŋa	miaŋa	25	Guarayo	UNCLE	25.M.C 25.I.V 25.N.C 25.A.V	AXBZ	4 7 4 7	m ia ŋ a	miaŋa	2.0 1.5 1.75 0.8	
-15157	j o r - - á/a - -	JURA	2514	18043	desatardesamarrarsoltar1	UNTIE	Guarayo	0	jorá	jorá/a	25	Guarayo	UNTIE	25.J.C 25.U.V 25.R.C 25.A.V	AXBZ	6 7 5 7	j o r á/a	jorá	2.0 1.5 1.75 0.8	
+15157	j o r - - á - -	JURA	2514	18043	desatardesamarrarsoltar1	UNTIE	Guarayo	0	jorá	jorá/a	25	Guarayo	UNTIE	25.J.C 25.U.V 25.R.C 25.A.V	AXBZ	6 7 5 7	j o r á	jorá	2.0 1.5 1.75 0.8	
 15158	kʷ a - - r u - - - -	KARY	2526	18089	urinar1	URINATE	Guarayo	0	kʷaru	kʷaru	25	Guarayo	URINATE	25.K.C 25.A.V 25.R.C 25.Y.V	AXBZ	1 7 5 7	kʷ a r u	kʷaru	2.0 1.5 1.75 0.8	
 15159	- - a j u - -	AJY	2534	18142	veia2	VEIN	Guarayo	1	aju	aju	25	Guarayo	VEIN	25.A.V 25.J.C 25.Y.V	XBZ	7 6 7	a j u	aju	1.5 1.75 0.8	
 15160	w ẽ - - ʔ ẽ -	WEHE	2556	18227	vomitar1	VOMIT	Guarayo	0	wẽʔẽ	wẽʔẽ	25	Guarayo	VOMIT	25.W.C 25.E.V 25.H.C 25.E.V	AXBZ	6 7 1 7	w ẽ ʔ ẽ	wẽʔẽ	2.0 1.5 1.75 0.8	
@@ -15066,14 +15066,14 @@ ID	ALIGNMENT	CLASSES	COGID	COGIDS	COGNACY	CONCEPT	DOCULECT	DUPLICATES	FORM	IPA	L
 15171	tʃ ĩ - - - -	TI	2637	18939	branco1	WHITE	Guarayo	0	tʃĩ	tʃĩ	25	Guarayo	WHITE	25.T.C 25.I.V	AX	1 7	tʃ ĩ	tʃĩ	2.0 1.5	
 15172	- a β - - a -	ABA	2649	19013	quem1	WHO	Guarayo	1	aβa	aβa	25	Guarayo	PERSON	25.A.V 25.B.C 25.A.V	XBZ	7 3 7	a β a	aβa	1.5 1.75 0.8	
 15173	e m i + r e k o	EMIREKU	2655	19059 2117	esposa1	WIFE	Guarayo	0	emireko	emireko	25	Guarayo	NOMINALIZER BE	25.E.V 25.M.C 25.I.V 25.R.C 25.E.V 25.K.C 25.U.V	XBYBYBZ	7 4 7 5 7 1 7	e m i + r e k o	emireko	1.5 1.75 1.3 1.75 1.3 1.75 0.8	
-15174	mb/ⁿb a r a k a - - - j a	PARAKAJA	2661	19126	gatodomato1	WILD CAT	Guarayo	0	mbarakaja	mb/ⁿbarakaja	25	Guarayo	WILD	25.P.C 25.A.V 25.R.C 25.A.V 25.K.C 25.A.V 25.J.C 25.A.V	AXBYBYBZ	1 7 5 7 1 7 6 7	mb/ⁿb a r a k a j a	mbarakaja	2.0 1.5 1.75 1.3 1.75 1.3 1.75 0.8	
+15174	mb a r a k a - - - j a	PARAKAJA	2661	19126	gatodomato1	WILD CAT	Guarayo	0	mbarakaja	mb/ⁿbarakaja	25	Guarayo	WILD	25.P.C 25.A.V 25.R.C 25.A.V 25.K.C 25.A.V 25.J.C 25.A.V	AXBYBYBZ	1 7 5 7 1 7 6 7	mb a r a k a j a	mbarakaja	2.0 1.5 1.75 1.3 1.75 1.3 1.75 0.8	
 15175	- ɨ β ɨ t u - - - -	IBITY	2680	19205	vento1	WIND	Guarayo	0	ɨβɨtu	ɨβɨtu	25	Guarayo	WIND	25.I.V 25.B.C 25.I.V 25.T.C 25.Y.V	XBYBZ	7 3 7 1 7	ɨ β ɨ t u	ɨβɨtu	1.5 1.75 1.3 1.75 0.8	
 15176	p e - - p o - - -	PEPU	2687	19270	asa1	WING	Guarayo	0	pepo	pepo	25	Guarayo	WING	25.P.C 25.E.V 25.P.C 25.U.V	AXBZ	1 7 1 7	p e p o	pepo / mbaʔepepo	2.0 1.5 1.75 0.8	
-15177	mb/ⁿb a ʔ e p e p o -	PAHEPEPU	2687	19270	asa1	WING	Guarayo	0	mbaʔepepo	mb/ⁿbaʔepepo	25	Guarayo	WING	25.P.C 25.A.V 25.H.C 25.E.V 25.P.C 25.E.V 25.P.C 25.U.V	AXBYBYBZ	1 7 1 7 1 7 1 7	mb/ⁿb a ʔ e p e p o	pepo / mbaʔepepo	2.0 1.5 1.75 1.3 1.75 1.3 1.75 0.8	
+15177	mb a ʔ e p e p o -	PAHEPEPU	2687	19270	asa1	WING	Guarayo	0	mbaʔepepo	mb/ⁿbaʔepepo	25	Guarayo	WING	25.P.C 25.A.V 25.H.C 25.E.V 25.P.C 25.E.V 25.P.C 25.U.V	AXBYBYBZ	1 7 1 7 1 7 1 7	mb a ʔ e p e p o	pepo / mbaʔepepo	2.0 1.5 1.75 1.3 1.75 1.3 1.75 0.8	
 15178	k - u - - j ã	KYJA	2696	19359	mulher1	WOMAN	Guarayo	0	kujã	kujã	25	Guarayo	WOMAN	25.K.C 25.Y.V 25.J.C 25.A.V	AXBZ	1 7 6 7	k u j ã	kujã	2.0 1.5 1.75 0.8	
 15179	ts e b o - - ʔ i -	CEPUHI	2708	19473	vermeminhoca1	WORM (EARTH)	Guarayo	0	tseboʔi	tseboʔi	25	Guarayo	WORM	25.C.C 25.E.V 25.P.C 25.U.V 25.H.C 25.I.V	AXBYBZ	2 7 1 7 1 7	ts e b o ʔ i	tseboʔi	2.0 1.5 1.75 1.3 1.75 0.8	
 15180	- - j u - - -	JY	2719	19535	amarelo1	YELLOW	Guarayo	1	ju	ju	25	Guarayo	YELLOW	25.J.C 25.Y.V	AX	6 7	j u	ju	2.0 1.5	
-15181	- - nd/ⁿd e - -	TE	2740	19645	vocetu1	YOU (sg)	Guarayo	0	nde	nd/ⁿde	25	Guarayo	YOU	25.T.C 25.E.V	AX	1 7	nd/ⁿd e	nde	2.0 1.5	
+15181	- - nd e - -	TE	2740	19645	vocetu1	YOU (sg)	Guarayo	0	nde	nd/ⁿde	25	Guarayo	YOU	25.T.C 25.E.V	AX	1 7	nd e	nde	2.0 1.5	
 15182	- i b a + t e	IPATE	2	2 7	emcimade3	ABOVE	Siriono	0	ibate	ibate	55	Sirionó	LOW DIFFERENT	55.I.V 55.P.C 55.A.V 55.T.C 55.E.V	XBYBZ	7 1 7 1 7	i b a + t e	ibate	1.5 1.75 1.3 1.75 0.8	
 15183	- - a k e r e - -	AKERE	8	65	depoisde	AFTER	Siriono	0	akere	akere	55	Sirionó	AFTER	55.A.V 55.K.C 55.E.V 55.R.C 55.E.V	XBYBZ	7 1 7 5 7	a k e r e	akere / ande	1.5 1.75 1.3 1.75 0.8	
 15184	- a nd e - -	ATE	11	71	depoisde	AFTER	Siriono	0	ande	and/ⁿde	55	Sirionó	AFTER	55.A.V 55.T.C 55.E.V	XBZ	7 1 7	a nd e	akere / ande	1.5 1.75 0.8	
@@ -15567,7 +15567,7 @@ ID	ALIGNMENT	CLASSES	COGID	COGIDS	COGNACY	CONCEPT	DOCULECT	DUPLICATES	FORM	IPA	L
 15673	a + p u ʔ a	APYHA	1879	13525 2257	redondo1	ROUND	Warazu	0	apuʔa	apuʔa	67	Warazu (Pauserna)	ROUND ?	67.A.V 67.P.C 67.Y.V 67.H.C 67.A.V	XBYBZ	7 1 7 1 7	a + p u ʔ a	apuʔa	1.5 1.75 1.3 1.75 0.8	
 15674	ð ã - - n ɨ	DANI	1892	13591	correr1	RUN	Warazu	0	ðãnɨ	ðãnɨ	67	Warazu (Pauserna)	RUN	67.D.C 67.A.V 67.N.C 67.I.V	AXBZ	3 7 4 7	ð ã n ɨ	ðãnɨ	2.0 1.5 1.75 0.8	
 15675	- - e n - + - i - -	ENI	1900	13646 18593	saliva2	SALIVA	Warazu	0	eni	eni	67	Warazu (Pauserna)	_MOUTH LIQUID	67.E.V 67.N.C 67.I.V	XBZ	7 4 7	e n + i	eni	1.5 1.75 0.8	
-15676	- ð ú/u k i - - - -	DYKI	1906	13695	sal1	SALT	Warazu	0	ðúki	ðú/uki	67	Warazu (Pauserna)	SALT	67.D.C 67.Y.V 67.K.C 67.I.V	AXBZ	3 7 1 7	ð ú/u k i	ðúki	2.0 1.5 1.75 0.8	
+15676	- ð ú k i - - - -	DYKI	1906	13695	sal1	SALT	Warazu	0	ðúki	ðú/uki	67	Warazu (Pauserna)	SALT	67.D.C 67.Y.V 67.K.C 67.I.V	AXBZ	3 7 1 7	ð ú k i	ðúki	2.0 1.5 1.75 0.8	
 15677	i w - i - k u ʔ ɨ ts ɨ - -	IWIKYHICI	1913	13746	areia2	SAND	Warazu	0	iwikuʔɨtsɨ	iwikuʔɨtsɨ	67	Warazu (Pauserna)	SAND	67.I.V 67.W.C 67.I.V 67.K.C 67.Y.V 67.H.C 67.I.V 67.C.C 67.I.V	XBYBYBYBZ	7 6 7 1 7 1 7 2 7	i w i k u ʔ ɨ ts ɨ	iwikuʔɨtsɨ	1.5 1.75 1.3 1.75 1.3 1.75 1.3 1.75 0.8	
 15678	m o p ɨ r - - ɨ	MUPIRI	1934	13864	assustaramedrontar3	SCARE	Warazu	0	mopɨrɨ	mopɨrɨ	67	Warazu (Pauserna)	SCARE	67.M.C 67.U.V 67.P.C 67.I.V 67.R.C 67.I.V	AXBYBZ	4 7 1 7 5 7	m o p ɨ r ɨ	mopɨrɨ	2.0 1.5 1.75 1.3 1.75 0.8	
 15679	- e p - a - -	EPA	1950	13946	ver1	SEE	Warazu	0	epa	epa	67	Warazu (Pauserna)	SEE	67.E.V 67.P.C 67.A.V	XBZ	7 1 7	e p a	epa	1.5 1.75 0.8	
@@ -15847,7 +15847,7 @@ ID	ALIGNMENT	CLASSES	COGID	COGIDS	COGNACY	CONCEPT	DOCULECT	DUPLICATES	FORM	IPA	L
 15953	- - p i r - e - -	PIRE	1986	14253	cascapele2	SHELL / BARK	Chiriguano	0	pire	pire	16	Chiriguano	SHELL	16.P.C 16.I.V 16.R.C 16.E.V	AXBZ	1 7 5 7	p i r e	pire	2.0 1.5 1.75 0.8	
 15954	- a s - - - - - ɨ	ASI	2001	14350	doente2	SICK / ILL	Chiriguano	1	asɨ	asɨ	16	Chiriguano	SICK	16.A.V 16.S.C 16.I.V	XBZ	7 3 7	a s ɨ	asɨ	1.5 1.75 0.8	
 15955	- - - ei nd ɨ - -	ETI	2018	14439	irma1	SISTER	Chiriguano	0	eindɨ	eind/ⁿdɨ	16	Chiriguano	SISTER,	16.E.V 16.T.C 16.I.V	XBZ	7 1 7	ei nd ɨ	eindɨ	1.5 1.75 0.8	
-15956	- - p í/i - - r e	PIRE	2023	14547	pele1	SKIN	Chiriguano	0	píre	pí/ire	16	Chiriguano	SKIN	16.P.C 16.I.V 16.R.C 16.E.V	AXBZ	1 7 5 7	p í/i r e	píre	2.0 1.5 1.75 0.8	
+15956	- - p í - - r e	PIRE	2023	14547	pele1	SKIN	Chiriguano	0	píre	pí/ire	16	Chiriguano	SKIN	16.P.C 16.I.V 16.R.C 16.E.V	AXBZ	1 7 5 7	p í r e	píre	2.0 1.5 1.75 0.8	
 15957	- a r a - -	ARA	2031	14610	ceu2	SKY	Chiriguano	1	ara	ara	16	Chiriguano	SKY	16.A.V 16.R.C 16.A.V	XBZ	7 5 7	a r a	ara	1.5 1.75 0.8	
 15958	- k - e - -	KE	2043	14724	dormir1	SLEEP	Chiriguano	0	ke	ke	16	Chiriguano	SLEEP	16.K.C 16.E.V	AX	1 7	k e	ke	2.0 1.5	
 15959	m ĩ - ʃ i -	MISI	2054	14836	pequeno1	SMALL	Chiriguano	0	mĩʃi	mĩʃi	16	Chiriguano	SMALL	16.M.C 16.I.V 16.S.C 16.I.V	AXBZ	4 7 3 7	m ĩ ʃ i	mĩʃi	2.0 1.5 1.75 0.8	
@@ -15885,7 +15885,7 @@ ID	ALIGNMENT	CLASSES	COGID	COGIDS	COGNACY	CONCEPT	DOCULECT	DUPLICATES	FORM	IPA	L
 15991	- a s eo - -	ASE	2363	16969	garganta6	THROAT	Chiriguano	0	aseo	aseo	16	Chiriguano	THROAT	16.A.V 16.S.C 16.E.V	XBZ	7 3 7	a s eo	aseo	1.5 1.75 0.8	
 15992	j a t eu - - - -	JATE	2379	17070	carrapato1	TICK	Chiriguano	0	jateu	jateu	16	Chiriguano	TICK	16.J.C 16.A.V 16.T.C 16.E.V	AXBZ	6 7 1 7	j a t eu	jateu	2.0 1.5 1.75 0.8	
 15993	- a p ɨ̃ t i	APITI	2384	17121	ataramarrar1	TIE	Chiriguano	0	apɨ̃ti	apɨ̃ti	16	Chiriguano	TIE	16.A.V 16.P.C 16.I.V 16.T.C 16.I.V	XBYBZ	7 1 7 1 7	a p ɨ̃ t i	apɨ̃ti / mbojuápɨ	1.5 1.75 1.3 1.75 0.8	
-15994	mb/ⁿb o j uá/ua p ɨ	PUJYPI	2384	17121	ataramarrar1	TIE	Chiriguano	0	mbojuápɨ	mb/ⁿbojuá/uapɨ	16	Chiriguano	TIE	16.P.C 16.U.V 16.J.C 16.Y.V 16.P.C 16.I.V	AXBYBZ	1 7 6 7 1 7	mb/ⁿb o j uá/ua p ɨ	apɨ̃ti / mbojuápɨ	2.0 1.5 1.75 1.3 1.75 0.8	
+15994	mb o j uá p ɨ	PUJYPI	2384	17121	ataramarrar1	TIE	Chiriguano	0	mbojuápɨ	mb/ⁿbojuá/uapɨ	16	Chiriguano	TIE	16.P.C 16.U.V 16.J.C 16.Y.V 16.P.C 16.I.V	AXBYBZ	1 7 6 7 1 7	mb o j uá p ɨ	apɨ̃ti / mbojuápɨ	2.0 1.5 1.75 1.3 1.75 0.8	
 15995	- - k a n ɨ - - - -	KANI	2409	17266	cansado1	TIRED	Chiriguano	0	kanɨ	kanɨ	16	Chiriguano	TIRED	16.K.C 16.A.V 16.N.C 16.I.V	AXBZ	1 7 4 7	k a n ɨ	kanɨ	2.0 1.5 1.75 0.8	
 15996	t ã t ã + t i	TATATI	2416	6003 17321	fumotabaco3	TOBACCO	Chiriguano	0	tãtãti	tãtãti	16	Chiriguano	FIRE TOBACCO	16.T.C 16.A.V 16.T.C 16.A.V 16.T.C 16.I.V	AXBYBZ	1 7 1 7 1 7	t ã t ã + t i	tãtãti	2.0 1.5 1.75 1.3 1.75 0.8	
 15997	- p ɨa r e v e	PIREBE	2434	17424	amanha4	TOMORROW	Chiriguano	0	pɨareve	pɨareve	16	Chiriguano	TOMORROW	16.P.C 16.I.V 16.R.C 16.E.V 16.B.C 16.E.V	AXBYBZ	1 7 5 7 3 7	p ɨa r e v e	pɨareve	2.0 1.5 1.75 1.3 1.75 0.8	
@@ -16111,7 +16111,7 @@ ID	ALIGNMENT	CLASSES	COGID	COGIDS	COGNACY	CONCEPT	DOCULECT	DUPLICATES	FORM	IPA	L
 16217	- ɨ k ɨ ʔ a -	IKIHA	659	4619	sujo1	DIRTY	Mbya	0	ɨkɨʔa	ɨkɨʔa	42	Mbjá	DIRTY	42.I.V 42.K.C 42.I.V 42.H.C 42.A.V	XBYBZ	7 1 7 1 7	ɨ k ɨ ʔ a	ɨkɨʔa	1.5 1.75 1.3 1.75 0.8	
 16218	dʒ a p o	TAPU	669	4669	fazer1	DO / MAKE	Mbya	0	dʒapo	dʒapo	42	Mbjá	DO	42.T.C 42.A.V 42.P.C 42.U.V	AXBZ	1 7 1 7	dʒ a p o	dʒapo	2.0 1.5 1.75 0.8	
 16219	ia gʷ a	JAKA	678	4734	cachorrocao1	DOG	Mbya	0	jagʷa	jagʷa	42	Mbjá	DOG	42.J.C 42.A.V 42.K.C 42.A.V	AXBZ	6 7 1 7	ia gʷ a	jagʷa	2.0 1.5 1.75 0.8	
-16220	- - o k - - - - ẽ	UKE	683	4792	porta	DOOR	Mbya	0	okẽ	okẽ	42	Mbjá	DOOR	42.U.V 42.K.C 42.E.V	XBZ	7 1 7	o k ẽ	okẽ	1.5 1.75 0.8	
+16220	o k + ẽ	UKE	683	8870 13646	porta	DOOR	Mbya	0	okẽ	okẽ	42	Mbjá	DOOR	42.U.V 42.K.C 42.E.V	XBZ	7 1 7	o k + ẽ	okẽ	1.5 1.75 0.8	
 16221	e m o + p a r a - - - -	EMUPARA	177	200 4829	pintardesenhar3	DRAW / PAINT	Mbya	0	emopara	emopara	42	Mbjá	CAUSATIVE ?	42.E.V 42.M.C 42.U.V 42.P.C 42.A.V 42.R.C 42.A.V	XBYBYBZ	7 4 7 1 7 5 7	e m o + p a r a	emopara	1.5 1.75 1.3 1.75 1.3 1.75 0.8	
 16222	- ʔ u - -	HY	699	4886	beber1	DRINK (v)	Mbya	0	ʔu	ʔu	42	Mbjá	INGEST	42.H.C 42.Y.V	AX	1 7	ʔ u	ʔu	2.0 1.5	
 16223	m o + mb i r u	MUPIRY	708	201 4952	secar5	DRY	Mbya	0	mombiru	momb/ⁿbiru	42	Mbjá	_CAUSATIVE DRY	42.M.C 42.U.V 42.P.C 42.I.V 42.R.C 42.Y.V	AXBYBZ	4 7 1 7 5 7	m o + mb i r u	mombiru	2.0 1.5 1.75 1.3 1.75 0.8	
@@ -16464,7 +16464,7 @@ ID	ALIGNMENT	CLASSES	COGID	COGIDS	COGNACY	CONCEPT	DOCULECT	DUPLICATES	FORM	IPA	L
 16570	- - k ɨ ʔ a -	KIHA	659	4619	sujo1	DIRTY	Guaraní	0	kɨʔa	kɨʔa	24	Guarani_Paraguay	DIRTY	24.K.C 24.I.V 24.H.C 24.A.V	AXBZ	1 7 1 7	k ɨ ʔ a	kɨʔa	2.0 1.5 1.75 0.8	
 16571	j a p o	JAPU	669	4669	fazer1	DO / MAKE	Guaraní	0	japo	japo	24	Guarani_Paraguay	DO	24.J.C 24.A.V 24.P.C 24.U.V	AXBZ	6 7 1 7	j a p o	japo	2.0 1.5 1.75 0.8	
 16572	ia gʷ a	JAKA	678	4734	cachorrocao1	DOG	Guaraní	0	jagʷa	jagʷa	24	Guarani_Paraguay	DOG	24.J.C 24.A.V 24.K.C 24.A.V	AXBZ	6 7 1 7	ia gʷ a	jagʷa	2.0 1.5 1.75 0.8	
-16573	- - o k - - - - ẽ	UKE	683	4792	porta	DOOR	Guaraní	0	okẽ	oke	24	Guarani_Paraguay	_DOOR	24.U.V 24.K.C 24.E.V	XBZ	7 1 7	o k ẽ	okẽ	1.5 1.75 0.8	
+16573	o k + ẽ	UKE	683	8870 13646	porta	DOOR	Guaraní	0	okẽ	oke	24	Guarani_Paraguay	HOUSE DOOR	24.U.V 24.K.C 24.E.V	XBZ	7 1 7	o k + ẽ	okẽ	1.5 1.75 0.8	
 16574	- mb o + p a r a - - - -	PUPARA	177	200 4829	pintardesenhar3	DRAW / PAINT	Guaraní	0	mbopara	mb/ⁿbopara	24	Guarani_Paraguay	CAUSATIVE ?	24.P.C 24.U.V 24.P.C 24.A.V 24.R.C 24.A.V	AXBYBZ	1 7 1 7 5 7	mb o + p a r a	mbopara	2.0 1.5 1.75 1.3 1.75 0.8	
 16575	- ʔ ɨ + - ʔ u - -	HIHY	699	18593 4886	beber1	DRINK (v)	Guaraní	0	ʔɨʔu	ʔɨʔu	24	Guarani_Paraguay	_LIQUID INGEST	24.H.C 24.I.V 24.H.C 24.Y.V	AXBZ	1 7 1 7	ʔ ɨ + ʔ u	ʔɨʔu	2.0 1.5 1.75 0.8	
 16576	mb o + h ɨ p a	PUHIPA	709	201 202	secar9	DRY	Guaraní	0	mbohɨpa	mb/ⁿbohɨpa	24	Guarani_Paraguay	CAUSATIVE _DRY	24.P.C 24.U.V 24.H.C 24.I.V 24.P.C 24.A.V	AXBYBZ	1 7 3 7 1 7	mb o + h ɨ p a	mbohɨpa	2.0 1.5 1.75 1.3 1.75 0.8	
@@ -16715,7 +16715,7 @@ ID	ALIGNMENT	CLASSES	COGID	COGIDS	COGNACY	CONCEPT	DOCULECT	DUPLICATES	FORM	IPA	L
 16821	s aɨ j u - - -	SAJY	2719	19535	amarelo1	YELLOW	Guaraní	0	saɨju	saɨju	24	Guarani_Paraguay	YELLOW	24.S.C 24.A.V 24.J.C 24.Y.V	AXBZ	3 7 6 7	s aɨ j u	saɨju	2.0 1.5 1.75 0.8	
 16822	- - n e - -	NE	2740	19645	vocetu1	YOU (sg)	Guaraní	0	ne	ne	24	Guarani_Paraguay	YOU	24.N.C 24.E.V	AX	4 7	n e	ne	2.0 1.5	
 16823	p eẽ - - -	PE	2734	19615	vocesvos1	YOU (pl)	Guaraní	0	peẽ	peẽ/ẽː	24	Guarani_Paraguay	YOU	24.P.C 24.E.V	AX	1 7	p eẽ	peẽ	2.0 1.5	
-16824	- ɨ β a + t e	IBATE	2	2 7	emcimade3	ABOVE	Old Guaraní	0	ɨβate	ɨβate	48	Old_Guaraní_	LOW DIFFERENT	48.I.V 48.B.C 48.A.V 48.T.C 48.E.V	XBYBZ	7 3 7 1 7	ɨ β a + t e	ɨβate	1.5 1.75 1.3 1.75 0.8	
+16824	- ɨ β a + t e	IBATE	2	2 7	emcimade3	ABOVE	Old Guaraní	0	ɨβate	ɨβate	48	Old_Guaraní_	LOW DIFFERENT	48.I.V 48.B.C 48.A.V 48.T.C 48.E.V	XBYBZ	7 3 7 1 7	ɨ β a + t e	ɨβate / ʔar / osé / osepe	1.5 1.75 1.3 1.75 0.8	
 16825	- - - r i r é - -	RIRE	8	65	depoisde1	AFTER	Old Guaraní	0	riré	riré/e	48	Old_Guaraní_	AFTER	48.R.C 48.I.V 48.R.C 48.E.V	AXBZ	5 7 5 7	r i r é	riré	2.0 1.5 1.75 0.8	
 16826	a k u - t i - - - -	AKYTI	21	143	cutia1	AGOUTI	Old Guaraní	0	akuti	akuti	48	Old_Guaraní_	AGOUTI	48.A.V 48.K.C 48.Y.V 48.T.C 48.I.V	XBYBZ	7 1 7 1 7	a k u t i	akuti	1.5 1.75 1.3 1.75 0.8	
 16827	- - - o p a - - - -	UPA	25	205	todostudo1	ALL	Old Guaraní	0	opa	opa	48	Old_Guaraní_	ALL	48.U.V 48.P.C 48.A.V	XBZ	7 1 7	o p a	opa	1.5 1.75 0.8	
@@ -16802,7 +16802,7 @@ ID	ALIGNMENT	CLASSES	COGID	COGIDS	COGNACY	CONCEPT	DOCULECT	DUPLICATES	FORM	IPA	L
 16911	- - k ɨ ʔ a -	KIHA	659	4619	sujo1	DIRTY	Old Guaraní	0	kɨʔa	kɨʔa	48	Old_Guaraní_	DIRTY	48.K.C 48.I.V 48.H.C 48.A.V	AXBZ	1 7 1 7	k ɨ ʔ a	kɨʔa	2.0 1.5 1.75 0.8	
 16912	- a p o	APU	669	4669	fazer1	DO / MAKE	Old Guaraní	0	apo	apo	48	Old_Guaraní_	DO	48.A.V 48.P.C 48.U.V	XBZ	7 1 7	a p o	apo	1.5 1.75 0.8	
 16913	ia gʷ a	JAKA	678	4734	cachorrocao	DOG	Old Guaraní	0	jagʷa	jagʷa	48	Old_Guaraní_	DOG	48.J.C 48.A.V 48.K.C 48.A.V	AXBZ	6 7 1 7	ia gʷ a	jagʷa	2.0 1.5 1.75 0.8	
-16914	- - o k - - e n a	UKENA	683	4792	porta	DOOR	Old Guaraní	0	okena	okena	48	Old_Guaraní_	DOOR	48.U.V 48.K.C 48.E.V 48.N.C 48.A.V	XBYBZ	7 1 7 4 7	o k e n a	okena	1.5 1.75 1.3 1.75 0.8	
+16914	o k + e n a	UKENA	683	8870 13646	porta	DOOR	Old Guaraní	0	okena	okena	48	Old_Guaraní_	HOUSE DOOR	48.U.V 48.K.C 48.E.V 48.N.C 48.A.V	XBYBZ	7 1 7 4 7	o k + e n a	okena	1.5 1.75 1.3 1.75 0.8	
 16915	- - - - kʷ a t ia - - - -	KATI	693	4828	pintardesenhar2	DRAW / PAINT	Old Guaraní	0	kʷatia	kʷatia	48	Old_Guaraní_	DRAW	48.K.C 48.A.V 48.T.C 48.I.V	AXBZ	1 7 1 7	kʷ a t ia	kʷatia	2.0 1.5 1.75 0.8	
 16916	- ʔ u - -	HY	699	4886	beber1	DRINK (v)	Old Guaraní	0	ʔu	ʔu	48	Old_Guaraní_	INGEST	48.H.C 48.Y.V	AX	1 7	ʔ u	ʔu	2.0 1.5	
 16917	m o + mb i r u -	MUPIRY	708	201 4952	secar	DRY	Old Guaraní	0	mombiru	momb/ⁿbiru	48	Old_Guaraní_	_CAUSATIVE DRY	48.M.C 48.U.V 48.P.C 48.I.V 48.R.C 48.Y.V	AXBYBZ	4 7 1 7 5 7	m o + mb i r u	mombiru	2.0 1.5 1.75 1.3 1.75 0.8	
@@ -16979,7 +16979,7 @@ ID	ALIGNMENT	CLASSES	COGID	COGIDS	COGNACY	CONCEPT	DOCULECT	DUPLICATES	FORM	IPA	L
 17088	m o - - - j -	MUJ	2079	15011	cobra1	SNAKE	Old Guaraní	0	moj	moj	48	Old_Guaraní_	SNAKE	48.M.C 48.U.V 48.J.c	AXN	4 7 6	m o j	moj	2.0 1.5 0.8	
 17089	- k e - r a m u -	KERAMY	2085	15080	roncar2	SNORE	Old Guaraní	0	keramu	keramu	48	Old_Guaraní_	SNORE	48.K.C 48.E.V 48.R.C 48.A.V 48.M.C 48.Y.V	AXBYBZ	1 7 5 7 4 7	k e r a m u	keramu	2.0 1.5 1.75 1.3 1.75 0.8	
 17090	m e mb + ɨ	MEPI	2099	15191 15	filhodemulher1	SON OF WOMAN	Old Guaraní	0	membɨ	memb/ⁿbɨ	48	Old_Guaraní_	_HUSBAND SEED	48.M.C 48.E.V 48.P.C 48.I.V	AXBZ	4 7 1 7	m e mb + ɨ	membɨ	2.0 1.5 1.75 0.8	
-17091	m e mb/ⁿb + ɨ	MEPI	2093	15125 868	filhodehomen1	SON OF MAN	Old Guaraní	1	membɨ	memb/ⁿbɨ	48	Old_Guaraní_	_HUSBAND SEED	48.M.C 48.E.V 48.P.C 48.I.V	AXBZ	4 7 1 7	m e mb/ⁿb + ɨ	membɨ	2.0 1.5 1.75 0.8	
+17091	m e mb + ɨ	MEPI	2093	15125 868	filhodehomen1	SON OF MAN	Old Guaraní	1	membɨ	memb/ⁿbɨ	48	Old_Guaraní_	_HUSBAND SEED	48.M.C 48.E.V 48.P.C 48.I.V	AXBZ	4 7 1 7	m e mb + ɨ	membɨ	2.0 1.5 1.75 0.8	
 17092	- a - j - -	AJ	2105	15260	azedoamargo1	SOUR / ACID /BITTER	Old Guaraní	0	aj	aj	48	Old_Guaraní_	SOUR	48.A.V 48.J.c	XN	7 6	a j	aj	1.5 0.8	
 17093	- ɲ e ʔ ẽ -	NEHE	2112	15315	falar1	SPEAK	Old Guaraní	0	ɲeʔẽ	ɲeʔẽ	48	Old_Guaraní_	SPEAK	48.N.C 48.E.V 48.H.C 48.E.V	AXBZ	4 7 1 7	ɲ e ʔ ẽ	ɲeʔẽ	2.0 1.5 1.75 0.8	
 17094	j a n u - -	JANY	2120	15370	aranha1	SPIDER	Old Guaraní	0	janu	janu	48	Old_Guaraní_	SPIDER	48.J.C 48.A.V 48.N.C 48.Y.V	AXBZ	6 7 4 7	j a n u	janu	2.0 1.5 1.75 0.8	
@@ -17045,11 +17045,11 @@ ID	ALIGNMENT	CLASSES	COGID	COGIDS	COGNACY	CONCEPT	DOCULECT	DUPLICATES	FORM	IPA	L
 17154	mb o pʷ á -	PUPA	2613	18811	tecer	WEAVE	Old Guaraní	0	mbopwá	mb/ⁿbopʷá/a	48	Old_Guaraní_	WEAVE	48.P.C 48.U.V 48.P.C 48.A.V	AXBZ	1 7 1 7	mb o pʷ á	mbopwá / o	2.0 1.5 1.75 0.8	
 17155	o	U	2623	18818	tecer	WEAVE	Old Guaraní	1	o	o	48	Old_Guaraní_	WEAVE	48.U.V	X	7	o	mbopwá / o	1.5	
 17156	ã k ɨ̃ -	AKI	2624	18835	molhado1	WET	Old Guaraní	0	ãkɨ̃	ãkɨ̃	48	Old_Guaraní_	WET	48.A.V 48.K.C 48.I.V	XBZ	7 1 7	ã k ɨ̃	ãkɨ̃	1.5 1.75 0.8	
-17157	- - - - - mb/ⁿb a ʔ e	PAHE	2632	18889	oque1	WHAT	Old Guaraní	0	mbaʔe	mb/ⁿbaʔe	48	Old_Guaraní_	WHAT	48.P.C 48.A.V 48.H.C 48.E.V	AXBZ	1 7 1 7	mb/ⁿb a ʔ e	mbaʔe	2.0 1.5 1.75 0.8	
+17157	- - - - - mb a ʔ e	PAHE	2632	18889	oque1	WHAT	Old Guaraní	0	mbaʔe	mb/ⁿbaʔe	48	Old_Guaraní_	WHAT	48.P.C 48.A.V 48.H.C 48.E.V	AXBZ	1 7 1 7	mb a ʔ e	mbaʔe	2.0 1.5 1.75 0.8	
 17158	t ĩ - - - -	TI	2637	18939	branco1	WHITE	Old Guaraní	1	tĩ	tĩ	48	Old_Guaraní_	WHITE	48.T.C 48.I.V	AX	1 7	t ĩ	tĩ	2.0 1.5	
 17159	- a β - - a -	ABA	2649	19013	quem1	WHO	Old Guaraní	0	aβa	aβa	48	Old_Guaraní_	PERSON	48.A.V 48.B.C 48.A.V	XBZ	7 3 7	a β a	aβa	1.5 1.75 0.8	
 17160	e m i + r e k o	EMIREKU	2655	19059 2117	esposa1	WIFE	Old Guaraní	0	emireko	emireko	48	Old_Guaraní_	NOMINALIZER BE	48.E.V 48.M.C 48.I.V 48.R.C 48.E.V 48.K.C 48.U.V	XBYBYBZ	7 4 7 5 7 1 7	e m i + r e k o	emireko	1.5 1.75 1.3 1.75 1.3 1.75 0.8	
-17161	mb/ⁿb a r a k a - - - j a	PARAKAJA	2661	19126	gatodomato	WILD CAT	Old Guaraní	0	mbarakaja	mb/ⁿbarakaja	48	Old_Guaraní_	WILD	48.P.C 48.A.V 48.R.C 48.A.V 48.K.C 48.A.V 48.J.C 48.A.V	AXBYBYBZ	1 7 5 7 1 7 6 7	mb/ⁿb a r a k a j a	mbarakaja	2.0 1.5 1.75 1.3 1.75 1.3 1.75 0.8	
+17161	mb a r a k a - - - j a	PARAKAJA	2661	19126	gatodomato	WILD CAT	Old Guaraní	0	mbarakaja	mb/ⁿbarakaja	48	Old_Guaraní_	WILD	48.P.C 48.A.V 48.R.C 48.A.V 48.K.C 48.A.V 48.J.C 48.A.V	AXBYBYBZ	1 7 5 7 1 7 6 7	mb a r a k a j a	mbarakaja	2.0 1.5 1.75 1.3 1.75 1.3 1.75 0.8	
 17162	- ɨ β ɨ t u - - - -	IBITY	2680	19205	vento1	WIND	Old Guaraní	0	ɨβɨtu	ɨβɨtu	48	Old_Guaraní_	WIND	48.I.V 48.B.C 48.I.V 48.T.C 48.Y.V	XBYBZ	7 3 7 1 7	ɨ β ɨ t u	ɨβɨtu	1.5 1.75 1.3 1.75 0.8	
 17163	p e - - p o - - -	PEPU	2687	19270	asa1	WING	Old Guaraní	0	pepo	pepo	48	Old_Guaraní_	WING	48.P.C 48.E.V 48.P.C 48.U.V	AXBZ	1 7 1 7	p e p o	pepo / gʷira	2.0 1.5 1.75 0.8	
 17164	gʷ i r a	KIRA	2693	19275	asa3	WING	Old Guaraní	0	gʷira	gʷira	48	Old_Guaraní_	WING	48.K.C 48.I.V 48.R.C 48.A.V	AXBZ	1 7 5 7	gʷ i r a	pepo / gʷira	2.0 1.5 1.75 0.8	
@@ -17350,7 +17350,7 @@ ID	ALIGNMENT	CLASSES	COGID	COGIDS	COGNACY	CONCEPT	DOCULECT	DUPLICATES	FORM	IPA	L
 17460	tʃ a pʷ a	TAPA	669	4669	fazer1	DO / MAKE	Xeta	0	tʃapʷa	tʃapʷa	70	Xetá	DO	70.T.C 70.A.V 70.P.C 70.A.V	AXBZ	1 7 1 7	tʃ a pʷ a	tʃapʷa / maj	2.0 1.5 1.75 0.8	
 17461	m a j - -	MAJ	670	4668	fazer1	DO / MAKE	Xeta	0	maj	maj	70	Xetá	DO	70.M.C 70.A.V 70.J.c	AXN	4 7 6	m a j	tʃapʷa / maj	2.0 1.5 0.8	
 17462	h a wʰ a w ai	HAWAWAJ	676	4730	cachorrocao	DOG	Xeta	0	hawhawaj	hawʰawaj	70	Xetá	DOG	70.H.C 70.A.V 70.W.C 70.A.V 70.W.C 70.A.V 70.J.c	AXBYBYN	3 7 6 7 6 7 6	h a wʰ a w ai	hawhawaj	2.0 1.5 1.75 1.3 1.75 1.3 0.8	
-17463	- - õ k - - - - i	UKI	683	4792	porta	DOOR	Xeta	0	õki	õki	70	Xetá	DOOR	70.U.V 70.K.C 70.I.V	XBZ	7 1 7	õ k i	õki	1.5 1.75 0.8	
+17463	õ k + i	UKI	683	8870 13646	porta	DOOR	Xeta	0	õki	õki	70	Xetá	HOUSE DOOR	70.U.V 70.K.C 70.I.V	XBZ	7 1 7	õ k + i	õki	1.5 1.75 0.8	
 17464	- - - - m a tʃ a - - - -	MATA	693	4828	pintardesenhar4	DRAW / PAINT	Xeta	0	matʃa	matʃa	70	Xetá	DRAW	70.M.C 70.A.V 70.T.C 70.A.V	AXBZ	4 7 1 7	m a tʃ a	matʃa	2.0 1.5 1.75 0.8	
 17465	- - e w ua - -	EWY	728	5132	terrapais1	EARTH / LAND	Xeta	0	ewua	ewua	70	Xetá	EARTH	70.E.V 70.W.C 70.Y.V	XBZ	7 6 7	e w ua	ewua	1.5 1.75 0.8	
 17466	- - n - a m - i - - - - - - -	NAMI	720	5067	orelha1	EAR	Xeta	0	nami	nami	70	Xetá	EAR	70.N.C 70.A.V 70.M.C 70.I.V	AXBZ	4 7 4 7	n a m i	nami	2.0 1.5 1.75 0.8	
@@ -17506,7 +17506,7 @@ ID	ALIGNMENT	CLASSES	COGID	COGIDS	COGNACY	CONCEPT	DOCULECT	DUPLICATES	FORM	IPA	L
 17616	- a r e - -	ARE	2607	18687	nos1	WE (EXCL)	Xeta	0	are	are	70	Xetá	WE	70.A.V 70.R.C 70.E.V	XBZ	7 5 7	a r e	are	1.5 1.75 0.8	
 17617	j a n e	JANE	2608	18690	nos1	WE (INCL)	Xeta	0	jane	jane	70	Xetá	WE	70.J.C 70.A.V 70.N.C 70.E.V	AXBZ	6 7 4 7	j a n e	jane	2.0 1.5 1.75 0.8	
 17618	a k ɨa p a	AKIPA	2622	18817	tecer	WEAVE	Xeta	0	akɨapa	akɨapa	70	Xetá	WEAVE	70.A.V 70.K.C 70.I.V 70.P.C 70.A.V	XBYBZ	7 1 7 1 7	a k ɨa p a	akɨapa	1.5 1.75 1.3 1.75 0.8	
-17619	- a g j á/a p a -	AKJAPA	2626	18838	molhado	WET	Xeta	0	agjápa	agjá/apa	70	Xetá	WET	70.A.V 70.K.C 70.J.C 70.A.V 70.P.C 70.A.V	XBCYBZ	7 1 6 7 1 7	a g j á/a p a	agjápa	1.5 1.75 1.5 1.3 1.75 0.8	
+17619	- a g j á p a -	AKJAPA	2626	18838	molhado	WET	Xeta	0	agjápa	agjá/apa	70	Xetá	WET	70.A.V 70.K.C 70.J.C 70.A.V 70.P.C 70.A.V	XBCYBZ	7 1 6 7 1 7	a g j á p a	agjápa	1.5 1.75 1.5 1.3 1.75 0.8	
 17620	k a t a dʒʰ a j	KATATAJ	2648	18948	branco	WHITE	Xeta	0	katajhaj	katadʒʰaj	70	Xetá	WHITE	70.K.C 70.A.V 70.T.C 70.A.V 70.T.C 70.A.V 70.J.c	AXBYBYN	1 7 1 7 1 7 6	k a t a dʒʰ a j	katajhaj	2.0 1.5 1.75 1.3 1.75 1.3 0.8	
 17621	- - - - m i r a d̥ a -	MIRATA	2655	19059	esposa3	WIFE	Xeta	0	mirad̥a	mirad̥a	70	Xetá	WIFE	70.M.C 70.I.V 70.R.C 70.A.V 70.T.C 70.A.V	AXBYBZ	4 7 5 7 1 7	m i r a d̥ a	mirad̥a	2.0 1.5 1.75 1.3 1.75 0.8	
 17622	h a j k ə̃ + tʃ ə̃ ʃ ə̃ a j	HAJKE_TESEAJ	2668	19131 19132	gatodomato	WILD CAT	Xeta	0	hajkə̃_tʃə̃ʃə̃aj	hajkə̃+tʃə̃ʃə̃aj	70	Xetá	WILD _wild	70.H.C 70.A.V 70.J.c 70.K.C 70.E.V 70._._ 70.T.C 70.E.V 70.S.C 70.E.V 70.A.V 70.J.c	AXMBZ_AXBYYN	3 7 6 1 7 9 1 7 3 7 7 6	h a j k ə̃ + tʃ ə̃ ʃ ə̃ a j	hajkə̃_tʃə̃ʃə̃aj	2.0 1.5 1.1 1.75 0.8 0.0 2.0 1.5 1.75 1.3 1.3 0.8	
@@ -17678,7 +17678,7 @@ ID	ALIGNMENT	CLASSES	COGID	COGIDS	COGNACY	CONCEPT	DOCULECT	DUPLICATES	FORM	IPA	L
 17788	- e ʃ a - - - -	ESA	1949	13948	ver1	SEE	Kaiowa	0	eʃa	eʃa	33	Kaiowá	SEE	33.E.V 33.S.C 33.A.V	XBZ	7 3 7	e ʃ a	eʃa	1.5 1.75 0.8	
 17789	h a ʔ ɨ̃i - - - -	HAHI	1955	14010	semente1	SEED	Kaiowa	0	haʔɨ̃i	haʔɨ̃i	33	Kaiowá	SEED	33.H.C 33.A.V 33.H.C 33.I.V	AXBZ	3 7 1 7	h a ʔ ɨ̃i	haʔɨ̃i	2.0 1.5 1.75 0.8	
 17790	- e k a - - -	EKA	1960	14070	buscarprocurar1	SEEK / LOOK FOR / SEARCH	Kaiowa	0	eka	eka	33	Kaiowá	SEEK	33.E.V 33.K.C 33.A.V	XBZ	7 1 7	e k a	eka	1.5 1.75 0.8	
-17791	m o + nd/ⁿd o	MUTU	1964	14125 124	enviar3	SEND	Kaiowa	0	mondo	mond/ⁿdo	33	Kaiowá	CAUSATIVE GO	33.M.C 33.U.V 33.T.C 33.U.V	AXBZ	4 7 1 7	m o + nd/ⁿd o	mondo	2.0 1.5 1.75 0.8	
+17791	m o + nd o	MUTU	1964	14125 124	enviar3	SEND	Kaiowa	0	mondo	mond/ⁿdo	33	Kaiowá	CAUSATIVE GO	33.M.C 33.U.V 33.T.C 33.U.V	AXBZ	4 7 1 7	m o + nd o	mondo	2.0 1.5 1.75 0.8	
 17792	- - p i r - e - -	PIRE	1986	14253	cascapele2	SHELL / BARK	Kaiowa	0	pire	pire	33	Kaiowá	SHELL	33.P.C 33.I.V 33.R.C 33.E.V	AXBZ	1 7 5 7	p i r e	pire	2.0 1.5 1.75 0.8	
 17793	h a s - - - - - ɨ	HASI	2001	14350	doente2	SICK / ILL	Kaiowa	0	hasɨ	hasɨ	33	Kaiowá	SICK	33.H.C 33.A.V 33.S.C 33.I.V	AXBZ	3 7 3 7	h a s ɨ	hasɨ	2.0 1.5 1.75 0.8	
 17794	- - - ei nd ɨ - -	ETI	2018	14439	irma1	SISTER	Kaiowa	0	eindɨ	eind/ⁿdɨ	33	Kaiowá	SISTER,	33.E.V 33.T.C 33.I.V	XBZ	7 1 7	ei nd ɨ	eindɨ	1.5 1.75 0.8	
@@ -17974,7 +17974,7 @@ ID	ALIGNMENT	CLASSES	COGID	COGIDS	COGNACY	CONCEPT	DOCULECT	DUPLICATES	FORM	IPA	L
 18086	h e ʃ a - - - -	HESA	1949	13948	ver1	SEE	Tapiete	0	heʃa	heʃa	58	Tapiete	SEE	58.H.C 58.E.V 58.S.C 58.A.V	AXBZ	3 7 3 7	h e ʃ a	heʃa	2.0 1.5 1.75 0.8	
 18087	h ã ʔ ɨ - - - -	HAHI	1955	14010	semente1	SEED	Tapiete	0	hãʔɨ	hãʔɨ	58	Tapiete	SEED	58.H.C 58.A.V 58.H.C 58.I.V	AXBZ	3 7 1 7	h ã ʔ ɨ	hãʔɨ	2.0 1.5 1.75 0.8	
 18088	h e k a - - -	HEKA	1960	14070	buscarprocurar1	SEEK / LOOK FOR / SEARCH	Tapiete	0	heka	heka	58	Tapiete	SEEK	58.H.C 58.E.V 58.K.C 58.A.V	AXBZ	3 7 1 7	h e k a	heka	2.0 1.5 1.75 0.8	
-18089	m o + nd/ⁿd o	MUTU	1964	14125 124	enviar3	SEND	Tapiete	0	mondo	mond/ⁿdo	58	Tapiete	CAUSATIVE GO	58.M.C 58.U.V 58.T.C 58.U.V	AXBZ	4 7 1 7	m o + nd/ⁿd o	mondo	2.0 1.5 1.75 0.8	
+18089	m o + nd o	MUTU	1964	14125 124	enviar3	SEND	Tapiete	0	mondo	mond/ⁿdo	58	Tapiete	CAUSATIVE GO	58.M.C 58.U.V 58.T.C 58.U.V	AXBZ	4 7 1 7	m o + nd o	mondo	2.0 1.5 1.75 0.8	
 18090	h a í mb - - e	HAIPE	1976	14199	afiar1	SHARPEN	Tapiete	0	haímbe	haí/imb/ⁿbe	58	Tapiete	SHARPEN	58.H.C 58.A.V 58.I.V 58.P.C 58.E.V	AXYBZ	3 7 7 1 7	h a í mb e	haímbe	2.0 1.5 1.3 1.75 0.8	
 18091	- ʃ u t - - - - - u	SYTY	1992	14314	curto	SHORT	Tapiete	0	ʃutu	ʃutu	58	Tapiete	SHORT	58.S.C 58.Y.V 58.T.C 58.Y.V	AXBZ	3 7 1 7	ʃ u t u	ʃutu	2.0 1.5 1.75 0.8	
 18092	h ã ʔ - - - - - i	HAHI	2001	14350	doente	SICK / ILL	Tapiete	0	hãʔi	hãʔi	58	Tapiete	SICK	58.H.C 58.A.V 58.H.C 58.I.V	AXBZ	3 7 1 7	h ã ʔ i	hãʔi	2.0 1.5 1.75 0.8	
@@ -17990,7 +17990,7 @@ ID	ALIGNMENT	CLASSES	COGID	COGIDS	COGNACY	CONCEPT	DOCULECT	DUPLICATES	FORM	IPA	L
 18102	- k a - r õ r õ -	KARURU	2085	15080	roncar3	SNORE	Tapiete	0	karõrõ	karõrõ	58	Tapiete	SNORE	58.K.C 58.A.V 58.R.C 58.U.V 58.R.C 58.U.V	AXBYBZ	1 7 5 7 5 7	k a r õ r õ	karõrõ	2.0 1.5 1.75 1.3 1.75 0.8	
 18103	m e mb + ɨ	MEPI	2099	15191 15	filhodemulher1	SON OF WOMAN	Tapiete	0	membɨ	memb/ⁿbɨ	58	Tapiete	_HUSBAND SEED	58.M.C 58.E.V 58.P.C 58.I.V	AXBZ	4 7 1 7	m e mb + ɨ	membɨ	2.0 1.5 1.75 0.8	
 18104	m e mb + ɨ	MEPI	2093	15125 868	filhodehomen1	SON OF MAN	Tapiete	1	membɨ	memb/ⁿbɨ	58	Tapiete	_HUSBAND SEED	58.M.C 58.E.V 58.P.C 58.I.V	AXBZ	4 7 1 7	m e mb + ɨ	membɨ	2.0 1.5 1.75 0.8	
-18105	h a ʒ - á/a s ɨ - -	HASASI	2106	15259	azedoamargo1	SOUR / ACID /BITTER	Tapiete	0	haʒásɨ	haʒá/asɨ	58	Tapiete	SOUR	58.H.C 58.A.V 58.S.C 58.A.V 58.S.C 58.I.V	AXBYBZ	3 7 3 7 3 7	h a ʒ á/a s ɨ	haʒásɨ	2.0 1.5 1.75 1.3 1.75 0.8	
+18105	h a ʒ - á s ɨ - -	HASASI	2106	15259	azedoamargo1	SOUR / ACID /BITTER	Tapiete	0	haʒásɨ	haʒá/asɨ	58	Tapiete	SOUR	58.H.C 58.A.V 58.S.C 58.A.V 58.S.C 58.I.V	AXBYBZ	3 7 3 7 3 7	h a ʒ á s ɨ	haʒásɨ	2.0 1.5 1.75 1.3 1.75 0.8	
 18106	- h ã ʔ ã -	HAHA	2112	15315	falar1	SPEAK	Tapiete	0	hãʔã	hãʔã	58	Tapiete	SPEAK	58.H.C 58.A.V 58.H.C 58.A.V	AXBZ	3 7 1 7	h ã ʔ ã	hãʔã	2.0 1.5 1.75 0.8	
 18107	ɲ a nd u t i	NATYTI	2120	15370	aranha1	SPIDER	Tapiete	0	ɲanduti	ɲand/ⁿduti	58	Tapiete	SPIDER	58.N.C 58.A.V 58.T.C 58.Y.V 58.T.C 58.I.V	AXBYBZ	4 7 1 7 1 7	ɲ a nd u t i	ɲanduti	2.0 1.5 1.75 1.3 1.75 0.8	
 18108	- h u n - s e	HYNSE	2153	15512	estardeempelevantar	STAND	Tapiete	0	hunse	hunse	58	Tapiete	STAND	58.H.C 58.Y.V 58.N.c 58.S.C 58.E.V	AXMBZ	3 7 4 3 7	h u n s e	hunse	2.0 1.5 1.1 1.75 0.8	
@@ -18013,8 +18013,8 @@ ID	ALIGNMENT	CLASSES	COGID	COGIDS	COGNACY	CONCEPT	DOCULECT	DUPLICATES	FORM	IPA	L
 18125	- - - a p - i ʔ a - - -	APIHA	2300	16594	testiculos1	TESTICLES	Tapiete	1	apiʔa	apiʔa	58	Tapiete	TESTICLES	58.A.V 58.P.C 58.I.V 58.H.C 58.A.V	XBYBZ	7 1 7 1 7	a p i ʔ a	apiʔa	1.5 1.75 1.3 1.75 0.8	
 18126	ãũ	A	2312	16642	aqueleaquilo	THAT	Tapiete	0	ãũ	ãũ	58	Tapiete	THAT	58.A.V	X	7	ãũ	ãũ / pũ	1.5	
 18127	- - p ũ	PY	2310	16640	aqueleaquilo	THAT	Tapiete	0	pũ	pũ	58	Tapiete	THAT	58.P.C 58.Y.V	AX	1 7	p ũ	ãũ / pũ	2.0 1.5	
-18128	h ɨ n a mb/ⁿb u s u	HINAPYSY	2320	16691	grosso3	THICK	Tapiete	0	hɨnambusu	hɨnamb/ⁿbusu	58	Tapiete	THICK	58.H.C 58.I.V 58.N.C 58.A.V 58.P.C 58.Y.V 58.S.C 58.Y.V	AXBYBYBZ	3 7 4 7 1 7 3 7	h ɨ n a mb/ⁿb u s u	hɨnambusu	2.0 1.5 1.75 1.3 1.75 1.3 1.75 0.8	
-18129	- - mb/ⁿb a ʔ e - - - -	PAHE	2326	16725	coisa2	THING	Tapiete	0	mbaʔe	mb/ⁿbaʔe	58	Tapiete	THING	58.P.C 58.A.V 58.H.C 58.E.V	AXBZ	1 7 1 7	mb/ⁿb a ʔ e	mbaʔe	2.0 1.5 1.75 0.8	
+18128	h ɨ n a mb u s u	HINAPYSY	2320	16691	grosso3	THICK	Tapiete	0	hɨnambusu	hɨnamb/ⁿbusu	58	Tapiete	THICK	58.H.C 58.I.V 58.N.C 58.A.V 58.P.C 58.Y.V 58.S.C 58.Y.V	AXBYBYBZ	3 7 4 7 1 7 3 7	h ɨ n a mb u s u	hɨnambusu	2.0 1.5 1.75 1.3 1.75 1.3 1.75 0.8	
+18129	- - mb a ʔ e - - - -	PAHE	2326	16725	coisa2	THING	Tapiete	0	mbaʔe	mb/ⁿbaʔe	58	Tapiete	THING	58.P.C 58.A.V 58.H.C 58.E.V	AXBZ	1 7 1 7	mb a ʔ e	mbaʔe	2.0 1.5 1.75 0.8	
 18130	k o - - - -	KU	2334	16785	este1	THIS	Tapiete	0	ko	ko	58	Tapiete	THIS	58.K.C 58.U.V	AX	1 7	k o	ko	2.0 1.5	
 18131	mb a h á p ɨ - - - -	PAHAPI	2349	16896	tres4	THREE	Tapiete	0	mbahápɨ	mb/ⁿbahá/apɨ	58	Tapiete	THREE	58.P.C 58.A.V 58.H.C 58.A.V 58.P.C 58.I.V	AXBYBZ	1 7 3 7 1 7	mb a h á p ɨ	mbahápɨ	2.0 1.5 1.75 1.3 1.75 0.8	
 18132	dʒ u -	TY	3478	501	espinho1	THORN	Tapiete	1	dʒu	dʒu	58	Tapiete	THORN	58.T.C 58.Y.V	AX	1 7	dʒ u	dʒu	2.0 1.5	
@@ -18314,7 +18314,7 @@ ID	ALIGNMENT	CLASSES	COGID	COGIDS	COGNACY	CONCEPT	DOCULECT	DUPLICATES	FORM	IPA	L
 18428	- - - ɨ k ɨa -	IKI	659	4619	sujo1	DIRTY	Omagua	0	ɨkɨa	ɨkɨa	49	Omagua	DIRTY	49.I.V 49.K.C 49.I.V	XBZ	7 1 7	ɨ k ɨa	ɨkɨa	1.5 1.75 0.8	
 18429	i p u r a k a	IPYRAKA	673	4673	fazer	DO / MAKE	Omagua	0	ipuraka	ipuraka	49	Omagua	DO	49.I.V 49.P.C 49.Y.V 49.R.C 49.A.V 49.K.C 49.A.V	XBYBYBZ	7 1 7 5 7 1 7	i p u r a k a	ipuraka	1.5 1.75 1.3 1.75 1.3 1.75 0.8	
 18430	ia w a r a	JAWARA	676	4730	cachorrocao1	DOG	Omagua	0	jawara	jawara	49	Omagua	DOG	49.J.C 49.A.V 49.W.C 49.A.V 49.R.C 49.A.V	AXBYBZ	6 7 6 7 5 7	ia w a r a	jawara	2.0 1.5 1.75 1.3 1.75 0.8	
-18431	- j a k - - i n a	JAKINA	683	4792	porta	DOOR	Omagua	0	jakina	jakina	49	Omagua	DOOR	49.J.C 49.A.V 49.K.C 49.I.V 49.N.C 49.A.V	AXBYBZ	6 7 1 7 4 7	j a k i n a	jakina	2.0 1.5 1.75 1.3 1.75 0.8	
+18431	j a k + i n a	JAKINA	683	8870 13646	porta	DOOR	Omagua	0	jakina	jakina	49	Omagua	HOUSE DOOR	49.J.C 49.A.V 49.K.C 49.I.V 49.N.C 49.A.V	AXBYBZ	6 7 1 7 4 7	j a k + i n a	jakina	2.0 1.5 1.75 1.3 1.75 0.8	
 18432	- - - - p a r a w a t a	PARAWATA	177	4828	pintardesenhar	DRAW / PAINT	Omagua	0	parawata	parawata	49	Omagua	DRAW	49.P.C 49.A.V 49.R.C 49.A.V 49.W.C 49.A.V 49.T.C 49.A.V	AXBYBYBZ	1 7 5 7 6 7 1 7	p a r a w a t a	parawata	2.0 1.5 1.75 1.3 1.75 1.3 1.75 0.8	
 18433	k u r - a t a	KYRATA	703	4887	beber2	DRINK (v)	Omagua	0	kurata	kurata	49	Omagua	DRINK	49.K.C 49.Y.V 49.R.C 49.A.V 49.T.C 49.A.V	AXBYBZ	1 7 5 7 1 7	k u r a t a	kurata	2.0 1.5 1.75 1.3 1.75 0.8	
 18434	- i k ia n a t a -	IKINATA	706	4950	secar	DRY	Omagua	0	ikianata	ikianata	49	Omagua	DRY	49.I.V 49.K.C 49.I.V 49.N.C 49.A.V 49.T.C 49.A.V	XBYBYBZ	7 1 7 4 7 1 7	i k ia n a t a	ikianata	1.5 1.75 1.3 1.75 1.3 1.75 0.8	
@@ -18956,7 +18956,7 @@ ID	ALIGNMENT	CLASSES	COGID	COGIDS	COGNACY	CONCEPT	DOCULECT	DUPLICATES	FORM	IPA	L
 19075	p u r a n g a		211	1413		BEAUTIFUL	Nheengatu		puranga				BEAUTIFUL				p u r a n g a	puranga		
 19076	t u - - + - w i ʃ a w a -		447	117 3255		CHIEF / MASTER / OWNER	Nheengatu		tuwiʃawa				_HUMAN CHIEF				t u + w i ʃ a w a	tuwiʃawa		
 19077	t u - - - - + j ú k a		475	3397 538		MUD	Nheengatu		tujúka				MUD ROTTEN				t u + j ú k a	tujúka		
-19078	u k e n a		683	4792		DOOR	Nheengatu		ukena				DOOR				u k e n a	ukena		
+19078	u k + e n a		683	8870 13646		DOOR	Nheengatu		ukena				HOUSE DOOR				u k + e n a	ukena		
 19079	mb a + ú		1239	134 12		EAT (intr.)	Nheengatu		mbaú				_THING -INGEST				mb a + ú	mbaú		
 19080	r e s a + r ai		947	5453 114		FORGET	Nheengatu		resarai				EYE ?				r e s a + r ai	resarai		
 19081	kʷ a		1185	8526		HERE	Nheengatu		kʷa				HERE				kʷ a	kʷa		
@@ -19110,11 +19110,11 @@ ID	ALIGNMENT	CLASSES	COGID	COGIDS	COGNACY	CONCEPT	DOCULECT	DUPLICATES	FORM	IPA	L
 19240	- - - j a - h u k -		178	1207		BATHE	Ka'apor		jahuk				BATHE				j a h u k	jahuk		
 19241	- - - j u - h ú - -		178	1207		BATHE	Guajá		juhú				BATHE				j u h ú	juhú		
 19242	- - - - a - t u k -		178	1207		BATHE	Mawe		atuk				BATHE				a t u k	atuk		
-19243	õ k e		683	4792		DOOR	Chiriguano		õke				DOOR				õ k e	õke		
-19244	u k e n		683	4792		DOOR	Tembe		uken				DOOR				u k e n	uken		
-19245	a k e n		683	4792		DOOR	Tapirapé		aken				DOOR				a k e n	aken		
+19243	õ k + e		683	8870 13646		DOOR	Chiriguano		õke				HOUSE MOUTH				õ k + e	õke		
+19244	u k + e n		683	8870 13646		DOOR	Tembe		uken				HOUSE DOOR				u k + e n	uken		
+19245	a k + e n		683	8870 13646		DOOR	Tapirapé		aken				HOUSE DOOR				a k + e n	aken		
 19246	h u k w e n		683	4792		DOOR	Ka'apor		hukwen				DOOR				h u k w e n	hukwen		
-19247	o kʷ ie n d a		683	4792		DOOR	Guarayo		okʷienda				DOOR				o kʷ ie n d a	okʷienda		
+19247	o kʷ ie n d a		683	8870		DOOR	Guarayo		okʷienda				DOOR				o kʷ ie n d a	okʷienda		
 19248	j u w		2342	16841		THORN	Avá Canoeiro		juw				THORN				j u w	juw		
 19249	o kʷ a		361	2536		BROTHER, younger of woman	Wayoro		okʷa				BROTHER				o kʷ a	okʷa		
 19250	o k a r		2549	18217		VILLAGE SQUARE	Guarayo		okar				VILLAGE.SQUARE				o k a r	okar		
@@ -20266,7 +20266,7 @@ ID	ALIGNMENT	CLASSES	COGID	COGIDS	COGNACY	CONCEPT	DOCULECT	DUPLICATES	FORM	IPA	L
 20444	nd e kʷ a t		2815	496		BODY	Wayoro		ndekʷat				BODY				nd e kʷ a t	ndekʷat		
 20445	k ɨ ʔ a t		2815	496		BODY	Makurap		kɨʔat				BODY				k ɨ ʔ a t	kɨʔat		
 20446	e t e		2809	489		BODY	Parakana		ete				BODY				e t e	et		
-20449	ʔ a r -		1	3		ABOVE	Old Guaraní		ʔar				ABOVE				ʔ a r	ʔar		
+20449	ʔ a r -		1	3		ABOVE	Old Guaraní		ʔar				ABOVE				ʔ a r	ɨβate / ʔar / osé / osep		
 20450	p e		1682	12170		PATH / WAY	Wayampi		pe				PATH				p e	pe		
 20451	tʃ u g a		3892	2201		BELLYBUTTON	Makurap		tʃuga				BELLYBUTTON				tʃ u g a	tʃuga		
 20452	tʃ u w - e -		475	3397		MUD	Makurap		tʃuwe				MUD				tʃ u w e	tʃuwe		
@@ -20296,8 +20296,8 @@ ID	ALIGNMENT	CLASSES	COGID	COGIDS	COGNACY	CONCEPT	DOCULECT	DUPLICATES	FORM	IPA	L
 20476	o r a		2857	417		BABAÇU	Makurap		ora				BABAÇU				o r a	ora		
 20477	ao p io n		2824	535		BROTHER, older of man	Makurap		aopion				BROTHER				ao p io n	aopion		
 20478	ɲ ai + w u		1903	13644 1421		SALIVA	Makurap		ɲaiwu				SALIVA ?				ɲ ai + w u	ɲaiwu		
-20479	o s é		2822	533		ABOVE	Old Guaraní		osé				ABOVE				o s é	osé		
-20482	o s e + p e		2822	533 534		ABOVE	Old Guaraní		osepe				ABOVE ?				o s e + p e	osepe		
+20479	o s é		2822	533		ABOVE	Old Guaraní		osé				ABOVE				o s é	ɨβate / ʔar / osé / osep		
+20482	o s e + p e		2822	533 534		ABOVE	Old Guaraní		osepe				ABOVE ?				o s e + p e	ɨβate / ʔar / osé / osep		
 20483	- - - - - t i - - - - -		2827	544		MOTHER-IN-LAW (of man)	Akuntsu		ti				MOTHER-IN-LAW				t i	ti		
 20484	- - - - aɨ s i p a p - -		2827	544		MOTHER-IN-LAW (of man)	Tupari		aɨsipap				MOTHER-IN-LAW				aɨ s i p a p	aɨsipap		
 20485	ò j o β		2829	546		MOTHER-IN-LAW (of man)	Gavião		òhj oβ				MOTHER.IN.LAW				ò j o β	òhj oβ		
@@ -22035,3 +22035,16 @@ ID	ALIGNMENT	CLASSES	COGID	COGIDS	COGNACY	CONCEPT	DOCULECT	DUPLICATES	FORM	IPA	L
 22301	a t ã n d í s a		75	439		ANTEATER	Siriono		atãndísa				ANTEATER				a t ã n d í s a	atãndísa / atãmbútʃá		
 22302	aa t ã m b ú tʃ á		75	439		ANTEATER	Siriono		aatãmbútʃá				ANTEATER				aa t ã m b ú tʃ á	atãndísa / atãmbútʃá		
 22303	ai		2045	14794		SLOTH	Siriono		ai				SLOTH				ai	ai		
+22304	m ã t u t é		3974	2294		RESIN	Makurap		mãtuté				RESIN				m ã t u t é	mãtuté		
+22305	s a p u k a j		3975	8467		SCREAM	Tupinambá		sapukaj				SCREAM				s a p u k a j	sapukaj  / asem		
+22306	a s e m		3976	2321		SCREAM	Tupinambá		asem				SCREAM				a s e m	sapukaj  / asem		
+22307	w ã		3977	2322		SCREAM	Mundurukú		wã				SCREAM				w ã	wã		
+22308	e n + p e		3978	13646 14547		LIP	Tupinambá		embé				MOUTH SKIN				e n + p e	embé / apwã		Inferior lip
+22309	a pw ã		3979	2324		LIP	Tupinambá		apwã				LIP				a pw ã	embé / apwã		superior lip
+22310	e n + b e		3978	13646 14547		LIP	Guarayo		tembé				MOUTH SKIN				e n + b e	tembé		
+22311	dʒ u r u + ẽ + b e		3978	11048 13646 14547		LIP	Ache		dʒuru ẽbe				MOUTH LIP MOUTH				dʒ u r u + ẽ + b e	dʒuru ẽbe		
+22312	e n + b e		3978	13646 14547		LIP	Chiriguano		tembé				MOUTH SKIN				e n + b e	tembé		
+22313	e n + b e		3978	13646 14547		LIP	Guaraní		tembé				MOUTH SKIN				e n + b e	tembé		
+22314	e r e + m e		3978	13646 14547		LIP	Siriono		ereme				MOUTH SKIN				e r e + m e	ereme		
+22315	e n + b e		3978	13646 14547		LIP	Wayampi		eme				MOUTH SKIN				e n + b e	eme		
+22316	e + b e		3978	13646 14547		LIP	Teko		ebe				MOUTH SKIN				e + b e	ebe		
