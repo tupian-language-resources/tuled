@@ -7,7 +7,11 @@ from pylexibank.dataset import Dataset as BaseDataset
 from pylexibank.util import progressbar
 from csvw import Datatype
 from pyclts import CLTS
-from pytular.util import fetch_sheet
+try:
+    from pytular.util import fetch_sheet
+except ImportError:
+    fetch_sheet = None
+
 
 import lingpy
 from clldutils.misc import slug
@@ -67,34 +71,27 @@ class Dataset(BaseDataset):
         errors.strict = False
         bibdata = database.parse_file(str(self.raw_dir.joinpath('bibliography', 'sources.bib')))
         args.writer.add_sources(bibdata)
-        args.writer["FormTable", "Segments"].separator = " + "
         args.writer["FormTable", "Segments"].datatype = Datatype.fromvalue(
             {"base": "string", "format": "([\\S]+)( [\\S]+)*"}
             )
-        args.writer["FormTable", "Morphemes"].separator = "+"
+        args.writer["FormTable", "Morphemes"].separator = " "
         args.writer["FormTable", "PartialCognates"].separator = " "
 
         concepts = {}
         errors, blacklist = set(), set()
-        for concept in self.concepts:
-            idx = '{0}_{1}'.format(concept['NUMBER'], slug(concept['ENGLISH']))
-            try:
-                args.writer.add_concept(
-                        ID=idx,
-                        Name=concept['ENGLISH'],
-                        Portuguese_Gloss=concept['PORTUGUESE'],
-                        Concepticon_ID=concept['CONCEPTICON_ID'],
-                        #Concepticon_Gloss=concept['CONCEPTICON_GLOSS']
-                    EOL_ID=concept['EOL'],
-                    Semantic_Field=concept['SEMANTIC_FIELD'],
-                        )
-                concepts[concept['ENGLISH']] = idx
-            except ValueError:
-                args.log.warn('Invalid concepticon ID {0}'.format(
-                    concept['CONCEPTICON_ID']))
-                errors.add('CONCEPTICON_ID {0} {1}'.format(
-                    concept['ENGLISH'],
-                    concept['CONCEPTICON_ID']))
+        for concept in self.conceptlists[0].concepts.values():
+            idx = '{0}_{1}'.format(concept.number, slug(concept.english))
+            args.writer.add_concept(
+                    ID=idx,
+                    Name=concept.english,
+                    Portuguese_Gloss=concept.attributes["portuguese"],
+                    Concepticon_ID=concept.concepticon_id,
+                    Concepticon_Gloss=concept.concepticon_gloss,
+                    EOL_ID=concept.attributes["eol"],
+                    Semantic_Field=concept.attributes["semantic_field"]
+                    )
+            concepts[concept.english] = idx
+
         languages = {}
         sources = {}
         for row in self.languages:

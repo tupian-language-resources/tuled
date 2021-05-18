@@ -1,21 +1,25 @@
 {
     "@context": "http://www.w3.org/ns/csvw",
     "aboutUrl": null,
+    "dc:bibliographicCitation": "Fabr\u00edcio Ferraz Gerardi, Stanislav Reichert, Carolina Aragon, Johann-Mattis List, & Tim Wientzek. (2021). TuLeD: Tup\u00edan lexical database. Max Planck Institute for Evolutionary Anthropology: Leipzig",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
     "dc:description": "Tup\u00edan lexical database",
+    "dc:format": [
+        "http://concepticon.clld.org/contributions/Gerardi-2021-414"
+    ],
     "dc:identifier": "https://tular.clld.org/contributions/tuled",
     "dc:isVersionOf": null,
     "dc:license": "https://creativecommons.org/licenses/by/4.0/",
     "dc:related": null,
     "dc:source": "sources.bib",
-    "dc:title": "TuLeD",
-    "dcat:accessURL": "https://github.com/tupian-language-resources/tuled",
+    "dc:title": "TuLeD. Tup\u00edan Lexical Database",
+    "dcat:accessURL": "https://github.com/LanguageStructure/TuLeD_Data",
     "prov:wasDerivedFrom": [
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
-            "rdf:about": "https://github.com/tupian-language-resources/tuled",
-            "dc:created": "v0.11-8-gf322250"
+            "rdf:about": "https://github.com/LanguageStructure/TuLeD_Data",
+            "dc:created": "v0.10-139-gab25738"
         },
         {
             "rdf:type": "prov:Entity",
@@ -27,19 +31,19 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Concepticon",
             "rdf:about": "https://github.com/concepticon/concepticon-data",
-            "dc:created": "v2.4.0"
+            "dc:created": "v2.4.0-rc.3-47-g284035f"
         },
         {
             "rdf:type": "prov:Entity",
             "dc:title": "CLTS",
-            "rdf:about": "https://github.com/cldf-clts/clts",
+            "rdf:about": "https://github.com/cldf-clts/clts/",
             "dc:created": "v2.0.0"
         }
     ],
     "prov:wasGeneratedBy": [
         {
             "dc:title": "python",
-            "dc:description": "3.8.5"
+            "dc:description": "3.9.4"
         },
         {
             "dc:title": "python-packages",
@@ -54,7 +58,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:extent": 22033,
+            "dc:extent": 21735,
             "tableSchema": {
                 "columns": [
                     {
@@ -97,7 +101,7 @@
                             "format": "([\\S]+)( [\\S]+)*"
                         },
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#segments",
-                        "separator": " + ",
+                        "separator": " ",
                         "name": "Segments"
                     },
                     {
@@ -129,7 +133,7 @@
                     },
                     {
                         "datatype": "string",
-                        "separator": "+",
+                        "separator": " ",
                         "name": "Morphemes"
                     },
                     {
@@ -210,8 +214,8 @@
                     {
                         "datatype": {
                             "base": "decimal",
-                            "minimum": -90,
-                            "maximum": 90
+                            "minimum": "-90",
+                            "maximum": "90"
                         },
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#latitude",
                         "required": false,
@@ -220,8 +224,8 @@
                     {
                         "datatype": {
                             "base": "decimal",
-                            "minimum": -180,
-                            "maximum": 180
+                            "minimum": "-180",
+                            "maximum": "180"
                         },
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#longitude",
                         "required": false,
@@ -248,7 +252,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ParameterTable",
-            "dc:extent": 418,
+            "dc:extent": 407,
             "tableSchema": {
                 "columns": [
                     {
@@ -296,7 +300,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#CognateTable",
-            "dc:extent": 24499,
+            "dc:extent": 24122,
             "tableSchema": {
                 "columns": [
                     {

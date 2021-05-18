@@ -1,4 +1,8 @@
-# TuLeD
+# TuLeD. Tupían Lexical Database
+
+Cite the source dataset as
+
+> Fabrício Ferraz Gerardi, Stanislav Reichert, Carolina Aragon, Johann-Mattis List, & Tim Wientzek. (2021). TuLeD: Tupían lexical database. Max Planck Institute for Evolutionary Anthropology: Leipzig
 
 
 Tupían lexical database
@@ -7,27 +11,30 @@ This dataset is licensed under a CC-BY-4.0 license
 
 Available online at https://tular.clld.org/contributions/tuled
 
+
+Conceptlists in Concepticon:
+- [Gerardi-2021-414](https://concepticon.clld.org/contributions/Gerardi-2021-414)
 ## Statistics
 
 
-[![CLDF validation](https://github.com/tupian-language-resources/tuled/workflows/CLDF-validation/badge.svg)](https://github.com/tupian-language-resources/tuled/actions?query=workflow%3ACLDF-validation)
+[![CLDF validation](https://github.com/LanguageStructure/TuLeD_Data/workflows/CLDF-validation/badge.svg)](https://github.com/LanguageStructure/TuLeD_Data/actions?query=workflow%3ACLDF-validation)
 ![Glottolog: 93%](https://img.shields.io/badge/Glottolog-93%25-green.svg "Glottolog: 93%")
-![Concepticon: 95%](https://img.shields.io/badge/Concepticon-95%25-green.svg "Concepticon: 95%")
+![Concepticon: 96%](https://img.shields.io/badge/Concepticon-96%25-green.svg "Concepticon: 96%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
 ![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
 ![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
 - **Varieties:** 79
-- **Concepts:** 418
-- **Lexemes:** 22,033
+- **Concepts:** 407
+- **Lexemes:** 21,735
 - **Sources:** 272
 - **Synonymy:** 1.06
-- **Cognacy:** 24,499 cognates in 4,600 cognate sets (2,377 singletons)
+- **Cognacy:** 24,122 cognates in 4,471 cognate sets (2,287 singletons)
 - **Cognate Diversity:** 0.19
 - **Invalid lexemes:** 0
-- **Tokens:** 102,369
-- **Segments:** 339 (0 BIPA errors, 0 CTLS sound class errors, 338 CLTS modified)
-- **Inventory size (avg):** 59.73
+- **Tokens:** 100,698
+- **Segments:** 336 (0 BIPA errors, 0 CTLS sound class errors, 335 CLTS modified)
+- **Inventory size (avg):** 59.35
 
 # Contributors
 

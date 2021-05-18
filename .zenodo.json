@@ -1,5 +1,5 @@
 {
-    "title": "TuLeD",
+    "title": "TuLeD. Tup\u00edan Lexical Database",
     "access_right": "open",
     "keywords": [
         "cldf:Wordlist",
@@ -92,7 +92,7 @@
         }
     ],
     "upload_type": "dataset",
-    "description": "TuLeD: Tup\u00edan lexical database",
+    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Fabr\u00edcio Ferraz Gerardi, Stanislav Reichert, Carolina Aragon, Johann-Mattis List, &amp; Tim Wientzek. (2021). TuLeD: Tup\u00edan lexical database. Max Planck Institute for Evolutionary Anthropology: Leipzig</p>\n</blockquote>",
     "license": {
         "id": "CC-BY-4.0"
     }
