@@ -52,7 +52,7 @@ tabulate==0.8.9
 termcolor==1.1.0
 tqdm==4.59.0
 uritemplate==3.0.1
-urllib3==1.26.4
+urllib3==1.26.5
 wcwidth==0.2.5
 xlrd==2.0.1
 zenodoclient==0.3.0
