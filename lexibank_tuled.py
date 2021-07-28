@@ -120,7 +120,7 @@ class Dataset(BaseDataset):
                     errors.add('LANGUAGE ID {0}'.format(
                         row['ID'],
                         ))
-                    args.log.warn('Invalid Language ID {0}'.format(row['ID']))
+                    args.log.warning('Invalid Language ID {0}'.format(row['ID']))
 
         wl = lingpy.Wordlist(self.raw_dir.joinpath('tuled.tsv').as_posix())
         etd = wl.get_etymdict(ref='cogids')
@@ -173,13 +173,13 @@ class Dataset(BaseDataset):
         for idx in wl:
             if wl[idx, 'concept'] not in concepts:
                 if wl[idx, 'concept'] not in visited:
-                    args.log.warn('Missing concept {0}'.format(wl[idx,
+                    args.log.warning('Missing concept {0}'.format(wl[idx,
                     'concept']))
                     visited.add(wl[idx, 'concept'])
                     errors.add('CONCEPT {0}'.format(wl[idx, 'concept']))
             elif wl[idx, 'doculect'] not in languages:
                 if wl[idx, 'doculect'] not in visited:
-                    args.log.warn("Missing language {0}".format(wl[idx, 'doculect']
+                    args.log.warning("Missing language {0}".format(wl[idx, 'doculect']
                         ))
                     visited.add(wl[idx, 'doculect'])
                     errors.add('LANGUAGE {0}'.format(wl[idx, 'doculect']))
@@ -207,7 +207,7 @@ class Dataset(BaseDataset):
                                 Alignment_Method='SCA'
                                 )
                 else:
-                    args.log.warn('Entry ID={0}, concept={1}, language={2} is empty'.format(
+                    args.log.warning('Entry ID={0}, concept={1}, language={2} is empty'.format(
                         idx, wl[idx, 'concept'], wl[idx, 'doculect']))
         
 

@@ -19,7 +19,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/LanguageStructure/TuLeD_Data",
-            "dc:created": "v0.10-144-g3164151"
+            "dc:created": "v0.10-145-gfff9eb8"
         },
         {
             "rdf:type": "prov:Entity",
@@ -38,9 +38,19 @@
             "dc:title": "CLTS",
             "rdf:about": "https://github.com/cldf-clts/clts/",
             "dc:created": "v2.0.0"
+        },
+        {
+            "rdf:type": "prov:Entity",
+            "dc:title": "Repository",
+            "rdf:about": "https://github.com/tupian-language-resources/bibliography",
+            "dc:created": "095dbc3"
         }
     ],
     "prov:wasGeneratedBy": [
+        {
+            "dc:title": "lingpy-rcParams",
+            "dc:relation": "lingpy-rcParams.json"
+        },
         {
             "dc:title": "python",
             "dc:description": "3.9.4"

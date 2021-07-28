@@ -1,8 +1,13 @@
 # TuLeD. Tupían Lexical Database
 
-Cite the source dataset as
+## How to cite
 
-> Fabrício Ferraz Gerardi, Stanislav Reichert, Carolina Aragon, Johann-Mattis List, & Tim Wientzek. (2021). TuLeD: Tupían lexical database. Max Planck Institute for Evolutionary Anthropology: Leipzig
+If you use these data please cite
+- the original source
+  > Fabrício Ferraz Gerardi, Stanislav Reichert, Carolina Aragon, Johann-Mattis List, & Tim Wientzek. (2021). TuLeD: Tupían lexical database. Max Planck Institute for Evolutionary Anthropology: Leipzig
+- the derived dataset using the DOI of the [particular released version](../../releases/) you were using
+
+## Description
 
 
 Tupían lexical database
@@ -65,3 +70,10 @@ Robert Forkel | Max-Planck-Institute for Evolutionary Anthropology| @xrotwang | 
 
 
 
+
+
+## CLDF Datasets
+
+The following CLDF datasets are available in [cldf](cldf):
+
+- CLDF [Wordlist](https://github.com/cldf/cldf/tree/master/modules/Wordlist) at [cldf/cldf-metadata.json](cldf/cldf-metadata.json)
