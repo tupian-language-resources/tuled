@@ -1,4 +1,5 @@
 ID	Name	Family	ISO639P3code	Language_ID	Glottocode	Longitude	Latitude	SubGroup	Sources
+Açuã Tupi	Açuã Tupi					-64.110525	-7.247718		abrahamson1968contrastive,içuã1965tentative
 Akuntsu	Akuntsu	Tuparí	aqz	aqz	akun1241	-60.9716	-12.8322	Tuparí	aragon2008fonologia,aragon2014grammar,aragon2018variaccoes
 Amanaye	Amanaye	Tupi-Guarani	ama	ama	aman1266	-48.66	-3.8	Tupi-Guarani	80489,156341,61842,310985,131013,20751
 Amondawa	Amondawa	Tupi-Guarani	adw	adw	amun1246	-62.3064	-9.04023	Tupi-Guarani	140705,22397,557297,576822,67885,301424
@@ -34,6 +35,7 @@ Kabanae	Kabanae	Mondé		kbn		-60.519885	-6.333723	Mondé	gerardi2021kabanae
 Kaiowa	Kaiowa	Tupi-Guarani	kgk	kgk	kaiw1246	-54.6815	-24.589	Tupi-Guarani	553686,cardoso2008aspectos
 Kamajura	Kamajura	Tupi-Guarani	kay	kay	kama1373	-53.4651	-12.2661	Tupi-Guarani	35108,154298,29263,143531,28622,39576,53208,14073
 Kampe	Kampe	Tuparí	kmp			-61.193643	-12.790872	Tuparí	aragon2014grammar,aragon2010unpublished
+Karipuna	Karipuna	Tupi-Guarani	kuq	kuq		-64.5556	-10.2284	Tupi-Guarani	aguilar2015contribuiccoes
 Karitiana	Karitiana	Arikem	ktn	ktn	kari1311	-64.1522	-9.37937	Arikem	552373,158748,134597,38969,163773,52509,storto2019kin
 Karo	Karo	Ramarana-Purubora	arr	arr	karo1305	-61.5691	-10.3342	Ramarana-Purubora	46651,gabas2007dicionario,gabas1999grammar
 Kayabi	Kayabi	Tupi-Guarani	kyz	kyz	kaya1329	-55.5479	-11.2747	Tupi-Guarani	dobson2005aspectos,faria2004ordem,51787,143577,27389,7774,307132
@@ -59,6 +61,7 @@ Mawe	Mawe	Mawé	mav	mav	sate1243	-56.8749	-3.63897	Mawé	silva2010estudo,ribeiro
 Siriono	Siriono	Tupi-Guarani	srq	srq	siri1273	-63.9688	-15.5298	Tupi-Guarani	98671,105229,303029,17823,80567,gasparini2015diccionario,gasparini2012observations
 SuruiAikewara	Surui-Aikewara	Tupi-Guarani	mdz	mdz	suru1262	-48.59	-5.93	Tupi-Guarani	97562,164330,lopes2015esbocco
 SuruiPaiter	Surui-Paiter	Mondé	sru	sru	suru1262	-61.2818	-11.0989	Mondé	bontkes1978dicionario,anonby2013report,pappiani2016historias,felzke2019kinship,moore2014study,galucio2015genealogical,moore2005classificaccao,anonby2012historical
+Takunjape	Takunjape	Tupi-Guarani			tacu1234	-53.75	-4.56	Tupi-Guarani	
 Tapiete	Tapiete	Tupi-Guarani	tpj	tpj	tapi1253	-62.684	-21.4169	Tupi-Guarani	146953,gonzalez2005grammar
 Tapirape	Tapirapé	Tupi-Guarani	taf	taf	tapi1254	-50.5438	-10.5373	Tupi-Guarani	106279,75902,112834,26128,477465,de1982classificaccao,pracca2007morfossintaxe,de1983lingua
 Tembe	Tembe	Tupi-Guarani	tqb	tqb	temb1276	-48.2359	-2.6123	Tupi-Guarani	62742,94751,boudin1978dicionario

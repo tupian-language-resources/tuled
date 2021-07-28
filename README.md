@@ -19,22 +19,28 @@ Conceptlists in Concepticon:
 
 [![CLDF validation](https://github.com/LanguageStructure/TuLeD_Data/workflows/CLDF-validation/badge.svg)](https://github.com/LanguageStructure/TuLeD_Data/actions?query=workflow%3ACLDF-validation)
 ![Glottolog: 93%](https://img.shields.io/badge/Glottolog-93%25-green.svg "Glottolog: 93%")
-![Concepticon: 96%](https://img.shields.io/badge/Concepticon-96%25-green.svg "Concepticon: 96%")
+![Concepticon: 95%](https://img.shields.io/badge/Concepticon-95%25-green.svg "Concepticon: 95%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
 ![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
 ![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
-- **Varieties:** 79
-- **Concepts:** 407
-- **Lexemes:** 21,735
+- **Varieties:** 81
+- **Concepts:** 405
+- **Lexemes:** 22,111
 - **Sources:** 272
-- **Synonymy:** 1.06
-- **Cognacy:** 24,122 cognates in 4,471 cognate sets (2,287 singletons)
-- **Cognate Diversity:** 0.19
+- **Synonymy:** 1.07
+- **Cognacy:** 24,983 cognates in 4,866 cognate sets (2,603 singletons)
+- **Cognate Diversity:** 0.21
 - **Invalid lexemes:** 0
-- **Tokens:** 100,698
-- **Segments:** 336 (0 BIPA errors, 0 CTLS sound class errors, 335 CLTS modified)
-- **Inventory size (avg):** 59.35
+- **Tokens:** 102,816
+- **Segments:** 346 (0 BIPA errors, 0 CTLS sound class errors, 345 CLTS modified)
+- **Inventory size (avg):** 59.00
+
+## Possible Improvements:
+
+
+
+- Entries missing sources: 20/22111 (0.09%)
 
 # Contributors
 
