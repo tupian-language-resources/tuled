@@ -1,6 +1,6 @@
 ID	Name	Family	ISO639P3code	Language_ID	Glottocode	Longitude	Latitude	SubGroup	Sources
 AcuaTupi	Açuã Tupi	Tupi-Guarani		act		-64.131324	-7.231441	Tupi-Guarani	abrahamson1965vocab,abrahamson1968contrastive,abrahamson1965tentative
-Akuntsu	Akuntsu	Tuparí	aqz	aqz	akun1241	-60.9716	-12.8322	Tuparí	aragon2008fonologia,aragon2014grammar,aragon2018variaccoes
+Akuntsu	Akuntsu	Tuparí	aqz	aqz	akun1241	-60.9716	-12.8322	Tuparí	aragon2008fonologia,aragon2014grammar,aragon2018variaccoes,aragonNoYearAkuntsu
 Amanaye	Amanaye	Tupi-Guarani	ama	ama	aman1266	-48.66	-3.8	Tupi-Guarani	vieira1997grupos,nimuendaju1914vocabularios,nimuendaju1948amanaye,barbosa2002contribucao,131013,20751
 Amondawa	Amondawa	Tupi-Guarani	adw	adw	amun1246	-62.3064	-9.04023	Tupi-Guarani	sampaio1998estudo,sampaio2020embodiment,sampaio1997estudo,557297,576822,67885,301424,marcoli2018estudo,sinha2012event,aguilar2015contribuiccoes
 Anambe	Anambe	Tupi-Guarani	aan	aan	anam1249	-49.303	-2.71119	Tupi-Guarani	155672,juliao2005aspects,juliao2009nominalizacao
@@ -8,6 +8,7 @@ AnambeEhrenreich	Anambe Ehrenreich	Tupi-Guarani		ane	anam1251	-50.5	-4.5	Tupi-Gu
 Apapokuva	Apapokuva	Tupi-Guarani		apa		-54.4528	-23.7325	Tupi-Guarani	nimuendaju1987lendas,dietrich2014lingua
 Apiaka	Apiaka	Tupi-Guarani	api	api	apia1248	-57.91	-7.84711	Tupi-Guarani	wenzel1986panela,sousa2016noticia,aguilar2015contribuiccoes,sousa2017elementos,padua2007contribuiccao
 Arawete	Araweté	Tupi-Guarani	awt	awt	araw1273	-52.5001	-4.90246	Tupi-Guarani	spoladore2017estudo,solano2004posicao,37959
+Arawine	Arawine	Tupi-Guarani		awn		-52.6	-12	Tupi-Guarani	krause1936yaruma
 Arikem	Arikem	Arikem	ait	ait	arik1264	-63.74	-8.92	Arikem	rondon1948glossario,nimuendaju1932wortlisten
 Arua	Arua	Mondé	arx	arx	arua1261	-62.44	-12.12	Mondé	21187,10429,caspar1955arua,snethlage2016guapore,loukotka1963documents,snethlage2016guapore
 Aruashi	Aruashi	Mondé	arx	arx-arua	arua1262	-62.5	-12.5	Mondé	loukotka1968classification,loukotka1963documents
@@ -15,7 +16,7 @@ AsuriniTocantins	Asuriní Tocantins	Tupi-Guarani	asu	asu	toca1235	-49.8991	-3.59
 AsuriniXingu	Asuriní Xingu	Tupi-Guarani	asn	asn	xing1248	-52.321	-4.13463	Tupi-Guarani	118180,23526,144735,54139,161668
 AureAura	Aure Aura	Tupi-Guarani	aux		aura1243	-46.79	-4.14	Tupi-Guarani	mello1996genetic
 AvaCanoeiro	Avá Canoeiro	Tupi-Guarani	avv	avv	avac1239	-48.1336	-13.6081	Tupi-Guarani	silva2015elementos,do2015expressao,borges2006aspectos
-Aweti	Awetí	Aweti	awe	awe	awet1244	-53.391944	-12.381944	Aweti	557177,92265,galucio2015genealogical,solano2009descricao,meira2015summary,drude2011aweti,daSilva2010mawe
+Aweti	Awetí	Aweti	awe	awe	awet1244	-53.391944	-12.381944	Aweti	557177,92265,galucio2015genealogical,solano2009descricao,meira2015summary,drude2011aweti,daSilva2010mawe,drude2005fieldwork
 Chiriguano	Chiriguano	Tupi-Guarani	gui	gui	east2555	-63.37	-20.42	Tupi-Guarani	dietrich1986idioma,gustafson2014guarani,dietrich2021linguas
 Nandeva	Ñandeva	Tupi-Guarani	nhd	nhd	chir1286	-55.05	-25.65	Tupi-Guarani	costa2010nhandewa,315624
 CintaLarga	Cinta-Larga	Mondé	cin	cin	cint1239	-60.8312	-10.5879	Mondé	galucio2015genealogical,larga1988mantere,rodrigues1966classificaccao,472712,129494,76585,107505,felzke2019terminologias
@@ -42,6 +43,7 @@ Karo	Karo	Ramarana-Purubora	arr	arr	karo1305	-61.5691	-10.3342	Ramarana-Purubora
 Kayabi	Kayabi	Tupi-Guarani	kyz	kyz	kaya1329	-55.5479	-11.2747	Tupi-Guarani	dobson2005aspectos,faria2004ordem,51787,143577,27389,7774,307132,grunberg1971,dobson1976kayabi
 Kepkiriwat	Kepkiriwat	Tuparí	kpn	kpn	kepk1241	-61.25	-11.66	Tuparí	313075,loukotka1968classification,rondon1948glossario
 Kuruaya	Kuruaya	Munduruku	kyr	kyr	kuru1309	-52.2303	-3.09561	Munduruku	85060,319563,23568,469113,da2008fonologia,costa2016fonologia,picancco2020fonologia
+LGA (XVIII)	LGA (XVIII)	Tupi-Guarani		lga		-48.483333	-1.466667	Tupi-Guarani	anonym1750geral,muller2019dicionario
 TupiAustral	Tupí Austral	Tupi-Guarani	tpʷ	tpʷ	tupi1274	-46.38	-23.95	Tupi-Guarani	leite2013lingua,551239,martius_2009
 Makurap	Makurap	Tuparí	mpu	mpu	maku1278	-64.3201	-11.8701	Tuparí	20094,21187,164199,86777,301424,braga2005aspects
 Matanau	Matanau	Mondé		mat		-60.48	-6.0372	Mondé	gerardi2021matanau,gerardi2022natterer
