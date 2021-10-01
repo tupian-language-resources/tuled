@@ -18,7 +18,7 @@
         {
             "rdf:about": "https://github.com/LanguageStructure/TuLeD_Data",
             "rdf:type": "prov:Entity",
-            "dc:created": "v0.10-154-g24c7840",
+            "dc:created": "v0.11-29-g4548111",
             "dc:title": "Repository"
         },
         {
@@ -36,7 +36,7 @@
         {
             "rdf:about": "https://github.com/cldf-clts/clts/",
             "rdf:type": "prov:Entity",
-            "dc:created": "v2.0.0",
+            "dc:created": "v2.1.0-26-gb12a7df",
             "dc:title": "CLTS"
         },
         {
@@ -68,7 +68,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:extent": 22501,
+            "dc:extent": 24248,
             "tableSchema": {
                 "columns": [
                     {
@@ -188,7 +188,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#LanguageTable",
-            "dc:extent": 83,
+            "dc:extent": 85,
             "tableSchema": {
                 "columns": [
                     {
@@ -262,7 +262,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ParameterTable",
-            "dc:extent": 403,
+            "dc:extent": 444,
             "tableSchema": {
                 "columns": [
                     {
@@ -310,7 +310,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#CognateTable",
-            "dc:extent": 25587,
+            "dc:extent": 27959,
             "tableSchema": {
                 "columns": [
                     {
