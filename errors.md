@@ -4,6 +4,7 @@
 * BIBTEX MISSING abrahamson1965vocab
 * BIBTEX MISSING abrahamson1968contrastive
 * BIBTEX MISSING abrahamson1984fonemas
+* BIBTEX MISSING abrahamson1984juma
 * BIBTEX MISSING aguilar2015contribuiccoes
 * BIBTEX MISSING anonym1750geral
 * BIBTEX MISSING aragonNoYearAkuntsu
@@ -24,6 +25,7 @@
 * BIBTEX MISSING drude2005fieldwork
 * BIBTEX MISSING fargetti2015numerals
 * BIBTEX MISSING felzke2019terminologias
+* BIBTEX MISSING gasparini2012observations
 * BIBTEX MISSING gerardi2022natterer
 * BIBTEX MISSING godoy2017kaapor
 * BIBTEX MISSING grunberg1971
@@ -66,12 +68,25 @@
 * BIBTEX MISSING wenzel1986panela
 * BIBTEX MISSING yvinec2017surui
 * BIBTEX MISSING zoro2019estruturas
+* LANGUAGE Apiaka 1830
+* LANGUAGE LGA XVIII
+* LANGUAGE Mawe 1833
 * LENGTH: 16430 Mbya TAYRA (Eira barbara)
 * LENGTH: 20535 Asuriní Xingu WHITE-LIPPED PECCARY
 * LENGTH: 20762 Awetí AFTER
+* LENGTH: 22807 Matanau SING
 * LENGTH: 24400 Karo EARRING
 * LENGTH: 24452 Mundurukú CARRY
-* LENGTH: 24462 LGA (XVIII) CARRY
+* LENGTH: 24462 LGA XVIII CARRY
 * LENGTH: 24469 Old Guaraní ORNAMENT
+* LENGTH: 24720 Matanau MOUNTAIN
+* LENGTH: 24791 Mawe 1833 MILK
+* LENGTH: 24865 Mawe 1833 PENIS
+* LENGTH: 24866 Mawe 1833 VAGINA
 * SOUND: +r
 * SOUND: -
+* SOUND: aei
+* SOUND: aⁿ
+* SOUND: kj
+* SOUND: tj
+* SOUND: uáui

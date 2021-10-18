@@ -13,47 +13,37 @@
     "dc:related": null,
     "dc:source": "sources.bib",
     "dc:title": "TuLeD. Tup\u00edan Lexical Database",
-    "dcat:accessURL": "https://github.com/LanguageStructure/TuLeD_Data",
+    "dcat:accessURL": "https://github.com/tupian-language-resources/tuled",
     "prov:wasDerivedFrom": [
         {
-            "rdf:about": "https://github.com/LanguageStructure/TuLeD_Data",
             "rdf:type": "prov:Entity",
-            "dc:created": "v0.11-29-g4548111",
-            "dc:title": "Repository"
+            "dc:title": "Repository",
+            "rdf:about": "https://github.com/tupian-language-resources/tuled",
+            "dc:created": "v0.11-32-g1dd7098"
         },
         {
+            "rdf:type": "prov:Entity",
+            "dc:title": "Glottolog",
             "rdf:about": "https://github.com/glottolog/glottolog",
-            "rdf:type": "prov:Entity",
-            "dc:created": "v4.4",
-            "dc:title": "Glottolog"
+            "dc:created": "v4.3"
         },
         {
+            "rdf:type": "prov:Entity",
+            "dc:title": "Concepticon",
             "rdf:about": "https://github.com/concepticon/concepticon-data",
-            "rdf:type": "prov:Entity",
-            "dc:created": "v2.5.0",
-            "dc:title": "Concepticon"
+            "dc:created": "v2.5.0"
         },
         {
-            "rdf:about": "https://github.com/cldf-clts/clts/",
             "rdf:type": "prov:Entity",
-            "dc:created": "v2.1.0-26-gb12a7df",
-            "dc:title": "CLTS"
-        },
-        {
-            "rdf:about": "https://github.com/tupian-language-resources/bibliography",
-            "rdf:type": "prov:Entity",
-            "dc:created": "095dbc3",
-            "dc:title": "Repository"
+            "dc:title": "CLTS",
+            "rdf:about": "https://github.com/cldf-clts/clts",
+            "dc:created": "v1.4"
         }
     ],
     "prov:wasGeneratedBy": [
         {
-            "dc:title": "lingpy-rcParams",
-            "dc:relation": "lingpy-rcParams.json"
-        },
-        {
             "dc:title": "python",
-            "dc:description": "3.9.6"
+            "dc:description": "3.8.10"
         },
         {
             "dc:title": "python-packages",
@@ -68,7 +58,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:extent": 24248,
+            "dc:extent": 24077,
             "tableSchema": {
                 "columns": [
                     {
@@ -188,7 +178,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#LanguageTable",
-            "dc:extent": 85,
+            "dc:extent": 84,
             "tableSchema": {
                 "columns": [
                     {
@@ -224,8 +214,8 @@
                     {
                         "datatype": {
                             "base": "decimal",
-                            "minimum": "-90",
-                            "maximum": "90"
+                            "minimum": -90,
+                            "maximum": 90
                         },
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#latitude",
                         "required": false,
@@ -234,8 +224,8 @@
                     {
                         "datatype": {
                             "base": "decimal",
-                            "minimum": "-180",
-                            "maximum": "180"
+                            "minimum": -180,
+                            "maximum": 180
                         },
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#longitude",
                         "required": false,
@@ -262,7 +252,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ParameterTable",
-            "dc:extent": 444,
+            "dc:extent": 447,
             "tableSchema": {
                 "columns": [
                     {
@@ -310,7 +300,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#CognateTable",
-            "dc:extent": 27959,
+            "dc:extent": 27730,
             "tableSchema": {
                 "columns": [
                     {
