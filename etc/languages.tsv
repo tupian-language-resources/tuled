@@ -33,7 +33,7 @@ Jora	Jora	Tupi-Guarani	jor	jor	jora1240	-63.21	-15.75	Tupi-Guarani	danielseninew
 Juma	Juma	Tupi-Guarani	jua	jua	juma1249	-64.1	-7.28	Tupi-Guarani	557297,abrahamson1984juma,aguilar2015contribuiccoes,abrahamson1984fonemas
 Juruna	Juruna	Juruna	jur	jur	juru1256	-53.3472	-10.9354	Juruna	fargetti2008consoantes,galucio2015genealogical,fargetti1992analise,fargetti2001estudo,137376,lima2011estrutura,fargetti2015numerals,nimuendaju1932idiomas
 Kaapor	Ka'apor	Tupi-Guarani	urb	urb	urub1250	-46.2204	-2.46455	Tupi-Guarani	balee1994footprints,73670,ribeiro2015marcaccao,caldas2009proposta,kakumasu1988dicionario,godoy2017kaapor,silva1997kaapor
-Kabanae	Kabanae	Mondé		kbn		-60.519885	-6.333723	Mondé	gerardi2021kabanae,gerardi2022natterer
+Kabanae	Kabanae	Mondé		kbn		-60.519885	-6.333723	Mondé	natterer1817wordlists
 Kaiowa	Kaiowa	Tupi-Guarani	kgk	kgk	kaiw1246	-54.6815	-24.589	Tupi-Guarani	553686,cardoso2008aspectos
 Kamajura	Kamajura	Tupi-Guarani	kay	kay	kama1373	-53.4651	-12.2661	Tupi-Guarani	35108,154298,29263,143531,28622,39576,53208,14073
 Kampe	Kampe	Tuparí	kmp			-61.193643	-12.790872	Tuparí	aragon2014grammar
@@ -43,10 +43,10 @@ Karo	Karo	Ramarana-Purubora	arr	arr	karo1305	-61.5691	-10.3342	Ramarana-Purubora
 Kayabi	Kayabi	Tupi-Guarani	kyz	kyz	kaya1329	-55.5479	-11.2747	Tupi-Guarani	dobson2005aspectos,faria2004ordem,51787,143577,27389,7774,307132,grunberg1971,dobson1976kayabi
 Kepkiriwat	Kepkiriwat	Tuparí	kpn	kpn	kepk1241	-61.25	-11.66	Tuparí	313075,loukotka1968classification,rondon1948glossario
 Kuruaya	Kuruaya	Munduruku	kyr	kyr	kuru1309	-52.2303	-3.09561	Munduruku	85060,319563,23568,469113,da2008fonologia,costa2016fonologia,picancco2020fonologia
-LGAXVIII	LGA (XVIII)	Tupi-Guarani		lga		-48.483333	-1.466667	Tupi-Guarani	anonym1750geral,muller2019dicionario
+LGAXVIII	LGA XVIII	Tupi-Guarani		lga		-48.483333	-1.466667	Tupi-Guarani	anonym1750geral,muller2019dicionario
 TupiAustral	Tupí Austral	Tupi-Guarani	tpʷ	tpʷ	tupi1274	-46.38	-23.95	Tupi-Guarani	leite2013lingua,551239,martius_2009
 Makurap	Makurap	Tuparí	mpu	mpu	maku1278	-64.3201	-11.8701	Tuparí	20094,21187,164199,86777,301424,braga2005aspects
-Matanau	Matanau	Mondé		mat		-60.48	-6.0372	Mondé	gerardi2021matanau,gerardi2022natterer
+Matanau	Matanau	Mondé		mat		-60.48	-6.0372	Mondé	natterer1817wordlists
 Mbya	Mbya	Tupi-Guarani	gun	gun	mbya1239	-52.711	-26.0188	Tupi-Guarani	575915,dietrich1994mbya,dooley1998lexico
 Mekens	Mekens	Tuparí	skf	skf	saki1248	-62.0927	-13.054	Tuparí	552771,153217,86777,hanke1958notas,snethlage2016guapore
 Monde	Monde	Mondé	mnd	mnd	sala1273	-61.25	-12.0499	Mondé	114878,moore2005classificaccao,felzke2017dancca,galucio2015genealogical
@@ -82,5 +82,7 @@ Wayoro	Wayoro	Tuparí	wyr	wyr	wayo1238	-61.3064	-12.6945	Tuparí	loukotka1963doc
 Xeta	Xeta	Tupi-Guarani	xet	xet	xeta1241	-52.2266	-24.9408	Tupi-Guarani	loukotka1963documents,74861,44029,54700,93778
 Xipaya	Xipaya	Juruna	xiy	xiy	xipa1240	-49.948	-4.133	Juruna	84264,472466,575515,76314,110466,rodrigues2006relativizaccao,rodrigues1995etude,fargetti2008consoantes
 Yuki	Yuki	Tupi-Guarani	yuq	yuq	yuqu1240	-64.9438	-16.7875	Tupi-Guarani	villafane2004gramatica,villafane2014yuki,dietrich2021linguas
-Zoe	Zo'e	Tupi-Guarani	pto	pto	zoee1240	-55.51	-1.77	Tupi-Guarani	cabral2016notas,souza2003Zoe,sousa2013contribuiccoes,braga2017esboco,castro2017semelhancas,castro1998fonologia
+Zoe	Zo'e	Tupi-Guarani	pto	pto	zoee1240	-55.51	-1.77	Tupi-Guarani	cabral2016notas,souza2003Zoe,sousa2013contribuiccoes,braga2017esboco,castro2017semelhancas,castro1998fonologia,braga2021zoe,prudente2019zoe,ribeiro2021encontros
 Zoro	Zoro	Mondé	gvo	gvo-zoro	gavi1246	-61.6752	-10.7235	Mondé	moore2005classificaccao,felzke2019terminologias,zoro2019estruturas
+ApiakaNatterer	Apiaka 1830	Tupi-Guarani		pik		-57.51	-10.86	Mawé	natterer1817wordlists
+MaweNatterer	Mawe 1833	Mawé		mew		-57.7	-3.33	Tupi-Guarani	natterer1817wordlists
