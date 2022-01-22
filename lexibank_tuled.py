@@ -54,17 +54,20 @@ class Dataset(BaseDataset):
     lexeme_class = Form
 
     def cmd_download(self, args):
-        print('updating ...')
+        args.log.info('updating ...')
+        self.raw_dir.download(
+                "https://raw.githubusercontent.com/concepticon/concepticon-data/master/concepticondata/conceptlists/Gerardi-2021-447.tsv",
+                self.etc_dir.joinpath("concepts.tsv")
+                )
         self.raw_dir.download(
             "https://lingulist.de/edictor/triples/get_data.py?file=tuled&remote_dbase=tuled.sqlite3",
             "tuled.tsv"
         )
-        print('... tuled.tsv done')
+
         subprocess.check_call(
             'git -C {} submodule update --remote'.format(self.dir.resolve()), shell=True)
-        print('... sources.bib done')
+        args.log.info('... sources.bib done')
         fetch_sheet('languages', output=self.etc_dir / 'languages.tsv')
-        fetch_sheet('concepts', output=self.etc_dir / 'concepts.tsv')
 
     def cmd_makecldf(self, args):
         from pybtex import errors, database

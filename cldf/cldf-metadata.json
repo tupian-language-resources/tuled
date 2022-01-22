@@ -13,12 +13,12 @@
     "dc:related": null,
     "dc:source": "sources.bib",
     "dc:title": "TuLeD. Tup\u00edan Lexical Database",
-    "dcat:accessURL": "https://github.com/tupian-language-resources/tuled",
+    "dcat:accessURL": "https://github.com/LanguageStructure/TuLeD_Data",
     "prov:wasDerivedFrom": [
         {
-            "rdf:about": "https://github.com/tupian-language-resources/tuled",
+            "rdf:about": "https://github.com/LanguageStructure/TuLeD_Data",
             "rdf:type": "prov:Entity",
-            "dc:created": "v0.11-34-g04cc6fd",
+            "dc:created": "v0.11-36-g633c7f4",
             "dc:title": "Repository"
         },
         {
@@ -34,10 +34,16 @@
             "dc:title": "Concepticon"
         },
         {
-            "rdf:about": "https://github.com/cldf-clts/clts",
+            "rdf:about": "https://github.com/cldf-clts/clts/",
             "rdf:type": "prov:Entity",
-            "dc:created": "v2.1.0",
+            "dc:created": "v2.1.0-26-gb12a7df",
             "dc:title": "CLTS"
+        },
+        {
+            "rdf:about": "https://github.com/tupian-language-resources/bibliography",
+            "rdf:type": "prov:Entity",
+            "dc:created": "095dbc3",
+            "dc:title": "Repository"
         }
     ],
     "prov:wasGeneratedBy": [
@@ -47,7 +53,7 @@
         },
         {
             "dc:title": "python",
-            "dc:description": "3.8.10"
+            "dc:description": "3.9.9"
         },
         {
             "dc:title": "python-packages",
@@ -62,7 +68,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:extent": 24500,
+            "dc:extent": 25042,
             "tableSchema": {
                 "columns": [
                     {
@@ -182,7 +188,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#LanguageTable",
-            "dc:extent": 87,
+            "dc:extent": 89,
             "tableSchema": {
                 "columns": [
                     {
@@ -218,8 +224,8 @@
                     {
                         "datatype": {
                             "base": "decimal",
-                            "minimum": -90,
-                            "maximum": 90
+                            "minimum": "-90",
+                            "maximum": "90"
                         },
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#latitude",
                         "required": false,
@@ -228,8 +234,8 @@
                     {
                         "datatype": {
                             "base": "decimal",
-                            "minimum": -180,
-                            "maximum": 180
+                            "minimum": "-180",
+                            "maximum": "180"
                         },
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#longitude",
                         "required": false,
@@ -304,7 +310,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#CognateTable",
-            "dc:extent": 28260,
+            "dc:extent": 28995,
             "tableSchema": {
                 "columns": [
                     {
