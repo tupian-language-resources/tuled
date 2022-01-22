@@ -131,7 +131,8 @@ class Dataset(BaseDataset):
                         if source in bibdata.entries:
                             sources[row['Name']] += [source]
                         else:
-                            errors.add('BIBTEX MISSING {0}'.format(source))
+                            args.log.warning('BIBTEX MISSING {0}'.format(source))
+#                            errors.add('BIBTEX MISSING {0}'.format(source))
                 except ValueError:
                     errors.add('LANGUAGE ID {0}'.format(
                         row['ID'],

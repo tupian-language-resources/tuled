@@ -18,7 +18,7 @@
         {
             "rdf:about": "https://github.com/tupian-language-resources/tuled",
             "rdf:type": "prov:Entity",
-            "dc:created": "v0.11-34-g04cc6fd",
+            "dc:created": "v0.11-36-g633c7f4",
             "dc:title": "Repository"
         },
         {
@@ -62,7 +62,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:extent": 24500,
+            "dc:extent": 25102,
             "tableSchema": {
                 "columns": [
                     {
@@ -182,7 +182,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#LanguageTable",
-            "dc:extent": 87,
+            "dc:extent": 89,
             "tableSchema": {
                 "columns": [
                     {
@@ -256,7 +256,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ParameterTable",
-            "dc:extent": 447,
+            "dc:extent": 451,
             "tableSchema": {
                 "columns": [
                     {
@@ -304,7 +304,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#CognateTable",
-            "dc:extent": 28260,
+            "dc:extent": 29078,
             "tableSchema": {
                 "columns": [
                     {

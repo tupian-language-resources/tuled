@@ -69,7 +69,7 @@ Tapiete	Tapiete	Tupi-Guarani	tpj	tpj	tapi1253	-62.684	-21.4169	Tupi-Guarani	1469
 Tapirape	Tapirapé	Tupi-Guarani	taf	taf	tapi1254	-50.5438	-10.5373	Tupi-Guarani	106279,75902,112834,26128,477465,de1982classificaccao,pracca2007morfossintaxe,de1983lingua
 Tembe	Tembe	Tupi-Guarani	tqb	tqb	temb1276	-48.2359	-2.6123	Tupi-Guarani	62742,94751,boudin1978dicionario,camargos2019particulas,silva2010estudo,boudin1978dicionarioVol2
 Tenharim	Tenharim	Tupi-Guarani	xyz	xyz		-61.8972	-8.32882	Tupi-Guarani	13121,59040,163763,betts2012kagwahiva,sampaio1997estudo,marcoli2018estudo,aguilar2015contribuiccoes
-Tupari	Tupari	Tuparí	tpr	tpr	tupa1250	-62.2544	-11.8884	Tuparí	sekelj1948wordlist,loukotka1963documents,nogueira2019kin,577289,101006,136003,galucio2015genealogical,galucio2018object
+Tupari	Tupari	Tuparí	tpr	tpr	tupa1250	-62.2544	-11.8884	Tuparí	sekelj1948wordlist,loukotka1963documents,nogueira2019kin,577289,101006,136003,galucio2015genealogical,galucio2018object,isidoro2020morfossintaxe,alves2008envolvimento
 Wirafed	Wirafed	Tupi-Guarani		wir		-61.358125	-12.523397	Tupi-Guarani	147062
 Tupinamba	Tupinambá	Tupi-Guarani	tpn	tpn	tupi1273	-34.887	-8.1055	Tupi-Guarani	21067,553685,barbosa1956curso,navarro2004metodo,navarro2013dicionario
 Turiwara	Turiwara	Tupi-Guarani	twt	twt	turi1247	-49.5	-2	Tupi-Guarani	10429,nimuendaju1914vocabularios
@@ -79,10 +79,12 @@ Urumi	Urumi	Ramarana-Purubora	uru	uru	urum1250	-63.85	-9.08	Ramarana-Purubora	le
 Warazu	Warazu	Tupi-Guarani	psm	psm	paus1244	-63.1903	-12.8553	Tupi-Guarani	ramirez2017warazu,danielsen2015diccionario,snethlage1935nachrichten,snethlage2016guapore,riester1972pauserna
 Wayampi	Wayampi	Tupi-Guarani	oym	oym	waya1270	-52.6887	1.73817	Tupi-Guarani	64867,142698,302951,575933,65995,grenand1989dictionnaire
 Wayoro	Wayoro	Tuparí	wyr	wyr	wayo1238	-61.3064	-12.6945	Tuparí	loukotka1963documents,575534,301443,galucio2015genealogical,nogueira2013descriccao,nogueira2011descriccao
-Xeta	Xeta	Tupi-Guarani	xet	xet	xeta1241	-52.2266	-24.9408	Tupi-Guarani	loukotka1963documents,74861,44029,54700,93778
+Xeta	Xeta	Tupi-Guarani	xet	xet	xeta1241	-52.2266	-24.9408	Tupi-Guarani	loukotka1963documents,44029,54700,93778
 Xipaya	Xipaya	Juruna	xiy	xiy	xipa1240	-49.948	-4.133	Juruna	84264,472466,575515,76314,110466,rodrigues2006relativizaccao,rodrigues1995etude,fargetti2008consoantes
 Yuki	Yuki	Tupi-Guarani	yuq	yuq	yuqu1240	-64.9438	-16.7875	Tupi-Guarani	villafane2004gramatica,villafane2014yuki,dietrich2021linguas
-Zoe	Zo'e	Tupi-Guarani	pto	pto	zoee1240	-55.51	-1.77	Tupi-Guarani	cabral2016notas,souza2003Zoe,sousa2013contribuiccoes,braga2017esboco,castro2017semelhancas,castro1998fonologia,braga2021zoe,prudente2019zoe,ribeiro2021encontros
+Zoe	Zo'e	Tupi-Guarani	pto	pto	zoee1240	-55.51	-1.77	Tupi-Guarani	cabral2016notas,souza2003Zoe,sousa2013contribuiccoes,braga2017esboco,castro2017semelhancas,castro1998fonologia,braga2021zoe,prudente2019zoe,ribeiro2021encontros,kaestner2007zoe
 Zoro	Zoro	Mondé	gvo	gvo-zoro	gavi1246	-61.6752	-10.7235	Mondé	moore2005classificaccao,felzke2019terminologias,zoro2019estruturas
 ApiakaNatterer	Apiaka 1830	Tupi-Guarani		pik		-57.51	-10.86	Mawé	natterer1817wordlists
 MaweNatterer	Mawe 1833	Mawé		mew		-57.7	-3.33	Tupi-Guarani	natterer1817wordlists
+ProtoTupi	Proto-Tupi	Tupian		prt		-62.99	-11.61	Tupi-Guarani	
+ProtoTupiGuarani	Proto-Tupi-Guarani	Tupian		prtg		-55.38	-5.7		
