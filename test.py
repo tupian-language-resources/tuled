@@ -11,4 +11,4 @@ def test_parameters(cldf_dataset):
 
 
 def test_languages(cldf_dataset):
-    assert len(list(cldf_dataset["LanguageTable"])) == 87
+    assert len(list(cldf_dataset["LanguageTable"])) == 89
