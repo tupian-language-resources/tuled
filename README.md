@@ -1,4 +1,4 @@
-# TuLeD. Tupían Lexical Database
+# TuLeD (Tupían Lexical Database)
 
 ## How to cite
 
