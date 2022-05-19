@@ -1,4 +1,4 @@
-# TuLeD (Tupían Lexical Database)
+# TuLeD. Tupían Lexical Database
 
 ## How to cite
 
@@ -18,34 +18,34 @@ Available online at https://tular.clld.org/contributions/tuled
 
 
 Conceptlists in Concepticon:
-- [Gerardi-2021-414](https://concepticon.clld.org/contributions/Gerardi-2021-414)
+- [Gerardi-2021-447](https://concepticon.clld.org/contributions/Gerardi-2021-447)
 ## Statistics
 
 
-[![CLDF validation](https://github.com/LanguageStructure/TuLeD_Data/workflows/CLDF-validation/badge.svg)](https://github.com/LanguageStructure/TuLeD_Data/actions?query=workflow%3ACLDF-validation)
-![Glottolog: 91%](https://img.shields.io/badge/Glottolog-91%25-green.svg "Glottolog: 91%")
+[![CLDF validation](https://github.com/tupian-language-resources/tuled/workflows/CLDF-validation/badge.svg)](https://github.com/tupian-language-resources/tuled/actions?query=workflow%3ACLDF-validation)
+![Glottolog: 90%](https://img.shields.io/badge/Glottolog-90%25-green.svg "Glottolog: 90%")
 ![Concepticon: 97%](https://img.shields.io/badge/Concepticon-97%25-green.svg "Concepticon: 97%")
 ![Source: 95%](https://img.shields.io/badge/Source-95%25-green.svg "Source: 95%")
 ![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
 ![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
-- **Varieties:** 89
+- **Varieties:** 88
 - **Concepts:** 447
-- **Lexemes:** 25,042
-- **Sources:** 257
-- **Synonymy:** 1.07
-- **Cognacy:** 28,995 cognates in 5,813 cognate sets (3,322 singletons)
+- **Lexemes:** 24,982
+- **Sources:** 254
+- **Synonymy:** 1.08
+- **Cognacy:** 28,955 cognates in 5,861 cognate sets (3,361 singletons)
 - **Cognate Diversity:** 0.22
 - **Invalid lexemes:** 0
-- **Tokens:** 118,796
-- **Segments:** 399 (0 BIPA errors, 0 CTLS sound class errors, 398 CLTS modified)
-- **Inventory size (avg):** 59.11
+- **Tokens:** 118,888
+- **Segments:** 404 (0 BIPA errors, 0 CTLS sound class errors, 403 CLTS modified)
+- **Inventory size (avg):** 59.41
 
 ## Possible Improvements:
 
 
 
-- Entries missing sources: 1259/25042 (5.03%)
+- Entries missing sources: 1334/24982 (5.34%)
 
 # Contributors
 
@@ -59,8 +59,11 @@ Agnaldo Makuráp | | | Data Provider | DataCollector
 Denny Moore | Museu Paraense Emílio Goeldi | | Data Provider | DataCollector
 Françoise Rose | Université de Lyon | | Data Provider | DataCollector
 Gustavo Godoy | Ppgas UFRJ | | Data Provider | DataCollector
+Iram Káv Sona Gavião | | | Data Provider | DataCollector
+Nilson Gabas Júnior | University of California | | Data Provider | DataCollector
 Swintha Danielsen | Universität Leipzig | | Data Provider | DataCollector
 Wolf Dietrich | Universität Münster | | Data Provider | DataCollector
+Zachary O'Hagan | University of California | | Data Provider | DataCollector
 Johann-Mattis List | Max-Planck-Institute for the Science of Human History | @lingulist | CLDF conversion | Author
 Tiago Tresoldi | | @tresoldi | Minor curation, concept mapping refinement | Other
 Robert Forkel | Max-Planck-Institute for Evolutionary Anthropology| @xrotwang | CLDF conversion | Author

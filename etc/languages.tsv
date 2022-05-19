@@ -15,7 +15,7 @@ Aruashi	Aruashi	Mondé	arx	arx-arua	arua1262	-62.5	-12.5	Mondé	loukotka1968clas
 AsuriniTocantins	Asuriní Tocantins	Tupi-Guarani	asu	asu	toca1235	-49.8991	-3.59359	Tupi-Guarani	69073,155672,129842,86208,139162,cabral2003dicionario,cabral2011contribuiccoes,vieira1993fenomeno
 AsuriniXingu	Asuriní Xingu	Tupi-Guarani	asn	asn	xing1248	-52.321	-4.13463	Tupi-Guarani	118180,23526,144735,54139,161668
 AureAura	Aure Aura	Tupi-Guarani	aux		aura1243	-46.79	-4.14	Tupi-Guarani	mello1996genetic
-AvaCanoeiro	Avá Canoeiro	Tupi-Guarani	avv	avv	avac1239	-48.1336	-13.6081	Tupi-Guarani	silva2015elementos,do2015expressao,borges2006aspectos
+AvaCanoeiro	Avá Canoeiro	Tupi-Guarani	avv	avv	avac1239	-48.1336	-13.6081	Tupi-Guarani	silva2015elementos,do2015expressao,borges2006aspectos,paiva1996elementos,couto2020contribuicoes
 Aweti	Awetí	Aweti	awe	awe	awet1244	-53.391944	-12.381944	Aweti	557177,92265,galucio2015genealogical,solano2009descricao,meira2015summary,drude2011aweti,daSilva2010mawe,drude2005fieldwork
 Chiriguano	Chiriguano	Tupi-Guarani	gui	gui	east2555	-63.37	-20.42	Tupi-Guarani	dietrich1986idioma,gustafson2014guarani,dietrich2021linguas
 Nandeva	Ñandeva	Tupi-Guarani	nhd	nhd	chir1286	-55.05	-25.65	Tupi-Guarani	costa2010nhandewa,315624
@@ -84,7 +84,8 @@ Xipaya	Xipaya	Juruna	xiy	xiy	xipa1240	-49.948	-4.133	Juruna	84264,472466,575515,
 Yuki	Yuki	Tupi-Guarani	yuq	yuq	yuqu1240	-64.9438	-16.7875	Tupi-Guarani	villafane2004gramatica,villafane2014yuki,dietrich2021linguas
 Zoe	Zo'e	Tupi-Guarani	pto	pto	zoee1240	-55.51	-1.77	Tupi-Guarani	cabral2016notas,souza2003Zoe,sousa2013contribuiccoes,braga2017esboco,castro2017semelhancas,castro1998fonologia,braga2021zoe,prudente2019zoe,ribeiro2021encontros,kaestner2007zoe
 Zoro	Zoro	Mondé	gvo	gvo-zoro	gavi1246	-61.6752	-10.7235	Mondé	moore2005classificaccao,felzke2019terminologias,zoro2019estruturas
-ApiakaNatterer	Apiaka 1830	Tupi-Guarani		pik		-57.51	-10.86	Mawé	natterer1817wordlists
-MaweNatterer	Mawe 1833	Mawé		mew		-57.7	-3.33	Tupi-Guarani	natterer1817wordlists
+ApiakaNatterer	Apiaka Natterer	Tupi-Guarani		pik		-57.51	-10.86	Mawé	natterer1817wordlists
+MaweNatterer	Mawe Natterer	Mawé		mew		-57.7	-3.33	Tupi-Guarani	natterer1817wordlists
 ProtoTupi	Proto-Tupi	Tupian		prt		-62.99	-11.61	Tupi-Guarani	
 ProtoTupiGuarani	Proto-Tupi-Guarani	Tupian		prtg		-55.38	-5.7		
+MundurukuNatterer	Mundurukú Natterer	Munduruku							

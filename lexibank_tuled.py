@@ -56,10 +56,6 @@ class Dataset(BaseDataset):
     def cmd_download(self, args):
         args.log.info('updating ...')
         self.raw_dir.download(
-                "https://raw.githubusercontent.com/concepticon/concepticon-data/master/concepticondata/conceptlists/Gerardi-2021-447.tsv",
-                self.etc_dir.joinpath("concepts.tsv")
-                )
-        self.raw_dir.download(
             "https://lingulist.de/edictor/triples/get_data.py?file=tuled&remote_dbase=tuled.sqlite3",
             "tuled.tsv"
         )
@@ -80,40 +76,14 @@ class Dataset(BaseDataset):
         args.writer["FormTable", "Morphemes"].separator = " "
         args.writer["FormTable", "PartialCognates"].separator = " "
 
-        concepts = {}
+        concepts = args.writer.add_concepts(lookup_factory=lambda c: c.english)
         errors, blacklist = set(), set()
-        for concept in self.concepts:
-            idx = "{0}_{1}".format(concept["NUMBER"], slug(concept["ENGLISH"]))
-            try:
-                args.writer.add_concept(
-                        ID=idx,
-                        Name=concept["ENGLISH"],
-                        Portuguese_Gloss=concept["PORTUGUESE"],
-                        Concepticon_ID=concept["CONCEPTICON_ID"],
-                        Concepticon_Gloss=concept["CONCEPTICON_GLOSS"],
-                        EOL_ID=concept["EOL"],
-                        Semantic_Field=concept["SEMANTIC_FIELD"]
-                        )
-                concepts[concept["ENGLISH"]] = idx
-            except ValueError:
-                print("Error with concept {0} (ID or Gloss need to be checked with concepticon.clld.org)".format(concept["ENGLISH"]))
-
-        #for concept in self.conceptlists[0].concepts.values():
-        #    idx = '{0}_{1}'.format(concept.number, slug(concept.english))
-        #    args.writer.add_concept(
-        #            ID=idx,
-        #            Name=concept.english,
-        #            Portuguese_Gloss=concept.attributes["portuguese"],
-        #            Concepticon_ID=concept.concepticon_id,
-        #            Concepticon_Gloss=concept.concepticon_gloss,
-        #            EOL_ID=concept.attributes["eol"],
-        #            Semantic_Field=concept.attributes["semantic_field"]
-        #            )
-        #    concepts[concept.english] = idx
 
         languages = {}
         sources = {}
         for row in self.languages:
+            if not row['Latitude']:
+                continue
             if not -90 < float(row['Latitude']) < 90:
                 errors.add('LATITUDE {0}'.format(row['Name']))
             elif not -180 < float(row['Longitude']) < 180:
