@@ -29,23 +29,23 @@ Conceptlists in Concepticon:
 ![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
 ![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
-- **Varieties:** 88
+- **Varieties:** 89
 - **Concepts:** 447
-- **Lexemes:** 24,982
+- **Lexemes:** 25,004
 - **Sources:** 254
 - **Synonymy:** 1.08
-- **Cognacy:** 28,955 cognates in 5,861 cognate sets (3,361 singletons)
+- **Cognacy:** 28,978 cognates in 5,862 cognate sets (3,362 singletons)
 - **Cognate Diversity:** 0.22
 - **Invalid lexemes:** 0
-- **Tokens:** 118,888
+- **Tokens:** 118,978
 - **Segments:** 404 (0 BIPA errors, 0 CTLS sound class errors, 403 CLTS modified)
-- **Inventory size (avg):** 59.41
+- **Inventory size (avg):** 59.00
 
 ## Possible Improvements:
 
 
 
-- Entries missing sources: 1334/24982 (5.34%)
+- Entries missing sources: 1334/25004 (5.34%)
 
 # Contributors
 

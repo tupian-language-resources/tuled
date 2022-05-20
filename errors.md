@@ -40,6 +40,7 @@
 * BIBTEX MISSING krause1936yaruma
 * BIBTEX MISSING landin2005dicionario
 * BIBTEX MISSING lima2011estrutura
+* BIBTEX MISSING magalhaes2022alteracao
 * BIBTEX MISSING mello1996genetic
 * BIBTEX MISSING montoya1876tesoro
 * BIBTEX MISSING moore1989gaviao
@@ -279,7 +280,6 @@
 * CONCEPT WOOL
 * CONCEPT WRITE
 * LANGUAGE Ava Canoeiro
-* LANGUAGE Mundurukú Natterer
 * LENGTH: 18850 Kokama SON OF MAN
 * LENGTH: 18911 Juruna BABAÇU (Attalea speciosa)
 * LENGTH: 19410 Asuriní Tocantins PEANUT
