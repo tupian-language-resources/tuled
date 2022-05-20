@@ -59,6 +59,8 @@ Agnaldo Makuráp | | | Data Provider | DataCollector
 Denny Moore | Museu Paraense Emílio Goeldi | | Data Provider | DataCollector
 Françoise Rose | Université de Lyon | | Data Provider | DataCollector
 Gustavo Godoy | Ppgas UFRJ | | Data Provider | DataCollector
+Iram Káv Sona Gavião | | | Data Provider | DataCollector
+Nilson Gabas Júnior | University of California | | Data Provider | DataCollector
 Swintha Danielsen | Universität Leipzig | | Data Provider | DataCollector
 Wolf Dietrich | Universität Münster | | Data Provider | DataCollector
 Zachary O'Hagan | University of California | | Data Provider | DataCollector
