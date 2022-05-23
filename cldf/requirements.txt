@@ -44,7 +44,7 @@ pytest==6.2.2
 python-dateutil==2.8.1
 -e git+https://github.com/tupian-language-resources/pytular.git@5eaedcd824af06b32d6bb2b8fdebffda7180bc1e#egg=pytular
 regex==2020.11.13
-requests==2.22.0
+requests==2.27.1
 rfc3986==1.4.0
 rsa==4.7.2
 segments==2.2.0
