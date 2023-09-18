@@ -54,6 +54,7 @@ Name | Affiliation | GitHub user | Description | Role
 Fabrício Ferraz Gerardi | Universität Tübingen | @LanguageStructure | Data Collector, cognacy assignment, co-lexifications, notes | Author
 Stanislav Reichert | Universität Tübingen |@StasReichert | Data Collector | Author
 Carolina Aragon | UFPB | @carolinaaragon | Data Collector,cognacy assignment, co-lexifications, notes | Author
+Fernando Orphão de Carvalho | Museu Nacional-UFRJ | @fernaoorphao | Data Collector, cognacy assignment, co-lexifications, notes | Author
 Tim Wientzek | Universität Tübingen | @TGH-2020 | Data Collector | Author
 Agnaldo Makuráp | | | Data Provider | DataCollector 
 Denny Moore | Museu Paraense Emílio Goeldi | | Data Provider | DataCollector
